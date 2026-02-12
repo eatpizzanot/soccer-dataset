@@ -1,0 +1,4 @@
+csv/fixture_players.csv filter=lfs diff=lfs merge=lfs -text
+csv/fixture_players_stats_flat.csv filter=lfs diff=lfs merge=lfs -text
+parquet/fixture_players.parquet filter=lfs diff=lfs merge=lfs -text
+parquet/fixture_players_stats_flat.parquet filter=lfs diff=lfs merge=lfs -text

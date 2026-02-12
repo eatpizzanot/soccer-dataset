@@ -1,0 +1,103 @@
+id,name,country,fd_code,api_football_id
+1,Premier League,England,E0,39
+2,Championship,England,E1,40
+3,League One,England,E2,41
+4,League Two,England,E3,42
+5,La Liga,Spain,SP1,140
+6,Segunda Division,Spain,SP2,141
+7,Serie A,Italy,I1,135
+8,Serie B,Italy,I2,136
+9,Ligue 1,France,F1,61
+10,Ligue 2,France,F2,62
+11,Bundesliga,Germany,D1,78
+12,2. Bundesliga,Germany,D2,79
+13,Eredivisie,Netherlands,N1,88
+14,Primeira Liga,Portugal,P1,94
+15,Jupiler Pro League,Belgium,B1,144
+16,Süper Lig,Turkey,T1,203
+17,Premiership,Scotland,SC0,179
+18,Championship,Scotland,SC1,180
+19,Serie A,Brazil,BRA,71
+20,MLS,USA,USA,253
+21,J1 League,Japan,JPN,98
+22,Liga MX,Mexico,MEX,262
+23,Eliteserien,Norway,NOR,103
+24,Premier League,Russia,RUS,235
+25,Bundesliga,Austria,AUT,218
+26,Super League,Switzerland,SWZ,207
+27,Ekstraklasa,Poland,POL,106
+28,Liga Profesional,Argentina,ARG,128
+29,Allsvenskan,Sweden,SWE,113
+30,Superliga,Denmark,DNK,119
+31,CSL,China,CHN,169
+32,SuperLiga,Romania,ROU,283
+33,Veikkausliiga,Finland,FIN,244
+34,Premier Division,Ireland,IRL,357
+35,Super League 1,Greece,GRE,197
+36,1. Liga,Czech Republic,CZE,345
+37,Saudi Pro League,Saudi Arabia,SAU,307
+38,K League 1,South Korea,KOR,292
+39,Botola Pro,Morocco,MOR,200
+40,Premier League,Egypt,EGY,233
+41,Pro League,UAE,UAE,301
+42,Stars League,Qatar,QAT,305
+43,HNL,Croatia,HRV,210
+44,1. Division,Cyprus,CYP,318
+45,Liga Pro Serie A,Ecuador,ECU,242
+46,Primera A,Colombia,COL,239
+47,NB I,Hungary,HUN,271
+48,Ligue 1,Algeria,DZA,186
+49,Division Profesional,Paraguay,PRY,250
+50,Ligat HaAl,Israel,ISR,383
+51,Primera Division,Uruguay,URY,268
+52,Primera Division,Costa Rica,CRI,162
+53,Primera Division,Chile,CHL,265
+54,Nike Liga,Slovakia,SVK,332
+55,Prva Liga,Slovenia,SVN,373
+56,Persian Gulf Pro League,Iran,IRN,290
+57,Serie B,Brazil,BRA2,72
+58,Primera Division,Bolivia,BOL,344
+59,Premier League,Azerbaijan,AZE,419
+60,PSL,South Africa,ZAF,288
+61,Premier League,Ukraine,UKR,333
+62,A-League,Australia,AUS,188
+63,Super Liga,Serbia,SRB,286
+64,Primera Division,Peru,PER,281
+65,Liga Portugal 2,Portugal,PRT2,95
+66,First Professional League,Bulgaria,BGR,172
+67,Liga Nacional,Honduras,HND,234
+68,Premier League,Bosnia,BIH,315
+69,Ligue 1,Tunisia,TUN,202
+70,Challenger Pro League,Belgium,BEL2,145
+71,Erovnuli Liga,Georgia,GEO,327
+72,Primera Division,Venezuela,VEN,299
+73,Eerste Divisie,Netherlands,NLD2,89
+74,Virsliga,Latvia,LVA,365
+75,Premier League,Canada,CAN,479
+76,USL Championship,USA,USA2,255
+77,Super League,India,IND,323
+78,FIFA World Cup,World,INT-WC,1
+79,UEFA Euro,World,INT-EURO,4
+80,UEFA Nations League,World,INT-UNL,5
+81,Copa America,World,INT-COPA,9
+82,Africa Cup of Nations,World,INT-AFCON,6
+83,Asian Cup,World,INT-ASIA,7
+84,World Cup - Qualification Europe,World,INT-WCQ-EU,32
+85,World Cup - Qualification South America,World,INT-WCQ-SA,34
+86,World Cup - Qualification CONCACAF,World,INT-WCQ-NA,31
+87,Euro Championship - Qualification,World,INT-EUROQ,960
+88,International Friendlies,World,INT-FR,10
+89,UEFA Champions League,World,CUP-UCL,2
+90,UEFA Europa League,World,CUP-UEL,3
+91,UEFA Conference League,World,CUP-UECL,848
+92,Copa Libertadores,World,CUP-LIB,13
+93,Copa Sudamericana,World,CUP-SUD,11
+94,FIFA Club World Cup,World,CUP-CWC,15
+95,FA Cup,England,CUP-ENG-FA,45
+96,Carabao Cup,England,CUP-ENG-LC,48
+97,Copa del Rey,Spain,CUP-ESP,143
+98,DFB Pokal,Germany,CUP-GER,81
+99,Coppa Italia,Italy,CUP-ITA,137
+100,Coupe de France,France,CUP-FRA,66
+101,Taca de Portugal,Portugal,CUP-POR,96
+102,KNVB Beker,Netherlands,CUP-NED,90
