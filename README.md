@@ -2,8 +2,6 @@
 
 **A comprehensive, open-source dataset of global football (soccer) match data spanning 14 years, 102 leagues, and 367,000+ fixtures.**
 
-Built by the [probOdds](https://github.com/probOdds/probodds) project.
-
 ---
 
 ## Overview
