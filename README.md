@@ -15,7 +15,7 @@
 | **Players** | 181,986 |
 | **Player-Match Records** | 9,960,895 |
 | **Match Stats Records** | 217,125 |
-| **Odds Records** | 50,044 |
+| **Odds Records** | 90,428 |
 | **Countries** | 60+ |
 
 All data is sourced from [API-Football](https://www.api-football.com/) and [Football-Data.co.uk](https://www.football-data.co.uk/), cross-referenced and deduplicated into a unified schema.
@@ -30,15 +30,15 @@ Every table is provided in **both CSV and Parquet** format. Parquet files are si
 |---|---|---|---|---|
 | `fixtures.csv` | 367,530 | 35 MB | 7.7 MB | Every match: date, teams, score, status |
 | `match_stats.csv` | 217,125 | 12 MB | 4.2 MB | Per-match stats: shots, xG, corners, cards |
-| `odds.csv` | 50,044 | 1.9 MB | 764 KB | Closing odds (1X2 market) |
+| `odds.csv` | 90,428 | 3.8 MB | 1.4 MB | Closing odds (1X2 market) |
 | `fixture_lineups.csv` | 519,373 | 25 MB | 7.0 MB | Starting XI formations and coaches |
 | `fixture_players.csv` | 9,960,895 | 577 MB | 100 MB | Every player appearance: minutes, rating |
-| `fixture_players_stats_flat.csv` | 1,380,169 | 131 MB | 77 MB | Granular per-player stats (36 columns) |
+| `fixture_players_stats_flat.csv` | 4,903,099 | 489 MB | 77 MB | Granular per-player stats (36 columns) |
 | `players.csv` | 181,986 | 5.5 MB | 3.8 MB | Player registry: name, nationality, age |
 | `teams.csv` | 5,890 | 332 KB | 228 KB | Team registry with Glicko-2 ratings |
 | `leagues.csv` | 102 | 4 KB | 8 KB | League/competition registry |
 
-**Total size:** ~790 MB (CSV) / ~200 MB (Parquet)
+**Total size:** ~1.1 GB (CSV) / ~201 MB (Parquet)
 
 ---
 
@@ -122,14 +122,14 @@ Pre-match closing odds for the 1X2 (Match Result) market.
 
 | Bookmaker | Records | Source |
 |---|---|---|
+| Pinnacle | 44,940 | The Odds API |
 | Bet365 | 33,862 | Football-Data.co.uk CSVs |
-| Pinnacle | 13,427 | The Odds API |
-| Betfair | 1,455 | The Odds API |
-| 888sport | 700 | The Odds API |
-| William Hill | 234 | The Odds API |
-| Other | 366 | The Odds API |
+| Betfair | 5,701 | The Odds API |
+| 888sport | 2,945 | The Odds API |
+| William Hill | 957 | The Odds API |
+| Other | 2,023 | The Odds API |
 
-**Coverage:** Odds are available for ~13.6% of all fixtures. Coverage is highest for Tier 1/2 European leagues from 2015 onward.
+**Coverage:** Odds are available for ~24.6% of all fixtures (90,428 of 367,530). Coverage is highest for Tier 1/2 European leagues from 2015 onward, with historical odds from The Odds API extending back to June 2020 across 40+ leagues.
 
 **Converting to implied probability:**
 ```python
