@@ -1,6 +1,6 @@
 # Global Football Data Lake
 
-**A comprehensive, open-source dataset of global football (soccer) match data spanning 14 years, 102 leagues, and 367,000+ fixtures.**
+**A comprehensive, open-source dataset of global football (soccer) match data spanning 14 years, 144 leagues, and 378,000+ fixtures.**
 
 ---
 
@@ -8,14 +8,15 @@
 
 | Metric | Value |
 |---|---|
-| **Fixtures** | 367,530 |
-| **Date Range** | February 2012 – February 2026 |
-| **Leagues / Competitions** | 102 |
-| **Teams** | 5,890 |
-| **Players** | 181,986 |
-| **Player-Match Records** | 9,960,895 |
-| **Match Stats Records** | 217,125 |
-| **Odds Records** | 90,428 |
+| **Fixtures** | 378,562 |
+| **Date Range** | February 2012 – March 2026 |
+| **Leagues / Competitions** | 144 |
+| **Teams** | 6,405 |
+| **Players** | 182,125 |
+| **Player-Match Records** | 7,970,660 |
+| **Match Stats Records** | 258,782 |
+| **Odds Records** | 220,286 |
+| **Fixture Lineups** | 409,102 |
 | **Countries** | 60+ |
 
 All data is sourced from [API-Football](https://www.api-football.com/) and [Football-Data.co.uk](https://www.football-data.co.uk/), cross-referenced and deduplicated into a unified schema.
@@ -28,17 +29,20 @@ Every table is provided in **both CSV and Parquet** format. Parquet files are si
 
 | File | Rows | CSV Size | Parquet Size | Description |
 |---|---|---|---|---|
-| `fixtures.csv` | 367,530 | 35 MB | 7.7 MB | Every match: date, teams, score, status |
-| `match_stats.csv` | 217,125 | 12 MB | 4.2 MB | Per-match stats: shots, xG, corners, cards |
-| `odds.csv` | 90,428 | 3.8 MB | 1.4 MB | Closing odds (1X2 market) |
-| `fixture_lineups.csv` | 519,373 | 25 MB | 7.0 MB | Starting XI formations and coaches |
-| `fixture_players.csv` | 9,960,895 | 577 MB | 100 MB | Every player appearance: minutes, rating |
-| `fixture_players_stats_flat.csv` | 4,903,099 | 489 MB | 77 MB | Granular per-player stats (36 columns) |
-| `players.csv` | 181,986 | 5.5 MB | 3.8 MB | Player registry: name, nationality, age |
-| `teams.csv` | 5,890 | 332 KB | 228 KB | Team registry with Glicko-2 ratings |
-| `leagues.csv` | 102 | 4 KB | 8 KB | League/competition registry |
+| `fixtures.csv` | 378,562 | 44 MB | — | Every match: date, teams, score, status |
+| `match_stats.csv` | 258,782 | 20 MB | — | Per-match stats: shots, xG, corners, cards |
+| `odds.csv` | 220,286 | 13 MB | — | Closing odds (1X2 market) |
+| `fixture_lineups.csv` | 409,102 | 16 MB | — | Starting XI formations and coaches |
+| `players.csv` | 182,125 | 11 MB | — | Player registry: name, nationality, age |
+| `teams.csv` | 6,405 | 351 KB | — | Team registry with Glicko-2 ratings |
+| `leagues.csv` | 144 | 5 KB | — | League/competition registry |
+| `operator_actions.csv` | 4,774 | 1.8 MB | — | Telegram-based bet management log |
+| `settlement_events.csv` | 2,261 | 375 KB | — | Bet settlement audit trail |
+| `bankroll_snapshots.csv` | 2 | 274 B | — | Bankroll balance snapshots |
 
-**Total size:** ~1.1 GB (CSV) / ~201 MB (Parquet)
+**Note:** The `fixture_players` table (7.97M rows) and `odds_history` table (66.7M rows) are too large for GitHub. They are available as compressed `pg_dump` files upon request.
+
+**Total size (CSV):** ~106 MB
 
 ---
 
@@ -129,7 +133,7 @@ Pre-match closing odds for the 1X2 (Match Result) market.
 | William Hill | 957 | The Odds API |
 | Other | 2,023 | The Odds API |
 
-**Coverage:** Odds are available for ~24.6% of all fixtures (90,428 of 367,530). Coverage is highest for Tier 1/2 European leagues from 2015 onward, with historical odds from The Odds API extending back to June 2020 across 40+ leagues.
+**Coverage:** Odds are available for ~58% of all fixtures (220,286 of 378,562). Coverage spans major European leagues from Football-Data.co.uk CSVs (historical) and The Odds API snapshots (June 2020 onward) across 40+ leagues. Multiple bookmakers are represented including Pinnacle, Bet365, Betfair, and API-Football averages.
 
 **Converting to implied probability:**
 ```python
@@ -296,6 +300,66 @@ League and competition registry.
 
 ---
 
+### `operator_actions.csv`
+
+Telegram-based bet management log. Records bets placed, skipped, or cancelled via the Telegram trading bot.
+
+| Column | Type | Description |
+|---|---|---|
+| `id` | int | Primary key |
+| `event_id` | string | Unique event identifier |
+| `idempotency_key` | string | Deduplication key |
+| `fixture_id` | int | Foreign key → `fixtures.id` |
+| `market` | string | Market type (e.g., `1h_totals_over_1.5`) |
+| `status` | string | Action status |
+| `reason` | string | Reason for action |
+| `planned_stake` | float | Intended stake amount |
+| `planned_odds` | float | Intended odds |
+| `actual_stake` | float | Actual stake placed |
+| `actual_odds` | float | Actual odds received |
+| `operator` | string | Who performed the action |
+| `source` | string | Source of action (e.g., `telegram`) |
+| `action_ts` | datetime | When the action was performed |
+| `settlement_status` | string | won/lost/void/half_won/half_lost/push |
+| `profit` | float | Profit or loss from the bet |
+
+---
+
+### `settlement_events.csv`
+
+Audit trail for bet settlement status changes.
+
+| Column | Type | Description |
+|---|---|---|
+| `id` | int | Primary key |
+| `trade_id` | int | Reference to trade (if applicable) |
+| `operator_action_id` | int | Reference to operator action (if applicable) |
+| `old_status` | string | Previous settlement status |
+| `new_status` | string | New settlement status |
+| `reason` | string | Reason for status change |
+| `details` | json | Additional context |
+| `created_at` | datetime | When the event was recorded |
+
+---
+
+### `bankroll_snapshots.csv`
+
+Daily bankroll balance snapshots.
+
+| Column | Type | Description |
+|---|---|---|
+| `id` | int | Primary key |
+| `snapshot_date` | date | Date of snapshot |
+| `balance` | float | Bankroll balance |
+| `daily_pnl` | float | Daily profit/loss |
+| `cumulative_pnl` | float | Cumulative profit/loss |
+| `bets_settled` | int | Number of bets settled on this date |
+| `bets_won` | int | Number of bets won |
+| `bets_lost` | int | Number of bets lost |
+| `max_drawdown` | float | Maximum drawdown |
+
+---
+
 ## League Coverage
 
 ### Domestic Leagues (81 leagues)
@@ -337,7 +401,7 @@ FA Cup, Carabao Cup, Copa del Rey, DFB Pokal, Coppa Italia, Coupe de France
 | 2023 | 32,157 | |
 | 2024 | 29,403 | Euro 2024 |
 | 2025 | 30,498 | |
-| 2026 | 2,387 | Through February 10 |
+| 2026 | 2,387+ | Through March 30 (final export) |
 
 ---
 
@@ -365,8 +429,10 @@ fixtures (1) ──< match_stats (0..1)
 fixtures (1) ──< odds (0..1)
 fixtures (1) ──< fixture_lineups (0..2, one per team)
 fixtures (1) ──< fixture_players (many, ~27 per match)
+fixtures (1) ──< operator_actions (0..many)
 players (1) ──< fixture_players (many)
 fixture_players (1) ──< fixture_players_stats_flat (0..1)
+operator_actions (1) ──< settlement_events (0..many)
 ```
 
 ---
