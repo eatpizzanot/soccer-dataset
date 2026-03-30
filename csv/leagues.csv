@@ -101,3 +101,45 @@ id,name,country,fd_code,api_football_id
 100,Coupe de France,France,CUP-FRA,66
 101,Taca de Portugal,Portugal,CUP-POR,96
 102,KNVB Beker,Netherlands,CUP-NED,90
+103,National League,England,EC,43
+104,League One,Scotland,SC2,183
+105,League Two,Scotland,SC3,184
+106,3. Liga,Germany,DEU3,80
+107,1. Lig,Turkey,TUR2,204
+108,2. Liga,Austria,AUT2,219
+109,First League,Russia,RUS2,236
+110,Thai League 1,Thailand,THA,296
+111,Premier League,Belarus,BLR,116
+112,Challenge League,Switzerland,CHE2,208
+113,I Liga,Poland,POL2,107
+114,First NL,Croatia,HRV2,211
+115,Liga II,Romania,ROU2,284
+116,Prva Liga,Serbia,SRB2,287
+117,K League 2,South Korea,KOR2,293
+118,J2 League,Japan,JPN2,99
+119,National 1,France,FRA3,63
+120,1. Division,Denmark,DNK2,120
+121,NB II,Hungary,HUN2,272
+122,FNL,Czech Republic,CZE2,346
+123,Second League,Bulgaria,BGR2,173
+124,Super League 2,Greece,GRE2,494
+125,Primera Nacional,Argentina,ARG2,129
+126,Primera B,Chile,CHL2,266
+127,Primera B,Colombia,COL2,240
+128,Liga de Ascenso,Costa Rica,CRI2,163
+129,First Division,Ireland,IRL2,358
+130,Premiership,Northern Ireland,NIR,408
+131,Meistriliiga,Estonia,EST,329
+132,Premier League,Kazakhstan,KAZ,389
+133,Liga 1,Indonesia,IDN,274
+134,A Lyga,Lithuania,LTU,362
+135,Primera Division,El Salvador,SLV,370
+136,Liga Panamena,Panama,PAN,304
+137,Liga Nacional,Guatemala,GTM,339
+138,Superliga,Kosovo,XKX,664
+139,Super League,Malaysia,MYS,278
+140,Premier League,Jamaica,JAM,322
+141,Premier League,Ghana,GHA,570
+142,NPFL,Nigeria,NGA,399
+143,FKF Premier League,Kenya,KEN,276
+144,Premier League,Armenia,ARM,342
