@@ -18,6 +18,7 @@ ENV = Path("/root/probodds_soccer.env")
 TABLES = [
     "leagues", "teams", "players", "fixtures", "match_stats", "odds",
     "fixture_lineups", "fixture_players", "fixture_players_stats_flat", "league_catalogue",
+    "xg_training",
 ]
 
 CONSTRAINTS = [
