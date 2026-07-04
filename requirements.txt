@@ -1,0 +1,15 @@
+# Soccer-dataset restoration pipeline dependencies
+# (Python 3.14 compatible. great_expectations is intentionally excluded:
+#  it cannot build on 3.14; QA uses pandera + frictionless + custom checks.)
+pandas>=2.2
+polars>=1.0
+pyarrow>=17
+duckdb>=1.1
+pandera>=0.20
+frictionless>=5.0
+requests>=2.31
+SQLAlchemy>=2.0
+psycopg[binary]>=3.2
+tenacity>=8.2
+tqdm>=4.66
+python-dateutil>=2.9

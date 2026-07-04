@@ -1,0 +1,1001 @@
+id,fixture_id,team_id,player_id,player_name,is_starter,position,number,captain,minutes,rating
+7512778,136040,1673,127613,Rushine De Reuck,true,D,28.0,false,,
+9270598,354800,1828,63368,Dimitris Limnios,false,F,18.0,false,25.0,6.4
+8867242,131380,1597,164286,Amrinder Singh,true,G,1.0,true,90.0,6.6
+9517699,356776,1028,84448,Edgar Benítez,false,M,23.0,false,10.0,6.2
+79729,171667,23,18382,Martyn Waghorn,true,,14.0,false,,
+1961325,216909,222,58716,G. Mandjeck,true,M,4.0,false,68.0,7.6
+5336938,293537,1834,103824,E. Mohamed Ben,true,,39.0,false,,
+6902905,317732,1065,85171,Ariel Uribe,true,F,10.0,false,90.0,7.2
+5481558,146672,1807,65429,Filip Kaloč,true,M,22.0,false,,
+8759138,348542,1750,81431,M. Real,true,,32.0,false,,
+6992598,112543,1262,90160,Patrik Mijić,true,,28.0,false,,
+2756555,236607,329,68081,Marcelo,true,D,46.0,false,,
+10000099,164678,4068,213162,Pio Júnior,true,,,false,,
+753829,190073,33,36532,G. Docherty,false,M,8.0,false,31.0,6.3
+3054747,244007,382,64130,K. Altinay,false,,4.0,false,,
+5579203,125797,923,69219,Neris,true,D,27.0,true,90.0,7.5
+6172336,99913,1012,118566,Rolando Silva,true,,12.0,false,,
+5933126,127317,1528,113733,Sultan Adil,false,,21.0,false,,
+5090587,287415,845,60433,M. Mimoun,false,M,17.0,false,,
+5563360,125886,933,106304,Salman Al-Faraj,true,M,7.0,true,75.0,6.7
+8193358,136734,1693,153194,S. Oueslati,false,,,false,,
+4064490,266571,547,62929,D. Lezcano,true,F,8.0,false,90.0,7.0
+4273455,269920,609,87629,N. Zabolotny,false,G,12.0,false,,
+4617747,278023,703,93278,M. Correa,true,M,35.0,false,90.0,7.2
+2649457,234276,306,66300,Jeffrey Fortes,false,D,12.0,false,11.0,6.9
+6411317,309836,4576,122071,R. Kővári,true,,27.0,false,,
+3380979,251996,399,46850,M. Anderson,false,,24.0,false,,
+2241172,224110,262,62396,T. Hajnal,false,,30.0,false,,
+7704025,130725,1584,144271,Matthew Acton,true,G,1.0,false,90.0,8.6
+8233070,121236,1427,67930,Nolan Martens,false,D,64.0,false,,
+1232717,201373,118,48125,Jorge Molina,false,F,23.0,false,18.0,6.6
+5050602,286434,820,98178,Zhunyi Gao,true,D,33.0,false,90.0,7.0
+340577,179246,2698,19129,S. Hogan,true,,11.0,false,,
+8759817,348561,1734,161881,M. Rasmussen,true,,7.0,false,,
+1960358,216882,221,49447,Joris Gnagnon,false,D,5.0,false,,
+9417368,356147,1936,174709,Toni García,true,,18.0,false,,
+4181937,267804,549,81257,Henry Wingo,true,D,20.0,false,90.0,6.9
+5256143,89840,891,101318,F. Aspegren,true,M,42.0,false,,
+4691652,95838,714,94459,Amos Perales,true,F,14.0,false,97.0,6.2
+7489968,326172,1675,141323,Tebogo Tlolane,false,,24.0,false,,
+4696201,95939,707,93667,Franco Armani,true,G,1.0,false,96.0,6.9
+3356385,251318,4363,34838,A. Martin,true,,1.0,false,,
+8341111,340603,4718,156600,C. Osorio,true,,,false,,
+1934521,216165,217,49150,Jonas Martin,true,M,8.0,false,90.0,6.7
+2749787,236419,1377,68264,Bruno Moreira,true,,11.0,false,,
+1876333,214601,183,57435,Michele Avella,false,G,30.0,false,,
+3902552,262293,4374,82639,Naoki Hatta,true,G,1.0,false,,
+8454544,343171,1148,158522,J. Graterol,true,,12.0,false,,
+9203791,353148,1343,70095,Diogo Prioste,true,M,86.0,false,,
+4292006,270362,590,87611,Sergey Bozhin,false,D,47.0,false,,
+4890708,282707,1963,96974,J. Drachmann,true,,8.0,false,,
+4718823,95557,709,85377,Blas Armoa,true,F,18.0,false,90.0,6.3
+1458489,206229,140,48034,Francisco Portillo,true,M,10.0,false,78.0,6.9
+4636847,278547,698,48547,G. Sara,true,G,1.0,false,90.0,6.9
+1747382,14216,153,54222,Sebastiano Luperto,true,D,33.0,true,90.0,7.2
+8146966,120229,1413,151775,D. Dubačkić,false,,,false,,
+5363977,294314,4519,103614,J. Munafo,true,M,8.0,false,,
+5001800,285443,4471,98396,Shuai Yang,true,D,3.0,false,90.0,5.5
+2490237,230501,3376,65069,K. Çalışkaner,true,M,10.0,false,89.0,6.2
+2666866,234696,311,67300,Patrik Wålemark,false,M,23.0,false,,
+5163588,288983,839,91434,S. Hanca,true,M,20.0,false,90.0,7.2
+1318625,203053,3248,51265,Luis Díaz,false,M,29.0,false,,
+335597,179107,51,41569,G. Doherty,false,,30.0,false,,
+3041843,243648,383,48219,E. Belözoğlu,false,,25.0,false,,
+5945498,303018,1548,114519,Karim Boudiaf,true,,12.0,false,,
+4573700,276859,656,64925,L. Wahlqvist,true,M,28.0,false,90.0,7.3
+1012124,195973,63,35818,L. Prosser,true,D,6.0,false,90.0,6.7
+8391483,342918,1144,116234,Andris Herrera,false,,11.0,false,,
+9508305,356567,1816,71454,Marco Kana,true,,55.0,false,,
+180439,174669,88,18618,A. McCarey,true,,32.0,false,,
+1213973,200944,108,48710,Lucas Vázquez,true,D,17.0,false,90.0,7.3
+7917394,105065,1125,93673,Joel López Pissano,true,M,22.0,false,,
+2954516,241603,1438,60950,Abdoulaye Sissako,false,M,6.0,false,,
+6042159,107509,1163,116257,Mihael Rovis,false,M,32.0,false,,
+1637206,210258,153,55107,Ardian Ismajli,false,D,34.0,false,,
+86364,171851,24,18561,M. Cassetti,true,,27.0,false,,
+8019212,119432,1400,140462,L. Mickels,true,M,7.0,false,,
+7670806,328596,1588,122430,David Williams,false,,15.0,false,,
+4611072,277839,724,81060,Juan Ramírez,true,M,17.0,false,90.0,
+3540467,255641,429,54051,K. Honda,false,M,4.0,false,,
+4698623,95992,730,94539,Natanael Troncoso,false,M,16.0,false,20.0,6.6
+9913626,163071,192,159209,Azzedine Dkidak,false,D,34.0,false,,
+1588190,209156,159,48207,João Miranda,false,D,23.0,false,,
+6119396,108081,1188,51717,Zelu,true,M,16.0,false,,
+8699338,346362,4749,41889,M. Gyorio,false,,10.0,false,,
+3878180,261596,4377,82852,Shin Kanazawa,true,,23.0,false,,
+2560389,231975,305,65891,G. Gravenbeek,true,,38.0,false,,
+2807067,237996,324,69067,Aylton Boa Morte,false,M,77.0,false,45.0,6.9
+3962316,263930,496,77607,Gabriel Xavier,false,F,10.0,false,38.0,7.6
+4887149,282608,779,66560,Nicolai Jørgensen,true,,10.0,false,,
+498707,183671,20,43306,Diogo Jota,true,F,18.0,false,78.0,7.7
+7751573,330236,1322,145148,A. Đoković,false,,70.0,false,,
+7514500,136083,1673,141334,Lesedi Kapinga,true,F,22.0,false,,
+9802806,160019,17,43293,Kepa Arrizabalaga,false,G,1.0,false,,
+971294,194834,62,19009,A. McCormack,false,M,4.0,false,21.0,6.5
+6941127,111528,1240,132186,R. Ibrahim,true,,20.0,false,,
+2143771,221784,213,58252,Brendan Chardonnet,false,D,5.0,false,,
+2093556,220244,218,60486,S. Milosavljevic,false,,30.0,false,,
+1032855,196551,2687,42805,C. Missilou,false,M,28.0,false,,
+2131077,221431,213,58137,K. Mayi,true,F,9.0,false,74.0,6.9
+9037618,157586,1985,160586,A. Zjuzins,true,M,17.0,false,83.0,6.7
+506672,183892,6,42952,Angelo Ogbonna,true,D,21.0,false,90.0,6.5
+2174218,222625,238,61467,T. Muyumba,false,M,32.0,false,21.0,6.3
+9144697,118544,1334,78223,Pedro Bortoluzo,true,F,9.0,false,,
+9909403,367246,161,53106,Amadou Diawara,true,M,42.0,false,76.0,6.9
+694854,188497,48,44143,M. Andersen,true,D,6.0,false,90.0,7.3
+1930790,216061,207,1122,Hatem Ben Arfa,true,F,9.0,false,90.0,7.2
+1302531,202609,138,48887,Tropi,false,M,20.0,false,,
+2855540,26257,328,58553,D. Saint-Louis,false,F,14.0,false,,
+1345345,203801,3189,49205,Keidi Bare,false,M,35.0,false,,
+2925692,240811,357,71144,Y. Thoelen,false,SUB,20.0,false,,
+3484237,254385,2790,78284,Zé Ivaldo,false,D,27.0,false,,
+7549398,326464,1681,141325,Mbulelo Wagaba,false,F,14.0,false,71.0,6.2
+5182574,289407,839,100710,David Paraschiv,false,M,21.0,false,29.0,7.2
+8249051,121168,349,59552,Brandon Baiye,false,M,6.0,false,2.0,
+4217781,55765,560,67058,D. Huisman,false,M,23.0,false,13.0,6.5
+7402629,324699,4654,139786,E. Mirzäyev,true,,72.0,false,,
+8221875,121667,1445,70535,J. Taravel,true,,3.0,false,,
+5745837,131620,1360,109604,Oussama Zemraoui,true,M,27.0,false,,
+3167874,29047,385,74156,Loide Augusto,true,D,27.0,false,90.0,6.9
+2725317,235739,1345,68137,Revson,true,,44.0,false,,
+6998793,112323,1260,116222,D. Babin,false,M,11.0,false,,
+4593639,277356,4440,79736,Leonardo Godoy,true,D,35.0,false,,
+7074406,320034,4631,77978,Anderson Salles,false,,,false,,
+6605434,100192,1027,93964,Mario López,true,,5.0,false,,
+294203,177841,64,35564,G. Evans,true,D,26.0,false,,
+704738,188757,49,1393,G. Evans,true,M,22.0,false,89.0,6.2
+8740387,348011,4748,162700,S. Barone,false,,17.0,false,,
+7577792,327238,1279,142560,Andriy Pyatov,false,,30.0,false,,
+880018,192860,65,18415,J. Marquis,true,F,9.0,false,90.0,7.2
+5331791,293394,1833,103845,G. Chatzizisis,true,,2.0,false,,
+5856129,301593,1533,112669,Ali Mesmari,true,,17.0,false,,
+8125606,336514,1408,115974,D. Maksimović,true,,,false,,
+7413719,325008,1271,139524,R. Hacıyev,false,,17.0,false,,
+2793995,237644,335,68782,Fábio Pacheco,true,M,6.0,false,64.0,7.0
+7977831,333322,1350,100242,Yuri,true,,44.0,false,,
+6073453,304927,1166,55398,Samuele Vignato,true,F,19.0,false,79.0,7.5
+2658941,234511,311,66910,Naoufal Bannis,false,F,24.0,false,12.0,7.3
+693110,188450,30,44746,D. Fisher,true,D,2.0,false,64.0,5.9
+7548377,326444,1670,142376,Thapelo Matlhoko,false,M,21.0,false,4.0,
+5040464,286305,826,98938,Liu Haofan,false,D,5.0,false,,
+1732596,212400,174,56135,Mariano Arini,false,M,4.0,false,,
+6645793,111082,1229,127009,Ariel Matan Lazmi,false,M,7.0,false,,
+430932,181776,72,34826,M. Rose,true,M,24.0,false,,
+1572645,208804,3492,52643,Andrea Seculin,false,G,90.0,false,,
+5359938,294201,1824,44213,Odysseas Vlachodimos,false,G,99.0,false,,
+9290919,149224,211,54087,Leandro Paredes,false,M,8.0,false,19.0,6.3
+6964552,112938,1251,100136,F. Dangubić,true,F,55.0,false,,
+5147086,86942,863,100249,N. Păun,true,M,6.0,false,90.0,7.6
+373242,180157,58,35147,M. Collins,true,,19.0,false,,
+3856518,260969,507,82868,Hitoshi Shiota,false,,1.0,false,,
+7636204,114603,1284,143615,O. Lebedenko,false,M,15.0,false,,
+7552892,326541,4667,142601,Edmar,true,,8.0,false,,
+9943399,368444,209,48993,Aymen Abdennour,true,D,13.0,false,,
+1955276,216741,244,57944,R. Genevois,true,D,29.0,false,90.0,7.0
+9424343,356303,354,72198,Aaron Bibout,true,F,23.0,false,74.0,6.3
+3149033,246374,375,53549,Andrea Bertolacci,false,M,91.0,false,18.0,6.6
+3522508,255244,426,48145,Diego Alves,true,G,1.0,false,90.0,6.2
+1063001,196834,75,42809,J. Ball,true,M,16.0,false,65.0,6.3
+4741338,95290,693,93454,Tomás Guidara,false,D,24.0,false,,
+7565140,326884,1278,142605,O. Kazakov,false,,51.0,false,,
+3726285,260003,470,78510,Cristian Penilla,true,M,70.0,false,90.0,6.5
+1763526,212476,175,54311,Roberto Crivello,false,D,4.0,false,,
+603471,185970,49,1109,D. Bent,false,F,10.0,false,13.0,6.5
+7961538,332627,323,68476,Paulinho,true,,45.0,false,,
+6757215,315828,1052,128196,D. Asconeguy,false,D,28.0,false,,
+8392803,342955,4725,156582,Ebby Perez,true,,14.0,false,,
+8125180,336498,1423,71084,E. Velić,true,,,false,,
+5599354,93043,923,77831,Paulo Ricardo,true,D,2.0,false,23.0,6.5
+7528807,135458,1677,140673,D. Cardoso,true,D,4.0,true,90.0,6.9
+338687,179193,65,36068,T. Lockyer,false,,30.0,false,,
+8866608,131364,1597,164293,R. Fernandes,true,M,11.0,false,90.0,6.6
+4134313,137614,525,85168,Jesus Garza,false,D,14.0,false,90.0,7.0
+2679272,234982,314,66887,Issam El Maach,false,G,16.0,false,,
+9626705,359080,2,43160,Phil Foden,false,F,47.0,false,8.0,6.2
+754969,190105,46,45283,T. Fornah,false,M,19.0,false,1.0,
+8100404,144970,1782,150279,E. Gutiérrez,true,,,false,,
+9024085,350732,1926,80341,D. McCarty,false,M,,false,,
+1743005,12268,138,49661,Jacobo González,true,M,8.0,false,45.0,6.3
+7156887,322097,970,78392,Xuxa,false,,81.0,false,,
+1528529,207810,3492,53596,Alessandro Gamberini,true,D,5.0,false,90.0,7.5
+1111177,198160,102,48528,Federico Cartabia,true,,28.0,false,,
+3185989,246923,371,45078,Nuno Da Costa,true,F,18.0,false,71.0,6.7
+3411421,252641,426,77227,Guilherme Camacho,false,,,false,,
+2617074,233490,303,43570,J. Veltman,true,D,3.0,true,90.0,7.5
+8090866,145134,1781,149635,M. Vega,true,,,false,,
+4583244,277094,4431,57231,Krzysztof Kubica,true,M,13.0,false,90.0,6.9
+8791295,142478,1715,162649,A. Kelly-Rosales,true,,21.0,false,,
+9258632,354466,101,48318,Michael Krohn-Dehli,false,M,7.0,false,,
+2524359,23054,279,62548,Marcel Halstenberg,true,D,23.0,false,90.0,6.2
+4196156,268177,555,62577,Mathis Bolly,true,M,7.0,false,63.0,6.3
+3474963,254176,4370,78199,Tiago Cardoso,true,G,1.0,false,90.0,6.2
+4857261,281796,743,55980,Noel Törnqvist,true,G,1.0,false,90.0,7.0
+1867338,214404,163,55880,Tarik Muharemović,true,D,80.0,false,90.0,6.2
+9965470,163859,3663,58312,Maxime Blanc,true,,,false,,
+7279079,322984,940,137123,Diego Miticov,false,M,15.0,false,62.0,6.6
+9063245,351428,2837,68319,A. Álvarez,false,M,12.0,false,,
+2171330,222545,227,59593,K. Boto,false,D,14.0,false,,
+6873613,102080,1066,130606,Carlo Villanueva,false,M,26.0,false,14.0,6.3
+1702465,211709,162,56280,G. Caccavallo,false,F,17.0,false,,
+3653981,257995,461,80808,C. Irwin,true,,31.0,false,,
+7283378,323074,960,137347,Castro,false,D,15.0,false,,
+6690632,314596,1226,127726,N. Gissin,false,,19.0,false,,
+9165143,116382,325,68664,Rafael Defendi,false,G,1.0,false,,
+3642161,257665,4371,80453,E. Hassli,false,,29.0,false,,
+9760150,361836,2703,178939,S. Rendell,true,,,false,,
+4101416,137856,525,77860,Rafael Carioca,true,M,5.0,false,85.0,6.9
+2235856,223962,3538,62091,Jimmy Evans,false,F,22.0,false,17.0,6.3
+2688201,24548,305,65886,B. van Polen,true,D,2.0,true,76.0,7.0
+8722828,347516,1750,81431,M. Real,true,,47.0,false,,
+7104497,320821,4636,77570,Neílson,false,,,false,,
+637983,186924,4,19256,T. Darikwa,true,D,27.0,false,90.0,7.3
+7024022,319636,1566,113662,G. Mensha,false,,98.0,false,,
+7578204,327250,1282,142712,A. Gordienko,true,,5.0,false,,
+5101052,287706,863,99536,I. Fülöp,false,M,24.0,false,,
+9159804,116823,1336,69288,S. Petkov,true,,20.0,false,,
+9539611,156191,707,70943,Leandro González Pírez,false,D,14.0,false,,
+449024,182291,26,1048,Gareth McAuley,true,D,23.0,false,90.0,7.0
+8507922,344532,1471,159122,N. Everaers,false,,28.0,false,,
+9348750,355587,406,18342,A. Halliday,false,M,16.0,false,,
+7470939,325644,1669,140929,T. Tshilo,true,,4.0,false,,
+5146584,288853,847,100114,Răzvan Onea,true,D,19.0,false,90.0,7.3
+6696505,314735,1052,127862,M. Lombardi,true,,,false,,
+849468,192011,47,42697,C. Lang,true,M,9.0,false,67.0,6.3
+3760119,140160,470,81773,E. Kizza,false,F,19.0,false,11.0,6.3
+2277606,225123,264,62258,Max Kruse,true,F,11.0,false,90.0,6.9
+2786643,237440,324,68430,Rúben Fernandes,true,D,26.0,false,90.0,6.6
+2453763,229538,290,63163,Enrico Valentini,true,D,22.0,false,90.0,7.1
+587183,185551,12,43652,J. Mateta,true,F,14.0,false,75.0,6.5
+2086644,220020,214,58467,L. Nomenjanahary,true,,20.0,false,,
+2829917,238566,324,69448,Anderson Oliveira,true,M,11.0,false,90.0,5.7
+8580984,122742,308,67418,Derensili Sanches Fernandes,false,F,30.0,false,19.0,9.2
+4353391,271634,4417,64744,J. Siebenhandl,true,,28.0,false,,
+5268048,291751,4507,92814,G. Sotelo,false,D,2.0,false,19.0,6.3
+6545404,134410,1647,124840,S. Bayazid,true,,,false,,
+5480307,146637,1801,105219,Vojtěch Smrž,false,M,32.0,false,,
+7156577,322090,964,136342,Rafinha,true,M,8.0,false,66.0,6.6
+1405413,205255,139,49263,J. Soriano,true,G,1.0,false,90.0,7.2
+7527986,135438,1670,140792,Thembela Sikhakhane,true,M,5.0,false,40.0,5.3
+6515247,312402,1649,124010,M. Bakir,true,,,false,,
+8104597,145066,1788,150662,C. Manaiza,true,,,false,,
+3153555,246482,387,66898,Ibrahim Drešević,true,D,5.0,false,90.0,7.5
+2455152,229576,268,63227,Jakob Busk,true,G,12.0,false,90.0,5.9
+9588131,157747,1075,130605,Brayan Véjar,false,D,19.0,false,22.0,6.3
+2296834,225658,270,60095,Lukáš Hrádecký,true,G,1.0,false,90.0,7.0
+2233632,223902,240,61946,Amine Boutrah,true,M,10.0,false,90.0,6.7
+5727525,131639,1609,109182,Y. Oggadi,true,,15.0,false,,
+5483521,146726,1805,105459,M. Káčer,false,M,66.0,false,,
+9954015,368768,3754,199116,M. Soly,false,,,false,,
+5535690,296115,937,106537,Sami Al-Najei,false,M,6.0,false,39.0,6.5
+1909047,215456,225,57960,Benjamin André,true,,7.0,false,,
+6207493,99303,1003,56424,F. Andrada,false,F,19.0,false,28.0,7.0
+1387953,204853,100,50322,Martín Pascual,false,D,27.0,false,,
+7801176,115760,1327,100299,D. Bagarić,true,F,11.0,false,,
+6971653,112754,1252,115976,L. Maružin,true,,7.0,false,,
+4286822,270238,594,87588,R. Kambolov,false,M,77.0,false,,
+3681223,258752,470,80504,Diego Fagúndez,true,M,14.0,false,90.0,7.7
+8229365,121571,353,58269,T. Defourny,true,,33.0,false,,
+4813728,280786,745,71640,Alhassan Yusuf,true,M,28.0,false,90.0,6.9
+819976,191192,83,18359,C. Doyle,false,G,1.0,false,,
+795922,190593,41,45213,Josh Eccles,false,M,28.0,false,21.0,6.6
+4368304,272050,4418,89456,S. Nutz,true,M,7.0,false,58.0,6.6
+8914262,151122,1911,63593,Jacek Góralski,true,M,6.0,false,90.0,7.9
+6926,169501,47,1161,James McCarthy,true,,4.0,false,,
+2769329,236959,327,43907,João Palhinha,false,M,66.0,false,1.0,
+1757478,14429,153,54222,Sebastiano Luperto,true,D,33.0,true,90.0,6.7
+3800125,139442,467,81911,Jalen Neal,true,D,24.0,false,90.0,6.6
+9844664,366100,2698,35673,A. Cannon,false,M,27.0,false,,
+5936265,302736,1525,114325,K. Al Jneibi,false,,1.0,false,,
+4012747,265160,509,70592,Sandy Walsh,false,D,15.0,false,,
+9754420,361675,7,18477,Bruno Saltor,true,,2.0,false,,
+6359350,97076,985,119703,Santiago Jiménez,false,D,6.0,false,28.0,6.0
+3157324,246572,384,73665,Á. Sagal,false,F,28.0,false,34.0,6.7
+3598703,37230,433,54498,Bruno Henrique,true,M,8.0,false,73.0,7.2
+4282338,270132,582,88187,Igor Diveev,true,D,78.0,false,90.0,6.9
+498147,183655,5,43337,J. Lerma,true,M,8.0,false,90.0,6.9
+5219371,290467,880,68708,R. Gabriel,true,,15.0,false,,
+4056273,266343,528,49044,Igor Lichnovsky,true,M,5.0,false,90.0,6.9
+1564309,208616,173,51556,Leonardo Capezzi,false,M,28.0,false,,
+9626034,359062,54,46214,Oliver Šarkić,true,F,17.0,false,90.0,8.1
+5888426,302485,1527,113420,Mohamed Omar Al Attas,true,,40.0,false,,
+6120541,108107,1188,117361,D. Tziakouris,false,G,1.0,false,,
+3365810,251583,417,47464,S. Kelly,true,,30.0,false,,
+584344,185480,3,43426,Leandro Trossard,true,F,19.0,false,90.0,7.6
+6722325,101471,1057,128366,Jorge Graví,false,,28.0,false,,
+83678,171776,20,18195,D. de Vries,false,,31.0,false,,
+9210221,353330,1397,136864,Marcelinho,true,M,84.0,false,,
+7918452,105095,1117,85049,Alejandro Duarte,true,G,13.0,false,95.0,7.0
+8977513,350243,1913,71346,Matej Mitrović,true,D,6.0,false,,
+8626495,345626,1493,160457,D. Ošs,true,,,false,,
+8474291,343674,1480,66868,J. Konings,false,,19.0,false,,
+3653246,257974,465,80281,Joe Willis,true,,31.0,false,,
+5499492,146017,1805,105833,Sampson Dweh,true,D,40.0,false,,
+5446201,295214,1816,73328,Domagoj Vida,false,D,21.0,false,,
+7826142,115133,1312,146116,Danijel Kolaric,true,D,16.0,true,69.0,6.6
+6976123,112867,1259,54288,I. Prtajin,true,F,47.0,false,,
+2225788,223688,242,58920,K. Zohi,true,M,10.0,false,80.0,7.3
+2190994,223091,233,52305,M. Lachuer,false,M,20.0,false,23.0,6.9
+7141879,321739,945,77027,Gabriel,true,,,false,,
+4343138,271348,4417,65630,Stefan Schwab,true,,22.0,false,,
+6223884,306644,4570,117877,Danny Luna,true,F,10.0,false,89.0,7.3
+1911630,215528,3532,58401,Yohann Pelé,true,,40.0,false,,
+8489602,344065,307,66463,Tom Overtoom,true,,6.0,false,,
+3664109,258276,477,19287,G. Ward,true,,8.0,false,,
+5368906,294451,1816,104196,K. Galanopoulos,true,M,25.0,false,,
+7190865,322887,971,76832,Guilherme Santos,true,D,6.0,false,90.0,6.8
+6169922,306575,1016,80886,Gabriel Torres,true,,8.0,false,,
+9319335,148520,266,58576,Sehrou Guirassy,false,F,9.0,false,28.0,7.3
+6976206,112869,1257,132807,O. Kregar,false,,7.0,false,,
+4184355,267869,550,56767,N. Gunnarsson,true,D,5.0,false,90.0,6.1
+3626249,257281,429,59681,Jeffinho,true,M,47.0,false,63.0,7.2
+8694867,346225,1755,80757,K. Bekker,true,M,10.0,true,90.0,7.2
+9247501,354156,216,45534,A. Traoré,false,M,20.0,false,,
+3273858,249283,405,18351,C. Burke,true,M,29.0,false,90.0,7.2
+7363310,102895,1103,50932,Martin Alaniz,true,M,50.0,false,101.0,7.2
+950571,194267,51,18635,B. Richardson,false,G,13.0,false,,
+5205290,290062,882,101102,Drilon Shala,true,,7.0,false,,
+6037563,107754,1165,50456,Dinko Horkaš,true,G,99.0,false,90.0,6.9
+1960500,216886,229,58889,Jonathan Cafú,false,F,22.0,false,16.0,6.5
+8418057,106200,1139,158082,Oscar Jiménez,false,,22.0,false,,
+4418620,273287,618,89859,Niklas Geyrhofer,false,D,35.0,false,,
+1554310,208392,156,54062,Faouzi Ghoulam,false,D,31.0,false,,
+8712999,347239,1726,82201,Josh Cohen,false,,18.0,false,,
+6223199,306629,1003,118782,Ignacio Mosquera,false,D,3.0,false,,
+4445816,274029,645,90466,Alain Nef,false,D,13.0,false,,
+1118614,198366,107,48109,Óscar de Marcos,true,,10.0,false,,
+4001278,264869,516,83873,Masaaki Murakami,true,G,31.0,false,90.0,6.2
+4672426,96495,974,94201,Matías Palavecino,false,M,29.0,false,,
+3056681,244061,376,72492,S. İnan,true,,8.0,false,,
+7490418,326185,1686,141352,J. Dickens,false,,19.0,false,,
+8739221,347978,1734,162150,D. Williams,false,,80.0,false,,
+7242304,93528,955,48756,Míchel,false,D,88.0,false,45.0,6.9
+6973718,112806,1251,132680,M. Vrbanec,false,,13.0,false,,
+287959,177667,83,18535,D. Poleon,false,F,11.0,false,,
+6825338,143592,1765,130321,E. Casado,true,,,false,,
+9534420,155879,1057,128806,Tessa Joaquin,false,F,19.0,false,,
+9351307,355679,1204,122490,Szabolcs Barna,false,D,15.0,false,,
+966940,194713,2685,42818,S. Wilson,true,,16.0,false,,
+6066557,106988,1169,90278,Marco Boras,false,D,55.0,false,11.0,6.7
+8674398,346159,1495,160814,R. Zeņģis,false,,21.0,false,,
+8639900,125298,1498,160508,E. Kozlov,false,,77.0,false,,
+2648886,234263,306,66616,Deroy Duarte,true,M,11.0,false,90.0,7.5
+3962384,263932,507,76994,Leandro,true,M,20.0,false,90.0,7.9
+8160802,336640,1417,152005,H. Barisic,false,,4.0,false,,
+9504351,356496,1390,148731,Svetoslav Vutsov,true,G,92.0,false,,
+3682110,258776,470,80753,D. Kobayashi,false,M,16.0,false,,
+1795268,213189,180,52355,Florian Ayé,true,F,20.0,false,81.0,6.9
+989049,195328,68,18892,J. Taylor,true,M,8.0,true,55.0,6.6
+1372171,204496,133,51785,Nahuel Arroyo,false,F,7.0,false,,
+864891,192440,34,36614,L. Jephcott,false,M,31.0,false,9.0,6.5
+1700989,211672,3463,56287,M. Spighi,false,,8.0,false,,
+2942834,241281,354,71219,B. Nastic,true,D,3.0,false,,
+3992064,264613,493,43277,Y. Muto,true,F,11.0,false,90.0,7.9
+4227383,268836,550,86268,L. Vilsvik,true,D,26.0,false,90.0,7.3
+4586204,277161,4427,49233,Luis Perea,false,M,6.0,false,,
+8761981,348623,1749,162402,T. Janjigian,true,,6.0,false,,
+7716217,130414,1583,78630,Matheus Moresche,false,F,10.0,false,45.0,6.6
+5250686,291353,882,101361,L. Hertsi,true,striker,22.0,false,,
+3836564,260480,468,81572,M. Stajduhar,false,G,31.0,false,,
+6997070,112284,1259,114223,Marcel Ratnik,true,D,14.0,false,,
+9579069,159001,984,48778,Fredy Hinestroza,true,M,8.0,false,90.0,7.0
+2636934,233975,1475,66166,Michiel Kramer,false,F,29.0,false,15.0,6.6
+4122338,52316,526,85777,Domingo Blanco,true,M,27.0,false,79.0,6.3
+9709294,360423,1397,77732,Natanael,true,D,6.0,false,90.0,8.3
+9592975,158023,705,93432,Nahuel Barrios,true,F,10.0,false,90.0,6.3
+9801195,159933,2707,75279,J. Kellermann,true,F,16.0,false,66.0,6.3
+1778083,212804,193,52677,Samuele Birindelli,true,D,2.0,false,90.0,7.2
+534753,184619,15,43718,Frank Onyeka,false,M,15.0,false,13.0,6.3
+6313939,98481,984,119664,Walmer Pacheco,true,D,15.0,false,81.0,7.2
+2767677,236914,1342,48716,J. Ortuno,true,F,20.0,false,88.0,5.9
+458468,182553,43,1932,D. Watmore,false,F,41.0,false,26.0,6.5
+9572045,159404,983,18314,David González,true,G,22.0,false,90.0,5.2
+5947677,303099,1557,114413,Majdi Siddiq,true,,5.0,false,,
+1814769,213622,174,55028,Marco Carnesecchi,true,G,12.0,false,90.0,7.2
+10015189,370009,5840,215762,B. Middelkoop,false,,10.0,false,,
+2624420,233669,1476,62814,A. Borgmann,false,D,21.0,false,,
+5747342,117337,1371,109977,M. Malik,true,M,18.0,false,,
+1043880,7312,89,36709,M. Southam-Hales,true,M,7.0,false,51.0,6.9
+6712422,315333,1054,127880,Guzmán Pereira,true,,,false,,
+9345902,355490,1438,60931,Formose Mendy,true,,20.0,false,,
+6439697,310633,1196,121722,T. Kulcsár,true,,70.0,false,,
+9518025,356784,1008,117730,P. Quiñónez,false,M,15.0,false,,
+2913306,240467,4331,70968,D. Melnjak,false,,22.0,false,,
+715305,189021,5,1389,J. Wilshere,true,M,11.0,false,71.0,6.9
+7988764,333753,1344,148474,Felipe Ryan,false,,70.0,false,,
+6755616,315784,1048,125906,Hugo Quintana,true,M,8.0,false,,
+8891801,349375,1986,55158,Aleksandr Kokorin,true,,9.0,false,,
+6927680,111967,1232,132249,Andrii Kozhukhar,true,goalkeeper,12.0,false,,
+3824133,138986,474,82180,S. Kowalczyk,false,M,27.0,false,26.0,6.3
+5576520,125730,935,106990,Khaled Al-Semeiry,false,M,6.0,false,1.0,
+6163921,306386,4567,118191,Francisco Silva,true,D,15.0,false,,
+3354375,251261,414,74754,A. Doran,true,,10.0,false,,
+264611,177017,50,35917,M. Samuelsen,false,M,36.0,false,,
+8057879,334406,1781,149895,P. Álvarez,false,,,false,,
+5381362,294797,1827,104122,Wanderson,true,,27.0,false,,
+92563,172023,31,18343,Adam Reach,false,,25.0,false,,
+8069426,335558,1785,129230,H. Saravia,true,,,false,,
+4998869,285368,796,98067,Dabao Yu,true,D,19.0,true,90.0,6.6
+4731630,95080,719,52207,Williams Alarcón,true,M,5.0,false,43.0,5.2
+7610647,328164,1302,142547,A. Zapadnya,false,M,43.0,false,,
+3006753,242728,347,71442,Anouar Ait El Hadj,true,M,10.0,false,66.0,6.7
+8205647,338396,347,71353,N. Rajsel,true,,,false,,
+1663056,210814,192,52817,Marco Sala,false,D,3.0,false,27.0,6.9
+6005456,304079,1548,115540,Bautista Burke,true,,30.0,false,,
+1418236,205547,125,51786,Belman,false,G,25.0,false,,
+2176945,222701,235,61297,P. Ruffaut,true,M,8.0,false,76.0,6.6
+9626361,359071,14,19304,J. Kodjia,false,F,26.0,false,40.0,6.6
+9313273,148383,1828,73993,Magomed Ozdoev,true,M,27.0,false,,
+7176589,322556,962,18579,Neuton,false,D,15.0,false,,
+1748315,14232,170,55336,Zito Luvumbo,true,F,77.0,false,90.0,6.5
+5913035,127577,1526,92989,Nicolás Giménez,true,M,10.0,false,,
+8691535,142988,1757,161666,J. Quintana,true,D,5.0,false,71.0,7.0
+5794810,133192,1628,111372,Mohamed Koko,false,,25.0,false,,
+3008932,242783,357,59588,N. Fadiga,true,M,22.0,false,38.0,6.7
+6280456,308147,988,119398,Avimiled Rivas,true,M,30.0,false,45.0,5.8
+8172493,337934,1693,143511,M. Ben Salem,true,,,false,,
+649260,187235,33,18935,Michael Hector,true,D,5.0,false,90.0,7.2
+7264490,93267,944,137097,Neto Pessoa,false,F,9.0,false,26.0,6.6
+8255769,339023,1434,154813,Melvin Ramundo,false,G,55.0,false,,
+6926988,111949,1245,132224,K. Flak,false,D,27.0,false,,
+5517617,145893,1804,105484,Rajmund Mikuš,true,D,10.0,false,90.0,6.3
+7796074,115642,1310,50006,Lazar Carević,true,G,25.0,false,,
+456722,182504,17,42970,Bertrand Traoré,false,M,14.0,false,26.0,6.7
+9619781,357465,59,34981,C. Chantler,true,,,false,,
+4615736,277967,702,93227,G. Rehak,false,G,13.0,false,,
+4057772,266385,530,85126,Ayron Del Valle,true,F,21.0,false,90.0,6.6
+1986187,217598,219,43216,M. Wagué,true,D,13.0,false,90.0,7.2
+4165272,267334,569,86560,Geir Andre Herrem,false,F,21.0,false,45.0,6.5
+5349013,293898,1824,103431,Diamantis Chouchoumis,false,,3.0,false,,
+7063982,319757,1574,49589,A. Sedlar,true,,4.0,false,,
+1304170,202655,139,50966,Aitor Sanz,true,M,16.0,false,90.0,8.5
+4582458,277076,660,49249,Alejandro Pozo,false,M,7.0,false,35.0,8.3
+8591307,122981,1465,159608,Luuk Verheij,false,M,20.0,false,,
+353712,179612,2650,35221,M. Sparrow,false,,7.0,false,,
+9756790,361741,2688,185640,J. Gibbs,true,,12.0,false,,
+8545754,123443,1465,66753,Justin Ogenia,false,D,2.0,false,15.0,6.6
+4076694,138634,545,85296,Yerko Leiva,false,M,20.0,false,17.0,6.3
+6424801,310214,1199,122510,R. Tucsa,false,,87.0,false,,
+8851245,348986,1727,81321,T. Pasher,true,,15.0,false,,
+5214482,290326,4510,101676,Lucas Kaufmann,true,,15.0,false,,
+5795232,133202,1613,111376,Mostafa El Zenary,false,D,32.0,false,,
+3621760,257185,439,68776,Cássio,true,G,1.0,false,90.0,7.3
+6264482,307706,994,120130,Ronaldo Lucena,true,M,16.0,false,75.0,6.8
+5406643,147978,1832,104385,Nikolaos Vafeas,false,D,5.0,false,,
+8955957,349782,2711,165425,Juvenal,false,,6.0,false,,
+1599063,209405,166,54762,S. Proto,false,G,24.0,false,,
+1641202,210348,156,53628,Juan Jesus,false,D,5.0,false,,
+1921124,215792,207,58542,Sada Thioub,false,,35.0,false,,
+798091,190647,31,45036,Morgan Whittaker,false,F,11.0,false,17.0,6.6
+4056899,266361,545,84591,H. González,true,G,1.0,false,90.0,7.6
+9256080,354395,258,43046,Håvard Nordtveit,true,D,6.0,false,24.0,6.1
+6560495,133963,1647,123315,A. Sameur,true,,,false,,
+8434570,106086,1140,156742,Leminger Bolivar,true,,3.0,false,,
+8364931,341548,1144,150274,N. Cabrera,true,,,false,,
+5683125,126149,1505,96113,Gustav Ludwigson,true,F,17.0,false,,
+8813106,141213,1728,81328,L. Mfeka,true,,10.0,false,,
+5481824,146679,1792,103993,K. Qose,true,M,6.0,false,,
+9746464,361457,3,42993,Alex Iwobi,false,M,17.0,false,,
+6771790,316766,1769,129609,A. Villalobos,true,,,false,,
+7961463,332625,1340,68749,Ença Fati,true,,31.0,false,,
+5770474,300882,1636,90629,I. Ndiaye,true,,,false,,
+8678694,143328,1753,161465,T. Shaw,true,,18.0,false,,
+3809439,42691,489,80689,Justin Meram,true,F,22.0,false,76.0,7.3
+4459615,274411,644,90389,P. Schürpf,true,M,11.0,false,90.0,6.0
+4370002,272097,631,89704,Dominik Reiter,false,F,19.0,false,,
+3115730,245574,372,72892,S. Ağçay,true,M,3.0,true,89.0,5.9
+2258434,224590,266,43247,Pierre-Emerick Aubameyang,false,,17.0,false,,
+5118321,288155,4496,93233,Bautista Cascini,false,M,24.0,false,,
+4549502,276489,673,52611,Paweł Jaroszyński,true,M,4.0,false,91.0,7.3
+3193031,247091,4356,59097,Pedro Brazão,false,M,20.0,false,12.0,6.6
+9066541,351527,1931,80997,K. Waston,true,,19.0,false,,
+2950185,241483,348,71455,Killian Sardella,true,D,54.0,false,,
+9401101,149840,1816,73328,Domagoj Vida,true,D,21.0,false,90.0,6.7
+104890,172366,27,18302,J. Johnson,false,,11.0,false,,
+3050244,243882,4345,72916,Eray Ataseven,true,,5.0,false,,
+4587815,277199,657,91298,J. Burić,true,G,1.0,false,90.0,9.2
+7897695,105626,1123,62912,C. Ascues,true,F,6.0,false,59.0,6.7
+8437581,105697,1141,107503,A. Contreras,true,,10.0,false,,
+6372751,308714,992,119787,Sebastián Tamara,false,M,8.0,false,33.0,6.3
+7637944,114157,1288,143406,Y. Karabin,false,F,8.0,false,,
+8301507,122411,1454,66070,F. Sporkslede,true,,22.0,false,,
+1905004,215343,4328,57893,C. Cambon,false,,22.0,false,,
+3879325,261628,508,82873,N. Kondo,true,,3.0,false,,
+2653942,234380,304,65398,O. Kiomourtzoglou,false,M,6.0,false,,
+4478635,64146,646,65270,Betim Fazliji,true,M,23.0,false,84.0,7.0
+6664174,110587,1216,126642,T. Ben-Zaken,true,D,15.0,false,,
+7755773,330508,1315,145308,B. Duronjić,false,,20.0,false,,
+8839812,141105,1724,85104,J. Reyes,false,,20.0,false,,
+5338034,293567,4521,103526,C. Tzanis,true,,7.0,false,,
+5744556,131588,1360,109505,Ayoub Boucheta,true,D,24.0,false,,
+5929932,127249,1533,113558,A. Rakan,false,D,2.0,false,,
+2638779,234020,304,66739,Mauro Júnior,true,M,10.0,false,74.0,6.5
+5623721,296953,923,106847,Nawaf Al-Habashi,true,M,19.0,false,73.0,6.7
+9907108,367193,3469,52366,D. Sarzi Puttini,true,,3.0,false,,
+462039,182652,18,1546,Dejan Lovren,true,D,6.0,false,90.0,7.0
+9384204,150154,668,69292,Luquinhas,true,F,82.0,false,90.0,6.9
+8932301,152845,2003,102369,B. Tatar,true,M,7.0,false,80.0,6.2
+2067777,219386,226,60063,Oumar Pona,false,G,40.0,false,,
+1126598,198588,117,48209,Diego Godín,true,,2.0,false,,
+796429,190606,8,44881,Thomas Holmes,false,D,29.0,false,,
+7146875,321860,964,77277,João Ananias,false,,13.0,false,,
+748793,189934,36,1326,N. Powell,true,F,25.0,false,86.0,7.9
+7105450,320845,4637,77028,Paulinho,true,,,false,,
+7886955,332197,1121,68683,Jhonny Vidales,true,F,11.0,false,90.0,6.6
+6863173,102304,1069,131192,Federico Mateos,true,M,20.0,false,90.0,6.3
+3731843,260162,461,46940,J. Lewis,true,,11.0,false,,
+3893816,262050,494,73327,Douglas,true,,9.0,false,,
+7507276,136389,1686,141124,M. Kgoetyane,true,D,2.0,false,,
+2775172,237122,1342,69045,Robert Ahman-Persson,false,M,3.0,false,,
+8707566,347087,1744,80897,C. Duke,true,,32.0,false,,
+6657840,110906,1217,127331,E. Isakov,false,D,2.0,false,,
+7698611,329450,1594,144210,Joel Chianese,true,F,7.0,false,78.0,8.3
+5686642,126237,1515,107998,Yong Rae Lee,false,M,74.0,false,7.0,
+9154815,116698,1350,51551,Reko,true,M,28.0,false,,
+1520286,207624,169,54193,Bruno Peres,false,,33.0,false,,
+4537474,276181,4432,91865,Przemysław Banaszak,false,F,19.0,false,11.0,6.7
+9557225,356866,1068,131447,Enzo Hoyos,false,M,23.0,false,105.0,6.7
+4908864,283212,777,57041,H. Hermannsson,false,,6.0,false,,
+2167696,222443,238,44770,Y. N'Gbakoto,false,F,12.0,false,10.0,6.6
+1754733,14385,156,50690,Giacomo Raspadori,false,F,81.0,false,28.0,7.2
+5489968,146340,1806,105170,A. Jánoš,true,M,8.0,false,,
+749006,189940,40,45422,K. Paal,true,D,22.0,false,90.0,7.2
+9103878,158548,1984,45460,Darko Churlinov,true,F,,false,,
+794051,190547,36,44030,Thomas Cannon,true,F,9.0,false,90.0,7.3
+822695,191268,2698,34830,I. Henderson,true,F,40.0,true,90.0,6.9
+5925715,127521,1526,113373,A. Hasan,false,D,5.0,false,,
+5212631,290273,877,101479,R. Sid,false,,17.0,false,,
+1482199,206759,183,53718,Anselmo,true,,14.0,false,,
+6329078,98035,985,120161,Johan Caballero,true,M,23.0,false,90.0,6.3
+7458188,113284,1268,69550,Matheus Silva,false,,2.0,false,,
+4487280,274890,644,90833,J. Kadák,true,M,16.0,false,69.0,6.7
+4123529,137358,538,85551,Emiliano Freyfeld,false,D,27.0,false,,
+3462972,253903,433,77022,Fernando Bob,true,M,5.0,false,90.0,7.0
+12604,169660,10,1414,N. Etheridge,false,,38.0,false,,
+8136556,120684,1418,72961,F. Ayaz,true,,,false,,
+3391544,252113,4358,35787,D. Lyness,true,,30.0,false,,
+4967668,284571,1963,97529,Lirim Qamili,false,F,15.0,false,12.0,6.3
+182267,174720,2687,35142,C. Wyke,true,,36.0,false,,
+4434509,273713,644,52793,Nicolas Haas,true,M,32.0,false,,
+3607261,256870,961,79763,Caique,true,M,95.0,false,90.0,6.9
+9480555,150874,1940,164918,E. Jolley,false,D,2.0,false,,
+6477381,109365,1196,73207,K. Thiam,false,M,23.0,false,32.0,6.9
+4644009,278744,715,92728,Ciro Rius,true,F,12.0,false,88.0,7.5
+3921589,262816,504,82734,Y. Ōkubo,false,F,4.0,false,12.0,6.7
+6788798,144700,1777,129581,C. Villegas,true,,,false,,
+6659934,110959,1225,127269,Raz Twizer,false,F,77.0,false,,
+9909457,367247,156,54912,H. Lozano,false,F,11.0,false,,
+6414442,309924,1199,122355,I. Nemes,true,,33.0,false,,
+1756829,14410,162,55225,Toma Bašić,true,M,26.0,false,90.0,7.5
+9408567,149564,321,69735,Gorby,false,M,29.0,false,,
+456615,182501,9,1358,B. Oviedo,false,D,8.0,false,,
+9802003,159979,22,909,Theo Walcott,true,F,32.0,false,64.0,6.3
+9977554,163409,3678,197253,Y. Kibundu,true,,,false,,
+1612758,209712,157,53598,Mattia Perin,true,G,1.0,true,90.0,6.3
+3537374,255573,432,78794,Nino,true,D,33.0,false,90.0,7.6
+1680172,211180,165,55801,Konan N'Dri,false,F,11.0,false,,
+2458244,229662,277,62245,Takashi Usami,true,M,33.0,false,63.0,6.9
+8052182,334157,1785,149708,E. Delgado,true,,,false,,
+1228787,201284,101,48215,Óliver Torres,false,M,21.0,false,9.0,6.5
+857208,192226,73,18807,Luke Murphy,true,M,16.0,true,90.0,7.2
+7769846,117606,1320,49427,R. Brežančić,false,,31.0,false,,
+9172341,116545,1342,69674,Jójó,true,D,77.0,false,,
+9118062,352116,1912,44391,Bilal El Khannouss,true,M,23.0,false,69.0,8.5
+4170328,267475,573,71609,B. Sørmo,true,D,22.0,false,90.0,7.6
+9720719,360741,1824,18582,L. Steele,false,G,15.0,false,,
+8872291,131276,1607,164219,Ricky Lallawmawma,true,D,6.0,false,90.0,7.0
+937373,193908,56,43736,R. Street,false,F,17.0,false,29.0,6.3
+4123636,137361,541,85823,Carlos Sánchez,false,D,32.0,false,26.0,7.3
+5299643,92416,909,103210,Harry Fisk,false,G,19.0,false,,
+3692913,259077,462,80851,Brad Stuver,false,G,41.0,false,,
+6080601,305119,1180,48745,Hector Yuste,true,D,44.0,false,,
+1027626,196406,75,45797,N. Broome,false,G,13.0,false,,
+9556484,356856,1004,93050,Guido Vadalá,false,,10.0,false,,
+1240011,201539,120,49485,Joaquín Fernández,true,D,24.0,false,90.0,6.7
+8041300,118846,1398,86641,O. Skarsem,true,M,7.0,false,64.0,6.7
+2932426,240996,362,71078,Edmilson Junior,true,M,22.0,false,,
+1399951,205131,134,49423,A. Gallar,true,M,10.0,false,66.0,7.6
+4567626,68114,673,91433,L. Hroššo,true,G,31.0,false,90.0,7.3
+9180613,118320,1383,70142,Clayton,true,D,40.0,false,,
+9592478,158012,423,70200,Rodrigo Varanda,true,F,65.0,false,66.0,6.6
+7887829,332221,1128,146888,Victor Rossel,false,F,99.0,false,,
+2441594,229199,3384,63101,Lucas Höler,true,F,9.0,false,,
+7353922,103275,1095,125934,Wilson Quiñónez,true,G,1.0,true,90.0,7.6
+3333934,250687,4360,74896,S. Higgins,true,,10.0,false,,
+5239176,291030,4508,101919,S. Ala,false,,17.0,false,,
+6980870,112622,1257,116270,N. Hadžić,true,,9.0,false,,
+5113817,288042,869,100088,G. Cîmpanu,false,M,28.0,false,,
+8909330,150892,1914,62716,Julian Brandt,true,M,10.0,false,90.0,6.6
+2153288,222045,3564,59272,Adama Malouda Traoré,false,F,14.0,false,11.0,6.4
+2858856,239001,332,55776,Alberto Costa,false,D,22.0,false,,
+3536325,255549,434,73520,Yan Sasse,false,M,39.0,false,8.0,6.7
+8833263,140926,1727,87055,K. Hernandez-Foster,true,,8.0,false,,
+1543116,208141,171,53918,D. Maietta,true,D,20.0,false,90.0,7.1
+2439040,229128,277,62654,Kerem Demirbay,true,M,10.0,false,,
+6941099,111528,1238,132422,A. Popović,true,G,41.0,false,90.0,8.3
+5813597,133050,1625,111319,Mohamed Fawzi,true,G,1.0,false,,
+7194996,94727,945,69742,Alisson Safira,false,F,21.0,false,35.0,6.6
+9128628,352593,1253,172865,Jovan Vidović,false,,,false,,
+6845676,317477,1065,79198,Carlos Palacios,false,F,15.0,false,,
+5265644,291690,4507,101255,Johan Brunell,true,,6.0,false,,
+5015315,285751,4471,98783,He Siwei,false,D,34.0,false,,
+1953249,216685,244,58107,Ismaël Diomandé,true,D,4.0,false,90.0,7.0
+10008717,164250,1383,49538,G. Assuncao,false,,12.0,false,,
+8308942,122235,1452,74046,N. Gagnidze,true,,20.0,false,,
+9902174,367078,166,48662,Patric,false,,4.0,false,,
+3027727,243255,4342,72442,Agus,true,,14.0,false,,
+8859608,349213,1599,84893,Carlos Salom,true,F,8.0,false,71.0,7.3
+8039592,118803,1386,149258,Cassiano Bouzon,false,M,11.0,false,,
+5837655,132498,1622,111996,Gabriel Chukwudi,true,M,29.0,false,87.0,6.6
+4558281,276683,682,91395,Marcin Cebula,false,M,77.0,false,10.0,6.7
+6711132,315235,1056,119240,Matías Rigoleto,false,,,false,,
+7132452,321512,964,69316,Henrique Gelain,true,,,false,,
+2240493,224091,262,62396,T. Hajnal,false,,30.0,false,,
+8827452,141615,1723,163663,T. Bagley,true,,12.0,false,,
+494035,183541,42,18453,G. Cunningham,false,D,18.0,false,,
+3879642,261637,4375,82657,S. Sakurai,false,,1.0,false,,
+3446806,253526,433,68927,Alisson Farias,false,M,27.0,false,,
+7827624,115167,1310,145542,S. Đorđević,false,D,8.0,false,,
+3096486,245107,4348,58180,L. Gassama,true,D,20.0,false,90.0,7.1
+2855557,26257,331,43213,Tashan Oakley-Boothe,false,M,80.0,false,31.0,6.7
+5999450,128096,1551,115347,Abdelrahman Rashid Gomaa,false,D,4.0,false,,
+785846,190342,40,45256,Joe Walsh,false,G,13.0,false,,
+8010102,119689,1386,90976,G. Rusev,true,F,10.0,false,,
+6429576,310348,4574,122521,P. Pinte,false,,7.0,false,,
+6910377,318079,1247,91940,Frank Castañeda,true,,10.0,false,,
+1777258,212785,3456,55019,V. Golemić,true,D,5.0,false,94.0,6.3
+4410094,273212,631,89275,Marvin Potzmann,false,D,19.0,false,,
+8747188,348203,1714,162636,G. Smith,false,,16.0,false,,
+8436531,106131,1143,119062,José Luis Marrufo,true,,14.0,false,,
+7319245,104005,1088,136554,Erwin Saavedra,true,,26.0,false,,
+7456232,113239,1274,57481,Trent Buhagiar,true,,11.0,false,,
+4001832,264884,511,83777,Kohei Okuno,false,M,15.0,false,12.0,6.9
+9509569,356588,909,103031,Lorcan Healy,false,G,19.0,false,,
+2123056,221195,3564,18870,E. Belkalem,true,D,26.0,false,90.0,6.8
+4460299,274430,650,70533,Mijat Marić,true,D,5.0,false,90.0,7.0
+6127635,108269,1173,54254,Anastasios Donis,false,M,99.0,false,53.0,6.3
+5379634,294749,1819,104417,Mihály Korhut,true,D,69.0,false,,
+4834076,281348,742,42944,Kristoffer Nordfeldt,true,G,15.0,false,90.0,7.6
+5808832,132931,1631,111828,Mohamed Nosseir,false,M,19.0,false,,
+2893392,239913,351,70669,O. Renard,false,,24.0,false,,
+8392376,342943,1144,79368,C. Rivas,true,,15.0,false,,
+9053964,351164,1904,114511,Moayed Hassan,false,,9.0,false,,
+443106,182125,94,35821,R. Jackson,true,M,2.0,false,,
+874406,192704,56,19119,T. Bishop,false,M,12.0,false,63.0,6.7
+8701782,346444,1725,81148,C. Brown,true,,30.0,false,,
+2854647,26243,334,44384,Mateus Fernandes,true,M,82.0,false,89.0,8.2
+8771294,142717,1722,81560,J. Hague,true,,12.0,false,,
+1253738,201851,111,43444,G. Lo Celso,false,M,17.0,false,25.0,6.7
+6027096,304745,1168,97699,H. Barry,true,,5.0,false,,
+4931004,283824,774,64350,B. Kopplin,true,M,15.0,true,80.0,7.0
+3241461,248403,400,35305,C. McHugh,true,,8.0,false,,
+2524363,23054,279,65302,Enzo Leopold,true,M,8.0,false,89.0,7.0
+9950436,368656,3852,203994,J. Mambre,false,,,false,,
+7529535,135476,1666,141882,Juan Camilo Zapata,true,F,17.0,false,78.0,6.9
+4357814,271758,4417,89386,T. Ebner,true,M,5.0,false,90.0,6.4
+6582437,313403,1030,125713,Edgar Ferreira,true,,6.0,false,,
+9155047,116704,1335,70350,Pedro Pacheco,true,D,4.0,false,,
+199378,175200,61,18206,M. Bartley,true,,21.0,false,,
+5339568,293610,4524,103979,T. Kyprou,false,,28.0,false,,
+6203150,99203,1017,68308,Vinicio Angulo,false,F,99.0,false,,
+4061189,266480,528,53095,Juan Escobar,true,D,24.0,false,90.0,7.1
+2245778,224238,264,62408,B. Dost,false,,12.0,false,,
+3631609,257395,961,78619,Gabriel Taliari,true,F,19.0,false,90.0,7.9
+8712551,347227,4744,162276,S. Tergou,false,,10.0,false,,
+3193793,247110,378,74148,Cengiz Demir,true,D,27.0,false,90.0,7.0
+1416577,205509,3181,43692,M. Azeez,true,M,16.0,false,66.0,6.7
+5954849,303365,4556,114594,Khaled Al Zereiqi,true,,23.0,false,,
+4975687,284774,4472,97932,Zheng Tao,true,,11.0,false,,
+7507028,136382,1687,141426,D. Morgan,false,M,5.0,false,,
+6517569,312496,1661,123890,M. Hammia,false,,,false,,
+4110565,52033,548,85753,Lucas Merolla,true,D,19.0,false,90.0,7.5
+2415035,228461,284,64484,Dennis Kempe,true,,5.0,false,,
+9229913,353667,163,55453,Armand Lauriente,true,F,45.0,false,59.0,6.9
+4008769,265062,507,83225,Kei Koizumi,false,M,37.0,false,16.0,6.9
+827287,191395,65,19007,T. Craig,true,D,5.0,false,90.0,6.6
+5056817,286569,4484,98441,Baojie Zhu,false,M,33.0,false,,
+8856065,349116,4756,81559,Nick Firmino,true,,8.0,false,,
+8114054,144877,1779,149769,J. Padilla,true,,,false,,
+5215823,290365,889,101194,T. Tahvanainen,false,,7.0,false,,
+5281862,292169,4515,102657,B. McNamee,true,,11.0,false,,
+1838108,214139,183,52501,S. Damiani,false,M,21.0,false,,
+1003758,195739,86,43143,M. Willock,false,M,14.0,false,,
+8147522,120247,1409,151799,H. Pločo,false,,,false,,
+9869223,366505,281,63137,Jean Zimmer,false,,39.0,false,,
+4887144,282608,779,43168,Zanka,true,,25.0,false,,
+8950165,349717,1924,48161,Dani Alves,true,D,2.0,false,,
+194980,175077,76,35330,D. Kedwell,true,,9.0,false,,
+8063381,334669,1790,149911,S. Castellanos,true,,,false,,
+9117345,352050,1917,50731,Tani Oluwaseyi,true,F,12.0,false,76.0,6.9
+6263131,307668,998,120084,Wanderson,false,SUB,4.0,false,,
+1987677,217639,217,59012,Petar Škuletić,false,F,32.0,false,20.0,6.6
+9449622,153177,622,89640,Bernhard Unger,false,G,21.0,false,,
+5513095,145786,1795,105317,Jiří Sláma,true,D,13.0,false,90.0,6.5
+2258602,224595,278,19057,M. Mancienne,true,,3.0,false,,
+6756536,315807,1049,129089,Axel Frugone,true,D,6.0,false,,
+7983228,333560,334,69362,F. Soares,true,,6.0,false,,
+6618886,313722,1220,126707,Dor Elo,true,,18.0,false,,
+8554990,123658,1479,67684,Boyd Reith,true,D,44.0,false,90.0,6.5
+1711063,211915,3469,52719,Gianluca Di Chiara,true,D,17.0,false,,
+2609630,233307,307,52297,Dario Đumić,true,D,3.0,false,90.0,7.2
+1295911,202443,104,50166,Joel Roca,false,M,3.0,false,24.0,6.7
+3233098,248169,418,34917,M. Dumbuya,false,,15.0,false,,
+9247889,354167,383,72807,Fernandão,true,F,9.0,false,,
+4327903,270974,616,88988,Sergey Volkov,false,G,1.0,false,,
+5805282,133454,1617,111799,Abdel Rahman Ashraf Mano,false,,34.0,false,,
+5677670,126469,1505,108118,Hyeon-woo Jo,true,G,21.0,false,90.0,6.9
+3086398,244861,4340,52718,R. Faty,false,M,14.0,false,,
+1882902,214742,176,57706,Seid Korać,false,D,2.0,false,9.0,6.2
+5042590,286321,826,98733,Fan Jinming,false,G,38.0,false,,
+2177590,222719,215,59368,Vital Nsimba,true,D,12.0,false,90.0,7.9
+2512088,231049,290,65273,Niklas Jahn,false,M,37.0,false,,
+4771374,279628,729,95439,Tomas Lavezzi,false,F,36.0,false,,
+6271766,307907,985,120023,Juan Felipe Torres,false,M,6.0,false,,
+3242270,248425,399,75104,K. Holt,true,,3.0,false,,
+7527448,135916,1687,141507,L. Bhengu,false,,24.0,false,,
+6479926,109425,1199,122799,A. Odyntsov,true,G,12.0,false,90.0,7.2
+4925437,283670,1963,73433,P. Kanstrup,true,D,12.0,true,90.0,6.7
+7147902,321884,955,135410,João Marcos,false,M,5.0,false,,
+2344195,226899,255,63021,Dayot Upamecano,true,D,2.0,false,90.0,7.7
+7015774,319291,1559,113853,A. Nourollahi,true,,8.0,false,,
+6142177,305337,1180,52351,J. Zmrhal,true,M,8.0,false,,
+746743,189877,25,43829,Jonathan Tomkinson,false,D,45.0,false,,
+9608182,357240,978,95195,Leandro Lescano,false,,19.0,false,,
+1036421,196651,83,36158,A. Gilliead,true,M,11.0,false,62.0,6.5
+2139666,221670,213,58192,É. Butin,true,F,11.0,false,75.0,6.9
+3553719,255936,456,78978,Bruno Praxedes,false,M,25.0,false,16.0,6.6
+4800678,280427,750,95999,Rasmus Lauritsen,false,M,3.0,false,,
+2385847,227674,264,55450,Aster Vranckx,true,M,6.0,false,85.0,6.3
+7308,169512,38,1308,Sung-Yueng Ki,false,,24.0,false,,
+4995972,285294,4479,84001,Kyung-won Kwon,true,D,21.0,false,90.0,6.7
+4198859,268247,573,86435,Bendik Bye,true,F,13.0,false,66.0,6.7
+6097550,109037,1192,116967,A. Papathanasiou,false,F,9.0,false,,
+4849424,281602,4460,51779,Ibrahim Diabate,false,F,17.0,false,13.0,6.6
+3487708,254465,441,54309,Gilberto,true,D,2.0,false,90.0,7.3
+9261066,354534,906,46599,C. McCarthy,true,,21.0,false,,
+6976441,112875,1254,116701,A. Jurilj,true,F,8.0,false,,
+8197047,136473,1696,153448,A. Horchani,true,,,false,,
+8000146,116946,1343,69633,F. Duarte,true,G,98.0,false,,
+9752144,361611,24,18580,Fernando  Forestieri,true,,11.0,false,,
+6268079,307805,990,119686,Omar Perez,true,M,10.0,false,90.0,7.1
+3234272,248202,398,35296,A. Davies,true,,15.0,false,,
+1528693,207813,164,54142,Alberto Grassi,true,M,88.0,false,72.0,7.2
+8226233,121484,1441,154348,Samy Tory,false,,4.0,false,,
+6412183,309861,4574,122000,Márió Németh,true,,31.0,false,,
+9203303,353136,1379,173856,Beni,false,M,77.0,false,,
+4954591,80539,779,43589,Rúnar Alex Rúnarsson,false,G,31.0,false,,
+2243151,224165,254,62450,J. Akpala,false,,19.0,false,,
+5002097,285451,4475,943,Mousa Dembélé,true,M,8.0,false,90.0,6.7
+4238026,269076,560,86167,Amund Wichne,false,G,1.0,false,,
+4690587,95815,729,94487,Axel Bordon,false,D,24.0,false,,
+7959154,332569,1120,94432,Matias Ezequiel Di Benedetto,true,D,5.0,false,90.0,7.7
+1290728,202327,106,50134,Samú Costa,false,M,12.0,false,26.0,6.9
+8254243,338992,349,59410,Nathan Bitumazala,false,M,10.0,false,17.0,6.3
+3428217,253075,446,76921,Emerson Silva,false,,,false,,
+3762826,140229,488,81755,D. Pereira,false,M,15.0,false,26.0,6.9
+6644076,111038,1217,113844,A. Halaihal,false,M,9.0,false,,
+6737275,100948,1050,128682,Agustín Santurio,false,F,11.0,false,,
+2272202,224973,262,62546,Daniel Didavi,false,M,10.0,false,24.0,7.1
+7332509,103933,1109,138567,Josué Prieto,true,,20.0,false,,
+6429325,310341,1208,122537,K. Herjeczki,false,,92.0,false,,
+6427848,310300,1207,122387,M. Vida,true,,23.0,false,,
+5559897,296730,933,53415,S. Giovinco,true,M,9.0,false,79.0,7.0
+5131754,288493,4496,100429,Andrei Dima,false,F,99.0,false,,
+2435086,229018,287,62642,Mirko Boland,true,M,10.0,false,,
+1601298,209457,156,54181,Elseid Hysaj,true,D,23.0,false,80.0,7.3
+2482433,230305,3389,62478,Marco Terrazzino,false,M,10.0,false,18.0,6.9
+2348128,226998,266,44911,Felix Passlack,true,D,30.0,false,85.0,7.5
+4693320,95875,727,94431,Gonzalo Ríos,false,M,18.0,false,56.0,7.2
+5790749,133702,1635,111527,Abdel Rahman Shika,false,M,37.0,false,,
+7062283,128975,1567,134243,E. Babaei,true,,88.0,false,,
+6289920,308408,988,120185,Arled Cadavid,false,G,22.0,false,,
+7036594,129568,1571,133756,M. Mansouri,true,,37.0,false,,
+9294474,148873,746,67463,M. Chalus,false,D,23.0,false,,
+5394350,148153,1824,92611,F. Sánchez,true,D,14.0,false,,
+1350231,203947,3163,50991,Nacho Sánchez,false,F,11.0,false,27.0,6.9
+427036,181667,8,36000,James Shea,false,G,36.0,false,,
+2619937,233560,298,43441,M. Mount,true,M,19.0,false,90.0,6.6
+2622625,233626,306,66355,Robert Mühren,true,M,10.0,false,90.0,6.2
+5212443,290267,887,101685,A. Marttinen,false,,13.0,false,,
+7550317,326484,1679,140746,Oscarine Masuluke,false,G,30.0,false,,
+1861876,214283,194,52543,Luca Magnino,false,M,6.0,false,12.0,6.6
+1102896,197930,110,19090,Damià,true,,24.0,false,,
+8530575,123839,1478,67507,Robin Lathouwers,false,D,12.0,false,28.0,7.2
+3451919,253650,426,77168,Emerson Sheik,true,,11.0,false,,
+2067059,219368,226,58819,Abdoulaye Bamba,false,D,25.0,false,,
+7866272,331629,1114,147275,Jorge Urteaga,false,M,27.0,false,24.0,6.6
+9226101,119875,1388,143055,G. Ganev,true,G,33.0,false,,
+7517589,136161,1688,141810,L. Jacobs,true,G,1.0,false,,
+7734121,329607,1323,71284,Stefan Drazic,true,,9.0,false,,
+7805633,115265,1320,123087,A. Stojkovic,true,D,2.0,false,90.0,7.9
+4307512,270726,594,88651,David Kokoev,false,M,38.0,false,,
+3510160,254969,423,69327,Messias,true,D,4.0,false,90.0,5.9
+8861976,349279,1606,164275,M. Fall,true,D,25.0,false,52.0,6.8
+8030850,119161,1399,49900,Cheikh Diamanka,false,F,29.0,false,,
+275453,177320,52,1368,B. Reeves,false,D,12.0,false,,
+5166094,289040,865,70345,I. Stoica,false,F,7.0,false,20.0,6.2
+2308311,225977,260,43218,Aleksandar Dragović,true,D,6.0,false,90.0,6.9
+7985051,333612,1377,70014,Elves Baldé,false,,89.0,false,,
+6921703,112206,1240,86681,J. Pirinen,true,D,66.0,false,,
+4206182,268436,569,86967,J. Sery,false,D,2.0,false,,
+3511160,254991,439,77176,Fred,true,F,9.0,false,90.0,7.1
+3598795,37231,430,77380,Alisson,true,M,25.0,false,62.0,6.9
+2426653,228784,284,62591,Manuel Torres,true,M,18.0,false,,
+3236881,248275,4358,41945,R. Thomson,false,G,35.0,false,,
+623902,186536,4,1210,D. Fox,false,D,13.0,false,30.0,6.4
+6639560,314514,1215,126626,I. Nitzan,true,G,1.0,false,,
+7127445,321389,437,77891,Rômulo,false,,,false,,
+9337026,355242,388,72388,Necip Uysal,false,,20.0,false,,
+2029498,218699,225,59041,Mickaël Alphonse,false,D,2.0,false,,
+3704715,259404,479,81132,T. Endoh,false,M,9.0,false,,
+3021589,243097,1442,71965,David Hrnčár,false,D,20.0,false,,
+8013993,119292,1386,70319,A. Bastunov,true,F,20.0,false,,
+3335659,250735,419,75226,R. Laidlaw,false,,17.0,false,,
+4154099,267023,562,86213,J. Grønner,true,D,5.0,false,90.0,7.2
+717818,189083,8,18492,Martin Cranie,false,D,2.0,false,,
+6267666,307794,984,119716,Luis Narváez,true,M,15.0,false,90.0,7.3
+1828650,213929,170,54479,Gianluca Lapadula,true,F,9.0,false,90.0,6.3
+7622962,114677,1281,143385,M. Tlumak,false,,4.0,false,,
+2430460,228890,281,62772,P. Ziegler,true,D,4.0,false,,
+7087425,320391,4635,135226,Edson Veneno,false,,,false,,
+6556695,133837,1644,123609,Y. Medane,true,,,false,,
+5102343,287742,4497,100069,B. Yaméogo,false,SUB,7.0,false,,
+7501873,136252,1690,68239,Jonas Mendes,false,G,1.0,false,,
+8030488,119152,1386,148738,R. Kirilov,true,M,10.0,false,,
+2623325,233643,300,65773,Willem Janssen,true,,14.0,false,,
+6227417,306722,1016,118893,Patrik Mercado,true,M,7.0,false,65.0,6.6
+9225093,119847,1393,107178,Martin Lukov,true,G,71.0,false,,
+8377786,342406,1150,156487,Jesús Lugo,true,,7.0,false,,
+6016658,304369,1160,115874,D. Lyopa,true,,27.0,false,,
+9640201,161685,31,45239,Josh Coburn,false,F,19.0,false,10.0,6.3
+4893635,282788,4465,97044,H. Hansson,true,M,17.0,false,,
+9803509,157430,2666,179910,N. Fox,true,,,false,,
+8381252,342631,1140,156675,G. Schiavone,false,,12.0,false,,
+2583124,232607,310,66200,X. Schenk,true,,5.0,false,,
+3870228,261355,498,82789,R. Noda,true,,18.0,false,,
+6434920,310499,1200,122006,János Hahn,true,,9.0,false,,
+4968633,284595,4471,97900,Xiaofei Deng,true,G,1.0,false,90.0,6.4
+3334668,250708,4363,76085,D. Lyle,true,,19.0,false,,
+4161397,267226,573,86524,Olav Oby,true,M,22.0,false,55.0,6.4
+2392677,227845,259,49008,Philipp Lienhart,true,D,3.0,false,45.0,6.9
+9193428,118025,1377,51887,E. Ferigra,true,D,23.0,false,,
+463699,182698,17,1837,Cesc Fàbregas,true,M,4.0,false,90.0,7.1
+7787120,116028,1313,145662,M. Savić,false,F,27.0,false,,
+4301376,270586,581,87818,D. Zhivoglyadov,true,D,2.0,false,90.0,6.9
+2421871,228651,3422,63711,Maximilian Wittek,true,,32.0,false,,
+8591680,122990,298,1339,Alexander Büttner,true,M,28.0,true,84.0,7.2
+5475615,147092,1803,105491,J. Jeřábek,true,M,14.0,false,,
+9075516,161552,1926,43584,Zack Steffen,true,,1.0,false,,
+2304195,225863,290,62705,O. Petrak,true,M,31.0,false,90.0,7.3
+4420997,273353,619,60027,Amar Dedić,true,D,70.0,true,90.0,7.5
+7429438,113857,1273,140108,S. Abdullazada,false,,8.0,false,,
+3329005,250549,419,74737,J. Baird,true,,,false,,
+886028,193027,58,45804,T. Goodrham,false,M,27.0,false,17.0,6.3
+4443736,273970,647,58070,G. Hoarau,false,F,99.0,false,,
+9396155,149726,1859,175296,Ágúst Orri Thorsteinsson,false,M,15.0,false,,
+5947065,303077,1557,114539,Omar Ebrahim,true,,11.0,false,,
+3769056,140386,486,71098,R. Leal,false,M,8.0,false,45.0,6.6
+1493257,207012,161,53996,Kevin Strootman,true,,6.0,false,,
+1369894,204445,3160,51721,Sergio García,false,M,32.0,false,,
+8289653,339973,1452,104793,Luka Gugeshashvili,true,,,false,,
+5919108,127364,1526,113605,Ahmed Abunamous,false,F,42.0,false,29.0,7.0
+4391749,272702,626,75663,Sven Sprangler,false,M,19.0,false,,
+3723779,259934,465,70724,Frederic Brillant,true,D,13.0,false,90.0,7.5
+9881333,366841,3380,193872,L. Benz,false,,2.0,false,,
+1525806,207748,157,52559,Eugenio Lamanna,true,G,23.0,false,90.0,6.3
+665763,187692,29,44823,Niclas Eliasson,true,M,19.0,false,62.0,7.0
+2358699,227264,255,63198,Alphonso Davies,true,M,19.0,false,90.0,7.9
+5476321,147112,1794,105362,Filip Havelka,true,M,23.0,false,,
+7566678,326927,1301,142470,Y. Shturko,true,,21.0,false,,
+9117296,352035,4857,63973,Lazar Jovanović,true,,7.0,false,,
+5629824,297142,1514,108088,Jae Sung Kim,true,,77.0,false,,
+2190783,223086,246,59593,K. Boto,true,D,14.0,false,90.0,6.9
+536609,184666,13,43434,Joelinton,true,M,7.0,false,90.0,7.2
+3189201,247000,388,74447,K. Arroyo,false,,10.0,false,,
+3320086,250255,412,76034,R. Goodfellow,false,,,false,,
+2478482,230206,278,63565,Jonas David,false,D,34.0,false,,
+4621218,278118,4435,93223,Said Llambay,false,M,22.0,false,,
+3156744,246558,378,73906,Engin Aksoy,false,D,57.0,false,,
+5640385,297435,1513,108003,Ji-hun Jo,true,,6.0,false,,
+8447975,343022,1137,158557,D. A. Vasquez Ferrer,false,,20.0,false,,
+7166460,322324,946,107903,Moisés,true,F,11.0,false,45.0,
+3151937,246444,4352,73288,Hamidou Traoré,true,M,8.0,false,90.0,7.3
+2180403,222797,245,60890,Emmanuel Ntim,true,D,25.0,false,90.0,6.6
+778528,2347,28,36328,S. Wharton,true,D,16.0,false,90.0,7.3
+6599938,100321,1028,81267,H. Villalba,true,,15.0,false,,
+5175388,289250,4503,100437,Marian Lis,false,M,7.0,false,,
+7431257,113675,1269,139905,Q. Aliyev,true,,32.0,false,,
+2223969,223637,237,61777,Thibault Delphis,false,D,41.0,false,17.0,6.7
+7603186,304154,1553,115280,H. Mohamad,false,,44.0,false,,
+4401830,272983,4418,89964,Leo Mikić,true,M,21.0,false,86.0,8.2
+9270472,354796,1957,172953,N. Mashichev,false,M,9.0,false,,
+2315241,226168,260,50299,D. Sinkgraven,false,M,22.0,false,,
+6728846,101386,1062,128500,Emiliano Villar,true,,18.0,false,,
+8564243,123112,1476,66783,Martijn Berden,false,F,17.0,false,26.0,7.7
+7692890,329283,1590,54137,J. Brillante,true,M,6.0,false,90.0,7.2
+7910511,104875,1134,56742,Alessandro Milesi,false,D,3.0,false,13.0,6.3
+1582750,209031,170,54085,Filippo Romagna,true,D,56.0,false,90.0,6.3
+5069439,286827,869,99421,Nicușor Bancu,true,,11.0,false,,
+4332666,271082,594,88456,Eduard Spertsyan,true,M,10.0,true,74.0,7.2
+9432535,154179,880,101720,M. Töyräs,false,G,31.0,false,,
+6147424,305458,1002,117666,G. Dos Santos,false,,,false,,
+5645997,297591,1505,107805,Yun Young-Sun,true,,20.0,false,,
+5804288,133429,1623,111847,Mohamed Nadim,false,G,34.0,false,,
+1506127,207305,171,54072,E. Friberg,true,,11.0,false,,
+3977089,264341,492,78578,Juan,true,M,47.0,false,90.0,6.7
+7549725,326472,1675,141845,Lebone Seema,true,D,33.0,false,90.0,6.9
+7434882,113760,1269,139905,Q. Aliyev,true,,32.0,false,,
+674471,187934,32,966,S. Morison,false,F,20.0,false,10.0,6.7
+6576087,313227,4594,92985,J. Rodríguez,true,,,false,,
+4113854,52116,528,66716,C. Antuna,true,,7.0,false,,
+7736149,329680,1325,145094,Nikola Radovic,true,,11.0,false,,
+6603596,100152,1027,126333,Alvaro Cuello,false,,20.0,false,,
+7398073,324572,4653,139639,C. Məhərrəmov,true,,30.0,false,,
+6013734,304287,1160,115753,G. Boban,true,,7.0,false,,
+1692270,211453,3460,52382,S. Sini,false,D,23.0,false,,
+3612294,256980,432,78006,Samuel Xavier,true,D,2.0,false,90.0,7.6
+4732289,95094,705,1864,S. Blanco,false,M,29.0,false,9.0,6.7
+1207311,200794,110,49563,S. Herrera,true,G,1.0,false,90.0,7.7
+7360721,102837,1096,138982,R. Vasquez,true,M,30.0,false,61.0,6.9
+10002834,164532,1377,43843,Kayky,false,,,false,,
+1970257,217156,219,58385,Majeed Waris,true,F,10.0,false,30.0,6.1
+7312303,323802,1095,137839,Jose Peñarrieta,false,,13.0,false,,
+5847070,301332,1622,111551,Hamed Hemdan,false,D,12.0,false,90.0,7.7
+9134145,352747,336,43158,Danilo,true,,2.0,false,,
+5692752,297722,1512,108176,Kim Tae-han,true,D,4.0,false,90.0,7.2
+3377632,251908,417,35167,S. McGinty,true,,5.0,false,,
+9420769,356223,619,89984,Mamady Diambou,false,M,15.0,false,,
+2857203,238960,331,1249,Nani,true,M,17.0,false,64.0,6.7
+9241409,353987,357,70492,Rafinha,true,M,4.0,false,89.0,6.6
+658299,187485,32,35998,Tom Elliott,false,F,19.0,false,9.0,6.6
+2668235,234728,300,67317,R. Shein,false,M,38.0,false,,
+1944949,216454,209,45314,Aaron Leya Iseka,false,F,22.0,false,,
+3885324,261813,4375,82659,Y. Muto,false,,19.0,false,,
+2457387,229638,290,59840,Ulisses Garcia,false,D,3.0,false,,
+3368848,251668,419,46574,R. Hendry,true,,8.0,false,,
+3405761,252484,954,77088,Marquinhos Paraná,true,,,false,,
+10036555,165122,311,44358,Yankuba Minteh,true,M,19.0,false,72.0,6.2
+575588,185261,7,1253,D. Welbeck,true,F,18.0,false,85.0,6.9
+2067619,219382,216,59988,Aladji Bamba,false,M,23.0,false,,
+8501036,344358,306,66611,Lassana Faye,false,,12.0,false,,
+6664758,110602,1213,127028,Ali Mohamed,true,M,4.0,false,,
+180517,174671,15,19017,H. Dean,true,,6.0,false,,
+3219480,247790,403,74762,A. Mannus,true,,1.0,false,,
+7626800,114387,1283,143568,O. Palamarchuk,true,G,12.0,false,,
+238290,176285,45,34733,M. Cullen,true,,9.0,false,,
+6678639,110468,1212,127514,S. Khvadagiani,false,D,44.0,false,,
+6459785,109745,1208,122579,N. Kovács,false,M,33.0,false,,
+9270776,354805,1293,48898,Fran Sol,false,F,9.0,false,,
+532519,184563,2,1606,Fernandinho,false,M,25.0,false,,
+8723208,347527,1731,162336,I. Parra,false,,38.0,false,,
+4385997,272543,631,65155,Reinhold Ranftl,true,D,26.0,false,90.0,7.4
+2796278,237707,324,48923,Jackson Martínez,false,F,9.0,false,27.0,6.7
+6249761,307298,985,81239,Jorge Bava,true,G,34.0,false,90.0,7.4
+4025042,265477,537,84619,J. García,false,D,18.0,false,,
+2092579,220214,3912,58071,A. M'Madi,false,,11.0,false,,
+6622436,313821,1224,1466,T. Ben Haim,true,,26.0,false,,
+3095488,245082,382,73404,Oleksandr Gladkiy,false,F,9.0,false,12.0,6.4
+7660394,328291,1286,143223,R. Chernenko,false,M,17.0,false,,
+2026467,218623,217,58790,Arnaud Nordin,false,F,7.0,false,35.0,6.5
+2638675,234018,311,43970,Luis Sinisterra,true,F,17.0,false,80.0,6.7
+1268252,10205,114,1283,Oriol Romeu,false,M,18.0,false,13.0,6.7
+9554794,155308,442,77089,Reinaldo,true,D,6.0,false,90.0,8.6
+9636070,161767,29,43011,T. Klose,true,D,25.0,false,45.0,6.2
+9814913,155646,18,43753,Ibrahima Konaté,true,D,5.0,false,90.0,7.2
+8518723,124314,1481,67140,Daan Reiziger,false,G,12.0,false,,
+4275183,269960,583,88271,Dmitri Chistyakov,false,D,78.0,false,,
+3332188,250638,4363,74908,M. Paton,false,,15.0,false,,
+2987394,242512,356,71398,R. Decostere,false,D,8.0,false,,
+5055091,286531,827,99140,Tao Zhang,false,D,43.0,false,,
+3461919,253879,2790,77013,Walter,true,F,18.0,false,90.0,6.7
+6980730,112619,1265,50523,Coba da Costa,true,F,92.0,false,,
+1234834,201421,111,43444,G. Lo Celso,true,F,17.0,false,90.0,7.5
+6106095,108317,1190,117236,I. Koné,false,,6.0,false,,
+5366788,294392,1821,1394,M. Marin,false,M,10.0,false,,
+8923,169558,26,1052,C. Yacob,true,,5.0,false,,
+4454077,274257,640,62850,A. Hirzel,false,G,30.0,false,,
+3866016,261233,503,82670,Shinzo Koroki,true,,13.0,false,,
+2130559,221416,3655,18584,R. Boukari,false,M,11.0,false,3.0,6.5
+1377903,204625,3160,51722,Álvaro Arnedo,false,M,6.0,false,,
+8656422,124827,1492,102939,R. Jurkovskis,true,,13.0,false,,
+6485950,109167,1204,123087,A. Stojkovic,false,D,30.0,false,,
+1747094,14204,164,50521,Juan Musso,true,G,1.0,false,90.0,6.7
+9084992,160401,2001,65642,S. Alexandropoulos,false,,8.0,false,,
+795163,190574,21,45874,Isaac Schmidt,false,D,33.0,false,,
+5837778,132502,1612,111670,Mohamed Mostafa Mido,true,,21.0,false,,
+9833300,365784,19,1259,Rafael,true,,2.0,false,,
+5957783,303473,4557,114879,Majed Khalfan,false,,20.0,false,,
+9064929,351481,2629,84982,Anderson Santamaría,false,D,4.0,false,,
+7712553,130313,1588,60831,Nuno Reis,true,D,4.0,false,80.0,6.9
+4190611,268033,550,86107,Viljar Myhra,true,G,1.0,false,90.0,6.3
+8343072,340674,1157,156720,C. Rojas,true,,,false,,
+2610769,233334,299,54966,Gastón Pereiro,true,M,7.0,false,58.0,6.7
+3541619,255667,960,79015,Vitor Leque,false,F,22.0,false,,
+1679342,211163,170,52816,Sebastiano Esposito,true,F,94.0,false,90.0,6.6
+1834958,214069,3463,52595,Georgi Tunjov,true,M,40.0,false,45.0,7.0
+3177071,29263,379,73508,Murat Paluli,true,D,99.0,false,89.0,7.2
+764965,2005,30,45653,M. Osmajić,true,F,28.0,false,64.0,6.2
+7563299,326832,4670,49161,Denys Boyko,true,,71.0,false,,
+7782902,115930,1325,145315,P. Medić,false,M,16.0,false,,
+820767,191214,43,36495,Adam Matthews,false,D,2.0,false,,

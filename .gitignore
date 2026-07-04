@@ -1,0 +1,32 @@
+# Working / build artifacts (never committed)
+build/
+data/
+*.duckdb
+*.duckdb.wal
+
+# Raw source snapshots + full data are distributed via Hugging Face / Postgres, not Git.
+# (kept on disk locally so the pipeline can run; not committed)
+/csv/
+/parquet/
+
+# Secrets (defense in depth — secrets live outside the repo)
+*.secret
+.env
+secrets.txt
+pizzatipzhetzner.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Inter-session scratch handoff (Cloudbet catalogue now lives in metadata/)
+/_handoff/
