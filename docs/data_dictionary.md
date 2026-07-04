@@ -51,8 +51,8 @@ _Regenerated from the curated data. One section per table._
 | `away_yellow_cards` | integer | 21.2% |  |
 | `home_red_cards` | integer | 22.7% |  |
 | `away_red_cards` | integer | 22.7% |  |
-| `home_xg` | number | 53.6% | Home expected goals. NULL where the league-season is not xG-covered (fake zeros removed) or the value was implausible (>6). |
-| `away_xg` | number | 53.6% | Away expected goals (see home_xg caveat). |
+| `home_xg` | number | 53.6% | Home expected goals. **Coarse provider estimate**: API-Football xG is a deterministic shots-by-zone formula (empirically xG ≈ 0.115·shots_inside_box + 0.035·shots_outside_box + 0.648·penalties, R²≈1.0), NOT a StatsBomb/Opta per-shot model. NULL where the league-season is not xG-covered (fake zeros removed) or the value was implausible (>6). |
+| `away_xg` | number | 53.6% | Away expected goals (see home_xg: coarse zone-based provider estimate). |
 | `home_possession` | integer | 62.5% | Home possession % (0-100). |
 | `away_possession` | integer | 62.5% | Away possession % (0-100). |
 | `home_fouls` | integer | 47.9% |  |

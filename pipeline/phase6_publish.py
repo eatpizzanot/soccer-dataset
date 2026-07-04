@@ -58,9 +58,12 @@ DESC: dict[str, dict[str, str]] = {
     },
     "match_stats": {
         "fixture_id": "FK -> fixtures.id (one row per fixture).",
-        "home_xg": "Home expected goals. NULL where the league-season is not xG-covered "
-                   "(fake zeros removed) or the value was implausible (>6).",
-        "away_xg": "Away expected goals (see home_xg caveat).",
+        "home_xg": "Home expected goals. **Coarse provider estimate**: API-Football xG is a "
+                   "deterministic shots-by-zone formula (empirically xG ≈ 0.115·shots_inside_box "
+                   "+ 0.035·shots_outside_box + 0.648·penalties, R²≈1.0), NOT a StatsBomb/Opta "
+                   "per-shot model. NULL where the league-season is not xG-covered (fake zeros "
+                   "removed) or the value was implausible (>6).",
+        "away_xg": "Away expected goals (see home_xg: coarse zone-based provider estimate).",
         "xg_covered": "False if this league-year was detected as lacking real xG coverage.",
         "xg_nulled": "True if the xG on this row was nulled by the fake-zero/anomaly fix.",
         "home_possession": "Home possession % (0-100).", "away_possession": "Away possession % (0-100).",
@@ -242,10 +245,11 @@ Both-Teams-To-Score (BTTS) and goals modelling.** Sourced from
   Cloudbet-covered leagues have shorter history. Per-league coverage is in
   `league_catalogue` (`history_status` = full / recent_only / partial) — check it before
   assuming a league is complete.
-- **xG is a crude, provider-supplied approximation** (roughly a shots-by-zone model from
-  API-Football), not a StatsBomb/Opta-grade xG. Match-level total-xG↔goals correlation is
-  ~0.38 even for clean top leagues. It is nulled entirely for league-seasons the provider
-  does not cover (see `xg_covered`); never treat missing xG as `0`.
+- **xG is a coarse, provider-supplied estimate — not a real per-shot model.** API-Football's
+  xG is a deterministic shots-by-zone formula (empirically `xg ≈ 0.115·shots_inside_box +
+  0.035·shots_outside_box + 0.648·penalties`, R²≈1.0); it carries no shot-quality signal
+  beyond zone counts and correlates only ~0.4 with actual goals. It is nulled entirely for
+  league-seasons the provider does not cover (see `xg_covered`); never treat missing xG as `0`.
 
 ## What makes this clean
 
@@ -352,9 +356,10 @@ https://github.com/{HF_NAMESPACE}
   12-dimension QA gate (`QUALITY_REPORT.md`).
 
 **Caveats:** league history is uneven — check `league_catalogue.history_status`
-(full / recent_only / partial) per league. `xg` is a **crude provider approximation**
-(shots-by-zone, not Opta/StatsBomb grade) and is `NULL` for uncovered league-seasons; never
-treat missing xG as `0`.
+(full / recent_only / partial) per league. `xg` is a **coarse provider estimate, not a real
+per-shot xG model**: API-Football xG is a deterministic shots-by-zone formula (empirically
+`xg ≈ 0.115·shots_inside_box + 0.035·shots_outside_box + 0.648·penalties`, R²≈1.0), correlates
+~0.4 with goals, and is `NULL` for uncovered league-seasons; never treat missing xG as `0`.
 
 ```python
 from datasets import load_dataset

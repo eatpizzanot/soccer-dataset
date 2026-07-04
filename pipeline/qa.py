@@ -242,9 +242,11 @@ def _write_report(con, summary):
     except Exception:
         pass
     lines += ["## Caveats", "",
-              "- **xG is a crude provider approximation** (API-Football shots-by-zone, not "
-              "Opta/StatsBomb grade). Match-level total-xG↔goals correlation is ~0.38 even for "
-              "clean top leagues. It is `NULL` for league-seasons the provider does not cover "
+              "- **xG is a coarse provider estimate, not a real per-shot model.** API-Football's "
+              "xG is a deterministic shots-by-zone formula (empirically "
+              "`xg ≈ 0.115·shots_inside_box + 0.035·shots_outside_box + 0.648·penalties`, R²≈1.0); "
+              "it carries no shot-quality signal beyond zone counts and correlates only ~0.4 with "
+              "actual goals. It is `NULL` for league-seasons the provider does not cover "
               "(`xg_covered=false`); never treat missing xG as `0`.",
               "- **League history is uneven** — some newly-added leagues are `recent_only`; see "
               "the table above and `league_catalogue`.", ""]

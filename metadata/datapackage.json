@@ -19,7 +19,7 @@
       "path": "https://www.football-data.co.uk/"
     }
   ],
-  "created": "2026-07-04T22:59:07.450623+00:00",
+  "created": "2026-07-04T23:05:43.794287+00:00",
   "resources": [
     {
       "name": "fixtures",
@@ -245,12 +245,12 @@
           {
             "name": "home_xg",
             "type": "number",
-            "description": "Home expected goals. NULL where the league-season is not xG-covered (fake zeros removed) or the value was implausible (>6)."
+            "description": "Home expected goals. **Coarse provider estimate**: API-Football xG is a deterministic shots-by-zone formula (empirically xG \u2248 0.115\u00b7shots_inside_box + 0.035\u00b7shots_outside_box + 0.648\u00b7penalties, R\u00b2\u22481.0), NOT a StatsBomb/Opta per-shot model. NULL where the league-season is not xG-covered (fake zeros removed) or the value was implausible (>6)."
           },
           {
             "name": "away_xg",
             "type": "number",
-            "description": "Away expected goals (see home_xg caveat)."
+            "description": "Away expected goals (see home_xg: coarse zone-based provider estimate)."
           },
           {
             "name": "home_possession",

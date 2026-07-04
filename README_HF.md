@@ -51,9 +51,10 @@ https://github.com/eatpizzanot/soccer-dataset
   12-dimension QA gate (`QUALITY_REPORT.md`).
 
 **Caveats:** league history is uneven — check `league_catalogue.history_status`
-(full / recent_only / partial) per league. `xg` is a **crude provider approximation**
-(shots-by-zone, not Opta/StatsBomb grade) and is `NULL` for uncovered league-seasons; never
-treat missing xG as `0`.
+(full / recent_only / partial) per league. `xg` is a **coarse provider estimate, not a real
+per-shot xG model**: API-Football xG is a deterministic shots-by-zone formula (empirically
+`xg ≈ 0.115·shots_inside_box + 0.035·shots_outside_box + 0.648·penalties`, R²≈1.0), correlates
+~0.4 with goals, and is `NULL` for uncovered league-seasons; never treat missing xG as `0`.
 
 ```python
 from datasets import load_dataset

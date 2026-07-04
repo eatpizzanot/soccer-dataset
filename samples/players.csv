@@ -1,1001 +1,1001 @@
 id,api_football_id,name,firstname,lastname,age,nationality,height,weight,photo,in_csv,in_pq
-81083,87649,C. Simonin,,,,,,,https://media.api-sports.io/football/players/87649.png,true,true
-174593,105764,D. Merendino,,,,,,,,true,true
-142480,222774,D. Golaydo,,,,,,,,true,true
-179736,154221,J. Wastell,,,,,,,,true,true
-134820,532935,M. M. Ahmadi,,,,,,,,true,true
-117542,269249,Geron Tocka,,,,,,,,true,true
-170474,353406,J. Pereira,,,,,,,,true,true
-136428,70321,Anderson,,,,,,,,true,true
-202078,85838,H. Randriantsara,,,,,,,,true,true
-168279,472469,Cameron Smith,,,,,,,https://media.api-sports.io/football/players/472469.png,true,true
-116365,134700,Marko Žuljević,,,,,,,https://media.api-sports.io/football/players/134700.png,true,true
-116914,137311,A. Hadjigavriel,,,,,,,,true,true
-139788,221463,S. Hasanov,,,,,,,,true,true
-125862,95334,H. Benítez,,,,,,,,true,true
-159766,525839,Robin van Asten,,,,,,,https://media.api-sports.io/football/players/525839.png,true,true
-214092,434917,Sana Mané,,,,,,,,true,true
-83037,225160,T. Yokotake,,,,,,,,true,true
-96193,47784,Sebastian Crona,,,,,,,https://media.api-sports.io/football/players/47784.png,true,true
-56135,31612,Mariano Arini,,,,,,,https://media.api-sports.io/football/players/31612.png,true,true
-162028,102562,O. Jiménez,,,,,,,,true,true
-209666,437762,A. Dosso,,,,,,,,true,true
-209084,398796,Y. El Menan,,,,,,,,true,true
-170519,360445,G. Mpole,,,,,,,,true,true
-202848,22761,L. Remond,,,,,,,,true,true
-216944,133696,J. Wielinga,,,,,,,,true,true
-134103,29900,A. Monazzemi,,,,,,,,true,true
-206969,346549,M. Legal,,,,,,,,true,true
-79329,349324,Matheus Zancan Buzatto,,,,,,,,true,true
-218779,487508,D. Hellings,,,,,,,,true,true
-132079,265697,Jakub Sova,,,,,,,,true,true
-88012,43397,Ismail Yediev,,,,,,,https://media.api-sports.io/football/players/43397.png,true,true
-70811,114281,J. Kamba,,,,,,,,true,true
-106473,44416,Ali Alzubaidi,,,,,,,https://media.api-sports.io/football/players/44416.png,true,true
-75055,117258,A. Neil,,,,,,,,true,true
-124725,350131,A. Chaaraoui,,,,,,,,true,true
-127993,51800,A. Ravecca,,,,,,,,true,true
-145875,306351,Ryohei Miyazaki,,,,,,,,true,true
-35823,17956,E. Osadebe,,,,,,,https://media.api-sports.io/football/players/17956.png,true,true
-136889,268128,Joao Siqueira,,,,,,,https://media.api-sports.io/football/players/268128.png,true,true
-108871,547427,Ri Yong-jik,,,,,,,,true,true
-124485,302567,I. Boukhelifa,,,,,,,,true,true
-63333,24917,Denis Thomalla,,,,,,,https://media.api-sports.io/football/players/24917.png,true,true
-151660,369015,B. Rekić,,,,,,,,true,true
-212688,626196,Idris Kadded,,,,,,,https://media.api-sports.io/football/players/626196.png,true,true
-63075,25326,Johannes Eggestein,,,,,,,https://media.api-sports.io/football/players/25326.png,true,true
-154491,194817,Jeovanni Dianganga,,,,,,,https://media.api-sports.io/football/players/194817.png,true,true
-60014,445604,Joel Emmanuel Coulibaly,,,,,,,https://media.api-sports.io/football/players/445604.png,true,true
-191421,610287,A. Montes,,,,,,,,true,true
-121983,66859,D. Kovacevic,,,,,,,,true,true
-109836,386355,Z. Labib,,,,,,,,true,true
-109665,334389,S. Chihab,,,,,,,,true,true
-188763,495003,G. Bailey,,,,,,,,true,true
-47444,340816,H. Minturn,,,,,,,https://media.api-sports.io/football/players/340816.png,true,true
-180632,122564,Mohamed Mizzian,,,,,,,https://media.api-sports.io/football/players/122564.png,true,true
-115634,533871,A. Fayez,,,,,,,,true,true
-167934,620242,A. Callwood,,,,,,,,true,true
-110862,253312,Amir Azmy,,,,,,,,true,true
-168185,554337,J. Jones,,,,,,,,true,true
-85619,12406,Carlos Rotondi,,,,,,,https://media.api-sports.io/football/players/12406.png,true,true
-53557,2858,Albin Ekdal,,,,,,,https://media.api-sports.io/football/players/2858.png,true,true
-138001,65716,A. Paniagua,,,,,,,,true,true
-122906,45454,M. Vranjanin,,,,,,,https://media.api-sports.io/football/players/45454.png,true,true
-62016,374504,Samba Diba,,,,,,,https://media.api-sports.io/football/players/374504.png,true,true
-48081,26846,Marc Fernández Gracia,,,,,,,https://media.api-sports.io/football/players/26846.png,true,true
-36507,19794,K. Dougall,,,,,,,https://media.api-sports.io/football/players/19794.png,true,true
-153097,296460,I. Taboubi,,,,,,,,true,true
-140587,546361,E. Safarov,,,,,,,,true,true
-175462,142681,D. Silva,,,,,,,,true,true
-115600,534080,O. Barry,,,,,,,,true,true
-183712,255407,O. Dalen,,,,,,,,true,true
-157369,53089,M. Murillo,,,,,,,,true,true
-139289,549610,L. Figueroa,,,,,,,,true,true
-162107,240934,J. Kyei,,,,,,,,true,true
-109434,192355,M. Rahim,,,,,,,https://media.api-sports.io/football/players/192355.png,true,true
-201110,85321,B. Lezis,,,,,,,,true,true
-66121,12133,R. Barroilhet,,,,,,,,true,true
-131197,201905,Vicente Bernedo,,,,,,,https://media.api-sports.io/football/players/201905.png,true,true
-157058,224334,G. Rivas,,,,,,,,true,true
-189101,615646,B. Pollock,,,,,,,,true,true
-138776,375914,Kevin de Souza,,,,,,,,true,true
-156694,103872,M. Padilla,,,,,,,,true,true
-69557,41886,Alvarinho,,,,,,,https://media.api-sports.io/football/players/41886.png,true,true
-114123,474161,Hamid Yahya,,,,,,,https://media.api-sports.io/football/players/474161.png,true,true
-116358,131435,Jakov Karabatić,,,,,,,https://media.api-sports.io/football/players/131435.png,true,true
-174531,105844,E. Françoise,,,,,,,,true,true
-185975,82405,C. Smith,,,,,,,https://media.api-sports.io/football/players/82405.png,true,true
-155380,255509,N. Eliauri,,,,,,,,true,true
-47895,525873,Fate Kotey,,,,,,,https://media.api-sports.io/football/players/525873.png,true,true
-186398,154150,T. Cummings,,,,,,,,true,true
-144304,67446,C. Gligor,,,,,,,https://media.api-sports.io/football/players/67446.png,true,true
-120732,344687,J. Tovar,,,,,,,,true,true
-209800,437354,G. Landre,,,,,,,,true,true
-69822,10079,Vitor Eudes,,,,,,,https://media.api-sports.io/football/players/10079.png,true,true
-94428,51480,Armando Méndez,,,,,,,https://media.api-sports.io/football/players/51480.png,true,true
-57000,310432,Andrea Caliò,,,,,,,https://media.api-sports.io/football/players/310432.png,true,true
-158874,37752,G. Vlak,,,,,,,,true,true
-184135,112994,P. Leucă,,,,,,,,true,true
-64700,90699,Tim Wiesner,,,,,,,https://media.api-sports.io/football/players/90699.png,true,true
-200646,86124,A. Garcia,,,,,,,,true,true
-187045,155487,K. Wells,,,,,,,,true,true
-191586,610039,D. Cano,,,,,,,,true,true
-169296,22868,R. Sélé,,,,,,,,true,true
-186040,153957,D. Chadwick,,,,,,,,true,true
-203399,83770,M. Thirouin,,,,,,,,true,true
-132900,85910,E. Eckert,,,,,,,,true,true
-130503,541299,D. Diaz,,,,,,,,true,true
-189998,497595,Pupy,,,,,,,,true,true
-53915,30949,M. Albertazzi,,,,,,,https://media.api-sports.io/football/players/30949.png,true,true
-200658,85226,J. Chang Koei Chang,,,,,,,,true,true
-205054,192684,D. Brocard,,,,,,,,true,true
-140687,99099,H. Kiiza,,,,,,,,true,true
-165597,73804,Mohamed Husseini,,,,,,,https://media.api-sports.io/football/players/73804.png,true,true
-104303,592,G. Giannoutsos,,,,,,,https://media.api-sports.io/football/players/592.png,true,true
-119586,13620,Stalin Motta,,,,,,,https://media.api-sports.io/football/players/13620.png,true,true
-188901,494261,T. Cole,,,,,,,,true,true
-99738,43162,Răzvan Trif,,,,,,,https://media.api-sports.io/football/players/43162.png,true,true
-67209,152850,Dirk Proper,,,,,,,https://media.api-sports.io/football/players/152850.png,true,true
-213376,295356,Leandro Vieira,,,,,,,,true,true
-181195,181636,Joel,,,,,,,,true,true
-207904,386592,P. Jarnot,,,,,,,,true,true
-185966,231930,R. Smith,,,,,,,,true,true
-90976,11317,G. Rusev,,,,,,,https://media.api-sports.io/football/players/11317.png,true,true
-69833,9623,Juninho Vieira,,,,,,,https://media.api-sports.io/football/players/9623.png,true,true
-126774,110969,R. Cohen,,,,,,,,true,true
-75699,45265,L. Dick,,,,,,,,true,true
-129245,13927,A. Mata,,,,,,,,true,true
-139564,124689,C. Kazımov,,,,,,,,true,true
-82172,63439,Y. Cheberko,,,,,,,https://media.api-sports.io/football/players/63439.png,true,true
-196650,136081,D. Nemia,,,,,,,,true,true
-111171,17180,Islam Gamal,,,,,,,https://media.api-sports.io/football/players/17180.png,true,true
-55571,451504,Jeff Ekhator,,,,,,,https://media.api-sports.io/football/players/451504.png,true,true
-84987,13791,Arley Rodríguez,,,,,,,https://media.api-sports.io/football/players/13791.png,true,true
-90203,503615,Tristan Schoppitsch,,,,,,,https://media.api-sports.io/football/players/503615.png,true,true
-66961,135497,V. Timmers,,,,,,,,true,true
-98583,12878,Li Jinqing,,,,,,,https://media.api-sports.io/football/players/12878.png,true,true
-34956,44830,D. Gray,,,,,,,https://media.api-sports.io/football/players/44830.png,true,true
-51088,47216,Mohammed Djetei,,,,,,,https://media.api-sports.io/football/players/47216.png,true,true
-187219,155703,J. Castiglione,,,,,,,,true,true
-72118,432648,Thibaud Sergeant,,,,,,,https://media.api-sports.io/football/players/432648.png,true,true
-91418,40362,K. Kumor,,,,,,,,true,true
-58750,20879,Joffrey Cuffaut,,,,,,,https://media.api-sports.io/football/players/20879.png,true,true
-202592,83857,P. Coly,,,,,,,,true,true
-210666,500179,B. Kourouma,,,,,,,,true,true
-210879,501744,A. Bivard,,,,,,,,true,true
-54642,30422,R. Gosens,,,,,,,https://media.api-sports.io/football/players/30422.png,true,true
-127173,131561,O. Brami,,,,,,,,true,true
-57319,370439,K. Haveri,,,,,,,https://media.api-sports.io/football/players/370439.png,true,true
-165995,104173,Ismail Al Amour,,,,,,,,true,true
-126878,106810,E. Levi,,,,,,,,true,true
-66545,15335,N. Mytides,,,,,,,https://media.api-sports.io/football/players/15335.png,true,true
-85424,13176,Juan Pablo Segovia,,,,,,,https://media.api-sports.io/football/players/13176.png,true,true
-106547,2645,Hassan Sharahili,,,,,,,https://media.api-sports.io/football/players/2645.png,true,true
-111855,355402,Ahmed Sayed Gharib,,,,,,,https://media.api-sports.io/football/players/355402.png,true,true
-152519,244360,S. Bédi Guy,,,,,,,,true,true
-35456,82521,W. Joyce,,,,,,,,true,true
-133778,30367,F. Mohammadizadeh,,,,,,,,true,true
-70227,441512,Jonatás Noro,,,,,,,https://media.api-sports.io/football/players/441512.png,true,true
-153431,436046,N. Trabelsi,,,,,,,,true,true
-81671,131088,R. Edwards,,,,,,,https://media.api-sports.io/football/players/131088.png,true,true
-66880,553,Danilo,,,,,,,https://media.api-sports.io/football/players/553.png,true,true
-114501,230740,Ali Al Marri,,,,,,,,true,true
-94293,311316,Felipe Peña Biafore,,,,,,,https://media.api-sports.io/football/players/311316.png,true,true
-148175,96673,Eloi,,,,,,,,true,true
-199310,249565,K. Barralon,,,,,,,,true,true
-140705,98955,Andile Fikizolo,,,,,,,https://media.api-sports.io/football/players/98955.png,true,true
-173151,83077,R. Sørensen,,,,,,,,true,true
-19064,30935,G. Munari,,,,,,,https://media.api-sports.io/football/players/30935.png,true,true
-130127,379986,J. Roques,,,,,,,,true,true
-79435,357178,Vitor Hugo,,,,,,,https://media.api-sports.io/football/players/357178.png,true,true
-198415,250430,A. Conat,,,,,,,,true,true
-212932,119286,André Tonon,,,,,,,,true,true
-193993,128532,J. Simon,,,,,,,,true,true
-128935,354653,T. Correa,,,,,,,,true,true
-85929,237240,Eduardo García,,,,,,,https://media.api-sports.io/football/players/237240.png,true,true
-76562,326845,A. Brooks,,,,,,,,true,true
-64837,24985,Asger Sørensen,,,,,,,https://media.api-sports.io/football/players/24985.png,true,true
-200659,86136,A. Tchen,,,,,,,,true,true
-100657,435566,Raul Stanciu,,,,,,,https://media.api-sports.io/football/players/435566.png,true,true
-201905,24088,T. N'Joh-Eboa,,,,,,,,true,true
-206952,282565,V. Schwender,,,,,,,,true,true
-186712,118779,C. Morris,,,,,,,,true,true
-121071,451606,Jaider Moreno,,,,,,,https://media.api-sports.io/football/players/451606.png,true,true
-64739,25594,Marco Königs,,,,,,,https://media.api-sports.io/football/players/25594.png,true,true
-122151,66735,A. Batioja,,,,,,,,true,true
-188996,581967,L. Alker,,,,,,,,true,true
-175619,544027,M. Battistini,,,,,,,,true,true
-166868,168073,D. Raven,,,,,,,,true,true
-68994,80378,Paulo Henrique,,,,,,,https://media.api-sports.io/football/players/80378.png,true,true
-145324,98346,M. Rajović,,,,,,,,true,true
-82303,362437,Stuart Hawkins,,,,,,,https://media.api-sports.io/football/players/362437.png,true,true
-61083,87107,K. Quenum,,,,,,,https://media.api-sports.io/football/players/87107.png,true,true
-93935,180841,Braian Maidana,,,,,,,https://media.api-sports.io/football/players/180841.png,true,true
-111853,377048,Ahmed Gamal,,,,,,,https://media.api-sports.io/football/players/377048.png,true,true
-97543,277310,Andreas Gülstorff,,,,,,,https://media.api-sports.io/football/players/277310.png,true,true
-179991,277438,Avan Jones,,,,,,,https://media.api-sports.io/football/players/277438.png,true,true
-46168,346887,K. Mfuamba,,,,,,,https://media.api-sports.io/football/players/346887.png,true,true
-49955,184609,J. Moreno,,,,,,,https://media.api-sports.io/football/players/184609.png,true,true
-161735,554511,K. Podgorni,,,,,,,,true,true
-1700,24941,Mats Møller Dæhli,,,,,,,https://media.api-sports.io/football/players/24941.png,true,true
-181642,284167,Abel Julve,,,,,,,https://media.api-sports.io/football/players/284167.png,true,true
-134987,588120,E. Sazegari,,,,,,,,true,true
-118436,16724,D. Palleres,,,,,,,,true,true
-50176,312650,Marezi,,,,,,,https://media.api-sports.io/football/players/312650.png,true,true
-211118,196167,N. Benabbou,,,,,,,,true,true
-161346,591459,E. Freimanis,,,,,,,,true,true
-63025,8960,M. Besuschkow,,,,,,,https://media.api-sports.io/football/players/8960.png,true,true
-185250,114888,A. Blakeman,,,,,,,https://media.api-sports.io/football/players/114888.png,true,true
-121145,466962,Juan Quiceno,,,,,,,https://media.api-sports.io/football/players/466962.png,true,true
-149050,201900,Diogo Barbosa,,,,,,,https://media.api-sports.io/football/players/201900.png,true,true
-133331,373787,N. Noordanus,,,,,,,,true,true
-90523,48664,M. Liechti,,,,,,,,true,true
-54860,63934,Alessio Furlanetto,,,,,,,https://media.api-sports.io/football/players/63934.png,true,true
-175364,282899,M. Preka,,,,,,,,true,true
-203187,84827,E. Catherin,,,,,,,,true,true
-173148,83191,S. Olsen,,,,,,,,true,true
-177572,333080,A. Guett Guett,,,,,,,https://media.api-sports.io/football/players/333080.png,true,true
-198051,21466,Tony Da Costa,,,,,,,https://media.api-sports.io/football/players/21466.png,true,true
-122825,325809,E. Czérna,,,,,,,,true,true
-93042,6363,Facundo Altamirano,,,,,,,https://media.api-sports.io/football/players/6363.png,true,true
-202157,86989,A. Arragon,,,,,,,,true,true
-100494,42738,S. Moroz,,,,,,,,true,true
-188121,309813,D. Hutchinson,,,,,,,,true,true
-105006,66293,S. Dostál,,,,,,,https://media.api-sports.io/football/players/66293.png,true,true
-212074,502693,D. Vespasien,,,,,,,,true,true
-157529,36249,E. Prono,,,,,,,,true,true
-146115,361396,S. Bukinac,,,,,,,https://media.api-sports.io/football/players/361396.png,true,true
-145618,147976,V. Lukić,,,,,,,,true,true
-136432,77984,Raoni,,,,,,,,true,true
-206904,275968,F. Aubry,,,,,,,,true,true
-98311,12439,Wang Zhuo,,,,,,,https://media.api-sports.io/football/players/12439.png,true,true
-148146,41990,André Costa,,,,,,,,true,true
-120556,195721,Felipe Parra,,,,,,,https://media.api-sports.io/football/players/195721.png,true,true
-197859,251037,A. Lepine,,,,,,,,true,true
-68743,83386,P. Sow,,,,,,,,true,true
-79866,399512,Eli,,,,,,,https://media.api-sports.io/football/players/399512.png,true,true
-75579,373633,D. Smith,,,,,,,https://media.api-sports.io/football/players/373633.png,true,true
-97240,128177,S. Sørensen,,,,,,,,true,true
-98168,12606,Xu Junmin,,,,,,,https://media.api-sports.io/football/players/12606.png,true,true
-111108,17143,Ahmed Ramadan,,,,,,,https://media.api-sports.io/football/players/17143.png,true,true
-54599,91460,M. Cozzari,,,,,,,,true,true
-174448,105521,M. Snoddy,,,,,,,,true,true
-177301,289133,M. Kelement,,,,,,,,true,true
-126977,110953,Q. Ghanem,,,,,,,,true,true
-59804,333137,Kassoum Ouattara,,,,,,,https://media.api-sports.io/football/players/333137.png,true,true
-185448,167309,D. Ball,,,,,,,,true,true
-149744,227311,J. Garza,,,,,,,,true,true
-117475,465557,M. Theocharous,,,,,,,,true,true
-57156,327581,Massimo Zilli,,,,,,,https://media.api-sports.io/football/players/327581.png,true,true
-201160,23416,A. Leux,,,,,,,,true,true
-71250,28864,G. Martin,,,,,,,https://media.api-sports.io/football/players/28864.png,true,true
-48205,116960,Serrano,,,,,,,,true,true
-77891,34173,Rômulo,,,,,,,https://media.api-sports.io/football/players/34173.png,true,true
-178738,282152,Anderson,,,,,,,https://media.api-sports.io/football/players/282152.png,true,true
-45058,190505,James Berry,,,,,,,https://media.api-sports.io/football/players/190505.png,true,true
-162556,103314,C. Glennon,,,,,,,,true,true
-104967,632408,Nikolaos Tolios,,,,,,,https://media.api-sports.io/football/players/632408.png,true,true
-145480,45974,Filip Stojanović,,,,,,,,true,true
-46643,69297,D. Mândroiu,,,,,,,https://media.api-sports.io/football/players/69297.png,true,true
-201564,23289,P. Barbaret,,,,,,,,true,true
-98641,13097,Liu Peng,,,,,,,,true,true
-192827,260158,P. Frisch,,,,,,,,true,true
-98058,12906,Li Benjian,,,,,,,https://media.api-sports.io/football/players/12906.png,true,true
-1116,50869,B. Guzan,,,,,,,https://media.api-sports.io/football/players/50869.png,true,true
-98833,340507,Feifan Jia,,,,,,,https://media.api-sports.io/football/players/340507.png,true,true
-151627,219515,N. Prebiračević,,,,,,,,true,true
-185145,167174,L. Turner,,,,,,,,true,true
-126055,119129,Alejandro Samudio,,,,,,,https://media.api-sports.io/football/players/119129.png,true,true
-185072,157222,G. Kvedaras,,,,,,,,true,true
-101632,248071,E. Fonsell,,,,,,,,true,true
-141267,98898,Lebohang Mabotja,,,,,,,https://media.api-sports.io/football/players/98898.png,true,true
-66144,116170,P. Merencia,,,,,,,,true,true
-44357,92993,Mats Wieffer,,,,,,,https://media.api-sports.io/football/players/92993.png,true,true
-90869,414189,Lars Villiger,,,,,,,https://media.api-sports.io/football/players/414189.png,true,true
-138819,406324,Luis Coplot,,,,,,,https://media.api-sports.io/football/players/406324.png,true,true
-177793,182726,Adrià Collet,,,,,,,https://media.api-sports.io/football/players/182726.png,true,true
-88189,53581,D. Miškić,,,,,,,https://media.api-sports.io/football/players/53581.png,true,true
-217617,274514,B. Brandsma,,,,,,,,true,true
-150466,304871,A. Bodden,,,,,,,,true,true
-69983,330294,Diogo Fonseca,,,,,,,https://media.api-sports.io/football/players/330294.png,true,true
-197900,251053,L. Ramenatte,,,,,,,,true,true
-151235,76935,D. Jakupović,,,,,,,,true,true
-55894,343565,Adi Kurti,,,,,,,https://media.api-sports.io/football/players/343565.png,true,true
-208601,398265,H. Samih,,,,,,,,true,true
-96924,15728,K. Risgaard,,,,,,,,true,true
-117431,293450,David Abagna,,,,,,,https://media.api-sports.io/football/players/293450.png,true,true
-119244,510719,Leao Tenorio,,,,,,,https://media.api-sports.io/football/players/510719.png,true,true
-194872,304740,Birkan Celik,,,,,,,https://media.api-sports.io/football/players/304740.png,true,true
-90240,592148,E. Lorenz,,,,,,,https://media.api-sports.io/football/players/592148.png,true,true
-68837,116484,Artur Taborda,,,,,,,,true,true
-152876,49803,F. Ghouma,,,,,,,,true,true
-186145,154354,S. Pedulu,,,,,,,,true,true
-95824,48326,F. Ali,,,,,,,https://media.api-sports.io/football/players/48326.png,true,true
-210615,336919,Aristide Bureau,,,,,,,https://media.api-sports.io/football/players/336919.png,true,true
-130933,11797,Juan Gutiérrez,,,,,,,https://media.api-sports.io/football/players/11797.png,true,true
-144019,200862,D. Popara,,,,,,,https://media.api-sports.io/football/players/200862.png,true,true
-201715,85436,H. Yousfi,,,,,,,,true,true
-151617,326094,D. Blagojević,,,,,,,,true,true
-213163,291792,Matthaus,,,,,,,,true,true
-71018,114102,M. Turcan,,,,,,,,true,true
-147260,39523,T. Etchemaite,,,,,,,https://media.api-sports.io/football/players/39523.png,true,true
-56316,91350,Fabio Bertoli,,,,,,,,true,true
-35630,48601,C. Routis,,,,,,,https://media.api-sports.io/football/players/48601.png,true,true
-91132,602732,Mardochee Miguel,,,,,,,https://media.api-sports.io/football/players/602732.png,true,true
-188306,331550,Anton Smith,,,,,,,,true,true
-35032,114885,R. Blake,,,,,,,,true,true
-78975,9333,Arthur,,,,,,,https://media.api-sports.io/football/players/9333.png,true,true
-42405,53231,Momodou Touray,,,,,,,https://media.api-sports.io/football/players/53231.png,true,true
-171927,573284,W. Thomason,,,,,,,,true,true
-126378,319568,A. Vargas,,,,,,,,true,true
-182354,187195,Jorge Pérez,,,,,,,https://media.api-sports.io/football/players/187195.png,true,true
-170407,349278,G. Kasonko,,,,,,,,true,true
-18441,83261,D. Blackstock,,,,,,,https://media.api-sports.io/football/players/83261.png,true,true
-69685,299082,Renato Júnior,,,,,,,https://media.api-sports.io/football/players/299082.png,true,true
-185083,105888,Lukas Krüger,,,,,,,https://media.api-sports.io/football/players/105888.png,true,true
-59159,20655,Jean-Kevin Duverne,,,,,,,https://media.api-sports.io/football/players/20655.png,true,true
-155581,24675,Z. Kereleishvili,,,,,,,,true,true
-79713,415163,Kauã Diniz,,,,,,,https://media.api-sports.io/football/players/415163.png,true,true
-44336,284532,Zak Sturge,,,,,,,https://media.api-sports.io/football/players/284532.png,true,true
-187170,156863,B. Warner,,,,,,,,true,true
-215895,38074,P. Hoxhaj,,,,,,,,true,true
-55561,437099,Renato Marin,,,,,,,https://media.api-sports.io/football/players/437099.png,true,true
-43952,318,Kalidou Koulibaly,,,,,,,https://media.api-sports.io/football/players/318.png,true,true
-175095,207845,V. Sotnikov,,,,,,,,true,true
-117780,81342,M. Quintana,,,,,,,,true,true
-75351,45163,R. Crawford,,,,,,,https://media.api-sports.io/football/players/45163.png,true,true
-77475,10084,Egídio,,,,,,,https://media.api-sports.io/football/players/10084.png,true,true
-113239,197577,Mansoor Shawkan,,,,,,,,true,true
-56232,91578,J. Bouasse,,,,,,,,true,true
-166013,104242,Rajaei Ayed,,,,,,,https://media.api-sports.io/football/players/104242.png,true,true
-110070,442406,A. Bentagana,,,,,,,,true,true
-85598,266216,Víctor Mendoza,,,,,,,https://media.api-sports.io/football/players/266216.png,true,true
-80201,408347,Rubens Tadeu,,,,,,,https://media.api-sports.io/football/players/408347.png,true,true
-87335,198962,D. Edvardsson,,,,,,,https://media.api-sports.io/football/players/198962.png,true,true
-86478,94737,P. Kovács,,,,,,,https://media.api-sports.io/football/players/94737.png,true,true
-35097,232239,M. Kouo-Doumbé,,,,,,,,true,true
-185071,69996,N. Bouchareb,,,,,,,,true,true
-152501,49678,W. Chehaibi,,,,,,,,true,true
-189871,332320,Andrés Rodríguez,,,,,,,,true,true
-111305,16846,Jhon Cifuente,,,,,,,https://media.api-sports.io/football/players/16846.png,true,true
-44878,19391,Connor Kirby,,,,,,,https://media.api-sports.io/football/players/19391.png,true,true
-35450,104743,E. Plummer,,,,,,,,true,true
-57937,113673,Ilan,,,,,,,,true,true
-159397,349286,J. van Gennip,,,,,,,https://media.api-sports.io/football/players/349286.png,true,true
-198210,231500,J. Téhoué,,,,,,,,true,true
-104503,26996,V. Kravaritis,,,,,,,,true,true
-212466,629698,Boobacar Diaby,,,,,,,https://media.api-sports.io/football/players/629698.png,true,true
-213478,330914,Flávio Carvalho,,,,,,,,true,true
-162130,103413,P. Kelly,,,,,,,,true,true
-161942,82946,L. Bell,,,,,,,,true,true
-118118,16278,J. Yepez,,,,,,,,true,true
-88511,76309,Dmitriy German,,,,,,,https://media.api-sports.io/football/players/76309.png,true,true
-153608,493712,Andrey Da Silva,,,,,,,,true,true
-87671,1195,Mikhail Kerzhakov,,,,,,,https://media.api-sports.io/football/players/1195.png,true,true
-192025,260439,S. Wittwer,,,,,,,,true,true
-89069,427632,Dmitriy Aleksandrov,,,,,,,https://media.api-sports.io/football/players/427632.png,true,true
-99489,89080,S. Veres,,,,,,,https://media.api-sports.io/football/players/89080.png,true,true
-197267,206466,T. Joly,,,,,,,,true,true
-44695,19840,M. Kennedy,,,,,,,https://media.api-sports.io/football/players/19840.png,true,true
-197451,249380,S. Regui,,,,,,,,true,true
-141308,46405,S. Nyembe,,,,,,,,true,true
-134181,64181,R. Rahimi,,,,,,,,true,true
-144849,409458,Charbel Shamoon,,,,,,,https://media.api-sports.io/football/players/409458.png,true,true
-124714,212172,M. Ali Larbi,,,,,,,,true,true
-141891,378833,G. Nyarko,,,,,,,,true,true
-146699,39790,Horacio Calcaterra,,,,,,,https://media.api-sports.io/football/players/39790.png,true,true
-204976,193037,Y. Fofana,,,,,,,,true,true
-142978,63849,S. Kozlovskyi,,,,,,,,true,true
-83624,33347,Daigo Takahashi,,,,,,,https://media.api-sports.io/football/players/33347.png,true,true
-131258,201904,Victor Ramon,,,,,,,https://media.api-sports.io/football/players/201904.png,true,true
-48329,10485,Pedro Geromel,,,,,,,https://media.api-sports.io/football/players/10485.png,true,true
-130376,519648,J. Corrales,,,,,,,,true,true
-76437,321856,A. King,,,,,,,,true,true
-146670,39846,Saúl Salas,,,,,,,https://media.api-sports.io/football/players/39846.png,true,true
-128178,242962,M. Tejera,,,,,,,,true,true
-137793,65784,Victor Hugo Melgar,,,,,,,https://media.api-sports.io/football/players/65784.png,true,true
-173176,83176,J. Hansen,,,,,,,,true,true
-176039,255322,W. Geworgian,,,,,,,,true,true
-172836,48682,S. Hajrovic,,,,,,,,true,true
-212891,119473,Alexandre Figueiredo,,,,,,,,true,true
-180100,400700,Joshua Mullins,,,,,,,https://media.api-sports.io/football/players/400700.png,true,true
-65438,7534,T. Goiginger,,,,,,,https://media.api-sports.io/football/players/7534.png,true,true
-171899,542929,K. R. Chhunju,,,,,,,,true,true
-114471,42196,Younes Ali,,,,,,,,true,true
-152387,244498,O. Zdouga,,,,,,,,true,true
-184540,149571,S. Kachmazov,,,,,,,,true,true
-214800,613916,J. Carneiro,,,,,,,,true,true
-77738,54592,Jeam,,,,,,,,true,true
-63561,26356,Moritz Heyer,,,,,,,https://media.api-sports.io/football/players/26356.png,true,true
-192244,88076,A. Aschauer,,,,,,,,true,true
-145118,98500,M. Zečević,,,,,,,,true,true
-101840,90575,I. Cheminava,,,,,,,,true,true
-78176,35697,Miller Bolaños,,,,,,,https://media.api-sports.io/football/players/35697.png,true,true
-76994,33081,Leandro,,,,,,,https://media.api-sports.io/football/players/33081.png,true,true
-74534,329207,Polat Yaldır,,,,,,,https://media.api-sports.io/football/players/329207.png,true,true
-184564,53417,J. Owen,,,,,,,,true,true
-79684,332654,Evertton Araujo,,,,,,,https://media.api-sports.io/football/players/332654.png,true,true
-139311,543455,A. Robles,,,,,,,https://media.api-sports.io/football/players/543455.png,true,true
-192048,91085,D. Schulte,,,,,,,,true,true
-89110,513090,S. Topinka,,,,,,,https://media.api-sports.io/football/players/513090.png,true,true
-158193,383518,E. Di Filipo,,,,,,,,true,true
-88168,69914,T. Pukhov,,,,,,,,true,true
-58748,11035,Jerson Cabral,,,,,,,https://media.api-sports.io/football/players/11035.png,true,true
-1052,19304,C. Yacob,,,,,,,https://media.api-sports.io/football/players/19304.png,true,true
-65677,550835,M. Rajkovacic,,,,,,,https://media.api-sports.io/football/players/550835.png,true,true
-179234,232565,H. Milton,,,,,,,,true,true
-89655,40581,David Stec,,,,,,,https://media.api-sports.io/football/players/40581.png,true,true
-35522,18230,A. Wynter,,,,,,,,true,true
-85125,35790,Javier Correa,,,,,,,https://media.api-sports.io/football/players/35790.png,true,true
-180473,122620,Ton Alcover,,,,,,,https://media.api-sports.io/football/players/122620.png,true,true
-204267,134305,M. Boussaïd,,,,,,,,true,true
-143432,101444,E. Zaporozhets,,,,,,,https://media.api-sports.io/football/players/101444.png,true,true
-75511,53589,I. Konovalov,,,,,,,https://media.api-sports.io/football/players/53589.png,true,true
-118538,16687,C. Pandi,,,,,,,,true,true
-184071,128931,S. McIlveen,,,,,,,,true,true
-173203,210258,J. Hornuss,,,,,,,,true,true
-63014,253749,M. Blanco,,,,,,,,true,true
-74500,478076,Emir Gundogdu,,,,,,,https://media.api-sports.io/football/players/478076.png,true,true
-106240,2644,Rabeaa Sefiani,,,,,,,https://media.api-sports.io/football/players/2644.png,true,true
-124400,294783,M. Habis,,,,,,,,true,true
-93110,5934,Maximiliano Caire,,,,,,,https://media.api-sports.io/football/players/5934.png,true,true
-172357,571763,Wareen Hlupa,,,,,,,,true,true
-207143,128320,Michael Nilor,,,,,,,https://media.api-sports.io/football/players/128320.png,true,true
-108024,99644,Sang-Wook Jeon,,,,,,,,true,true
-80946,71072,G. Gentile,,,,,,,,true,true
-206110,301948,B. Fandart,,,,,,,,true,true
-113238,50652,Saleh Rabea,,,,,,,,true,true
-144542,67447,Nicola Kuleski,,,,,,,https://media.api-sports.io/football/players/67447.png,true,true
-143050,63845,A. Lyashenko,,,,,,,https://media.api-sports.io/football/players/63845.png,true,true
-108688,308243,Ju Young-Jae,,,,,,,https://media.api-sports.io/football/players/308243.png,true,true
-104845,1618,Giorgos Marinos,,,,,,,https://media.api-sports.io/football/players/1618.png,true,true
-71203,37374,P. Sabak,,,,,,,https://media.api-sports.io/football/players/37374.png,true,true
-43900,284323,C. Savage,,,,,,,https://media.api-sports.io/football/players/284323.png,true,true
-61848,336896,E. Crombez,,,,,,,https://media.api-sports.io/football/players/336896.png,true,true
-158305,437791,D. Uzcategui,,,,,,,,true,true
-41889,234120,M. Gyorio,,,,,,,,true,true
-96893,225898,H. Hansen,,,,,,,,true,true
-197869,84594,H. Peys,,,,,,,,true,true
-48515,1045,D. Aquino,,,,,,,https://media.api-sports.io/football/players/1045.png,true,true
-165684,3372,H. Tanjy,,,,,,,https://media.api-sports.io/football/players/3372.png,true,true
-186345,155570,C. Davies,,,,,,,,true,true
-92930,13710,E. Benavídez,,,,,,,https://media.api-sports.io/football/players/13710.png,true,true
-42219,82224,S. Aborah,,,,,,,,true,true
-130477,541348,A. Chaves,,,,,,,,true,true
-209712,179845,B. Cisse,,,,,,,,true,true
-210527,452132,A. Fares,,,,,,,,true,true
-124421,294119,I. Benallal,,,,,,,,true,true
-140636,629277,R. Isaqov,,,,,,,,true,true
-178104,367065,M. Samba,,,,,,,,true,true
-188100,375876,Temitope Eweka,,,,,,,https://media.api-sports.io/football/players/375876.png,true,true
-73620,266484,Abdulkadir Sunger,,,,,,,https://media.api-sports.io/football/players/266484.png,true,true
-131371,12267,Luca Pontigo,,,,,,,https://media.api-sports.io/football/players/12267.png,true,true
-44274,284242,Omari Forson,,,,,,,https://media.api-sports.io/football/players/284242.png,true,true
-154411,131759,Benjamin Van den Ackerveken,,,,,,,https://media.api-sports.io/football/players/131759.png,true,true
-47305,179765,Luke Spokes,,,,,,,https://media.api-sports.io/football/players/179765.png,true,true
-81714,203395,Dante Sealy,,,,,,,https://media.api-sports.io/football/players/203395.png,true,true
-79948,460491,Pedro Henrique,,,,,,,,true,true
-82259,216500,Leo Afonso,,,,,,,https://media.api-sports.io/football/players/216500.png,true,true
-150705,428377,R. Cortéz,,,,,,,,true,true
-185528,232286,A. Taylor,,,,,,,,true,true
-201390,86611,R. Marien,,,,,,,,true,true
-212065,483468,D. Khouma,,,,,,,,true,true
-176820,112408,T. Farrugia,,,,,,,,true,true
-108595,14709,Kim Gyu-Hyeong,,,,,,,https://media.api-sports.io/football/players/14709.png,true,true
-94460,353488,Tomás Ariel Silva,,,,,,,https://media.api-sports.io/football/players/353488.png,true,true
-214853,581571,D. Torrado,,,,,,,,true,true
-181299,127353,Fran Rivera,,,,,,,,true,true
-80347,240278,Digão,,,,,,,,true,true
-71480,26647,D. Chatziisaias,,,,,,,https://media.api-sports.io/football/players/26647.png,true,true
-168049,620300,F. Jolly,,,,,,,,true,true
-213258,292355,Leonardo Costa,,,,,,,,true,true
-89422,78303,S. Siller,,,,,,,,true,true
-208215,398769,S. Degironde,,,,,,,,true,true
-178072,362775,K. Sakurai,,,,,,,,true,true
-57531,482060,Francesco Corriere,,,,,,,https://media.api-sports.io/football/players/482060.png,true,true
-147367,101577,Jean Pierre Cucho,,,,,,,https://media.api-sports.io/football/players/101577.png,true,true
-94194,294605,Joaquin Gho,,,,,,,https://media.api-sports.io/football/players/294605.png,true,true
-94842,414535,Lautaro Vargas,,,,,,,https://media.api-sports.io/football/players/414535.png,true,true
-159154,92994,S. van Dijk,,,,,,,,true,true
-134209,136894,Y. Sabri,,,,,,,,true,true
-107365,432081,Saleh Al-Saeed,,,,,,,https://media.api-sports.io/football/players/432081.png,true,true
-192111,260410,S. Rausch,,,,,,,,true,true
-88913,324406,Nikita Zheymo,,,,,,,https://media.api-sports.io/football/players/324406.png,true,true
-146127,45396,L. Vukovic,,,,,,,,true,true
-158662,565452,Y. Palmera,,,,,,,,true,true
-177864,295882,Anderson Pinto,,,,,,,,true,true
-207571,346332,M. Padey,,,,,,,,true,true
-105451,262814,M. Polášek,,,,,,,,true,true
-98714,12672,Da Wen,,,,,,,https://media.api-sports.io/football/players/12672.png,true,true
-199346,250068,F. Gondouin,,,,,,,,true,true
-94068,237186,Cristian Medina,,,,,,,https://media.api-sports.io/football/players/237186.png,true,true
-182346,182628,Ekaitz Jiménez,,,,,,,https://media.api-sports.io/football/players/182628.png,true,true
-78027,33694,Diego,,,,,,,https://media.api-sports.io/football/players/33694.png,true,true
-157649,52495,R. Orellana,,,,,,,,true,true
-52235,401250,Javier Abbad,,,,,,,https://media.api-sports.io/football/players/401250.png,true,true
-167616,178658,T. Smith,,,,,,,,true,true
-54124,107837,S. Battaglia,,,,,,,,true,true
-125579,70733,Ángel Cardozo Lucena,,,,,,,https://media.api-sports.io/football/players/70733.png,true,true
-138936,449002,Santiago Zotes,,,,,,,https://media.api-sports.io/football/players/449002.png,true,true
-90629,17153,I. Ndiaye,,,,,,,https://media.api-sports.io/football/players/17153.png,true,true
-43994,9971,Antony,,,,,,,https://media.api-sports.io/football/players/9971.png,true,true
-103736,78158,Gabriel,,,,,,,,true,true
-159522,432813,C. Engels,,,,,,,https://media.api-sports.io/football/players/432813.png,true,true
-154014,533511,A. Ouji,,,,,,,,true,true
-144954,579064,Awan Lual,,,,,,,https://media.api-sports.io/football/players/579064.png,true,true
-148392,96435,N. Mendy,,,,,,,,true,true
-189233,538444,C. Hall,,,,,,,,true,true
-73642,61878,Selim Ilgaz,,,,,,,https://media.api-sports.io/football/players/61878.png,true,true
-44420,404656,Jahmai Simpson-Pusey,,,,,,,https://media.api-sports.io/football/players/404656.png,true,true
-195220,592038,S. Yohena,,,,,,,,true,true
-109140,146766,T. Edjomariegwe,,,,,,,,true,true
-58078,22915,Cheikh Bangré,,,,,,,https://media.api-sports.io/football/players/22915.png,true,true
-19192,1124,Oliver Burke,,,,,,,https://media.api-sports.io/football/players/1124.png,true,true
-90216,478441,Modou Kéba Cissé,,,,,,,https://media.api-sports.io/football/players/478441.png,true,true
-91775,48296,A. Granlund,,,,,,,https://media.api-sports.io/football/players/48296.png,true,true
-53218,551359,M. Maroto,,,,,,,https://media.api-sports.io/football/players/551359.png,true,true
-83469,33247,Yuya Nakasaka,,,,,,,https://media.api-sports.io/football/players/33247.png,true,true
-152151,244455,A. Trabelsi,,,,,,,,true,true
-121469,538319,Jeison Mena,,,,,,,https://media.api-sports.io/football/players/538319.png,true,true
-52186,287612,J. Gonzalez,,,,,,,https://media.api-sports.io/football/players/287612.png,true,true
-134364,350543,A. Mohkamkar,,,,,,,,true,true
-71770,196901,Kevor Palumets,,,,,,,https://media.api-sports.io/football/players/196901.png,true,true
-53065,345563,G. Akogo,,,,,,,https://media.api-sports.io/football/players/345563.png,true,true
-61609,174766,Lucas Maronnier,,,,,,,https://media.api-sports.io/football/players/174766.png,true,true
-48146,41439,Ricardo Costa,,,,,,,https://media.api-sports.io/football/players/41439.png,true,true
-50902,104967,Yelko Pino,,,,,,,https://media.api-sports.io/football/players/104967.png,true,true
-165409,32602,A. Vanzie,,,,,,,,true,true
-98725,199723,Xue Qinghao,,,,,,,https://media.api-sports.io/football/players/199723.png,true,true
-75515,331717,Macaulay Tait,,,,,,,https://media.api-sports.io/football/players/331717.png,true,true
-141594,175433,S. Mwange,,,,,,,,true,true
-48319,105003,Nélson,,,,,,,https://media.api-sports.io/football/players/105003.png,true,true
-83298,34430,Sung-joon Kim,,,,,,,https://media.api-sports.io/football/players/34430.png,true,true
-203641,22273,H. Rebours,,,,,,,,true,true
-129024,448548,T. Lopez,,,,,,,,true,true
-35391,174718,Jeremy Balmy,,,,,,,https://media.api-sports.io/football/players/174718.png,true,true
-216447,93508,O. Onyeike,,,,,,,,true,true
-141030,46325,B. Pule,,,,,,,,true,true
-102424,455279,E. Saarela,,,,,,,,true,true
-215287,38589,A. Manuhutu,,,,,,,https://media.api-sports.io/football/players/38589.png,true,true
-72579,62737,Ö. Karabulut,,,,,,,,true,true
-173685,475500,Henrique Kaio,,,,,,,https://media.api-sports.io/football/players/475500.png,true,true
-182453,75616,M. Chavarría,,,,,,,,true,true
-88622,340413,Egor Mosin,,,,,,,https://media.api-sports.io/football/players/340413.png,true,true
-126666,111143,N. Mizrahi,,,,,,,,true,true
-110464,535253,K. Raiss,,,,,,,,true,true
-114896,42272,Ayoub Mashhoor,,,,,,,,true,true
-99955,42521,M. Neicuțescu,,,,,,,,true,true
-93982,278357,Sergio Sánchez,,,,,,,https://media.api-sports.io/football/players/278357.png,true,true
-58709,2191,E. Gertmonas,,,,,,,https://media.api-sports.io/football/players/2191.png,true,true
-160803,130427,A. Ozols,,,,,,,,true,true
-182633,285305,Álvaro Cascajo,,,,,,,https://media.api-sports.io/football/players/285305.png,true,true
-59923,360098,J. Othman,,,,,,,https://media.api-sports.io/football/players/360098.png,true,true
-130779,11532,J. Soto,,,,,,,,true,true
-67406,359390,Givairo Read,,,,,,,https://media.api-sports.io/football/players/359390.png,true,true
-205907,281726,S. Karamoko,,,,,,,,true,true
-63559,14335,Mario Vušković,,,,,,,https://media.api-sports.io/football/players/14335.png,true,true
-143136,141898,Leonidas,,,,,,,https://media.api-sports.io/football/players/141898.png,true,true
-44626,21104,Randal Kolo Muani,,,,,,,https://media.api-sports.io/football/players/21104.png,true,true
-52015,342340,Mario Fuente,,,,,,,https://media.api-sports.io/football/players/342340.png,true,true
-121184,348906,Luis Escorcia,,,,,,,https://media.api-sports.io/football/players/348906.png,true,true
-76883,80646,Édson Silva,,,,,,,https://media.api-sports.io/football/players/80646.png,true,true
-44965,19648,G. Alexander,,,,,,,https://media.api-sports.io/football/players/19648.png,true,true
-163694,145416,T. Zali,,,,,,,,true,true
-121300,538185,J. Ramirez,,,,,,,,true,true
-136369,78019,Balotelli,,,,,,,,true,true
-50086,290495,Vere,,,,,,,https://media.api-sports.io/football/players/290495.png,true,true
-95170,415129,Fabricio Amato,,,,,,,https://media.api-sports.io/football/players/415129.png,true,true
-57510,422153,Matteo Cichella,,,,,,,https://media.api-sports.io/football/players/422153.png,true,true
-199093,22370,A. Carmo,,,,,,,,true,true
-134367,68401,A. Gholamzadeh,,,,,,,,true,true
-174945,3770,M. Nuriu,,,,,,,,true,true
-73347,105256,B. Güngör,,,,,,,,true,true
-165035,105843,A. Abiken,,,,,,,https://media.api-sports.io/football/players/105843.png,true,true
-35114,82868,C. Sutherland,,,,,,,,true,true
-77283,114476,Leonardo,,,,,,,,true,true
-153573,488293,W. Tene,,,,,,,,true,true
-145184,98473,R. Ivković,,,,,,,,true,true
-173747,465170,Guilherme Meira Ferreira Alves,,,,,,,https://media.api-sports.io/football/players/465170.png,true,true
-145819,295247,Dragan Čubra,,,,,,,https://media.api-sports.io/football/players/295247.png,true,true
-139177,578996,A. Guillermo,,,,,,,,true,true
-180050,419580,Joshua Beecher,,,,,,,https://media.api-sports.io/football/players/419580.png,true,true
-135664,68500,Dedê,,,,,,,,true,true
-55932,418846,Davide De Battisti,,,,,,,https://media.api-sports.io/football/players/418846.png,true,true
-196541,127088,A. Altamura,,,,,,,,true,true
-130490,541280,A. Ruiz,,,,,,,,true,true
-69673,146644,A. Ndour,,,,,,,https://media.api-sports.io/football/players/146644.png,true,true
-58842,87299,I. Inzoudine,,,,,,,https://media.api-sports.io/football/players/87299.png,true,true
-102688,69236,D. Jarvis,,,,,,,,true,true
-148811,269293,A. Feradov,,,,,,,,true,true
-169410,123866,D. Howell,,,,,,,,true,true
-67337,37471,Jort van der Sande,,,,,,,https://media.api-sports.io/football/players/37471.png,true,true
-70605,114240,M. Debisschop,,,,,,,,true,true
-124877,393366,K. Toual,,,,,,,,true,true
-205244,193145,V. Haligon,,,,,,,,true,true
-208084,390696,C. Delaunay,,,,,,,,true,true
-134753,532836,S. Nariman,,,,,,,,true,true
-135403,115651,Marcelo Nicácio,,,,,,,,true,true
-164655,28971,Ranjeet Singh Pandre P,,,,,,,https://media.api-sports.io/football/players/28971.png,true,true
-202340,85667,Y. Garric,,,,,,,,true,true
-219353,600922,Gersom Klok,,,,,,,https://media.api-sports.io/football/players/600922.png,true,true
-127373,380448,C. F. Don,,,,,,,https://media.api-sports.io/football/players/380448.png,true,true
-206512,346047,J. Durand,,,,,,,,true,true
-79027,9320,Edson Junior,,,,,,,https://media.api-sports.io/football/players/9320.png,true,true
-190177,486606,Iker Candón,,,,,,,,true,true
-162954,102671,N. Aune,,,,,,,,true,true
-95602,48341,J. Brattberg,,,,,,,https://media.api-sports.io/football/players/48341.png,true,true
-138493,308175,René Gonzales,,,,,,,https://media.api-sports.io/football/players/308175.png,true,true
-190111,337525,Rubén Navas,,,,,,,https://media.api-sports.io/football/players/337525.png,true,true
-175743,92735,Hugo López,,,,,,,,true,true
-146790,39556,Luis Araujo,,,,,,,https://media.api-sports.io/football/players/39556.png,true,true
-58451,40398,C. Philipps,,,,,,,https://media.api-sports.io/football/players/40398.png,true,true
-163809,462725,M. McCoy,,,,,,,,true,true
-171638,423666,Yao-Hsing Yu,,,,,,,,true,true
-56765,30843,M. D'Eramo,,,,,,,,true,true
-155132,24496,R. Imerlishvili,,,,,,,,true,true
-171600,73252,Rudy Khairullah,,,,,,,https://media.api-sports.io/football/players/73252.png,true,true
-41666,232231,W. Feeney,,,,,,,,true,true
-60357,20877,F. Bong,,,,,,,https://media.api-sports.io/football/players/20877.png,true,true
-90838,294943,Pascal Hammer,,,,,,,https://media.api-sports.io/football/players/294943.png,true,true
-166642,394708,Keyom Ewurum,,,,,,,https://media.api-sports.io/football/players/394708.png,true,true
-112330,521948,Seif Emam,,,,,,,https://media.api-sports.io/football/players/521948.png,true,true
-48439,105015,Germán Parreño,,,,,,,https://media.api-sports.io/football/players/105015.png,true,true
-166161,53846,Kim Chol-Bom,,,,,,,,true,true
-193331,177403,U. Kizilyar,,,,,,,https://media.api-sports.io/football/players/177403.png,true,true
-86166,39140,U. Sale,,,,,,,https://media.api-sports.io/football/players/39140.png,true,true
-94883,59336,Gustavo Benítez,,,,,,,https://media.api-sports.io/football/players/59336.png,true,true
-98877,368485,Bi Haoyang,,,,,,,https://media.api-sports.io/football/players/368485.png,true,true
-158464,565349,H. Contreras,,,,,,,,true,true
-138317,125763,F. Añez,,,,,,,,true,true
-165494,24134,C. Mensah,,,,,,,,true,true
-172944,210529,H. Machkalyan,,,,,,,,true,true
-157164,103800,C. Moreno,,,,,,,,true,true
-157590,52656,P. Fernández,,,,,,,,true,true
-125317,533760,R. Ibrahimi,,,,,,,,true,true
-111397,147937,Mahmoud Naim,,,,,,,,true,true
-207937,390693,H. Derkum,,,,,,,,true,true
-67804,496426,Owen Panneflek,,,,,,,https://media.api-sports.io/football/players/496426.png,true,true
-91354,40433,P.Tomczyk,,,,,,,,true,true
-125354,533682,A. Okil,,,,,,,,true,true
-187239,18089,E. Agboola,,,,,,,,true,true
-136152,36105,Elbis,,,,,,,,true,true
-115059,96775,Adel Badr,,,,,,,,true,true
-143188,241240,Yuri Glushchuk,,,,,,,https://media.api-sports.io/football/players/241240.png,true,true
-105661,162754,M. Galus,,,,,,,,true,true
-175128,106101,L. Bekteshi,,,,,,,https://media.api-sports.io/football/players/106101.png,true,true
-102099,198438,S. Pohjolainen,,,,,,,,true,true
-116527,466741,Vito Šegović,,,,,,,https://media.api-sports.io/football/players/466741.png,true,true
-168434,620431,K. Johnson,,,,,,,,true,true
-105851,374054,El Hadji Latyr Ndiaye,,,,,,,https://media.api-sports.io/football/players/374054.png,true,true
-182705,348660,Barros,,,,,,,https://media.api-sports.io/football/players/348660.png,true,true
-99419,10668,A. Popov,,,,,,,,true,true
-161198,590759,M. Sidorovs,,,,,,,,true,true
-196465,56500,M. Scotti,,,,,,,,true,true
-196571,56813,V. Di Somma,,,,,,,,true,true
-163537,325065,C. Bruletti,,,,,,,,true,true
-43866,195962,Chiquinho,,,,,,,https://media.api-sports.io/football/players/195962.png,true,true
-194837,431065,Niklas Korber,,,,,,,https://media.api-sports.io/football/players/431065.png,true,true
-179267,231807,D. Wring,,,,,,,,true,true
-50231,343205,M. Martin,,,,,,,https://media.api-sports.io/football/players/343205.png,true,true
-134241,290812,M. Bagheri,,,,,,,,true,true
-175803,108105,A. Vasilevski,,,,,,,,true,true
-128623,199067,Mathias Silvera,,,,,,,https://media.api-sports.io/football/players/199067.png,true,true
-175066,207818,Wangu Gome,,,,,,,https://media.api-sports.io/football/players/207818.png,true,true
-181617,181681,Álex Valiño,,,,,,,,true,true
-187899,331574,W. Taylor,,,,,,,,true,true
-146165,45873,D. Obrenović,,,,,,,https://media.api-sports.io/football/players/45873.png,true,true
-183048,399184,Rubén Martínez,,,,,,,,true,true
-163419,216495,F. Nodarse,,,,,,,,true,true
-65197,25593,Pascal Breier,,,,,,,https://media.api-sports.io/football/players/25593.png,true,true
-92157,157129,Yoav Hofmeister,,,,,,,https://media.api-sports.io/football/players/157129.png,true,true
-143032,63582,Y. Vakulko,,,,,,,https://media.api-sports.io/football/players/63582.png,true,true
-98494,12794,Zhang Lingfeng,,,,,,,https://media.api-sports.io/football/players/12794.png,true,true
-48174,105035,Ansotegi,,,,,,,https://media.api-sports.io/football/players/105035.png,true,true
-136262,160215,Marinho,,,,,,,,true,true
-142445,241372,V. Gudyma,,,,,,,,true,true
-81302,71174,L. Ketterer,,,,,,,https://media.api-sports.io/football/players/71174.png,true,true
-103074,360415,D. Woods,,,,,,,,true,true
-35598,19440,J. Rafferty,,,,,,,https://media.api-sports.io/football/players/19440.png,true,true
-158903,38787,Wesley Zonneveld,,,,,,,https://media.api-sports.io/football/players/38787.png,true,true
-48409,116906,Rodrí,,,,,,,,true,true
-50446,162434,Alejandro Francés,,,,,,,https://media.api-sports.io/football/players/162434.png,true,true
-198550,86500,A. Linord,,,,,,,,true,true
-62749,48579,Caiuby,,,,,,,https://media.api-sports.io/football/players/48579.png,true,true
-165219,255214,K. Morgan,,,,,,,https://media.api-sports.io/football/players/255214.png,true,true
-215460,94011,K. Huygens,,,,,,,,true,true
-119564,13379,Jorge Ramos,,,,,,,https://media.api-sports.io/football/players/13379.png,true,true
-156232,540459,R. Aleksidze,,,,,,,,true,true
-217082,149331,J. Brocks,,,,,,,,true,true
-195851,253806,L. Toffolini,,,,,,,,true,true
-193332,91053,J. Kiermeier,,,,,,,https://media.api-sports.io/football/players/91053.png,true,true
-62654,717,Kerem Demirbay,,,,,,,https://media.api-sports.io/football/players/717.png,true,true
-44148,152967,Calvin Bassey,,,,,,,https://media.api-sports.io/football/players/152967.png,true,true
-19227,82074,L. Robles,,,,,,,,true,true
-100732,401649,Juninho,,,,,,,https://media.api-sports.io/football/players/401649.png,true,true
-167263,168098,E. Matos,,,,,,,,true,true
-182231,303557,Víctor Martínez,,,,,,,https://media.api-sports.io/football/players/303557.png,true,true
-165727,319525,Domingos,,,,,,,https://media.api-sports.io/football/players/319525.png,true,true
-102208,269280,B. Bushara,,,,,,,,true,true
-213037,141583,Wilson Rodrigues,,,,,,,,true,true
-66008,8441,Y. De Winter,,,,,,,,true,true
-91473,64303,B. Borun,,,,,,,,true,true
-49984,41412,Nikola Maraš,,,,,,,https://media.api-sports.io/football/players/41412.png,true,true
-51482,122612,B. Cayarga,,,,,,,https://media.api-sports.io/football/players/122612.png,true,true
-110401,535284,Z. Marour,,,,,,,,true,true
-48085,116945,Kevin,,,,,,,https://media.api-sports.io/football/players/116945.png,true,true
-98608,12737,Guanxi Li,,,,,,,https://media.api-sports.io/football/players/12737.png,true,true
-107571,521717,Tamim Al Shuqayran,,,,,,,https://media.api-sports.io/football/players/521717.png,true,true
-121029,431877,Jhonier Hurtado Castro,,,,,,,https://media.api-sports.io/football/players/431877.png,true,true
-211094,402712,M. Mousseni Vincent,,,,,,,,true,true
-200060,21808,A. Badirou,,,,,,,,true,true
-103917,46131,D. Gašić,,,,,,,,true,true
-91904,215916,Marcel Vasil,,,,,,,https://media.api-sports.io/football/players/215916.png,true,true
-155710,153543,T. Oshakmashvili,,,,,,,,true,true
-158381,466977,F. Estrada,,,,,,,,true,true
-100224,271766,L. Florica,,,,,,,https://media.api-sports.io/football/players/271766.png,true,true
-84762,36237,S. Rodríguez,,,,,,,https://media.api-sports.io/football/players/36237.png,true,true
-60162,191289,Amine Sbai,,,,,,,https://media.api-sports.io/football/players/191289.png,true,true
-185418,232372,L. Hales,,,,,,,,true,true
-43179,1442,Sead Kolašinac,,,,,,,https://media.api-sports.io/football/players/1442.png,true,true
-140570,557319,R. Aliyev,,,,,,,,true,true
-124239,4644,Y. Djahnit,,,,,,,,true,true
-121079,369699,Kevin Balanta,,,,,,,https://media.api-sports.io/football/players/369699.png,true,true
-103000,319356,E. McLaughlin,,,,,,,https://media.api-sports.io/football/players/319356.png,true,true
-964,19216,B. Johnson,,,,,,,https://media.api-sports.io/football/players/19216.png,true,true
-119102,428791,Óscar Pepinos,,,,,,,https://media.api-sports.io/football/players/428791.png,true,true
-154589,498792,Grady Makiobo Makiobo,,,,,,,https://media.api-sports.io/football/players/498792.png,true,true
-194061,196775,J. Martynets,,,,,,,,true,true
-70269,199899,Fuki Yamada,,,,,,,https://media.api-sports.io/football/players/199899.png,true,true
-100975,449607,Nikita Stoinov,,,,,,,https://media.api-sports.io/football/players/449607.png,true,true
-157168,103924,J. Pérez,,,,,,,,true,true
-214533,545129,W. Rodrigues,,,,,,,,true,true
-73768,62167,Ekrem Kılıçarslan,,,,,,,https://media.api-sports.io/football/players/62167.png,true,true
-41585,60045,J. Johnson,,,,,,,https://media.api-sports.io/football/players/60045.png,true,true
-90485,1010,Fabian Rohner,,,,,,,https://media.api-sports.io/football/players/1010.png,true,true
-84118,291138,Masaya Shibayama,,,,,,,https://media.api-sports.io/football/players/291138.png,true,true
-173762,550907,Michel Costa,,,,,,,https://media.api-sports.io/football/players/550907.png,true,true
-197605,250953,M. Prebin,,,,,,,,true,true
-88593,327516,A. Ismagilov,,,,,,,https://media.api-sports.io/football/players/327516.png,true,true
-45693,392441,Michael Stone,,,,,,,https://media.api-sports.io/football/players/392441.png,true,true
-213469,142048,Tiago Crachat,,,,,,,,true,true
-140994,46298,T. Kalake,,,,,,,,true,true
-105819,66348,D. Fišl,,,,,,,,true,true
-103166,408817,Conor Barr,,,,,,,https://media.api-sports.io/football/players/408817.png,true,true
-129330,79746,D. Delgado,,,,,,,,true,true
-110579,17279,Ahmed Abdelzaher,,,,,,,,true,true
-182080,190325,Santi Ramos,,,,,,,https://media.api-sports.io/football/players/190325.png,true,true
-34997,131123,J. Mooney,,,,,,,,true,true
-102151,13815,Hernán Luna,,,,,,,https://media.api-sports.io/football/players/13815.png,true,true
-212341,629826,Adrien Delrieu,,,,,,,https://media.api-sports.io/football/players/629826.png,true,true
-81706,71234,K. Koreniuk,,,,,,,https://media.api-sports.io/football/players/71234.png,true,true
-180012,284316,B. Fewster,,,,,,,https://media.api-sports.io/football/players/284316.png,true,true
-110952,16947,Hosny Fathi,,,,,,,,true,true
-75601,326935,L. Parker,,,,,,,https://media.api-sports.io/football/players/326935.png,true,true
-61939,347646,T. Godame,,,,,,,https://media.api-sports.io/football/players/347646.png,true,true
-36036,17608,N. Law,,,,,,,https://media.api-sports.io/football/players/17608.png,true,true
-158160,360599,Thoni Brandao,,,,,,,,true,true
-203397,84145,H. Diouf,,,,,,,,true,true
-89588,66068,P. Stronati,,,,,,,https://media.api-sports.io/football/players/66068.png,true,true
-118367,81211,L. Cabezas,,,,,,,,true,true
-164429,28995,Jobby Justin,,,,,,,https://media.api-sports.io/football/players/28995.png,true,true
-147319,39635,Leonardo Mifflin,,,,,,,https://media.api-sports.io/football/players/39635.png,true,true
-69904,129779,Né Lopes,,,,,,,https://media.api-sports.io/football/players/129779.png,true,true
-107445,471163,Rayan Al-Sharekh,,,,,,,https://media.api-sports.io/football/players/471163.png,true,true
-167339,168022,B. Miguel,,,,,,,,true,true
-199519,22576,V. Pillot,,,,,,,,true,true
-90985,400713,Ledjan Sahitaj,,,,,,,https://media.api-sports.io/football/players/400713.png,true,true
-116669,550621,Zvonimir Josić,,,,,,,https://media.api-sports.io/football/players/550621.png,true,true
-155383,24472,V. Jomidava,,,,,,,,true,true
-183718,112635,G. Muscat,,,,,,,,true,true
-93176,6380,Luciano Gómez,,,,,,,https://media.api-sports.io/football/players/6380.png,true,true
-121858,89442,L. Horvath,,,,,,,,true,true
-170765,113099,J. Chávez,,,,,,,,true,true
-138328,136478,E. Vecchio,,,,,,,,true,true
-92374,201279,Goh Young-Jun,,,,,,,https://media.api-sports.io/football/players/201279.png,true,true
-158314,414488,J. Sánchez,,,,,,,,true,true
-143133,130891,V. Sydorenko,,,,,,,https://media.api-sports.io/football/players/130891.png,true,true
-130885,11789,Eduardo Farías,,,,,,,https://media.api-sports.io/football/players/11789.png,true,true
-98557,13106,Shuai Shao,,,,,,,https://media.api-sports.io/football/players/13106.png,true,true
-92372,522646,Radoslaw Szafranski,,,,,,,https://media.api-sports.io/football/players/522646.png,true,true
-215217,94204,E. Jongeling,,,,,,,,true,true
-169712,123812,A. Ribera,,,,,,,,true,true
-111294,17082,Omar El Habashi,,,,,,,,true,true
-53369,175439,Homam Ahmed,,,,,,,https://media.api-sports.io/football/players/175439.png,true,true
-155693,24336,L. Nanobashvili,,,,,,,,true,true
-171543,127238,Hakeme Yazid,,,,,,,https://media.api-sports.io/football/players/127238.png,true,true
-189759,331294,Angelo,,,,,,,,true,true
-120651,311435,Julián Palacios,,,,,,,https://media.api-sports.io/football/players/311435.png,true,true
-50360,162030,Jordi Martín,,,,,,,https://media.api-sports.io/football/players/162030.png,true,true
-153571,488096,M. Hedhli,,,,,,,,true,true
-126067,265763,M. Aquino,,,,,,,,true,true
-83392,32990,Yoshihiro Nakano,,,,,,,https://media.api-sports.io/football/players/32990.png,true,true
-199806,249843,R. Delcourt,,,,,,,,true,true
-150033,227076,J. Bengoché,,,,,,,,true,true
-84478,92858,Luis Perez,,,,,,,https://media.api-sports.io/football/players/92858.png,true,true
-115793,28533,M. Mišić,,,,,,,,true,true
-72933,62163,A. Güleryüz,,,,,,,,true,true
-65387,89489,Andi Hoti,,,,,,,https://media.api-sports.io/football/players/89489.png,true,true
-56498,53857,Choe Song-Hyok,,,,,,,,true,true
-160027,56041,R. Savalnieks,,,,,,,https://media.api-sports.io/football/players/56041.png,true,true
-175530,411751,Hugo de Llanos,,,,,,,https://media.api-sports.io/football/players/411751.png,true,true
-166497,74647,A. Nurković,,,,,,,https://media.api-sports.io/football/players/74647.png,true,true
-57333,352352,Mattia Musatti,,,,,,,https://media.api-sports.io/football/players/352352.png,true,true
-54277,31410,D. Merelli,,,,,,,,true,true
-81736,103284,J. McMaster,,,,,,,https://media.api-sports.io/football/players/103284.png,true,true
-171990,191005,Henrique Tavares,,,,,,,,true,true
-195520,253859,I. Chinaecherem,,,,,,,,true,true
-50271,418944,Marcos Peña,,,,,,,https://media.api-sports.io/football/players/418944.png,true,true
-114981,42338,Mubarak Badi Al-Breik,,,,,,,,true,true
-178542,440932,S. Alfred,,,,,,,,true,true
-166691,201922,G. Tarakhchyan,,,,,,,https://media.api-sports.io/football/players/201922.png,true,true
-84119,54894,Jajá,,,,,,,https://media.api-sports.io/football/players/54894.png,true,true
-72244,115959,D. Kamara,,,,,,,,true,true
-90280,363786,Lukas Schweighofer,,,,,,,https://media.api-sports.io/football/players/363786.png,true,true
-139156,559787,A. Nunez,,,,,,,,true,true
-208925,398788,W. Brouillard,,,,,,,,true,true
-100032,64377,R. Sumanariu,,,,,,,,true,true
-212399,629867,Yohan Nandkissori,,,,,,,https://media.api-sports.io/football/players/629867.png,true,true
-190470,400021,Hugo Riccobene,,,,,,,,true,true
-168675,369740,Levon Williams,,,,,,,https://media.api-sports.io/football/players/369740.png,true,true
-156678,224482,D. López,,,,,,,,true,true
-104440,105947,T. Kahila,,,,,,,,true,true
-172558,524021,Musab Al-Shaqsy,,,,,,,,true,true
-90013,357049,E. Safin,,,,,,,https://media.api-sports.io/football/players/357049.png,true,true
-197293,23839,Y.Dufour,,,,,,,https://media.api-sports.io/football/players/23839.png,true,true
-135859,157334,Antônio Flávio,,,,,,,,true,true
-184395,84445,B. Morel,,,,,,,,true,true
-70133,400550,Gonçalo Sousa,,,,,,,https://media.api-sports.io/football/players/400550.png,true,true
-122520,89110,B. Mózes,,,,,,,,true,true
-209213,450624,L. Radet,,,,,,,,true,true
-135772,234440,Filipinho,,,,,,,,true,true
-116466,426109,Emanuel Mađarić,,,,,,,https://media.api-sports.io/football/players/426109.png,true,true
-138166,39553,German Pacheco,,,,,,,https://media.api-sports.io/football/players/39553.png,true,true
-210803,500198,Alexis Kentzinger,,,,,,,https://media.api-sports.io/football/players/500198.png,true,true
-215113,37801,Masies Artien,,,,,,,https://media.api-sports.io/football/players/37801.png,true,true
-41769,107309,J. Reed,,,,,,,,true,true
-61201,21030,F. Rherras,,,,,,,https://media.api-sports.io/football/players/21030.png,true,true
-216703,133799,A. Bruijn,,,,,,,,true,true
-137925,65855,Juan Alemán,,,,,,,https://media.api-sports.io/football/players/65855.png,true,true
-163251,175922,N. Adamolekun,,,,,,,,true,true
-182115,186267,J. Nkrumah,,,,,,,,true,true
-141599,292094,Darrel Matsheke,,,,,,,https://media.api-sports.io/football/players/292094.png,true,true
-146507,534410,D. Stojanovic,,,,,,,,true,true
-206781,332992,H. Guimard,,,,,,,,true,true
-86468,100014,E. Kebbie,,,,,,,https://media.api-sports.io/football/players/100014.png,true,true
-92968,70616,Gustavo Noguera,,,,,,,https://media.api-sports.io/football/players/70616.png,true,true
-215456,38421,R. Jongebloet,,,,,,,,true,true
-112591,542798,A. Sawafta,,,,,,,,true,true
-175830,117010,M. Bilić,,,,,,,,true,true
-207555,275640,M. Ravalet,,,,,,,,true,true
-119757,253906,N. Cañizares,,,,,,,,true,true
-107933,99552,Park Joon-Tae,,,,,,,,true,true
-162953,102504,S. Rivas,,,,,,,,true,true
-82316,413230,P. Miller,,,,,,,https://media.api-sports.io/football/players/413230.png,true,true
-209679,249392,M. Fergani,,,,,,,,true,true
-160855,210189,N. Pavlovs,,,,,,,,true,true
-186835,118676,R. Conway,,,,,,,,true,true
-64681,91171,M. Hober,,,,,,,,true,true
-172919,210518,E. Sundin,,,,,,,,true,true
-171268,423988,Xolani Gama,,,,,,,,true,true
-81614,201785,J. DeZart,,,,,,,https://media.api-sports.io/football/players/201785.png,true,true
-118356,16332,John Pereira,,,,,,,https://media.api-sports.io/football/players/16332.png,true,true
-204329,192807,A. Dias Ferreira,,,,,,,,true,true
-114699,2530,Pedro Miguel Correia,,,,,,,https://media.api-sports.io/football/players/2530.png,true,true
-53969,31606,Claiton,,,,,,,https://media.api-sports.io/football/players/31606.png,true,true
-195065,380900,Niclas Wessels,,,,,,,https://media.api-sports.io/football/players/380900.png,true,true
-183775,255415,A. Pătraş,,,,,,,,true,true
-72363,61847,Recep Niyaz,,,,,,,https://media.api-sports.io/football/players/61847.png,true,true
-46041,7037,Lewis Miller,,,,,,,https://media.api-sports.io/football/players/7037.png,true,true
-56673,434035,Joel Malusa,,,,,,,https://media.api-sports.io/football/players/434035.png,true,true
-109844,385702,A. Haffout,,,,,,,,true,true
-130330,501207,S. Padilla,,,,,,,,true,true
-136887,157286,Rodrigo Ferreira,,,,,,,https://media.api-sports.io/football/players/157286.png,true,true
-58111,53634,P. Boumal,,,,,,,https://media.api-sports.io/football/players/53634.png,true,true
-88014,43457,Aleksandr Cherevko,,,,,,,https://media.api-sports.io/football/players/43457.png,true,true
-182114,186385,I. Mensah,,,,,,,,true,true
-199357,250070,E. Dioclès,,,,,,,,true,true
-175730,568413,Tyrone Samba,,,,,,,https://media.api-sports.io/football/players/568413.png,true,true
-67536,38775,Tim Zeegers,,,,,,,https://media.api-sports.io/football/players/38775.png,true,true
-211928,190670,L. Leray,,,,,,,,true,true
-207047,346000,L. Antunes,,,,,,,,true,true
-72373,49860,E. Višća,,,,,,,https://media.api-sports.io/football/players/49860.png,true,true
-188778,494922,L. Rose,,,,,,,,true,true
-114592,57524,Ahmad Koheyl,,,,,,,,true,true
-132711,109770,Jalen Arko,,,,,,,,true,true
-47827,506470,T. Cursons,,,,,,,https://media.api-sports.io/football/players/506470.png,true,true
-45166,231063,D. Williams,,,,,,,https://media.api-sports.io/football/players/231063.png,true,true
-177429,359587,J. Amijekori,,,,,,,,true,true
-958,114821,M. Tierney,,,,,,,,true,true
-154648,551225,A. Donny Sylla,,,,,,,,true,true
-54843,881,Hans Nicolussi Caviglia,,,,,,,https://media.api-sports.io/football/players/881.png,true,true
-190310,498094,Jorge Rodríguez,,,,,,,,true,true
-174295,9071,K. Kordić,,,,,,,,true,true
-75118,34711,A. Taggart,,,,,,,https://media.api-sports.io/football/players/34711.png,true,true
-217041,130698,I. Span,,,,,,,,true,true
-196991,315964,Paolo Venturelli,,,,,,,https://media.api-sports.io/football/players/315964.png,true,true
-207659,348549,A. Untereiner,,,,,,,,true,true
-120252,59475,Carlos Romaña,,,,,,,https://media.api-sports.io/football/players/59475.png,true,true
-43899,284208,J. McGlynn,,,,,,,https://media.api-sports.io/football/players/284208.png,true,true
-58275,15403,V. Bessat,,,,,,,https://media.api-sports.io/football/players/15403.png,true,true
-186391,154154,Jey Siva,,,,,,,https://media.api-sports.io/football/players/154154.png,true,true
-204306,192800,Y. Martin,,,,,,,,true,true
-110378,535172,M. Es Sahel,,,,,,,,true,true
-122382,228367,S. Ádám,,,,,,,,true,true
-95666,47869,L. Silka,,,,,,,https://media.api-sports.io/football/players/47869.png,true,true
-196935,281024,J. Ghezzi,,,,,,,,true,true
-135680,234397,Rodrigo Cobrinha,,,,,,,,true,true
-142100,386966,Sihle Makhubela,,,,,,,https://media.api-sports.io/football/players/386966.png,true,true
-183292,191924,Adrian Revilla,,,,,,,https://media.api-sports.io/football/players/191924.png,true,true
-139257,579004,Y. Gutierrez Cuenca,,,,,,,,true,true
-169693,78953,Ngue Paul Olivier,,,,,,,,true,true
-181478,144264,Álex Prendes,,,,,,,,true,true
-83582,33292,M. Hayashi,,,,,,,https://media.api-sports.io/football/players/33292.png,true,true
-178323,496928,Mark Đokaj,,,,,,,https://media.api-sports.io/football/players/496928.png,true,true
-200636,85034,K. Cardinali,,,,,,,,true,true
-131001,68075,Nicolás Mancilla,,,,,,,https://media.api-sports.io/football/players/68075.png,true,true
-69547,130262,Afonso Sousa,,,,,,,https://media.api-sports.io/football/players/130262.png,true,true
-64300,178121,Ahmed Azaouagh,,,,,,,https://media.api-sports.io/football/players/178121.png,true,true
-41884,234132,J. Barrington,,,,,,,,true,true
-139432,15004,E. Nuredinoski,,,,,,,,true,true
-64261,259335,M. Calamita,,,,,,,,true,true
-131761,627847,Tomás Leyton,,,,,,,https://media.api-sports.io/football/players/627847.png,true,true
-97938,78990,James Chamanga,,,,,,,https://media.api-sports.io/football/players/78990.png,true,true
-63884,442151,N. Swider,,,,,,,https://media.api-sports.io/football/players/442151.png,true,true
-203788,22579,R. Calonge,,,,,,,,true,true
-138122,65676,D. Rodriguez,,,,,,,https://media.api-sports.io/football/players/65676.png,true,true
-89482,7557,Mario Leitgeb,,,,,,,https://media.api-sports.io/football/players/7557.png,true,true
-61585,206498,E. Breviglieri,,,,,,,https://media.api-sports.io/football/players/206498.png,true,true
-129863,133209,G. Alán,,,,,,,,true,true
-62021,384896,Clément Darribère,,,,,,,https://media.api-sports.io/football/players/384896.png,true,true
-121731,210509,Y. Mbengono,,,,,,,,true,true
-154218,8800,J. Laverge,,,,,,,,true,true
-170808,293033,M. Jibrin,,,,,,,,true,true
-204257,192456,A. Martinez,,,,,,,,true,true
+43959,30544,Gianluca Scamacca,,,,,,,https://media.api-sports.io/football/players/30544.png,true,true
+52995,163416,Simo Bouzaidi,,,,,,,https://media.api-sports.io/football/players/163416.png,true,true
+181472,194600,Juanan,,,,,,,,true,true
+203237,22816,R. Pereira de Miranda,,,,,,,,true,true
+179305,231887,J. Deacey,,,,,,,,true,true
+154692,425820,Amir Rais,,,,,,,https://media.api-sports.io/football/players/425820.png,true,true
+164479,29146,Akash Mishra,,,,,,,https://media.api-sports.io/football/players/29146.png,true,true
+976,88449,C. Hill,,,,,,,https://media.api-sports.io/football/players/88449.png,true,true
+185817,231889,L. Denson,,,,,,,,true,true
+173848,566913,Guilherme Liberato,,,,,,,,true,true
+171598,108513,Farhan Zulkifli,,,,,,,,true,true
+186843,118539,B. Murphy,,,,,,,,true,true
+210322,395046,Y. Guezello,,,,,,,,true,true
+167370,168166,M. Lewis,,,,,,,,true,true
+215937,93735,T. Amende,,,,,,,,true,true
+82381,67896,Maximiliano Falcón,,,,,,,https://media.api-sports.io/football/players/67896.png,true,true
+161921,102446,M. Moloto,,,,,,,,true,true
+104938,196036,Jeyson Chura,,,,,,,https://media.api-sports.io/football/players/196036.png,true,true
+45411,342468,Janos Bodnar,,,,,,,https://media.api-sports.io/football/players/342468.png,true,true
+108111,99543,Connor Chapman,,,,,,,https://media.api-sports.io/football/players/99543.png,true,true
+126125,352706,Manuel Romero,,,,,,,https://media.api-sports.io/football/players/352706.png,true,true
+93561,51643,Nicolas Dibble,,,,,,,https://media.api-sports.io/football/players/51643.png,true,true
+175845,255299,T. Pinas,,,,,,,,true,true
+161616,414723,Guillaume Pianelli-Balisoni,,,,,,,https://media.api-sports.io/football/players/414723.png,true,true
+141272,46499,Sphesihle Maduna,,,,,,,https://media.api-sports.io/football/players/46499.png,true,true
+130167,308627,C. Rivera,,,,,,,,true,true
+111212,17208,S. Corre,,,,,,,,true,true
+195431,526673,E. Jupolli,,,,,,,,true,true
+189364,331395,Ñete,,,,,,,,true,true
+175989,9063,M. Ljubić,,,,,,,,true,true
+157568,103801,L. Delgado,,,,,,,,true,true
+120735,344880,John Araujo,,,,,,,https://media.api-sports.io/football/players/344880.png,true,true
+66123,93917,Donny van der Wal,,,,,,,,true,true
+153583,492871,M. Khadhraoui,,,,,,,,true,true
+46725,267859,T. Sobowale,,,,,,,https://media.api-sports.io/football/players/267859.png,true,true
+110966,253102,Akram Abd Rabo,,,,,,,,true,true
+68151,41602,Pedro Queirós,,,,,,,https://media.api-sports.io/football/players/41602.png,true,true
+153957,533330,F. Sallami,,,,,,,,true,true
+75067,117269,A. Neil,,,,,,,,true,true
+141192,46307,W. Maluleke,,,,,,,,true,true
+50433,197799,X. Huarte,,,,,,,https://media.api-sports.io/football/players/197799.png,true,true
+217149,200720,J. Brink,,,,,,,,true,true
+84134,403472,Masaki Endo,,,,,,,https://media.api-sports.io/football/players/403472.png,true,true
+48699,72039,Fran Morante,,,,,,,https://media.api-sports.io/football/players/72039.png,true,true
+90524,48396,Alexander Muci,,,,,,,https://media.api-sports.io/football/players/48396.png,true,true
+50182,274298,Tiago Ribeiro,,,,,,,https://media.api-sports.io/football/players/274298.png,true,true
+110105,457423,A. Rafik,,,,,,,,true,true
+206784,271904,Julien Le Bourdoulous,,,,,,,https://media.api-sports.io/football/players/271904.png,true,true
+64203,26329,David Blacha,,,,,,,https://media.api-sports.io/football/players/26329.png,true,true
+43491,130421,Will Smallbone,,,,,,,https://media.api-sports.io/football/players/130421.png,true,true
+48630,91550,F. Rossi,,,,,,,https://media.api-sports.io/football/players/91550.png,true,true
+80061,414357,Riquelme Fillipi,,,,,,,https://media.api-sports.io/football/players/414357.png,true,true
+204515,174983,Amadou Diagne,,,,,,,https://media.api-sports.io/football/players/174983.png,true,true
+126418,424912,Blas Medina,,,,,,,https://media.api-sports.io/football/players/424912.png,true,true
+140211,56066,G. Anton,,,,,,,https://media.api-sports.io/football/players/56066.png,true,true
+122002,32605,W. Wolfe,,,,,,,,true,true
+92677,6724,N. Rodríguez,,,,,,,,true,true
+46710,308299,Gabriel Breeze,,,,,,,https://media.api-sports.io/football/players/308299.png,true,true
+84396,369476,Ryoya Kimura,,,,,,,https://media.api-sports.io/football/players/369476.png,true,true
+97131,225913,M. Wehner,,,,,,,,true,true
+148655,294598,D. Barrero,,,,,,,,true,true
+209258,449929,L. Andris,,,,,,,,true,true
+123662,212313,I. Sylla,,,,,,,,true,true
+178912,166078,Jay Warren,,,,,,,https://media.api-sports.io/football/players/166078.png,true,true
+186574,118837,O. Folkes,,,,,,,,true,true
+204757,191377,E. Mlowa,,,,,,,,true,true
+142541,45859,J. Markoski,,,,,,,,true,true
+47714,462452,Vinnie Tume,,,,,,,https://media.api-sports.io/football/players/462452.png,true,true
+203227,22801,M. Charetier,,,,,,,,true,true
+45173,292351,L. Coulton,,,,,,,https://media.api-sports.io/football/players/292351.png,true,true
+167761,309268,Garwin Davis,,,,,,,https://media.api-sports.io/football/players/309268.png,true,true
+79280,10145,Luiz Fernando,,,,,,,https://media.api-sports.io/football/players/10145.png,true,true
+96703,497023,Axel Brönner,,,,,,,https://media.api-sports.io/football/players/497023.png,true,true
+165715,56440,Y. Bobb,,,,,,,https://media.api-sports.io/football/players/56440.png,true,true
+211059,278951,N. Quemard,,,,,,,,true,true
+120553,59482,J. Hurtado,,,,,,,,true,true
+143305,63451,N. Ivanović,,,,,,,,true,true
+194295,319844,Marcel Gotz,,,,,,,https://media.api-sports.io/football/players/319844.png,true,true
+214629,580740,J. Martins,,,,,,,,true,true
+101437,248054,O. Qvick,,,,,,,,true,true
+213556,332040,Moacir,,,,,,,,true,true
+207710,348701,L. Bollore,,,,,,,,true,true
+102132,83472,J. Mabinda,,,,,,,,true,true
+84545,35845,H. Burbano,,,,,,,https://media.api-sports.io/football/players/35845.png,true,true
+106154,443773,Pedro Antonio Rodriguez,,,,,,,https://media.api-sports.io/football/players/443773.png,true,true
+191806,610364,X. Jauregui,,,,,,,,true,true
+123739,4812,H. Maanser,,,,,,,,true,true
+155137,107585,G. Jokhadze,,,,,,,,true,true
+58176,23533,M. Llambrich,,,,,,,,true,true
+45811,788,Ž. Celar,,,,,,,https://media.api-sports.io/football/players/788.png,true,true
+83087,33044,Y. Kashiwa,,,,,,,https://media.api-sports.io/football/players/33044.png,true,true
+62314,400,Jeffrey Bruma,,,,,,,https://media.api-sports.io/football/players/400.png,true,true
+116019,79958,O. Sumić,,,,,,,,true,true
+188169,278124,Brad Burton,,,,,,,https://media.api-sports.io/football/players/278124.png,true,true
+46780,152966,J. Pardington,,,,,,,https://media.api-sports.io/football/players/152966.png,true,true
+103935,27257,M. Stefanakos,,,,,,,,true,true
+114796,42292,Muneer Abdulghani Mazeed,,,,,,,https://media.api-sports.io/football/players/42292.png,true,true
+128710,311788,Alan Acevedo,,,,,,,https://media.api-sports.io/football/players/311788.png,true,true
+174671,73010,J. Olsen,,,,,,,,true,true
+45230,153405,C. Norton,,,,,,,https://media.api-sports.io/football/players/153405.png,true,true
+92462,343566,Elton Fikaj,,,,,,,https://media.api-sports.io/football/players/343566.png,true,true
+42116,231273,L. Hurst,,,,,,,,true,true
+62379,230,Daniel Schwaab,,,,,,,https://media.api-sports.io/football/players/230.png,true,true
+208187,398700,T. Maréchal,,,,,,,,true,true
+96981,15861,T. Kløve,,,,,,,https://media.api-sports.io/football/players/15861.png,true,true
+55259,202342,K. Hvalič,,,,,,,https://media.api-sports.io/football/players/202342.png,true,true
+191862,626495,A. Cordero,,,,,,,,true,true
+200390,87193,Y. Cosson,,,,,,,,true,true
+46672,277433,Rudi Pache,,,,,,,https://media.api-sports.io/football/players/277433.png,true,true
+178651,354664,Edgar Pérez,,,,,,,https://media.api-sports.io/football/players/354664.png,true,true
+58036,87269,G. Bracigliano,,,,,,,,true,true
+150107,88967,K. Abbott,,,,,,,,true,true
+118152,252695,A. Casquete,,,,,,,,true,true
+87903,43504,E. Goshev,,,,,,,https://media.api-sports.io/football/players/43504.png,true,true
+164415,104063,S. Aboue,,,,,,,https://media.api-sports.io/football/players/104063.png,true,true
+197743,249755,J. Ba,,,,,,,,true,true
+77734,54889,Thiago Mosquito,,,,,,,https://media.api-sports.io/football/players/54889.png,true,true
+160664,72416,M. Barkovskis,,,,,,,,true,true
+147986,460441,Fabrizio Lora,,,,,,,https://media.api-sports.io/football/players/460441.png,true,true
+127050,110583,Noam Gamoun,,,,,,,https://media.api-sports.io/football/players/110583.png,true,true
+46932,16072,M. Westergaard,,,,,,,https://media.api-sports.io/football/players/16072.png,true,true
+170312,73526,Dilshod Saitov,,,,,,,https://media.api-sports.io/football/players/73526.png,true,true
+105048,66188,P. Dreksa,,,,,,,,true,true
+66411,37422,S. Alberto,,,,,,,,true,true
+123023,456027,Dhônata Tavares de Oliveira,,,,,,,https://media.api-sports.io/football/players/456027.png,true,true
+115617,542524,M. Khaled,,,,,,,,true,true
+49835,131532,Juan Ignacio Brunet Bordin,,,,,,,https://media.api-sports.io/football/players/131532.png,true,true
+137785,65936,Marcelo Gomez,,,,,,,https://media.api-sports.io/football/players/65936.png,true,true
+130114,375017,J. Hernández,,,,,,,,true,true
+192786,260138,D. Reck,,,,,,,,true,true
+124839,383139,E. Antar,,,,,,,,true,true
+56531,87025,M. Dembélé,,,,,,,https://media.api-sports.io/football/players/87025.png,true,true
+68149,116516,Ney Santos,,,,,,,,true,true
+170387,349277,A. Mangalo,,,,,,,,true,true
+105245,797,D. Sváček,,,,,,,https://media.api-sports.io/football/players/797.png,true,true
+207056,175144,L. Gaume,,,,,,,,true,true
+164084,541025,K. Vang,,,,,,,,true,true
+213291,288229,Patchú Monteiro,,,,,,,,true,true
+128986,414340,Luciano González,,,,,,,https://media.api-sports.io/football/players/414340.png,true,true
+107286,383680,Hassan Al Slis,,,,,,,,true,true
+125068,490243,L. Zidi,,,,,,,,true,true
+145935,324914,A. Kahrimanović,,,,,,,,true,true
+174264,111651,A. Muldarov,,,,,,,,true,true
+193813,25992,M. Dreher-Reinhardt,,,,,,,,true,true
+185548,232419,C. Humphries,,,,,,,,true,true
+43557,64003,Pascal Struijk,,,,,,,https://media.api-sports.io/football/players/64003.png,true,true
+18394,230951,E. Sinclair,,,,,,,,true,true
+88191,53631,M. Aratore,,,,,,,https://media.api-sports.io/football/players/53631.png,true,true
+207038,275269,S. Barroug,,,,,,,,true,true
+136775,80627,Alisson Cassiano,,,,,,,https://media.api-sports.io/football/players/80627.png,true,true
+157057,52632,S. Schoonewolff,,,,,,,,true,true
+119505,79393,C. Fernándes Mejía,,,,,,,https://media.api-sports.io/football/players/79393.png,true,true
+161494,320136,J. Holliday,,,,,,,https://media.api-sports.io/football/players/320136.png,true,true
+214839,581709,D. Romana,,,,,,,,true,true
+198022,207615,Y. Deroff,,,,,,,,true,true
+164564,343011,Abdul Rabeeh,,,,,,,https://media.api-sports.io/football/players/343011.png,true,true
+123372,212571,Y. Akkouche,,,,,,,,true,true
+84271,33981,Toma Murata,,,,,,,https://media.api-sports.io/football/players/33981.png,true,true
+108610,356241,Seol Hyun-bin,,,,,,,https://media.api-sports.io/football/players/356241.png,true,true
+70955,114200,A. Curia,,,,,,,,true,true
+106460,104642,Mohammed Salem,,,,,,,https://media.api-sports.io/football/players/104642.png,true,true
+142066,437777,C. Mdevulana,,,,,,,,true,true
+45754,350083,Charlie Lennon,,,,,,,https://media.api-sports.io/football/players/350083.png,true,true
+142447,130911,M. Kopolovets,,,,,,,,true,true
+62868,25204,Marvin Matip,,,,,,,https://media.api-sports.io/football/players/25204.png,true,true
+86335,57305,Onyekachi Hope Ugwuadu,,,,,,,https://media.api-sports.io/football/players/57305.png,true,true
+215617,94094,T. Overhof,,,,,,,,true,true
+204723,181944,S. Binagot,,,,,,,,true,true
+176961,128076,E. Morris,,,,,,,,true,true
 103654,26911,M. Vellidis,,,,,,,,true,true
-1243,882,David De Gea,,,,,,,https://media.api-sports.io/football/players/882.png,true,true
-72484,118085,E. Güngör,,,,,,,https://media.api-sports.io/football/players/118085.png,true,true
-139763,221276,N. Mämmädov,,,,,,,,true,true
-68385,41684,Areias,,,,,,,https://media.api-sports.io/football/players/41684.png,true,true
-140520,546018,H. Isayev,,,,,,,,true,true
-190992,610309,A. M. Lopez,,,,,,,,true,true
-93861,5356,P. Cortizo,,,,,,,https://media.api-sports.io/football/players/5356.png,true,true
-199850,21740,C. Bruynaert,,,,,,,,true,true
-46831,467713,H. Smith,,,,,,,https://media.api-sports.io/football/players/467713.png,true,true
-150165,88937,B. Moya,,,,,,,,true,true
-98852,288576,Abdurasul Abudulam,,,,,,,https://media.api-sports.io/football/players/288576.png,true,true
-188933,288108,O. Basey,,,,,,,,true,true
-91743,96329,Luís Mata,,,,,,,https://media.api-sports.io/football/players/96329.png,true,true
-129448,14074,R. Miranda,,,,,,,,true,true
-214482,496569,Aly Ismail,,,,,,,,true,true
-95439,521993,Tomas Lavezzi,,,,,,,https://media.api-sports.io/football/players/521993.png,true,true
-167419,64555,S. Robles,,,,,,,https://media.api-sports.io/football/players/64555.png,true,true
-158653,565424,R. Marin,,,,,,,,true,true
-74728,44977,D. Imrie,,,,,,,,true,true
-213869,279612,Saldanha,,,,,,,,true,true
-36621,87774,Harvey Bradbury,,,,,,,https://media.api-sports.io/football/players/87774.png,true,true
-111506,269360,Mohamed Hossam,,,,,,,https://media.api-sports.io/football/players/269360.png,true,true
-109383,195005,M. Nahdi,,,,,,,,true,true
+44317,366735,Josh Acheampong,,,,,,,https://media.api-sports.io/football/players/366735.png,true,true
+216880,158322,R. Bakker,,,,,,,,true,true
+166361,49380,Weerathep Pomphan,,,,,,,https://media.api-sports.io/football/players/49380.png,true,true
+70119,41878,Miguel Carvalho,,,,,,,https://media.api-sports.io/football/players/41878.png,true,true
+60823,22983,Alexandre Bouchard,,,,,,,https://media.api-sports.io/football/players/22983.png,true,true
+202436,84299,C. Cangou,,,,,,,,true,true
+219182,488338,J. Huitink,,,,,,,,true,true
+98083,12423,Li Chunyu,,,,,,,,true,true
+209473,174781,A. Pohe Tokpa,,,,,,,,true,true
+199836,168507,O. N'Diaye,,,,,,,,true,true
+96384,139709,Amar Muhsin,,,,,,,https://media.api-sports.io/football/players/139709.png,true,true
+43334,18965,Martín Montoya,,,,,,,https://media.api-sports.io/football/players/18965.png,true,true
+48909,47493,Duje Čop,,,,,,,https://media.api-sports.io/football/players/47493.png,true,true
+132458,428522,T. Hranica,,,,,,,https://media.api-sports.io/football/players/428522.png,true,true
+165359,270477,J. Teixeira,,,,,,,https://media.api-sports.io/football/players/270477.png,true,true
+61707,41174,J. Buatu,,,,,,,https://media.api-sports.io/football/players/41174.png,true,true
+77479,10022,Ernando,,,,,,,https://media.api-sports.io/football/players/10022.png,true,true
+140188,134057,P. Azadov,,,,,,,,true,true
+79033,10021,Douglas Borel,,,,,,,https://media.api-sports.io/football/players/10021.png,true,true
+144075,157192,A. Krasniqi,,,,,,,https://media.api-sports.io/football/players/157192.png,true,true
+195550,209631,A. Fontanelli,,,,,,,,true,true
+182430,185856,Gaspar,,,,,,,https://media.api-sports.io/football/players/185856.png,true,true
+129439,14126,B. López,,,,,,,https://media.api-sports.io/football/players/14126.png,true,true
+75086,45251,Joe Thomson,,,,,,,https://media.api-sports.io/football/players/45251.png,true,true
+130012,324757,F. Pinar,,,,,,,,true,true
+209182,350196,Ludovic Laviec,,,,,,,https://media.api-sports.io/football/players/350196.png,true,true
+977,21089,Fábio,,,,,,,https://media.api-sports.io/football/players/21089.png,true,true
+213850,394405,S. Kuffour,,,,,,,,true,true
+146228,457269,Vasilije Zunić,,,,,,,https://media.api-sports.io/football/players/457269.png,true,true
+113016,50397,Fahad Al Dhanhani,,,,,,,https://media.api-sports.io/football/players/50397.png,true,true
+52981,109806,D. Flakus Bosilj,,,,,,,https://media.api-sports.io/football/players/109806.png,true,true
+102508,167858,A. Dumbuya,,,,,,,https://media.api-sports.io/football/players/167858.png,true,true
+107812,35282,Suk-Won Jang,,,,,,,,true,true
+213693,119569,André Martins,,,,,,,,true,true
+79765,402109,Joao Vitor Cardoso de Souza,,,,,,,https://media.api-sports.io/football/players/402109.png,true,true
+175874,66415,L. Magera,,,,,,,,true,true
+121803,227703,B. Pavlovic,,,,,,,,true,true
+41494,231256,M. Gill,,,,,,,,true,true
+205195,180628,M. Lopez,,,,,,,,true,true
+177602,395805,D. Sekovski,,,,,,,,true,true
+18615,115941,S. Parnaby,,,,,,,,true,true
+149709,27726,G. Rodas,,,,,,,,true,true
+1760,19890,Reece James,,,,,,,https://media.api-sports.io/football/players/19890.png,true,true
+141978,293538,Amos Mokwena,,,,,,,https://media.api-sports.io/football/players/293538.png,true,true
+56893,163185,Vladan Đekić,,,,,,,https://media.api-sports.io/football/players/163185.png,true,true
+98910,78749,Li Shuai,,,,,,,https://media.api-sports.io/football/players/78749.png,true,true
+158572,562667,C. Castro,,,,,,,,true,true
+93484,5642,Diego Meza,,,,,,,https://media.api-sports.io/football/players/5642.png,true,true
+72585,2368,D. Biseswar,,,,,,,https://media.api-sports.io/football/players/2368.png,true,true
+127404,111032,M. Fadida,,,,,,,,true,true
+97065,55564,S. Morrissey,,,,,,,,true,true
+115004,36589,J. Mohy,,,,,,,,true,true
+147796,404369,Santiago Gálvez,,,,,,,https://media.api-sports.io/football/players/404369.png,true,true
+84639,35897,Gael Sandoval,,,,,,,https://media.api-sports.io/football/players/35897.png,true,true
+179715,232734,S. Dixon,,,,,,,,true,true
+98532,12693,Wenjie Lei,,,,,,,https://media.api-sports.io/football/players/12693.png,true,true
+182510,348430,Melik,,,,,,,https://media.api-sports.io/football/players/348430.png,true,true
+180218,122803,Carlos Craviotto,,,,,,,,true,true
+188357,400892,Seydil Toure,,,,,,,https://media.api-sports.io/football/players/400892.png,true,true
+177593,292492,A. Nikolajev,,,,,,,,true,true
+122935,395195,S. Szalai,,,,,,,,true,true
+216434,37993,K. Nikolic,,,,,,,,true,true
+195229,334008,Malwin Zok,,,,,,,https://media.api-sports.io/football/players/334008.png,true,true
+132039,199768,Paulo Junior,,,,,,,,true,true
+169303,22870,L. Wahnawe,,,,,,,,true,true
+49600,107147,Anssumane Fati,,,,,,,https://media.api-sports.io/football/players/107147.png,true,true
+132253,278985,F. Mastiš,,,,,,,,true,true
+56773,31378,A. Pimenta,,,,,,,,true,true
+204676,192703,C. Bernard,,,,,,,,true,true
+89480,219835,D. Brauneis,,,,,,,,true,true
+124792,370023,Y. Bennoui,,,,,,,,true,true
+62209,25308,Julian Schieber,,,,,,,https://media.api-sports.io/football/players/25308.png,true,true
+110847,81483,Mohamed Zeka,,,,,,,,true,true
+64518,50792,Samuel Piette,,,,,,,https://media.api-sports.io/football/players/50792.png,true,true
+209933,199667,A. Bouhenni,,,,,,,,true,true
+104152,88781,M. Hatzidimitriou,,,,,,,,true,true
+46058,70336,V. Kovačević,,,,,,,https://media.api-sports.io/football/players/70336.png,true,true
+216246,93448,Y. Ramos,,,,,,,,true,true
+117476,490628,Clinton Duodu,,,,,,,https://media.api-sports.io/football/players/490628.png,true,true
+117313,403879,Mamadou Sane,,,,,,,https://media.api-sports.io/football/players/403879.png,true,true
+191369,548836,L. Garcia,,,,,,,,true,true
+149951,227288,K. Caballero,,,,,,,,true,true
+170018,283148,O. Wamalwa,,,,,,,,true,true
+116646,72578,J. Biljan,,,,,,,https://media.api-sports.io/football/players/72578.png,true,true
+176715,441214,İsa Halidi,,,,,,,https://media.api-sports.io/football/players/441214.png,true,true
+46050,358719,Kealey Adamson,,,,,,,https://media.api-sports.io/football/players/358719.png,true,true
+47537,379529,Max Fisher,,,,,,,https://media.api-sports.io/football/players/379529.png,true,true
+208762,398421,G. Mpanzi,,,,,,,,true,true
+149465,550566,Alberto Salido,,,,,,,https://media.api-sports.io/football/players/550566.png,true,true
+160688,72495,E. Ivanovs,,,,,,,,true,true
+182195,348374,Noé Dávila García,,,,,,,https://media.api-sports.io/football/players/348374.png,true,true
+181304,181611,Calleja,,,,,,,,true,true
+162474,98285,M. Petošević,,,,,,,,true,true
+171796,305698,Héctor Hurtado,,,,,,,https://media.api-sports.io/football/players/305698.png,true,true
+191405,610281,I. Palacios,,,,,,,,true,true
+95654,105182,A. Ziarat,,,,,,,,true,true
+68375,116644,André Preto,,,,,,,,true,true
+216255,37482,G. Leibbrand,,,,,,,,true,true
+213112,279210,João Abreu,,,,,,,,true,true
+200127,249674,V. Nerriere,,,,,,,,true,true
+77994,9894,Ricardo Oliveira,,,,,,,https://media.api-sports.io/football/players/9894.png,true,true
+115873,14623,L. Grubišić,,,,,,,,true,true
+215305,93992,E. Pattinama,,,,,,,,true,true
+190876,560934,V. Gomez,,,,,,,,true,true
+57570,441581,Enea Pitti,,,,,,,https://media.api-sports.io/football/players/441581.png,true,true
+133039,131427,M. Brest,,,,,,,https://media.api-sports.io/football/players/131427.png,true,true
+191940,127849,Nils Pichinot,,,,,,,https://media.api-sports.io/football/players/127849.png,true,true
+173083,210581,M. Tipton,,,,,,,,true,true
+72863,244890,M. Acun,,,,,,,,true,true
+118731,310677,Player 9,,,,,,,,true,true
+114067,359743,Abdulla Ahmed,,,,,,,https://media.api-sports.io/football/players/359743.png,true,true
+96953,190618,M. Toppel,,,,,,,,true,true
+18535,17905,D. Poleon,,,,,,,https://media.api-sports.io/football/players/17905.png,true,true
+101309,55478,K. Rasimus,,,,,,,,true,true
+50785,600938,P. Agudin,,,,,,,https://media.api-sports.io/football/players/600938.png,true,true
+78431,77789,Tomas Bastos,,,,,,,https://media.api-sports.io/football/players/77789.png,true,true
+46434,82670,Charles Clayden,,,,,,,https://media.api-sports.io/football/players/82670.png,true,true
+70676,8562,C. Diandy,,,,,,,https://media.api-sports.io/football/players/8562.png,true,true
+83126,225127,T. Hayashi,,,,,,,,true,true
+204805,192927,A. Koffi,,,,,,,,true,true
+159316,294589,Mateja Bajunovic,,,,,,,https://media.api-sports.io/football/players/294589.png,true,true
+78021,55274,Wallace,,,,,,,,true,true
+180846,181275,Neto,,,,,,,https://media.api-sports.io/football/players/181275.png,true,true
+178062,463744,T. Sovelius,,,,,,,https://media.api-sports.io/football/players/463744.png,true,true
+172394,568631,Omar Saber,,,,,,,https://media.api-sports.io/football/players/568631.png,true,true
+213492,341447,João Sampaio,,,,,,,,true,true
+81558,6037,Favio Álvarez,,,,,,,https://media.api-sports.io/football/players/6037.png,true,true
+149792,227373,C. Pérez,,,,,,,,true,true
+46437,17823,George Lloyd,,,,,,,https://media.api-sports.io/football/players/17823.png,true,true
+217081,149337,M. Seddiqi,,,,,,,,true,true
+149436,546296,Efe Ali,,,,,,,https://media.api-sports.io/football/players/546296.png,true,true
+159044,38294,J. van de Rande,,,,,,,,true,true
+135433,159553,Eron,,,,,,,,true,true
+218335,422070,S. Shotton,,,,,,,,true,true
+161295,564953,L. Gandzs,,,,,,,,true,true
+41851,232447,F. Bass,,,,,,,,true,true
+142839,241092,S. Isa,,,,,,,,true,true
+95846,100424,R. Nushi,,,,,,,https://media.api-sports.io/football/players/100424.png,true,true
+60018,505518,Zabi,,,,,,,https://media.api-sports.io/football/players/505518.png,true,true
+152886,49816,L. Zarrouk,,,,,,,,true,true
+208479,398653,T. Baude,,,,,,,,true,true
+216452,37969,Sander Binken,,,,,,,https://media.api-sports.io/football/players/37969.png,true,true
+117039,283453,I. Charalambous,,,,,,,,true,true
+165368,438714,Simone Giocondi,,,,,,,https://media.api-sports.io/football/players/438714.png,true,true
+79461,266856,Fabrício,,,,,,,https://media.api-sports.io/football/players/266856.png,true,true
+137894,39503,P. De Miranda,,,,,,,https://media.api-sports.io/football/players/39503.png,true,true
+105199,70478,O. Štursa,,,,,,,,true,true
+97735,438854,Yaya Bojang,,,,,,,https://media.api-sports.io/football/players/438854.png,true,true
+46124,399906,Othmane Maamma,,,,,,,https://media.api-sports.io/football/players/399906.png,true,true
+208845,398452,B. Georg,,,,,,,https://media.api-sports.io/football/players/398452.png,true,true
+175732,568099,Graham Ankamafio,,,,,,,https://media.api-sports.io/football/players/568099.png,true,true
+72347,113890,P. Feindouno,,,,,,,,true,true
+131267,311303,Diego Martínez,,,,,,,https://media.api-sports.io/football/players/311303.png,true,true
+142143,505010,Khumbulani Ncube,,,,,,,https://media.api-sports.io/football/players/505010.png,true,true
+216198,37213,Hessel Snoek,,,,,,,https://media.api-sports.io/football/players/37213.png,true,true
+54324,30779,O. Hiljemark,,,,,,,https://media.api-sports.io/football/players/30779.png,true,true
+166099,123537,Farhat Musabekov,,,,,,,https://media.api-sports.io/football/players/123537.png,true,true
+75596,326940,Murray Johnson,,,,,,,https://media.api-sports.io/football/players/326940.png,true,true
+101701,55371,Reuben Ayarna,,,,,,,,true,true
+35102,17431,C. Aneke,,,,,,,https://media.api-sports.io/football/players/17431.png,true,true
+68443,9713,Gerson Magrão,,,,,,,https://media.api-sports.io/football/players/9713.png,true,true
+50123,378284,K. Etta,,,,,,,https://media.api-sports.io/football/players/378284.png,true,true
+212367,629844,Benjamin Da Silva,,,,,,,https://media.api-sports.io/football/players/629844.png,true,true
+72952,62243,O. Taşdelen,,,,,,,https://media.api-sports.io/football/players/62243.png,true,true
+152088,49686,S. Mhadhebi,,,,,,,,true,true
+36018,17849,K. Dennis,,,,,,,https://media.api-sports.io/football/players/17849.png,true,true
+74240,442300,Demir Sarıcalı,,,,,,,https://media.api-sports.io/football/players/442300.png,true,true
+118823,5591,Mauricio Alonso,,,,,,,https://media.api-sports.io/football/players/5591.png,true,true
+113723,200869,Benjamin Ayim,,,,,,,https://media.api-sports.io/football/players/200869.png,true,true
+109082,36606,I. Qamoum,,,,,,,,true,true
+134020,29715,S. Hosseinpour,,,,,,,,true,true
+117932,252798,J. Mera,,,,,,,,true,true
+74703,117241,R. Barbour,,,,,,,,true,true
+53629,10123,Jonathan,,,,,,,https://media.api-sports.io/football/players/10123.png,true,true
+36632,20093,James Hill,,,,,,,https://media.api-sports.io/football/players/20093.png,true,true
+148937,10639,Atanas Krastev,,,,,,,,true,true
+199357,250070,E. Dioclès,,,,,,,,true,true
+118981,354724,Dany Coronel,,,,,,,https://media.api-sports.io/football/players/354724.png,true,true
+202318,86030,T. Motuta,,,,,,,,true,true
+157956,290550,O. Linares,,,,,,,,true,true
+60838,50802,Q. Westberg,,,,,,,https://media.api-sports.io/football/players/50802.png,true,true
+65413,203204,Tim Corsten,,,,,,,https://media.api-sports.io/football/players/203204.png,true,true
+211490,206398,C. Samassa,,,,,,,,true,true
+169952,7884,A. Poznyak,,,,,,,,true,true
+176970,264400,J. Arnarsson,,,,,,,,true,true
+61518,21324,K. Schur,,,,,,,https://media.api-sports.io/football/players/21324.png,true,true
+201070,86377,J. Appolinaire,,,,,,,,true,true
+56159,30885,J. Baraye,,,,,,,https://media.api-sports.io/football/players/30885.png,true,true
+111977,403897,Ahmed Abdel Wahab,,,,,,,,true,true
+160049,72521,A. Jemeļins,,,,,,,,true,true
+194615,177715,Ole Wohlers,,,,,,,https://media.api-sports.io/football/players/177715.png,true,true
+63492,232,Nick Viergever,,,,,,,https://media.api-sports.io/football/players/232.png,true,true
+195788,56804,Eugenio D'Ursi,,,,,,,https://media.api-sports.io/football/players/56804.png,true,true
+145333,98460,N. Mitić,,,,,,,,true,true
+129801,127480,J. Ruiz,,,,,,,,true,true
+123033,362056,Erik Kocs-Washburn,,,,,,,https://media.api-sports.io/football/players/362056.png,true,true
+169068,124208,Wael Al Rifaee,,,,,,,,true,true
+218461,437654,M. Homoet,,,,,,,https://media.api-sports.io/football/players/437654.png,true,true
+190733,561078,Popi,,,,,,,,true,true
+139960,106374,V. İsgəndərli,,,,,,,https://media.api-sports.io/football/players/106374.png,true,true
+88665,149804,Vladislav Masalskiy,,,,,,,https://media.api-sports.io/football/players/149804.png,true,true
+175462,142681,D. Silva,,,,,,,,true,true
+123594,212360,B. Moumen,,,,,,,,true,true
+117669,16544,Adrián Bone,,,,,,,https://media.api-sports.io/football/players/16544.png,true,true
+145811,292165,M. Ćirović,,,,,,,,true,true
+85370,51640,Facundo Waller,,,,,,,https://media.api-sports.io/football/players/51640.png,true,true
+199722,249622,J. Lallet,,,,,,,,true,true
+146379,502507,Nemanja Majkić,,,,,,,https://media.api-sports.io/football/players/502507.png,true,true
+193577,90862,P. Ruby,,,,,,,,true,true
+176806,607082,Jah Mason Telusson,,,,,,,https://media.api-sports.io/football/players/607082.png,true,true
+55897,345808,Francesco Pio Esposito,,,,,,,https://media.api-sports.io/football/players/345808.png,true,true
+205315,181994,G. Diop,,,,,,,,true,true
+124252,149340,O. Kaddour,,,,,,,,true,true
+150530,327006,Y. Maradiaga,,,,,,,,true,true
+154281,37586,T. Swinnen,,,,,,,,true,true
+88655,367608,Vladimir Shaykhutdinov,,,,,,,https://media.api-sports.io/football/players/367608.png,true,true
+115392,307000,B. Seck,,,,,,,https://media.api-sports.io/football/players/307000.png,true,true
+99598,42707,A. Neagu,,,,,,,,true,true
+155590,255490,Han Tianlin,,,,,,,,true,true
+67390,378848,Floris Smand,,,,,,,https://media.api-sports.io/football/players/378848.png,true,true
+215742,93848,M. Boelhouwer,,,,,,,,true,true
+76007,117765,I. D'Angelo,,,,,,,,true,true
+210878,501297,J. Cadol,,,,,,,,true,true
+191872,626648,D. Ojog,,,,,,,,true,true
+111855,355402,Ahmed Sayed Gharib,,,,,,,https://media.api-sports.io/football/players/355402.png,true,true
+62115,85197,A. El Farissi,,,,,,,https://media.api-sports.io/football/players/85197.png,true,true
+82278,324506,M. Duggan,,,,,,,https://media.api-sports.io/football/players/324506.png,true,true
+42385,17580,D. Wright,,,,,,,,true,true
+199670,249612,K. Pouniandy,,,,,,,,true,true
+130956,11611,Diego Oyarzún,,,,,,,https://media.api-sports.io/football/players/11611.png,true,true
+128725,102179,I. Cancela,,,,,,,,true,true
+156567,103899,G. Ramírez,,,,,,,,true,true
+44627,1696,Samuel Chukwueze,,,,,,,https://media.api-sports.io/football/players/1696.png,true,true
+84831,70831,L. Miño,,,,,,,https://media.api-sports.io/football/players/70831.png,true,true
+120584,291351,J. Suárez,,,,,,,,true,true
+217794,283088,A. el Bouchataoui,,,,,,,,true,true
+165316,122174,K. D'Anzico,,,,,,,https://media.api-sports.io/football/players/122174.png,true,true
+63426,108479,Blendi Idrizi,,,,,,,https://media.api-sports.io/football/players/108479.png,true,true
+108864,509168,Jung Seong-Bin,,,,,,,,true,true
+216811,200685,W. Ebbers,,,,,,,,true,true
+207307,346569,M. Colin,,,,,,,,true,true
+77712,114423,Danilo Padilha,,,,,,,https://media.api-sports.io/football/players/114423.png,true,true
+46807,296121,J. Hinchy,,,,,,,https://media.api-sports.io/football/players/296121.png,true,true
+190946,610292,A. Olarra,,,,,,,,true,true
+72483,245128,Koray Arslan,,,,,,,https://media.api-sports.io/football/players/245128.png,true,true
+101949,147875,M. Kurtén,,,,,,,,true,true
+95396,560446,Lisandro Yosemir Baju,,,,,,,https://media.api-sports.io/football/players/560446.png,true,true
+130845,106651,V. Labrín,,,,,,,,true,true
+164291,59985,B. Singh,,,,,,,https://media.api-sports.io/football/players/59985.png,true,true
+59014,21708,J. Keita,,,,,,,https://media.api-sports.io/football/players/21708.png,true,true
+75662,438870,Rory Whittaker,,,,,,,https://media.api-sports.io/football/players/438870.png,true,true
+49028,80848,Yu Zhang,,,,,,,https://media.api-sports.io/football/players/80848.png,true,true
+201212,22625,M. Iaconis,,,,,,,,true,true
+136041,80345,Jaildo,,,,,,,,true,true
+93355,74976,D. Castaño,,,,,,,https://media.api-sports.io/football/players/74976.png,true,true
+114099,472122,Mohamed Alblooshi,,,,,,,https://media.api-sports.io/football/players/472122.png,true,true
+192924,260199,P. Mayer,,,,,,,,true,true
+91460,40179,E. Kumah,,,,,,,,true,true
+116423,408769,Frano Vlašić,,,,,,,https://media.api-sports.io/football/players/408769.png,true,true
+75727,7049,Joshua Nisbet,,,,,,,https://media.api-sports.io/football/players/7049.png,true,true
+124016,4623,A. Aissa El Bey,,,,,,,,true,true
+94531,356943,Matteo Trombini,,,,,,,https://media.api-sports.io/football/players/356943.png,true,true
+157289,5336,D. Jara,,,,,,,,true,true
+149790,227073,A. Lalin,,,,,,,,true,true
+118942,356538,Jordan Yepez,,,,,,,https://media.api-sports.io/football/players/356538.png,true,true
+76679,510546,J. Thomson,,,,,,,,true,true
+122669,122136,A. Györgyi,,,,,,,,true,true
+199119,250349,I. Osseby,,,,,,,,true,true
+130506,541301,M. Escoe,,,,,,,,true,true
+44546,339201,Chris Rigg,,,,,,,https://media.api-sports.io/football/players/339201.png,true,true
+136706,9777,Luiz,,,,,,,,true,true
+80168,614433,C. Lucas,,,,,,,,true,true
+125451,70614,J. Irrazábal,,,,,,,,true,true
+51817,295903,Damián,,,,,,,https://media.api-sports.io/football/players/295903.png,true,true
+139851,168850,A. Khamrakulov,,,,,,,,true,true
+139273,579008,K. Quiroz,,,,,,,,true,true
+94792,293309,Leonardo Monje,,,,,,,https://media.api-sports.io/football/players/293309.png,true,true
+118022,81772,V. Corozo,,,,,,,,true,true
+146454,343441,N. Đokić,,,,,,,https://media.api-sports.io/football/players/343441.png,true,true
+86186,94819,Emil Odegaard,,,,,,,https://media.api-sports.io/football/players/94819.png,true,true
+108770,308264,Young-woo Jang,,,,,,,https://media.api-sports.io/football/players/308264.png,true,true
+217702,273391,J. David,,,,,,,,true,true
+65677,550835,M. Rajkovacic,,,,,,,https://media.api-sports.io/football/players/550835.png,true,true
+152690,49708,A. Mansouri,,,,,,,,true,true
+94828,308192,Nicolás Vaquer,,,,,,,https://media.api-sports.io/football/players/308192.png,true,true
+100854,390331,Alexandru Nicolae Burcea,,,,,,,https://media.api-sports.io/football/players/390331.png,true,true
+49997,329720,Hugo Álvarez,,,,,,,https://media.api-sports.io/football/players/329720.png,true,true
+165836,596663,O. Ramotse,,,,,,,,true,true
+99115,78884,Lai Wei,,,,,,,https://media.api-sports.io/football/players/78884.png,true,true
+72525,63120,I. Kas,,,,,,,,true,true
+213095,287588,Marcos Raposo,,,,,,,,true,true
+77439,91798,André Bahía,,,,,,,https://media.api-sports.io/football/players/91798.png,true,true
+50174,46919,César de la Hoz,,,,,,,https://media.api-sports.io/football/players/46919.png,true,true
+144640,207232,So Nishikawa,,,,,,,https://media.api-sports.io/football/players/207232.png,true,true
+211555,500693,C. Lancien,,,,,,,,true,true
+58332,113698,L. Véronèse,,,,,,,,true,true
+211826,500632,L. Miranda,,,,,,,,true,true
+86752,63939,Jakob Nyland Örsahl,,,,,,,https://media.api-sports.io/football/players/63939.png,true,true
+49419,47338,Alejandro López,,,,,,,https://media.api-sports.io/football/players/47338.png,true,true
+84515,35708,O. González,,,,,,,https://media.api-sports.io/football/players/35708.png,true,true
+137931,39581,F. Adrián,,,,,,,,true,true
+153323,402156,M. Zitouni,,,,,,,,true,true
+167335,163803,M. Rivas,,,,,,,,true,true
+114571,230845,Saleh Allahyar,,,,,,,,true,true
+186941,118489,J. Mollison,,,,,,,,true,true
+57563,375956,Federico Botti,,,,,,,https://media.api-sports.io/football/players/375956.png,true,true
+80439,240269,E. Gaven,,,,,,,,true,true
+42912,18035,T. Scott,,,,,,,https://media.api-sports.io/football/players/18035.png,true,true
+200156,22941,A. Reppert,,,,,,,,true,true
+202781,21420,H. Gradai,,,,,,,,true,true
+93651,6317,Agustín Manzur,,,,,,,https://media.api-sports.io/football/players/6317.png,true,true
+162681,102936,G. Cuomo,,,,,,,,true,true
+56371,253704,L. Cortinovis,,,,,,,,true,true
+171449,214253,J. Matthew,,,,,,,,true,true
+148964,10600,A. Kabov,,,,,,,https://media.api-sports.io/football/players/10600.png,true,true
+143912,274629,A. Bezhenar,,,,,,,https://media.api-sports.io/football/players/274629.png,true,true
+194121,91192,J. Knoll,,,,,,,,true,true
+192189,260474,T. Korkmazyürek,,,,,,,,true,true
+105768,396321,Adam Kronus,,,,,,,https://media.api-sports.io/football/players/396321.png,true,true
+142479,210248,K. Makridis,,,,,,,https://media.api-sports.io/football/players/210248.png,true,true
+115218,42307,Mohammed Rahman,,,,,,,,true,true
+166159,65280,Nguyễn Tuấn Mạnh,,,,,,,,true,true
+191968,260365,A. Brück,,,,,,,,true,true
+137341,362777,Mauro Bravo,,,,,,,https://media.api-sports.io/football/players/362777.png,true,true
+134348,30258,M. Heydari,,,,,,,,true,true
+55014,30610,P. Gori,,,,,,,https://media.api-sports.io/football/players/30610.png,true,true
+159970,229341,R. Broders,,,,,,,,true,true
+64594,24997,Jann George,,,,,,,https://media.api-sports.io/football/players/24997.png,true,true
+155818,311009,L. Kharshiladze,,,,,,,,true,true
+167692,309671,Callum Park,,,,,,,https://media.api-sports.io/football/players/309671.png,true,true
+193887,127892,Nico Moeller,,,,,,,https://media.api-sports.io/football/players/127892.png,true,true
+56052,56774,A. Ferrante,,,,,,,https://media.api-sports.io/football/players/56774.png,true,true
+95422,347280,Juan Carlos Rolón,,,,,,,https://media.api-sports.io/football/players/347280.png,true,true
+117945,252838,M. Rosero,,,,,,,,true,true
+216632,133762,J. van der Velden,,,,,,,,true,true
+42964,2461,Salomón Rondón,,,,,,,https://media.api-sports.io/football/players/2461.png,true,true
+197445,230263,J. Jahier,,,,,,,,true,true
+77595,114603,Aurelio,,,,,,,,true,true
+114474,96800,Jarallah Al Marri,,,,,,,,true,true
+177651,424312,A. Dayneko,,,,,,,,true,true
+147096,39381,Willy Pretel,,,,,,,https://media.api-sports.io/football/players/39381.png,true,true
+61833,135264,Josias Lukembila,,,,,,,https://media.api-sports.io/football/players/135264.png,true,true
+113161,50627,Khalid Shamarikh,,,,,,,,true,true
+152307,244364,M. Naffati,,,,,,,,true,true
+115624,542546,M. Hassan,,,,,,,,true,true
+42419,82277,R. Loft,,,,,,,https://media.api-sports.io/football/players/82277.png,true,true
+165640,154986,C. Idana,,,,,,,https://media.api-sports.io/football/players/154986.png,true,true
+109717,337435,R. Karoui,,,,,,,,true,true
+168368,470072,Trent Carter-Rodgers,,,,,,,https://media.api-sports.io/football/players/470072.png,true,true
+217872,340341,K. Greeven,,,,,,,,true,true
+87181,388806,Gustav Kjolstad Nyheim,,,,,,,https://media.api-sports.io/football/players/388806.png,true,true
+127197,263537,N. Abu Yunes,,,,,,,,true,true
+156275,560537,G. Katkov,,,,,,,,true,true
+80857,240257,D. Anding,,,,,,,,true,true
+35585,17884,G. Morris,,,,,,,https://media.api-sports.io/football/players/17884.png,true,true
+112968,242547,Abdulla Ahmed,,,,,,,,true,true
+218582,487542,L. Marceli,,,,,,,,true,true
+61430,152530,T. Vannoye,,,,,,,https://media.api-sports.io/football/players/152530.png,true,true
+93816,6729,L. Ferraz,,,,,,,https://media.api-sports.io/football/players/6729.png,true,true
+139688,221399,O. Ismayilov,,,,,,,,true,true
+141519,268721,T. Molapo,,,,,,,,true,true
+137622,522769,Lucas Vinicius Bugs,,,,,,,https://media.api-sports.io/football/players/522769.png,true,true
+100547,404526,Seniko Doua,,,,,,,https://media.api-sports.io/football/players/404526.png,true,true
+58726,1472,R. Salin,,,,,,,https://media.api-sports.io/football/players/1472.png,true,true
+175907,111681,S. Tkachuk,,,,,,,,true,true
+82493,512951,Stas Kornzeniowski,,,,,,,https://media.api-sports.io/football/players/512951.png,true,true
+45921,309814,Bosun Lawal,,,,,,,https://media.api-sports.io/football/players/309814.png,true,true
+199584,83796,J. Clément,,,,,,,,true,true
+148420,57778,J. Jiménez,,,,,,,,true,true
+171907,612478,V. Ngovinassack,,,,,,,,true,true
+120012,58762,Diego Herner,,,,,,,https://media.api-sports.io/football/players/58762.png,true,true
+182394,142528,Joel,,,,,,,,true,true
+86261,94805,S. Brekkhus,,,,,,,https://media.api-sports.io/football/players/94805.png,true,true
+68773,41651,João Traquina,,,,,,,https://media.api-sports.io/football/players/41651.png,true,true
+204646,192692,P. Sivadier,,,,,,,,true,true
+181347,170659,Alberto Gómez,,,,,,,https://media.api-sports.io/football/players/170659.png,true,true
+101447,248078,J. Paukkonen,,,,,,,,true,true
+174339,148507,J. Wilk,,,,,,,,true,true
+129286,14237,Joseph Centeno,,,,,,,,true,true
+90601,67198,S. Piazza,,,,,,,,true,true
+177334,158384,S. Schmidhäusler,,,,,,,,true,true
+196831,280818,G. Tedesco,,,,,,,,true,true
+104269,27733,D. Reyes,,,,,,,,true,true
+181778,162883,Sergi Serrano,,,,,,,https://media.api-sports.io/football/players/162883.png,true,true
+100574,401864,Laurentiu Bucur,,,,,,,https://media.api-sports.io/football/players/401864.png,true,true
+94843,414534,Pablo López,,,,,,,https://media.api-sports.io/football/players/414534.png,true,true
+118550,179490,Thiago Serpa,,,,,,,https://media.api-sports.io/football/players/179490.png,true,true
+158539,565371,O. Medina,,,,,,,,true,true
+207981,343847,R. Daloz,,,,,,,,true,true
+172087,491114,Jordi Bilali Danso,,,,,,,https://media.api-sports.io/football/players/491114.png,true,true
+126973,111318,I. Tako,,,,,,,,true,true
+198641,250486,S. El Keurti,,,,,,,,true,true
+152148,244344,C. Belhaj,,,,,,,,true,true
+57478,323331,Matteo Baldi,,,,,,,https://media.api-sports.io/football/players/323331.png,true,true
+36094,82593,C. Morrison,,,,,,,,true,true
+57224,136062,Edoardo Duca,,,,,,,https://media.api-sports.io/football/players/136062.png,true,true
+127439,148086,Gideon Akuowua,,,,,,,https://media.api-sports.io/football/players/148086.png,true,true
+209300,449910,J. Badri,,,,,,,,true,true
+65013,128817,S. Dursun,,,,,,,,true,true
+130920,11703,C. Gainza,,,,,,,https://media.api-sports.io/football/players/11703.png,true,true
+69032,41161,Davidson,,,,,,,https://media.api-sports.io/football/players/41161.png,true,true
+213356,141471,M. Mabuza,,,,,,,,true,true
+57195,69374,Liam Kerrigan,,,,,,,https://media.api-sports.io/football/players/69374.png,true,true
+99833,42596,V. Bărbulescu,,,,,,,,true,true
+123228,16009,S. A. Rasheed,,,,,,,,true,true
+145279,45342,D. Mijić,,,,,,,,true,true
+142204,437048,Ayanda Lukhele,,,,,,,https://media.api-sports.io/football/players/437048.png,true,true
+159803,551164,K. de Leeuw,,,,,,,,true,true
+218001,117986,D. Agyei,,,,,,,,true,true
+174283,210312,S. Đajić,,,,,,,,true,true
+119201,475125,Snayder Porozo,,,,,,,https://media.api-sports.io/football/players/475125.png,true,true
+133411,559704,L. Jovanovic,,,,,,,,true,true
+202183,87009,S. Mendy,,,,,,,,true,true
+219362,600937,Marshelon Pourier,,,,,,,https://media.api-sports.io/football/players/600937.png,true,true
+185664,232168,M. Bell,,,,,,,,true,true
+47040,299802,Jay McGrath,,,,,,,https://media.api-sports.io/football/players/299802.png,true,true
+209648,194043,E. Fernandes,,,,,,,,true,true
+159855,329567,Ricardo-Felipe Schwarz,,,,,,,https://media.api-sports.io/football/players/329567.png,true,true
+123870,4733,D. Belalem,,,,,,,,true,true
+99616,42728,A. Manea,,,,,,,,true,true
+181705,187525,Sanjuán,,,,,,,,true,true
+187694,284220,S. Thompson,,,,,,,https://media.api-sports.io/football/players/284220.png,true,true
+191596,610044,A. Rodriguez,,,,,,,,true,true
+139555,119076,M. Abbasov,,,,,,,,true,true
+159097,93032,T. Özbozkurt,,,,,,,,true,true
+204460,192861,K. Devesa,,,,,,,,true,true
+59257,162068,Maxen Kapo,,,,,,,https://media.api-sports.io/football/players/162068.png,true,true
+45085,264330,N. Gordon,,,,,,,https://media.api-sports.io/football/players/264330.png,true,true
+169457,123701,S. Mathabela,,,,,,,,true,true
+87073,368830,Elias Aarflot,,,,,,,https://media.api-sports.io/football/players/368830.png,true,true
+150646,303449,J. Palacios,,,,,,,,true,true
+175297,61585,A. Elísson,,,,,,,https://media.api-sports.io/football/players/61585.png,true,true
+99649,70400,A. Boiciuc,,,,,,,https://media.api-sports.io/football/players/70400.png,true,true
+182687,187797,David Ardil,,,,,,,,true,true
+75636,15330,Davor Zdravkovski,,,,,,,https://media.api-sports.io/football/players/15330.png,true,true
+65647,351528,Yosuke Furukawa,,,,,,,https://media.api-sports.io/football/players/351528.png,true,true
+68328,116595,I. Obayomi,,,,,,,,true,true
+185678,232248,D. Collins,,,,,,,,true,true
+51227,5943,Francisco Cerro,,,,,,,https://media.api-sports.io/football/players/5943.png,true,true
+180098,470115,Jordan Hodkin,,,,,,,https://media.api-sports.io/football/players/470115.png,true,true
+115828,14824,D. Ceraj,,,,,,,,true,true
+112818,50329,Ali Khasif,,,,,,,https://media.api-sports.io/football/players/50329.png,true,true
+68915,96378,Raúl Almeida,,,,,,,,true,true
+169315,123628,Bayar Abubakir,,,,,,,,true,true
+142910,178668,V. Senytsia,,,,,,,,true,true
+62742,25366,Kevin Akpoguma,,,,,,,https://media.api-sports.io/football/players/25366.png,true,true
+197567,175052,T. Antoinat,,,,,,,,true,true
+172939,210610,N. Pato,,,,,,,,true,true
+119457,103749,John Mendez,,,,,,,https://media.api-sports.io/football/players/103749.png,true,true
+88551,322502,Timur Kasimov,,,,,,,https://media.api-sports.io/football/players/322502.png,true,true
+67779,479629,Daan Van Reeuwijk,,,,,,,https://media.api-sports.io/football/players/479629.png,true,true
+103324,543990,S. Boyd,,,,,,,https://media.api-sports.io/football/players/543990.png,true,true
+105536,66432,Robert Jukl,,,,,,,https://media.api-sports.io/football/players/66432.png,true,true
+133751,89955,M. Ranjbar,,,,,,,,true,true
+88735,394861,Aleksey Ionov,,,,,,,https://media.api-sports.io/football/players/394861.png,true,true
+123141,479356,Zoltán Csucsánszky,,,,,,,https://media.api-sports.io/football/players/479356.png,true,true
+126352,410332,Marcial Aquino,,,,,,,https://media.api-sports.io/football/players/410332.png,true,true
+67290,351240,Damian van der Haar,,,,,,,https://media.api-sports.io/football/players/351240.png,true,true
+83968,33447,Yuta Kumamoto,,,,,,,https://media.api-sports.io/football/players/33447.png,true,true
+74490,478077,Egemen Aydin,,,,,,,https://media.api-sports.io/football/players/478077.png,true,true
+150841,169986,B. Benítez,,,,,,,,true,true
+112965,50469,Mahmoud Khamis,,,,,,,https://media.api-sports.io/football/players/50469.png,true,true
+122680,157027,H. Oliver,,,,,,,,true,true
+102943,199702,C. Warfield,,,,,,,,true,true
+83475,33480,Kazuma Takayama,,,,,,,https://media.api-sports.io/football/players/33480.png,true,true
+109093,36674,S. Ouidare,,,,,,,,true,true
+71429,34824,Nguyễn Công Phượng,,,,,,,,true,true
+77378,114735,Tiaguinho,,,,,,,,true,true
+35109,231204,C. Sedgwick,,,,,,,,true,true
+203959,165488,C. Jougon,,,,,,,https://media.api-sports.io/football/players/165488.png,true,true
+210691,251495,J. Luciani,,,,,,,,true,true
+196804,198362,G. Compagnoni,,,,,,,,true,true
+165845,630120,M. Enosa,,,,,,,,true,true
+57223,56644,Matteo Piacentini,,,,,,,https://media.api-sports.io/football/players/56644.png,true,true
+69091,41350,Léo Navacchio,,,,,,,https://media.api-sports.io/football/players/41350.png,true,true
+114919,42119,Adel Bader Musa,,,,,,,https://media.api-sports.io/football/players/42119.png,true,true
+142209,444330,Muhluri Ubisi,,,,,,,https://media.api-sports.io/football/players/444330.png,true,true
+149705,27625,J. Tobías,,,,,,,,true,true
+53630,31881,M. Cincilla,,,,,,,,true,true
+148421,96513,Shin Il-Soo,,,,,,,,true,true
+209608,450351,T. Laurent,,,,,,,,true,true
+219443,560258,J. van Nobelen,,,,,,,,true,true
+219622,644720,Jefferson Wila,,,,,,,,true,false
+126570,535705,C. Garay,,,,,,,https://media.api-sports.io/football/players/535705.png,true,true
+137732,545042,Iago,,,,,,,,true,true
+194030,128566,D. Baltzer,,,,,,,,true,true
+180972,108626,Christian,,,,,,,https://media.api-sports.io/football/players/108626.png,true,true
+129665,14239,L. Galdo,,,,,,,,true,true
+77905,9409,Macanhan,,,,,,,,true,true
+198260,250377,M. Valente,,,,,,,,true,true
+213686,305962,Daniel Carvalho,,,,,,,,true,true
+174118,10654,Erai Karadaya,,,,,,,,true,true
+76216,117535,R. Sabajo,,,,,,,,true,true
+211883,333164,I. Lema,,,,,,,,true,true
+88556,11261,L. Masoero,,,,,,,https://media.api-sports.io/football/players/11261.png,true,true
+64061,259311,S. Glasner,,,,,,,,true,true
+75368,107095,R. MacIver,,,,,,,https://media.api-sports.io/football/players/107095.png,true,true
+158919,93261,J. Baric,,,,,,,,true,true
+90517,204259,D. Vanin,,,,,,,,true,true
+151920,381682,C. A. Diouf,,,,,,,,true,true
+179787,155905,J. Long,,,,,,,,true,true
+50764,551462,Mykyta Aleksandrov,,,,,,,https://media.api-sports.io/football/players/551462.png,true,true
+190887,609845,P. Tejon,,,,,,,,true,true
+56446,253707,A. Konaté,,,,,,,,true,true
+70516,111428,R. Kola,,,,,,,,true,true
+63895,24641,Budu Zivzivadze,,,,,,,https://media.api-sports.io/football/players/24641.png,true,true
+47173,17675,K. Kerr,,,,,,,,true,true
+66536,93100,N. Wolters,,,,,,,,true,true
+214843,581713,O. Garcia,,,,,,,,true,true
+109906,378276,I. El Alami,,,,,,,,true,true
+44864,69406,Aaron Drinan,,,,,,,https://media.api-sports.io/football/players/69406.png,true,true
+69827,359001,Bernardo,,,,,,,https://media.api-sports.io/football/players/359001.png,true,true
+124894,383160,A. Ghodbane,,,,,,,,true,true
+104865,471796,Dimitrios Chatsidis,,,,,,,https://media.api-sports.io/football/players/471796.png,true,true
+45743,453068,G. Walker,,,,,,,https://media.api-sports.io/football/players/453068.png,true,true
+154773,194196,A. Vula,,,,,,,https://media.api-sports.io/football/players/194196.png,true,true
+212772,199733,João Santos,,,,,,,,true,true
+102959,123482,R. O'Shea,,,,,,,,true,true
+107188,326982,Saad Al-Mousa,,,,,,,https://media.api-sports.io/football/players/326982.png,true,true
+95362,516757,Lautaro Mora,,,,,,,https://media.api-sports.io/football/players/516757.png,true,true
+133481,613801,J. Jurgec,,,,,,,,true,true
+135186,65276,Gabriel Davis,,,,,,,,true,true
+60377,86223,J. Salze,,,,,,,https://media.api-sports.io/football/players/86223.png,true,true
+96962,190632,K. Nielsen,,,,,,,https://media.api-sports.io/football/players/190632.png,true,true
+105347,66481,Petr Kodes,,,,,,,https://media.api-sports.io/football/players/66481.png,true,true
+196124,56259,G. Pandolfi,,,,,,,,true,true
+95023,106319,Antony Alonso,,,,,,,https://media.api-sports.io/football/players/106319.png,true,true
+188395,444904,B. Davies,,,,,,,,true,true
+72304,62406,Ş. Can,,,,,,,https://media.api-sports.io/football/players/62406.png,true,true
+71380,78405,Jakub Piotrowski,,,,,,,https://media.api-sports.io/football/players/78405.png,true,true
+199547,249785,W. Nattes,,,,,,,,true,true
+153883,533248,R. Chaibi,,,,,,,,true,true
+155202,255500,N. Kvaskhvadze,,,,,,,,true,true
+112256,303217,Mohamed Hesham,,,,,,,https://media.api-sports.io/football/players/303217.png,true,true
+153533,469473,F. Bougatfa,,,,,,,,true,true
+105618,163508,František Kotek,,,,,,,https://media.api-sports.io/football/players/163508.png,true,true
+183877,124536,F. Antonelli,,,,,,,,true,true
+194187,122305,Fabian Grau,,,,,,,https://media.api-sports.io/football/players/122305.png,true,true
+195446,535076,M. Nejad,,,,,,,,true,true
+84284,67875,Yoshitake Suzuki,,,,,,,https://media.api-sports.io/football/players/67875.png,true,true
+167890,439210,Keniel Clervil,,,,,,,https://media.api-sports.io/football/players/439210.png,true,true
+177143,135212,M. Farrugia,,,,,,,,true,true
+147739,372149,Guillermo Rojas,,,,,,,https://media.api-sports.io/football/players/372149.png,true,true
+47597,51289,D. Norman,,,,,,,https://media.api-sports.io/football/players/51289.png,true,true
+203992,175354,J. Etenach,,,,,,,,true,true
+102931,69562,J. Manley,,,,,,,,true,true
+149041,292081,S. Tisovski,,,,,,,https://media.api-sports.io/football/players/292081.png,true,true
+66538,93083,R. Schoop,,,,,,,,true,true
+138397,196030,E. Vasquez,,,,,,,,true,true
+152345,244487,A. Soltani,,,,,,,,true,true
+160416,92118,E. Studāns,,,,,,,,true,true
+196315,126989,R. Petrosino,,,,,,,,true,true
+157181,224262,J. Contreras,,,,,,,,true,true
+146321,11042,I. Yurukov,,,,,,,https://media.api-sports.io/football/players/11042.png,true,true
+52776,31650,A. Gerbo,,,,,,,https://media.api-sports.io/football/players/31650.png,true,true
+87801,43388,K. Appaev,,,,,,,https://media.api-sports.io/football/players/43388.png,true,true
+93405,5205,S. Balmaceda,,,,,,,,true,true
+174346,125126,C. McGrandles,,,,,,,,true,true
+125053,296338,M. Salem,,,,,,,,true,true
+211867,500338,N. Serbouh,,,,,,,,true,true
+115168,134828,Ali Karami,,,,,,,https://media.api-sports.io/football/players/134828.png,true,true
+153467,442196,A. Ferchichi,,,,,,,,true,true
+161511,332511,M. Umar,,,,,,,,true,true
+69289,41429,Rúben Macedo,,,,,,,https://media.api-sports.io/football/players/41429.png,true,true
+129839,146189,R. Rojas,,,,,,,,true,true
+175905,105838,S. Lunin,,,,,,,,true,true
+82749,91788,S. Yamagishi,,,,,,,,true,true
+101213,83538,I. Sirbiladze,,,,,,,,true,true
+82525,541990,Alvaro Augusto,,,,,,,https://media.api-sports.io/football/players/541990.png,true,true
+88965,202152,K. Glushchenkov,,,,,,,https://media.api-sports.io/football/players/202152.png,true,true
+117265,385062,M. Naggar,,,,,,,,true,true
+159547,426541,Julian Kwaaitaal,,,,,,,https://media.api-sports.io/football/players/426541.png,true,true
+65631,433609,Kasper Davidsen,,,,,,,https://media.api-sports.io/football/players/433609.png,true,true
+49925,122,Jordi Mboula,,,,,,,https://media.api-sports.io/football/players/122.png,true,true
+174828,105562,L. Righini,,,,,,,,true,true
+209422,449807,I. Furno,,,,,,,,true,true
+92191,428147,Mikolaj Molendowski,,,,,,,https://media.api-sports.io/football/players/428147.png,true,true
+213253,292212,A. Guerra,,,,,,,,true,true
+203320,83922,R. Urolategui,,,,,,,,true,true
+154088,635895,O. Faty,,,,,,,,true,true
+134107,127662,M. Torkaman,,,,,,,,true,true
+84281,109372,Yuji Wakasa,,,,,,,https://media.api-sports.io/football/players/109372.png,true,true
+146131,271119,Uroš Đuričković,,,,,,,,true,true
+137718,508375,Rodrigo,,,,,,,https://media.api-sports.io/football/players/508375.png,true,true
+159118,37717,A. El Bachir,,,,,,,,true,true
+182318,301792,Javier Solá,,,,,,,https://media.api-sports.io/football/players/301792.png,true,true
+176648,474825,G. Chukwu,,,,,,,,true,true
+71523,56084,Y. Vorogovskiy,,,,,,,https://media.api-sports.io/football/players/56084.png,true,true
+203495,24254,L. Dunand,,,,,,,,true,true
+121372,491474,Cristian Guzman,,,,,,,https://media.api-sports.io/football/players/491474.png,true,true
+195755,253844,F. Vecchiotti,,,,,,,,true,true
+44671,546654,Callum Bates,,,,,,,https://media.api-sports.io/football/players/546654.png,true,true
+159406,351267,F. Nsingi,,,,,,,https://media.api-sports.io/football/players/351267.png,true,true
+106411,44410,Yasser Al Mosailem,,,,,,,https://media.api-sports.io/football/players/44410.png,true,true
+133782,29871,S. Moridi,,,,,,,,true,true
+101781,55593,N. Saira,,,,,,,,true,true
+168365,370092,Reece Jones,,,,,,,https://media.api-sports.io/football/players/370092.png,true,true
+206724,346376,H. Baligand,,,,,,,,true,true
+119736,79459,F. Córdoba,,,,,,,https://media.api-sports.io/football/players/79459.png,true,true
+154364,371842,A. Herssens,,,,,,,,true,true
+129834,13989,J. Alvarez,,,,,,,,true,true
+114509,42347,Anas Mubarak,,,,,,,,true,true
+57013,31842,Riccardo Chiarello,,,,,,,https://media.api-sports.io/football/players/31842.png,true,true
+100930,162221,Riad Suta,,,,,,,https://media.api-sports.io/football/players/162221.png,true,true
+188354,278231,Jakub Niemczyk,,,,,,,https://media.api-sports.io/football/players/278231.png,true,true
+130509,541363,A. Gonzalez,,,,,,,,true,true
+132271,349330,M. Matej,,,,,,,,true,true
+93633,5853,G. Groba,,,,,,,https://media.api-sports.io/football/players/5853.png,true,true
+79093,2477,Matías Zaracho,,,,,,,https://media.api-sports.io/football/players/2477.png,true,true
+150645,389472,J. García,,,,,,,,true,true
+103404,544854,S. Molloy,,,,,,,,true,true
+217596,274501,O. Lammerding,,,,,,,,true,true
+190103,445665,Buba Juwara,,,,,,,https://media.api-sports.io/football/players/445665.png,true,true
+190380,498119,Gil Bertrana,,,,,,,,true,true
+112639,101700,Abdulla Saeed,,,,,,,,true,true
+187170,156863,B. Warner,,,,,,,,true,true
+149714,88960,L. Palacios,,,,,,,,true,true
+78860,77714,William Oliveira,,,,,,,https://media.api-sports.io/football/players/77714.png,true,true
+173337,117808,M. Smyth,,,,,,,,true,true
+92958,75692,M. Zapata,,,,,,,,true,true
+46293,106726,C. Andrew,,,,,,,,true,true
+70860,114153,D. Dessaer,,,,,,,,true,true
+62206,26489,Kevin Großkreutz,,,,,,,https://media.api-sports.io/football/players/26489.png,true,true
+90113,7402,Felix Gschossmann,,,,,,,https://media.api-sports.io/football/players/7402.png,true,true
+173537,405978,Luan Brito,,,,,,,,true,true
+118849,64536,Gerardo Gordillo,,,,,,,https://media.api-sports.io/football/players/64536.png,true,true
+186139,82457,T. Wraight,,,,,,,,true,true
+19076,25294,Konstantinos Stafylidis,,,,,,,https://media.api-sports.io/football/players/25294.png,true,true
+119252,540934,D. Knutson,,,,,,,,true,true
+94932,455047,Diego Tarzia,,,,,,,https://media.api-sports.io/football/players/455047.png,true,true
+217252,273894,J. van Gelderen,,,,,,,,true,true
+95968,47999,S. Abraham,,,,,,,https://media.api-sports.io/football/players/47999.png,true,true
+209421,179911,M. Jourdan,,,,,,,,true,true
+63293,25208,Paulo Otávio,,,,,,,https://media.api-sports.io/football/players/25208.png,true,true
+188253,375891,K. English,,,,,,,https://media.api-sports.io/football/players/375891.png,true,true
+205952,302683,N. Zelani,,,,,,,,true,true
+200761,85677,J. Evina,,,,,,,,true,true
+172058,576352,A. Matthieu,,,,,,,,true,true
+148027,532560,J. Revilla,,,,,,,,true,true
+120006,81039,E. Díaz,,,,,,,https://media.api-sports.io/football/players/81039.png,true,true
+123356,4875,M. Anane,,,,,,,,true,true
+214440,483018,Gonçalo Cuco,,,,,,,,true,true
+202898,84057,M. Smeralda,,,,,,,,true,true
+140885,46358,M. Booysen,,,,,,,,true,true
+68203,26870,Brito,,,,,,,https://media.api-sports.io/football/players/26870.png,true,true
+156223,546565,S. Kharebashvili,,,,,,,,true,true
+169166,124251,E. chomba,,,,,,,,true,true
+197506,250697,R. Oukassou,,,,,,,,true,true
+86271,39147,T. Høiland,,,,,,,https://media.api-sports.io/football/players/39147.png,true,true
+36187,44990,G. Oakley,,,,,,,https://media.api-sports.io/football/players/44990.png,true,true
+153620,434794,B. Diatta,,,,,,,,true,true
+116438,418946,Karlo Matejčić,,,,,,,https://media.api-sports.io/football/players/418946.png,true,true
+76086,97915,D. Carmichael,,,,,,,,true,true
+75033,98001,Alistair Coote,,,,,,,https://media.api-sports.io/football/players/98001.png,true,true
+134195,137571,E. Joudaki,,,,,,,,true,true
+93838,6502,Rodrigo González,,,,,,,https://media.api-sports.io/football/players/6502.png,true,true
+159545,436839,Max Christoffel,,,,,,,https://media.api-sports.io/football/players/436839.png,true,true
 214945,613948,R. Cavalinhos,,,,,,,,true,true
-120446,113017,E. Morillo,,,,,,,https://media.api-sports.io/football/players/113017.png,true,true
-206466,334834,B. Leroy,,,,,,,https://media.api-sports.io/football/players/334834.png,true,true
-85856,407364,Álex Valencia,,,,,,,https://media.api-sports.io/football/players/407364.png,true,true
-19269,19725,J. Emmanuel,,,,,,,https://media.api-sports.io/football/players/19725.png,true,true
-170668,32727,Demario Phillips,,,,,,,https://media.api-sports.io/football/players/32727.png,true,true
-74982,117345,L. Gallacher,,,,,,,,true,true
-114733,57547,Marwan Ahmed,,,,,,,,true,true
-74844,117367,O. Daley,,,,,,,,true,true
-62254,25193,Karim Guédé,,,,,,,https://media.api-sports.io/football/players/25193.png,true,true
-109079,36631,T. Seyam,,,,,,,https://media.api-sports.io/football/players/36631.png,true,true
-196165,31943,S. Bregliano,,,,,,,,true,true
-143129,63733,D. Kopytov,,,,,,,,true,true
-60330,21268,D. Zola,,,,,,,,true,true
-212778,199754,Tiago Rente,,,,,,,,true,true
-91529,125643,Titas Milašius,,,,,,,https://media.api-sports.io/football/players/125643.png,true,true
-77949,114408,Marcelo Costa,,,,,,,https://media.api-sports.io/football/players/114408.png,true,true
-193507,90985,L. Vanli,,,,,,,,true,true
-211773,22315,A. Fabre,,,,,,,,true,true
-97975,12948,Jin Bo,,,,,,,https://media.api-sports.io/football/players/12948.png,true,true
-202317,86029,W. Milandou,,,,,,,,true,true
-205581,301904,Yann Marchal,,,,,,,https://media.api-sports.io/football/players/301904.png,true,true
-214367,389996,Tomás Rosete,,,,,,,,true,true
-123154,544887,B. Vekony,,,,,,,,true,true
-90697,48766,Denis Simani,,,,,,,https://media.api-sports.io/football/players/48766.png,true,true
-171162,313768,J. Franco,,,,,,,,true,true
-50186,194750,El Bilal Toure,,,,,,,https://media.api-sports.io/football/players/194750.png,true,true
-151468,107494,M. Kukrika,,,,,,,,true,true
-172640,433577,R. Bangsungnoen,,,,,,,,true,true
-116461,128701,Tomislav Gudelj,,,,,,,https://media.api-sports.io/football/players/128701.png,true,true
-82006,163052,H. Neville,,,,,,,https://media.api-sports.io/football/players/163052.png,true,true
-138592,326775,S. Pardo,,,,,,,,true,true
-61016,36567,S. Alami,,,,,,,https://media.api-sports.io/football/players/36567.png,true,true
-79214,9826,Airton,,,,,,,https://media.api-sports.io/football/players/9826.png,true,true
-158962,38541,T. Rerimassie,,,,,,,,true,true
-160763,72462,K. Aļekseičiks,,,,,,,,true,true
-54121,43011,M. Bălașa,,,,,,,https://media.api-sports.io/football/players/43011.png,true,true
-44875,19371,Frederik Nielsen,,,,,,,https://media.api-sports.io/football/players/19371.png,true,true
-87377,363852,Marius Andresen,,,,,,,https://media.api-sports.io/football/players/363852.png,true,true
-135666,78047,Felipe Alves,,,,,,,https://media.api-sports.io/football/players/78047.png,true,true
-144328,128578,J. Germano,,,,,,,,true,true
-159204,127812,J. van Leeuwen,,,,,,,,true,true
-212254,629777,Sacha Cortes,,,,,,,https://media.api-sports.io/football/players/629777.png,true,true
-138497,307038,Martín Chiatti,,,,,,,https://media.api-sports.io/football/players/307038.png,true,true
+85697,70629,Kevin Pereira,,,,,,,https://media.api-sports.io/football/players/70629.png,true,true
+143076,242152,S. Trykosh,,,,,,,,true,true
+111425,137567,Hesham Shaaban,,,,,,,,true,true
+111982,295182,Seif Elkhashab,,,,,,,https://media.api-sports.io/football/players/295182.png,true,true
+158267,418947,L. Teran,,,,,,,,true,true
+69560,41966,Francisco Moura,,,,,,,https://media.api-sports.io/football/players/41966.png,true,true
+19180,19682,J. Yates,,,,,,,https://media.api-sports.io/football/players/19682.png,true,true
+49186,47339,Óscar Melendo,,,,,,,https://media.api-sports.io/football/players/47339.png,true,true
+132025,61205,J. Kudlička,,,,,,,,true,true
+145176,46118,M. Spremo,,,,,,,https://media.api-sports.io/football/players/46118.png,true,true
+144438,67455,Radovan Pavicevic,,,,,,,https://media.api-sports.io/football/players/67455.png,true,true
+79231,279805,Fabinho,,,,,,,https://media.api-sports.io/football/players/279805.png,true,true
+76755,626005,G. Erhabor,,,,,,,,true,true
+100241,66130,T. Smola,,,,,,,,true,true
+94722,218761,Franco Vega,,,,,,,https://media.api-sports.io/football/players/218761.png,true,true
+100824,92073,M. Cojocaru,,,,,,,https://media.api-sports.io/football/players/92073.png,true,true
+161955,103164,D. Gonzalez,,,,,,,,true,true
+199145,194230,Valentin Tacheau,,,,,,,https://media.api-sports.io/football/players/194230.png,true,true
+161996,240915,R. Derschang,,,,,,,,true,true
+84562,11369,Edson Puch,,,,,,,https://media.api-sports.io/football/players/11369.png,true,true
+85640,388584,Sérgio Salazar,,,,,,,https://media.api-sports.io/football/players/388584.png,true,true
+68125,80388,Leandro Salino,,,,,,,https://media.api-sports.io/football/players/80388.png,true,true
+95796,48143,J. Nyholm,,,,,,,https://media.api-sports.io/football/players/48143.png,true,true
+207388,346322,T. Grabarski,,,,,,,,true,true
+110078,294284,M. Seck,,,,,,,,true,true
+147477,39795,J. Inga,,,,,,,https://media.api-sports.io/football/players/39795.png,true,true
+42836,18044,Gary Warren,,,,,,,https://media.api-sports.io/football/players/18044.png,true,true
+56964,296710,Jordan Poha,,,,,,,https://media.api-sports.io/football/players/296710.png,true,true
+74667,630520,Ahmet Sami Bircan,,,,,,,https://media.api-sports.io/football/players/630520.png,true,true
+144861,430670,Abel Walatee,,,,,,,https://media.api-sports.io/football/players/430670.png,true,true
+46423,278122,B. Bottomley,,,,,,,,true,true
+172876,109997,T. Apatic,,,,,,,,true,true
+171365,453339,A. Mpawenimana,,,,,,,,true,true
+46767,384582,Harvey Kirby-Moore,,,,,,,https://media.api-sports.io/football/players/384582.png,true,true
+128453,51410,C. Quintana,,,,,,,,true,true
+103520,88759,S. Bartollini,,,,,,,,true,true
+144721,288792,Louis Zabala,,,,,,,https://media.api-sports.io/football/players/288792.png,true,true
+200590,23478,Franck Revuelta,,,,,,,,true,true
+156289,560538,I. Martin,,,,,,,,true,true
+152997,275180,A. Barbati,,,,,,,,true,true
+132736,105854,A. Solomun,,,,,,,,true,true
+128456,64836,L. Acosta,,,,,,,,true,true
+78338,80603,Thiago,,,,,,,,true,true
+80755,102962,B. Rusin,,,,,,,,true,true
+84042,356717,Amin Ben Mamoun,,,,,,,https://media.api-sports.io/football/players/356717.png,true,true
+112576,632507,A. Badara,,,,,,,,true,true
+83884,33933,Kennedy Mikuni,,,,,,,https://media.api-sports.io/football/players/33933.png,true,true
+176304,123431,Rick Brito Oliveira,,,,,,,,true,true
+94768,411076,Diego Perea,,,,,,,https://media.api-sports.io/football/players/411076.png,true,true
+198218,21670,B. Genghini,,,,,,,,true,true
+134749,532835,H. Zarouni,,,,,,,,true,true
+175869,97347,F. Costea,,,,,,,,true,true
+42998,44900,S. Goss,,,,,,,https://media.api-sports.io/football/players/44900.png,true,true
+195120,548571,H. Bux,,,,,,,,true,true
+202624,84441,Florian Suzanne,,,,,,,https://media.api-sports.io/football/players/84441.png,true,true
+123403,212472,M. Saâdi,,,,,,,,true,true
+204168,178627,M. Demba,,,,,,,,true,true
+96160,269558,Melker Larsson,,,,,,,,true,true
+198118,251120,J. Brugemann,,,,,,,,true,true
+82058,37456,L. Väisänen,,,,,,,https://media.api-sports.io/football/players/37456.png,true,true
+164489,60131,Loken Meitei,,,,,,,https://media.api-sports.io/football/players/60131.png,true,true
+73268,101369,İ. İşçi,,,,,,,,true,true
+63036,25355,Arne Maier,,,,,,,https://media.api-sports.io/football/players/25355.png,true,true
+95639,48138,P. Karlsson,,,,,,,https://media.api-sports.io/football/players/48138.png,true,true
+89907,272702,N. Babil,,,,,,,https://media.api-sports.io/football/players/272702.png,true,true
+206428,346210,C. Chraiti,,,,,,,,true,true
+130480,541282,J. Corrales,,,,,,,,true,true
+202881,84562,V. Noblet,,,,,,,,true,true
+49708,122734,Ferran Jutglà,,,,,,,https://media.api-sports.io/football/players/122734.png,true,true
+161665,466432,Remi Agunbiade,,,,,,,https://media.api-sports.io/football/players/466432.png,true,true
+45574,430236,Kian Best,,,,,,,https://media.api-sports.io/football/players/430236.png,true,true
+216967,136751,H. van Dijk,,,,,,,,true,true
+51302,71212,D. Brown,,,,,,,https://media.api-sports.io/football/players/71212.png,true,true
+214124,445691,Francisco Campos,,,,,,,,true,true
+64454,1668,L. Kenia,,,,,,,https://media.api-sports.io/football/players/1668.png,true,true
+211217,379522,R. Berisha,,,,,,,,true,true
+136586,9631,Léo Santos,,,,,,,https://media.api-sports.io/football/players/9631.png,true,true
+114528,57553,Salman Mosabeh,,,,,,,,true,true
+140515,127957,Rafael Viegas,,,,,,,,true,true
+49919,131294,Yusuf Demir,,,,,,,https://media.api-sports.io/football/players/131294.png,true,true
+80956,105172,T. Piermayr,,,,,,,https://media.api-sports.io/football/players/105172.png,true,true
+202648,84484,T. Obounet,,,,,,,,true,true
+128083,51826,Agustín Peña,,,,,,,https://media.api-sports.io/football/players/51826.png,true,true
+78577,10371,Daniel,,,,,,,https://media.api-sports.io/football/players/10371.png,true,true
+97244,3068,Ronald Pfumbidzai,,,,,,,https://media.api-sports.io/football/players/3068.png,true,true
+179429,232661,G. Pearson,,,,,,,,true,true
+187842,341320,S. Clarke,,,,,,,,true,true
+93446,6323,Agustin Verdugo,,,,,,,https://media.api-sports.io/football/players/6323.png,true,true
+111173,81481,P. Lissian,,,,,,,,true,true
+205685,301903,H. Koné,,,,,,,,true,true
+47087,574669,Joziah Barnett,,,,,,,https://media.api-sports.io/football/players/574669.png,true,true
+200192,85230,S. Sadsaoud,,,,,,,,true,true
+43146,18822,N. Holland,,,,,,,https://media.api-sports.io/football/players/18822.png,true,true
+151704,374633,A. Bilal,,,,,,,,true,true
+91990,3700,J. Shehu,,,,,,,https://media.api-sports.io/football/players/3700.png,true,true
+165990,104233,Ahmed Harbi,,,,,,,,true,true
+81715,201788,Nkosi Tafari,,,,,,,https://media.api-sports.io/football/players/201788.png,true,true
+214568,580734,J. Gomes,,,,,,,,true,true
+146385,503771,Nikola Vujovic,,,,,,,https://media.api-sports.io/football/players/503771.png,true,true
+51937,122941,S. Buer,,,,,,,https://media.api-sports.io/football/players/122941.png,true,true
+138727,195376,Jefinho,,,,,,,https://media.api-sports.io/football/players/195376.png,true,true
+201968,86885,M. Diaby,,,,,,,,true,true
+194332,325834,Tom Zastrow,,,,,,,https://media.api-sports.io/football/players/325834.png,true,true
+65223,286704,Felix Paschke,,,,,,,https://media.api-sports.io/football/players/286704.png,true,true
+171746,573861,S. Wekesa,,,,,,,,true,true
+78383,9753,Fabrício,,,,,,,https://media.api-sports.io/football/players/9753.png,true,true
+49237,46799,Edu Expósito,,,,,,,https://media.api-sports.io/football/players/46799.png,true,true
+48119,96609,Paulão,,,,,,,,true,true
+177010,60641,J. Kokla,,,,,,,,true,true
+204604,193018,M. Ben Moussa,,,,,,,,true,true
+140173,123412,E. Rəhimzadə,,,,,,,,true,true
+122311,89257,M. Czingraber,,,,,,,,true,true
+105501,66464,L. Matějka,,,,,,,https://media.api-sports.io/football/players/66464.png,true,true
+54778,30511,V. Damaşcan,,,,,,,https://media.api-sports.io/football/players/30511.png,true,true
+125810,70682,Miguel Martínez,,,,,,,https://media.api-sports.io/football/players/70682.png,true,true
+143830,335045,Igor Gorbach,,,,,,,https://media.api-sports.io/football/players/335045.png,true,true
+92544,113986,L. Martorano,,,,,,,,true,true
+126306,417587,E. Avalos,,,,,,,,true,true
+144199,68030,A. Smith,,,,,,,,true,true
+114893,57522,Abdulrahman Fakhro,,,,,,,,true,true
+140096,119106,T. Tsetskhladze,,,,,,,,true,true
+211112,385507,V. Nkouka,,,,,,,,true,true
+84764,71224,J. Requejo,,,,,,,,true,true
+84411,625861,R. Hidano,,,,,,,https://media.api-sports.io/football/players/625861.png,true,true
+75072,55381,C. Fələk,,,,,,,,true,true
+76412,283107,D. Sylla,,,,,,,,true,true
+196137,106277,J. Colman,,,,,,,,true,true
+126796,110758,S. Malul,,,,,,,,true,true
+155928,401423,D. Aidarashvili,,,,,,,,true,true
+208172,398676,B. Godard,,,,,,,,true,true
+190789,609748,I. Gonzalez,,,,,,,,true,true
+121665,28600,P. Bacsa,,,,,,,,true,true
+132756,60659,A. Kulinitš,,,,,,,,true,true
+67405,328669,Kayne van Oevelen,,,,,,,https://media.api-sports.io/football/players/328669.png,true,true
+138457,307148,A. Fernández,,,,,,,,true,true
+100762,427047,R. Ronai,,,,,,,,true,true
+186493,154539,J. Gannon,,,,,,,,true,true
+168277,370016,G. Dell’Oglio,,,,,,,https://media.api-sports.io/football/players/370016.png,true,true
+115891,79912,B. Žitnjak,,,,,,,,true,true
+164242,59915,Soram Porei Anganba Meitei,,,,,,,https://media.api-sports.io/football/players/59915.png,true,true
+116701,14801,A. Jurilj,,,,,,,https://media.api-sports.io/football/players/14801.png,true,true
+79101,290649,Alyson Motta,,,,,,,https://media.api-sports.io/football/players/290649.png,true,true
+133832,29826,M. Forouzan,,,,,,,,true,true
+52362,26670,M. Kotnik,,,,,,,https://media.api-sports.io/football/players/26670.png,true,true
+74373,63627,Arseniy Batagov,,,,,,,https://media.api-sports.io/football/players/63627.png,true,true
+62519,90715,A. Madlung,,,,,,,https://media.api-sports.io/football/players/90715.png,true,true
+136170,9712,Alex Maranhão,,,,,,,https://media.api-sports.io/football/players/9712.png,true,true
+79437,238386,Lucas Mezenga,,,,,,,https://media.api-sports.io/football/players/238386.png,true,true
+165577,3350,Brahim Souleymane,,,,,,,https://media.api-sports.io/football/players/3350.png,true,true
+51085,104871,Pablo Vázquez,,,,,,,https://media.api-sports.io/football/players/104871.png,true,true
+198571,21759,J. Bugnet,,,,,,,,true,true
+151467,200860,G. Šujić,,,,,,,,true,true
+68899,33646,Francis,,,,,,,https://media.api-sports.io/football/players/33646.png,true,true
+60183,624608,Fallou Fall,,,,,,,https://media.api-sports.io/football/players/624608.png,true,true
+88021,53559,Alexander Dovbnya,,,,,,,https://media.api-sports.io/football/players/53559.png,true,true
+168162,300744,R. Stanislas,,,,,,,https://media.api-sports.io/football/players/300744.png,true,true
+55573,453906,Honest Ahanor,,,,,,,https://media.api-sports.io/football/players/453906.png,true,true
+134093,30157,M. Bolboli,,,,,,,,true,true
+78205,157482,Marcílio,,,,,,,https://media.api-sports.io/football/players/157482.png,true,true
+111356,17152,Ahmed Hassan,,,,,,,,true,true
+140069,24771,F. Gystarov,,,,,,,,true,true
+18680,230975,E. Delfouneso,,,,,,,,true,true
+177468,381707,D. Bengtsson,,,,,,,,true,true
+121546,538335,Andrés Marín,,,,,,,https://media.api-sports.io/football/players/538335.png,true,true
+96687,198797,Erik Hedenquist,,,,,,,https://media.api-sports.io/football/players/198797.png,true,true
+108255,34504,Jong-kyu Yun,,,,,,,https://media.api-sports.io/football/players/34504.png,true,true
+97430,15583,Daniel Thøgersen,,,,,,,https://media.api-sports.io/football/players/15583.png,true,true
+86775,94541,Joe Bell,,,,,,,https://media.api-sports.io/football/players/94541.png,true,true
+179205,232619,W. Whiteley,,,,,,,,true,true
+167126,168094,D. Bannis,,,,,,,,true,true
+176834,112610,L. Portelli,,,,,,,,true,true
+194497,106789,Julijan Popović,,,,,,,https://media.api-sports.io/football/players/106789.png,true,true
