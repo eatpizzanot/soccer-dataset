@@ -81,6 +81,13 @@
       "name": "league_catalogue.parquet",
       "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/league_catalogue.parquet",
       "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "xg_training.parquet",
+      "name": "xg_training.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/xg_training.parquet",
+      "encodingFormat": "application/x-parquet"
     }
   ],
   "recordSet": [

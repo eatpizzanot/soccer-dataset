@@ -13,14 +13,25 @@ Both-Teams-To-Score (BTTS) and goals modelling.** Sourced from
 
 | Metric | Value |
 |---|---|
-| Fixtures | **442,721** (424,554 played) |
+| Fixtures | **563,441** (538,386 played) |
 | Leagues | **271** |
-| Teams | **8,810** |
+| Teams | **10,785** |
 | Players | **182,125** |
-| Date range | 2012-02-04 - 2027-06-06 |
-| BTTS base rate | **0.5123** |
-| Fixtures with xG | 124,886 |
+| Date range | 2011-01-15 - 2027-06-06 |
+| BTTS base rate | **0.5100** |
+| Fixtures with xG | 128,745 |
 | Fixtures with odds | 186,813 |
+
+## Coverage & caveats
+
+- **League history is uneven.** Major leagues carry ~10+ years; some newly-added
+  Cloudbet-covered leagues have shorter history. Per-league coverage is in
+  `league_catalogue` (`history_status` = full / recent_only / partial) — check it before
+  assuming a league is complete.
+- **xG is a crude, provider-supplied approximation** (roughly a shots-by-zone model from
+  API-Football), not a StatsBomb/Opta-grade xG. Match-level total-xG↔goals correlation is
+  ~0.38 even for clean top leagues. It is nulled entirely for league-seasons the provider
+  does not cover (see `xg_covered`); never treat missing xG as `0`.
 
 ## What makes this clean
 

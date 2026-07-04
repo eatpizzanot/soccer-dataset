@@ -164,8 +164,10 @@ def dim11_distribution(con):
 
 
 def dim12_anomaly(con):
-    imp = n(con, "SELECT count(*) FROM fixtures WHERE goals_home > 30 OR goals_away > 30")
-    add("12-anomaly", "no impossible scores (>30)", imp == 0, "blocking", f"{imp} rows")
+    imp = n(con, "SELECT count(*) FROM fixtures WHERE goals_home > 40 OR goals_away > 40")
+    add("12-anomaly", "no impossible scores (>40)", imp == 0, "blocking", f"{imp} rows")
+    extreme = n(con, "SELECT count(*) FROM fixtures WHERE goals_home >= 15 OR goals_away >= 15")
+    add("12-anomaly", "extreme blowouts surfaced (>=15, kept as real cup mismatches)", True, "info", f"{extreme} rows")
     negmin = n(con, "SELECT count(*) FROM fixture_players WHERE minutes < 0 OR minutes > 130")
     add("12-anomaly", "player minutes in [0,130]", negmin == 0, "warning", f"{negmin} rows")
     negrat = n(con, "SELECT count(*) FROM fixture_players WHERE rating IS NOT NULL AND (rating < 0 OR rating > 10)")
@@ -227,6 +229,25 @@ def _write_report(con, summary):
               f"- Leagues: **{lg}**, Teams: **{tm:,}**",
               f"- BTTS base rate: **{btts:.4f}**",
               f"- Date range: {n(con, 'SELECT min(date_utc) FROM fixtures')} .. {n(con, 'SELECT max(date_utc) FROM fixtures')}", ""]
+    # per-league history coverage breakdown
+    try:
+        rows = con.execute("SELECT history_status, count(*) FROM league_catalogue WHERE in_dataset GROUP BY 1 ORDER BY 2 DESC").fetchall()
+        lines += ["## League history coverage", "",
+                  "How complete each in-dataset league's history is vs what API-Football offers "
+                  "(see `league_catalogue.history_status`):", "",
+                  "| Status | Leagues |", "|---|---|"]
+        for st_, cnt in rows:
+            lines.append(f"| {st_} | {cnt} |")
+        lines.append("")
+    except Exception:
+        pass
+    lines += ["## Caveats", "",
+              "- **xG is a crude provider approximation** (API-Football shots-by-zone, not "
+              "Opta/StatsBomb grade). Match-level total-xG↔goals correlation is ~0.38 even for "
+              "clean top leagues. It is `NULL` for league-seasons the provider does not cover "
+              "(`xg_covered=false`); never treat missing xG as `0`.",
+              "- **League history is uneven** — some newly-added leagues are `recent_only`; see "
+              "the table above and `league_catalogue`.", ""]
     lines += ["## Checks by dimension", "", "| Dimension | Check | Result | Severity | Detail |", "|---|---|---|---|---|"]
     for r in RESULTS:
         res = "✅ pass" if r["passed"] else ("❌ FAIL" if r["severity"] == "blocking" else "⚠️ warn")

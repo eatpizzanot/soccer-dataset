@@ -19,14 +19,14 @@
       "path": "https://www.football-data.co.uk/"
     }
   ],
-  "created": "2026-07-04T20:47:00.447124+00:00",
+  "created": "2026-07-04T22:59:07.450623+00:00",
   "resources": [
     {
       "name": "fixtures",
       "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixtures.parquet",
       "format": "parquet",
       "mediatype": "application/parquet",
-      "rows": 442721,
+      "rows": 563441,
       "sample": "samples/fixtures.csv",
       "schema": {
         "fields": [
@@ -143,7 +143,7 @@
       "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/match_stats.parquet",
       "format": "parquet",
       "mediatype": "application/parquet",
-      "rows": 270573,
+      "rows": 277659,
       "sample": "samples/match_stats.csv",
       "schema": {
         "fields": [
@@ -407,7 +407,7 @@
       "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixture_lineups.parquet",
       "format": "parquet",
       "mediatype": "application/parquet",
-      "rows": 521589,
+      "rows": 548932,
       "sample": "samples/fixture_lineups.csv",
       "schema": {
         "fields": [
@@ -459,7 +459,7 @@
       "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/teams.parquet",
       "format": "parquet",
       "mediatype": "application/parquet",
-      "rows": 8810,
+      "rows": 10785,
       "sample": "samples/teams.csv",
       "schema": {
         "fields": [
@@ -952,6 +952,108 @@
             "name": "cloudbet_name",
             "type": "string",
             "description": "Cloudbet competition name."
+          },
+          {
+            "name": "present_years",
+            "type": "number",
+            "description": "Distinct calendar years present in the dataset for this league."
+          },
+          {
+            "name": "avail_years",
+            "type": "integer",
+            "description": "Season span API-Football offers (max_season - min_season + 1)."
+          },
+          {
+            "name": "history_status",
+            "type": "string",
+            "description": "Dataset history vs API-Football: full / recent_only / partial / not_in_dataset."
+          }
+        ]
+      }
+    },
+    {
+      "name": "xg_training",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/xg_training.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 257490,
+      "sample": "samples/xg_training.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fixture_id",
+            "type": "integer",
+            "description": "FK -> fixtures.id."
+          },
+          {
+            "name": "league_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "date_utc",
+            "type": "datetime",
+            "description": ""
+          },
+          {
+            "name": "calendar_year",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "side",
+            "type": "string",
+            "description": "'home' or 'away' (one row per team per match)."
+          },
+          {
+            "name": "is_home",
+            "type": "boolean",
+            "description": "True for the home team."
+          },
+          {
+            "name": "shots_total",
+            "type": "integer",
+            "description": "Total shots (feature)."
+          },
+          {
+            "name": "shots_on_goal",
+            "type": "integer",
+            "description": "Shots on target (feature)."
+          },
+          {
+            "name": "shots_inside_box",
+            "type": "integer",
+            "description": "Shots from inside the box."
+          },
+          {
+            "name": "shots_outside_box",
+            "type": "integer",
+            "description": "Shots from outside the box."
+          },
+          {
+            "name": "blocked_shots",
+            "type": "integer",
+            "description": "Blocked shots."
+          },
+          {
+            "name": "corners",
+            "type": "integer",
+            "description": "Corner kicks."
+          },
+          {
+            "name": "possession",
+            "type": "integer",
+            "description": "Possession % (context)."
+          },
+          {
+            "name": "pass_accuracy",
+            "type": "integer",
+            "description": "Pass accuracy % (context)."
+          },
+          {
+            "name": "xg",
+            "type": "number",
+            "description": "TARGET: real provider xG (covered leagues only)."
           }
         ]
       }

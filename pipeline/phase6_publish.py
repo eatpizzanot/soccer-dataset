@@ -30,6 +30,7 @@ SAMPLE_ROWS = 1000
 PUBLISH_TABLES = [
     "fixtures", "match_stats", "odds", "fixture_lineups", "teams", "players",
     "leagues", "fixture_players", "fixture_players_stats_flat", "league_catalogue",
+    "xg_training",
 ]
 
 TYPE_MAP = {"BIGINT": "integer", "INTEGER": "integer", "DOUBLE": "number",
@@ -84,7 +85,18 @@ DESC: dict[str, dict[str, str]] = {
     "league_catalogue": {
         "af_league_id": "API-Football league id.", "af_has_stats": "API-Football provides fixture statistics.",
         "in_dataset": "League present in this dataset.", "in_cloudbet": "Offered by Cloudbet.",
-        "cloudbet_key": "Cloudbet competition key.", "cloudbet_name": "Cloudbet competition name."},
+        "cloudbet_key": "Cloudbet competition key.", "cloudbet_name": "Cloudbet competition name.",
+        "present_years": "Distinct calendar years present in the dataset for this league.",
+        "avail_years": "Season span API-Football offers (max_season - min_season + 1).",
+        "history_status": "Dataset history vs API-Football: full / recent_only / partial / not_in_dataset."},
+    "xg_training": {
+        "fixture_id": "FK -> fixtures.id.", "side": "'home' or 'away' (one row per team per match).",
+        "is_home": "True for the home team.", "shots_total": "Total shots (feature).",
+        "shots_on_goal": "Shots on target (feature).", "shots_inside_box": "Shots from inside the box.",
+        "shots_outside_box": "Shots from outside the box.", "blocked_shots": "Blocked shots.",
+        "corners": "Corner kicks.", "possession": "Possession % (context).",
+        "pass_accuracy": "Pass accuracy % (context).",
+        "xg": "TARGET: real provider xG (covered leagues only)."},
 }
 
 
@@ -224,6 +236,17 @@ Both-Teams-To-Score (BTTS) and goals modelling.** Sourced from
 | Fixtures with xG | {st['xg_fixtures']:,} |
 | Fixtures with odds | {st['odds_fixtures']:,} |
 
+## Coverage & caveats
+
+- **League history is uneven.** Major leagues carry ~10+ years; some newly-added
+  Cloudbet-covered leagues have shorter history. Per-league coverage is in
+  `league_catalogue` (`history_status` = full / recent_only / partial) — check it before
+  assuming a league is complete.
+- **xG is a crude, provider-supplied approximation** (roughly a shots-by-zone model from
+  API-Football), not a StatsBomb/Opta-grade xG. Match-level total-xG↔goals correlation is
+  ~0.38 even for clean top leagues. It is nulled entirely for league-seasons the provider
+  does not cover (see `xg_covered`); never treat missing xG as `0`.
+
 ## What makes this clean
 
 - **Reconciled** two divergent source snapshots (CSV + Parquet) by a consistent internal id.
@@ -328,6 +351,11 @@ https://github.com/{HF_NAMESPACE}
 - BTTS base rate **{st['btts']:.4f}**. xG fake-zeros removed; `known_at` leakage guard;
   12-dimension QA gate (`QUALITY_REPORT.md`).
 
+**Caveats:** league history is uneven — check `league_catalogue.history_status`
+(full / recent_only / partial) per league. `xg` is a **crude provider approximation**
+(shots-by-zone, not Opta/StatsBomb grade) and is `NULL` for uncovered league-seasons; never
+treat missing xG as `0`.
+
 ```python
 from datasets import load_dataset
 ds = load_dataset("{HF_NAMESPACE}", "fixtures")
@@ -341,6 +369,8 @@ football-data.co.uk.
 
 
 def main():
+    from pipeline import xg_training
+    xg_training.build()  # produce the covered-league xG training subset first
     con = con_curated()
     st = stats(con)
     build_samples(con)

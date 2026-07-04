@@ -21,6 +21,7 @@ from pipeline import qa_pandera  # noqa: E402
 PUBLISH_TABLES = [
     "fixtures", "match_stats", "odds", "fixture_lineups", "teams", "players",
     "leagues", "fixture_players", "fixture_players_stats_flat", "league_catalogue",
+    "xg_training",
 ]
 
 failures: list[str] = []

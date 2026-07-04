@@ -35,6 +35,8 @@ configs:
     data_files: fixture_players_stats_flat.parquet
   - config_name: league_catalogue
     data_files: league_catalogue.parquet
+  - config_name: xg_training
+    data_files: xg_training.parquet
 ---
 
 # Global Football (Soccer) Data Lake
@@ -43,10 +45,15 @@ Cleaned, deduplicated, quality-gated football match data for BTTS / goals modell
 Sources: API-Football + football-data.co.uk. Pipeline & docs:
 https://github.com/eatpizzanot/soccer-dataset
 
-- **442,721** fixtures (424,554 played), **271** leagues,
-  **8,810** teams, 2012-02-04 - 2027-06-06.
-- BTTS base rate **0.5123**. xG fake-zeros removed; `known_at` leakage guard;
+- **563,441** fixtures (538,386 played), **271** leagues,
+  **10,785** teams, 2011-01-15 - 2027-06-06.
+- BTTS base rate **0.5100**. xG fake-zeros removed; `known_at` leakage guard;
   12-dimension QA gate (`QUALITY_REPORT.md`).
+
+**Caveats:** league history is uneven — check `league_catalogue.history_status`
+(full / recent_only / partial) per league. `xg` is a **crude provider approximation**
+(shots-by-zone, not Opta/StatsBomb grade) and is `NULL` for uncovered league-seasons; never
+treat missing xG as `0`.
 
 ```python
 from datasets import load_dataset

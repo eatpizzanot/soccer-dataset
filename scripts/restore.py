@@ -26,7 +26,8 @@ from pipeline import (  # noqa: E402
     phase6_publish, qa,
 )
 
-ALL_STAGES = ["reconcile", "ingest", "integrate", "clean", "materialize", "discover", "qa", "publish"]
+ALL_STAGES = ["reconcile", "ingest", "backfill_fixtures", "backfill_stats", "integrate",
+              "clean", "materialize", "discover", "qa", "publish"]
 
 
 def run_stage(name: str, with_ingest: bool, no_gate: bool) -> None:
@@ -39,6 +40,18 @@ def run_stage(name: str, with_ingest: bool, no_gate: bool) -> None:
             ingest_main()
         else:
             print("  (skipped; pass --with-ingest to hit API-Football)")
+    elif name == "backfill_fixtures":
+        if with_ingest:
+            from pipeline.phase4_backfill import main as bf_main
+            bf_main()
+        else:
+            print("  (skipped; --with-ingest for full-history fixtures backfill)")
+    elif name == "backfill_stats":
+        if with_ingest:
+            import subprocess
+            subprocess.run([sys.executable, "-m", "pipeline.phase4_backfill_stats", "--run"], check=False)
+        else:
+            print("  (skipped; --with-ingest for per-fixture stats+lineups backfill)")
     elif name == "integrate":
         phase4_integrate.main()
     elif name == "clean":

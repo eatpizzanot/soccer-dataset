@@ -159,13 +159,39 @@ def main() -> None:
 
     # missing = in cloudbet, mapped, but NOT in our dataset
     missing = cat[(cat.in_cloudbet) & (~cat.in_dataset)].copy()
-    worklist = missing[["af_league_id", "af_name", "af_country", "af_type", "af_has_stats",
-                        "min_season", "max_season", "cloudbet_key", "cloudbet_name"]].sort_values("af_country")
+    worklist = missing[["af_league_id", "af_name", "af_type", "af_has_stats",
+                        "min_season", "max_season", "cloudbet_key", "cloudbet_name"]].assign(
+        af_country=missing["af_country"]).sort_values("af_country")
+
+    # per-league history coverage: seasons present in the dataset vs seasons API-Football offers
+    pres = con.execute("""
+      SELECT l.api_football_id AS af_league_id,
+             count(DISTINCT f.calendar_year) AS present_years, min(f.calendar_year) AS min_year
+      FROM cln_fixtures f JOIN cln_leagues l ON l.id = f.league_id
+      WHERE l.api_football_id IS NOT NULL GROUP BY 1
+    """).df()
+    cat = cat.merge(pres, on="af_league_id", how="left")
+    cat["avail_years"] = (cat.max_season - cat.min_season + 1).clip(lower=1)
+
+    def _hist(r):
+        if not r.in_dataset:
+            return "not_in_dataset"
+        if pd.isna(r.present_years):
+            return "unknown"
+        frac = r.present_years / max(r.avail_years, 1)
+        if frac >= 0.7:
+            return "full"
+        if not pd.isna(r.min_year) and r.min_year >= 2023:
+            return "recent_only"
+        return "partial"
+
+    cat["history_status"] = cat.apply(_hist, axis=1)
 
     # persist
     out_cat = cat[["af_league_id", "af_name", "af_country", "af_type", "af_has_stats",
                    "min_season", "max_season", "in_dataset", "dataset_league_id",
-                   "in_cloudbet", "cloudbet_key", "cloudbet_name"]]
+                   "in_cloudbet", "cloudbet_key", "cloudbet_name", "present_years",
+                   "avail_years", "history_status"]]
     out_cat.to_parquet(c.CURATED_DIR / "league_catalogue.parquet", index=False)
     worklist.to_json(c.BUILD_DIR / "apifootball" / "ingest_worklist.json", orient="records", indent=2)
     cbmap.to_parquet(c.BUILD_DIR / "apifootball" / "cloudbet_mapping.parquet", index=False)

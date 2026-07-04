@@ -1,15 +1,30 @@
 # Data Quality Report
 
-_Generated 2026-07-04 20:46 UTC_
+_Generated 2026-07-04 22:59 UTC_
 
-**Gate: PASS** — 52/52 checks passed, 0 blocking failures, 0 warnings.
+**Gate: PASS** — 53/53 checks passed, 0 blocking failures, 0 warnings.
 
 ## Headline
 
-- Fixtures: **442,721** (424,554 played)
-- Leagues: **271**, Teams: **8,810**
-- BTTS base rate: **0.5123**
-- Date range: 2012-02-04 01:00:00 .. 2027-06-06 15:00:00
+- Fixtures: **563,441** (538,386 played)
+- Leagues: **271**, Teams: **10,785**
+- BTTS base rate: **0.5100**
+- Date range: 2011-01-15 09:30:00 .. 2027-06-06 15:00:00
+
+## League history coverage
+
+How complete each in-dataset league's history is vs what API-Football offers (see `league_catalogue.history_status`):
+
+| Status | Leagues |
+|---|---|
+| full | 222 |
+| recent_only | 40 |
+| partial | 9 |
+
+## Caveats
+
+- **xG is a crude provider approximation** (API-Football shots-by-zone, not Opta/StatsBomb grade). Match-level total-xG↔goals correlation is ~0.38 even for clean top leagues. It is `NULL` for league-seasons the provider does not cover (`xg_covered=false`); never treat missing xG as `0`.
+- **League history is uneven** — some newly-added leagues are `recent_only`; see the table above and `league_catalogue`.
 
 ## Checks by dimension
 
@@ -28,7 +43,7 @@ _Generated 2026-07-04 20:46 UTC_
 | 2-completeness | fixtures.league_id not null | ✅ pass | blocking |  |
 | 2-completeness | fixtures teams not null | ✅ pass | blocking |  |
 | 2-completeness | played fixtures have goals | ✅ pass | blocking |  |
-| 2-completeness | few ultra-thin league-years (<10 played) | ✅ pass | warning | 95 league-year cells with <10 played fixtures (minor/new leagues) |
+| 2-completeness | few ultra-thin league-years (<10 played) | ✅ pass | warning | 265 league-year cells with <10 played fixtures (minor/new leagues) |
 | 3-validity | goals >= 0 | ✅ pass | blocking |  |
 | 3-validity | xg within [0,6] | ✅ pass | blocking |  |
 | 3-validity | odds > 1 | ✅ pass | blocking |  |
@@ -45,7 +60,7 @@ _Generated 2026-07-04 20:46 UTC_
 | 4-integrity | no orphans fixture_players->fixtures | ✅ pass | blocking | 0 orphans |
 | 4-integrity | no orphans fixture_players->players | ✅ pass | blocking | 0 orphans |
 | 4-integrity | no orphans stats_flat->fixture_players | ✅ pass | blocking | 0 orphans |
-| 5-uniqueness | canonical fixture key unique (<=50 flagged ambiguous) | ✅ pass | blocking | 26 residual dup rows (multi-api ambiguous, flagged) |
+| 5-uniqueness | canonical fixture key unique (<=50 flagged ambiguous) | ✅ pass | blocking | 37 residual dup rows (multi-api ambiguous, flagged) |
 | 5-uniqueness | match_stats one row per fixture | ✅ pass | blocking |  |
 | 6-entity-dedup | no duplicate api_football_id in teams | ✅ pass | blocking | 0 dup groups |
 | 6-entity-dedup | no duplicate api_football_id in players | ✅ pass | blocking | 0 dup groups |
@@ -59,10 +74,11 @@ _Generated 2026-07-04 20:46 UTC_
 | 10-provenance | fixtures carry in_csv/in_pq provenance | ✅ pass | blocking |  |
 | 10-provenance | odds carry source | ✅ pass | warning |  |
 | 10-provenance | match_stats carry xg_covered flag | ✅ pass | blocking |  |
-| 11-distribution | BTTS rate in [0.45,0.57] | ✅ pass | blocking | btts=0.5123 |
-| 11-distribution | home win rate in [0.40,0.50] (home advantage) | ✅ pass | warning | home_win=0.4436 |
-| 11-distribution | xG<->goals corr >= 0.30 (post fake-zero fix) | ✅ pass | warning | corr=0.3858 |
-| 12-anomaly | no impossible scores (>30) | ✅ pass | blocking | 0 rows |
+| 11-distribution | BTTS rate in [0.45,0.57] | ✅ pass | blocking | btts=0.5100 |
+| 11-distribution | home win rate in [0.40,0.50] (home advantage) | ✅ pass | warning | home_win=0.4450 |
+| 11-distribution | xG<->goals corr >= 0.30 (post fake-zero fix) | ✅ pass | warning | corr=0.3894 |
+| 12-anomaly | no impossible scores (>40) | ✅ pass | blocking | 0 rows |
+| 12-anomaly | extreme blowouts surfaced (>=15, kept as real cup mismatches) | ✅ pass | info | 72 rows |
 | 12-anomaly | player minutes in [0,130] | ✅ pass | warning | 0 rows |
 | 12-anomaly | player rating in [0,10] | ✅ pass | warning | 0 rows |
 | C-cloudbet | every Cloudbet competition accounted for | ✅ pass | blocking | 285 competitions, 242 mapped/excluded, 43 logged-unmapped |
