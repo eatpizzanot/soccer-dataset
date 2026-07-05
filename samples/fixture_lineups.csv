@@ -1,0 +1,1001 @@
+fixture_id,team_id,team_name,coach_name,coach_api_id,formation,in_csv,in_pq
+174822,41,Coventry,,,,false,true
+109816,1205,Mezokovesd-zsory,A. Supka,2752,3-4-1-2,false,true
+169546,26,West Brom,,,,false,true
+356597,739,Hacken,Jens Otto Andreas Gustafsson,1382,4-2-3-1,false,true
+269810,582,CSKA Moscow,V. Goncharenko,1320,4-3-3,false,true
+302740,1528,Shabab Al Ahli Dubai,Paulo Manuel Carvalho de Sousa,33,,false,true
+197357,86,Salford,K. Robinson,616,3-4-1-2,false,true
+214858,228,Troyes,,,,false,true
+370146,1473,FC OSS,K. Wels,1485,,false,true
+288404,847,FC Rapid Bucuresti,M. Iosif,13195,4-3-3,false,true
+213417,192,Como,G. Gattuso,13400,4-4-2,false,true
+205927,3208,Deportivo La Coruna,Imanol Idiakez,2066,4-4-1-1,false,true
+217399,3745,Nimes,B. Blaquart,41,4-4-2,false,true
+179702,81,Newport County,,,,false,true
+360144,1962,Europa Fc,Juan Gallardo,3462,,false,true
+100046149,3392,SV Meppen,C. Neidhardt,1404,,false,false
+320596,2789,Palmeiras,,,,false,true
+303172,1549,Al Shamal,,,,false,true
+349202,1597,Mumbai City,,,4-2-3-1,false,true
+310651,1198,Puskas Academy,Z. Hornyák,1931,,false,true
+339502,1458,Shukura,T. Shalamberidze,1723,,false,true
+100046469,5326,Rot-weiss Erfurt,S.  Emmerling,10623,4-4-2,false,false
+150276,1910,Mexico,G. Martino,331,4-2-3-1,false,true
+131519,1372,FAR Rabat,N. Nabi,13991,4-2-3-1,false,true
+148703,406,Rangers,M. Beale,17753,4-4-1-1,false,true
+297315,1515,Daegu FC,André Gaspar,2782,,false,true
+137382,548,Mazatlan FC,V. Vucetich,988,4-4-2,false,true
+233104,305,Zwolle,R. Jans,1986,4-3-3,false,true
+245914,4351,Denizlispor,H. Kutlu,1292,4-1-4-1,false,true
+150319,1879,Prishtina,A. Dallku,7758,4-2-3-1,false,true
+301790,1528,Shabab Al Ahli Dubai,,,,false,true
+160923,3003,Maldives,F. Moriero,442,4-3-3,false,true
+130161,1589,Western Sydney Wanderers,M. Rudan,150,4-4-2,false,true
+143989,1763,Santos DE Guapiles,L. Fallas,7790,,false,true
+270570,608,Pari NN,M. Galaktionov,10515,3-4-2-1,false,true
+260288,480,Orlando City,J. O'Connor,1960,4-2-3-1,false,true
+272386,632,Hartberg,M. Schopp,1920,4-3-3,false,true
+133454,1628,Ceramica Cleopatra,Ahmed Samy,3356,4-2-3-1,false,true
+111121,1222,Hapoel Haifa,H. Silbas,4658,4-3-3,false,true
+326698,1282,Zorya Luhansk,,,,false,true
+171541,48,Barnsley,,,,false,true
+100598672,4335,Eskişehirspor,F. Sayhan,9120,4-3-3,false,false
+111446,1242,Dukla Banská Bystrica,M. Ščasný,1908,4-2-3-1,false,true
+365424,2572,Chichester City,M. Rutherford,6591,,false,true
+264263,492,Gamba Osaka,T. Katanosaka,546,3-4-1-2,false,true
+67970,662,Widzew Lodz,D. Myśliwiec,14031,4-3-3,false,true
+126001,936,Al-Ettifaq,Khaled Al Atawi,1174,4-4-2,false,true
+209050,163,Sassuolo,R. De Zerbi,2424,4-3-3,false,true
+354278,260,Leverkusen,R. Schmidt,57,4-2-3-1,false,true
+114960,1316,IMT Novi Beograd,M. Đorđević,22708,4-4-1-1,false,true
+100332097,429,Botafogo,Paulo Autuori,2155,4-2-3-1,false,false
+261208,504,Kawasaki Frontale,,,,false,true
+106136,1143,Deportivo Tachira FC,E. Saragó,11184,,false,true
+319136,4623,Siah Jamegan,G. Enayati,11153,,false,true
+139116,489,Charlotte,D. Smith,14,4-2-3-1,false,true
+188450,30,Preston,A. Neil,93,4-2-3-1,false,true
+213757,160,Monza,G. Stroppa,1604,3-5-2,false,true
+114910,1296,Minai,M. Tsymbal,14367,4-1-4-1,false,true
+260707,466,Sporting Kansas City,Kerry Zavagnin,24882,4-3-3,false,true
+103475,1098,Real Santa Cruz,,,,false,true
+101092811,4412,Rodina Moskva,D. Parfenov,1321,4-1-3-2,false,false
+117602,1332,Backa,G. Milojević,5696,,false,true
+606394,6042,FC Minsk,Artem Chelyadinskiy,14778,4-4-2,false,false
+307667,980,Deportivo Pasto,F. Torres,2158,4-4-2,false,true
+112062,1247,Senica,A. Šoltís,1907,,false,true
+148326,1821,Olympiakos Piraeus,Pedro Martins,1099,4-3-3,false,true
+263354,509,Yokohama F. Marinos,A. Postecoglou,548,4-2-3-1,false,true
+203063,3163,Numancia,Arrasate,1588,4-2-2-2,false,true
+113274,1267,Araz,E. Baxşıyev,12316,,false,true
+145161,1778,CD Motagua,H. Medina,14407,,false,true
+195342,2650,Scunthorpe,N. Cox,12476,4-4-2,false,true
+2279,44,Ipswich,K. McKenna,16556,4-2-3-1,false,true
+4976,60,Fleetwood Town,C. Adam,21652,3-4-3,false,true
+273811,646,St. Gallen,G. Contini,1505,4-4-2,false,true
+118302,1383,AVS,Jorge Costa,2733,4-2-3-1,false,true
+193867,46,Reading,Noel Hunt,13276,4-3-3,false,true
+373240,476,Philadelphia Union,Bradley Carnell,12556,4-4-2,false,false
+283513,4465,AC Horsens,B. Henriksen,1676,4-4-2,false,true
+101647,1078,Universidad de Chile,G. Álvarez,842,4-3-3,false,true
+110914,1222,Hapoel Haifa,E. Levy,4659,4-4-2,false,true
+161574,13,Newcastle,E. Howe,5,4-3-3,false,true
+280700,4450,Orebro SK,A. Kjäll,1378,4-4-2,false,true
+272841,619,Salzburg,J. Marsch,1914,4-2-2-2,false,true
+139052,481,New York City,N. Cushing,2338,4-2-3-1,false,true
+292048,906,Cork City,N. Fenn,2612,,false,true
+267993,566,Sarpsborg 08,M. Stahre,3735,4-5-1,false,true
+273866,644,Luzern,G. Seoane,2017,4-2-3-1,false,true
+104181,1127,Sport Huancayo,W. Valencia,4069,4-2-3-1,false,true
+213772,185,Ascoli,A. Sottil,3720,4-3-1-2,false,true
+112714,1259,Olimpija Ljubljana,Riera,17594,4-3-3,false,true
+357288,503,Kashima Antlers,M. Ishii,3134,,false,true
+110560,1213,Maccabi Haifa,B. Bakhar,2494,4-3-3,false,true
+104812,1123,Alianza Lima,M. Larriera,789,4-2-3-1,false,true
+208788,171,Bologna,R. Donadoni,69,3-5-2,false,true
+182550,18,Liverpool,,,,false,true
+261671,4377,Omiya Ardija,,,,false,true
+313892,1220,Maccabi Petah Tikva,S. Mimer,6785,,false,true
+196889,83,Bradford,G. Alexander,628,3-5-2,false,true
+353467,1405,Tsarsko Selo,N. Spasov,2662,,false,true
+275949,660,Jagiellonia,B. Zając,12225,4-4-2,false,true
+375666,1356,Al Kholood,Des Buckingham,8189,4-2-3-1,false,false
+351533,2771,Tajikistan,K. Fuzaylov,2532,,false,true
+602601,5987,Stuttgart II,Nico Willig,2525,4-3-1-2,false,false
+190761,38,Swansea,A. Sheehan,21599,4-2-3-1,false,true
+140610,468,Real Salt Lake,F. Juarez,1989,4-2-3-1,false,true
+184529,7,Brighton,G. Potter,12,3-5-2,false,true
+186984,39,Birmingham,H. Redknapp,9534,4-1-4-1,false,true
+355880,321,Sp Braga,Sá Pinto,2205,4-4-2,false,true
+247421,404,Hearts,,,,false,true
+242324,351,Charleroi,E. Still,14971,3-4-3,false,true
+120807,1409,FK Sarajevo,V. Marinović,5815,,false,true
+345206,1500,Jelgava,,,,false,true
+347069,485,FC Cincinnati,J. Harkes,6044,,false,true
+266323,525,Tigres UANL,Ricardo Ferretti,1684,4-4-1-1,false,true
+288991,841,CFR Cluj,D. Petrescu,1195,4-3-3,false,true
+278642,703,Godoy Cruz,D. Dabove,832,4-3-3,false,true
+189050,30,Preston,F. McAvoy,14332,4-3-1-2,false,true
+229964,3377,Erzgebirge Aue,D. Meyer,1341,3-4-3,false,true
+183822,18,Liverpool,J. Klopp,1,4-3-3,false,true
+281110,752,Halmstad,M. Haglund,1366,4-4-2,false,true
+130238,1591,Wellington Phoenix,G. Italiano,20353,4-3-2-1,false,true
+238536,323,Gil Vicente,Ricardo Soares,2800,4-2-3-1,false,true
+230465,271,Darmstadt,M. Anfang,3089,3-3-3-1,false,true
+187015,33,Hull,L. Slutsky,1992,3-4-3,false,true
+267052,561,Rosenborg,K. Ingebrigtsen,1520,4-3-3,false,true
+266080,532,Monterrey,D. Alonso,993,4-2-3-1,false,true
+236451,1339,Penafiel,,,,false,true
+205763,122,Levante,Javi Calleja,1589,4-4-2,false,true
+235906,332,Guimaraes,,,,false,true
+94640,968,Confiança,Luizinho Lopes,3646,4-3-3,false,true
+346857,4744,Rochester Rhinos,,,,false,true
+208415,169,Torino,S. Mihajlović,2413,4-2-3-1,false,true
+182301,43,Sunderland,,,,false,true
+216413,220,Toulouse,P. Dupraz,4835,4-2-3-1,false,true
+196275,87,Grimsby,P. Hurst,602,4-3-3,false,true
+356425,1460,Spaeri,Anzor Kighuradze,23667,,false,true
+287443,855,FC Botosani,C. Enache,1204,4-2-3-1,false,true
+113731,1269,Zira,R. Sadıqov,4767,,false,true
+194727,68,Exeter,M. Taylor,626,,false,true
+185484,16,Tottenham,A. Postecoglou,548,4-3-3,false,true
+109821,1195,Zalaegerszegi TE,B. Molnár,17037,,false,true
+171630,33,Hull,,,,false,true
+126066,1503,Al-Faisaly FC,Péricles Chamusca,1171,4-2-3-1,false,true
+117398,1358,Renaissance Berkane,M. Chaâbani,3296,3-5-2,false,true
+180613,63,Stevenage,,,,false,true
+287585,4487,Viitorul Constanta,G. Hagi,1199,4-3-3,false,true
+317850,1239,Spartak Trnava,R. Látal,1805,,false,true
+99415,1008,Emelec,Ismael Rescalvo,2246,4-2-3-1,false,true
+290331,4509,HIFK Helsinki,A. Muurinen,10174,,false,true
+361438,1293,Dynamo Kyiv,A. Khatskevich,1265,4-2-3-1,false,true
+368279,3529,Grandvillars,G. Pisani,11255,,false,true
+205916,137,Mirandes,A. Lisci,13592,5-3-2,false,true
+366651,3382,Rot-Weiß Essen,S. Demandt,10727,4-4-2,false,true
+148411,208,Lille,B. Génésio,68,5-4-1,false,true
+213961,3461,Perugia,F. Castori,2897,3-5-2,false,true
+345672,1497,Spartaks Jurmala,M. Zub,561,,false,true
+156499,1924,Brazil,Tite,333,4-4-2,false,true
+187599,38,Swansea,G. Potter,12,3-5-2,false,true
+359222,106,Mallorca,Vicente Moreno,1597,4-4-2,false,true
+331735,1114,Comerciantes Unidos,R. Chilavert,4076,4-2-3-1,false,true
+284648,4477,Hebei Zhongji,,,,false,true
+27804,352,Oud-Heverlee Leuven,Óscar García,6455,4-1-4-1,false,true
+122558,1450,Torpedo Kutaisi,G. Tsetsadze,3453,,false,true
+285817,805,Shanghai Shenhua,Yijun Mao,15147,3-4-3,false,true
+280957,737,Djurgarden,K. Bergstrand,1385,4-3-3,false,true
+268341,564,Viking,B. Aarsheim,14595,4-3-3,false,true
+93004,931,Al Wehda Club,G. Donis,1106,4-3-3,false,true
+116447,1345,Nacional,Fernando Morato,17856,4-2-3-1,false,true
+216415,222,Metz,P. Hinschberger,1465,4-4-2,false,true
+292071,910,Sligo Rovers,L. Buckley,1559,,false,true
+317050,1772,Sporting San Jose,,,,false,true
+183567,18,Liverpool,J. Klopp,1,4-2-3-1,false,true
+375696,1509,,Jeong-kyu Lee,27799,,true,false
+341029,1155,Atletico Venezuela,,,,false,true
+112355,1255,Mura,M. Kek,24640,,false,true
+101226057,4411,Torpedo Moskva,O. Kononov,1309,5-4-1,false,false
+216118,212,Lorient,,,,false,true
+124471,310,Go Ahead Eagles,K. van Wonderen,12507,4-3-3,false,true
+100850483,2628,FC Gomel,V. Nevinskiy,2668,4-2-3-1,false,false
+234657,309,AZ Alkmaar,P. Jansen,10421,4-3-3,false,true
+101002422,4455,trelleborgs FF,S. Jacobsson,1361,4-3-3,false,false
+164546,3962,Machico,João Manuel Pinto,7572,,false,true
+204949,140,Oviedo,José Ángel Ziganda,8675,4-4-2,false,true
+207315,157,Genoa,,,,false,true
+333913,1338,SC Covilha,Daúto Faquirá,7468,4-4-2,false,true
+191935,62,Northampton,J. Brady,13920,4-3-2-1,false,true
+254571,2789,Palmeiras,Alberto Valentim,125,4-2-3-1,false,true
+110294,1224,Maccabi Tel Aviv,R. Keane,20259,4-1-3-2,false,true
+372414,332,Guimaraes,Gil Lameiras,27132,4-2-3-1,false,false
+136603,1697,ES Zarzis,H. Jabnoun,24650,,false,true
+267528,4391,Start,K. Rekdal,1868,3-4-2-1,false,true
+306870,494,Sanfrecce Hiroshima,,0,3-4-2-1,false,true
+290108,882,Lahti,,,,false,true
+162160,3220,Deportivo Murcia,Juanvi,13183,,false,true
+310951,1200,Paks,György Bognár,17632,,false,true
+244033,4340,Bursaspor,,,,false,true
+102095,1079,Cobresal,G. Huerta,506,4-3-3,false,true
+372065,261,RB Leipzig,Ole Werner,1348,4-1-4-1,false,false
+370352,4190,Dovo,J. van Bezouwen,12814,,false,true
+310092,1204,Debreceni VSC,Leonel Pontes,2222,,false,true
+227232,273,Schalke 04,T. Reis,1347,4-1-4-1,false,true
+19875,245,Valenciennes,A. Kantari,19793,4-4-2,false,true
+308590,987,Independiente Medellin,A. Bobadilla,145,4-2-3-1,false,true
+152367,1313,Cukaricki,I. Matić,20524,4-2-3-1,false,true
+169735,10,Fulham,,,,false,true
+283771,1963,Sonderjyske,G. Riddersholm,1668,3-4-1-2,false,true
+242389,347,St. Gilloise,K. Geraerts,17637,3-5-2,false,true
+353308,1398,CSKA Sofia,N. El Maestro,1921,4-2-3-1,false,true
+116977,1351,Varzim,Vitoriano Ramos,13565,4-4-2,false,true
+322572,956,Criciuma,Gilson Kleina,220,4-3-3,false,true
+187552,39,Birmingham,G. Monk,110,4-4-2,false,true
+137778,537,UNAM Pumas,A. Lillini,12130,4-3-3,false,true
+175255,61,Leyton Orient,,,,false,true
+105295,1121,FBC Melgar,N.  Lorenzo,14213,4-2-3-1,false,true
+348562,4753,Ottawa Fury,N. Popovic,1043,,false,true
+312762,1664,AS AIN Mlila,L. Bougherara,2275,,false,true
+93807,952,Avai,Eduardo Barroca,2421,4-3-3,false,true
+265757,526,Club Tijuana,E. Coudet,862,3-5-2,false,true
+102781,1083,Antofagasta,H. Tapia,2077,4-3-3,false,true
+305432,1173,Apoel Nicosia,Pablo Garcia,26344,3-4-3,false,true
+371700,153,Empoli,Fabio Caserta,28076,4-2-3-1,false,false
+257084,439,Cruzeiro,José Leonardo Nunes Alves Sousa Jardim,22,4-2-2-2,false,true
+213695,185,Ascoli,A. Sottil,3720,4-3-1-2,false,true
+284032,789,Vejle,P. Sørensen,1678,4-2-3-1,false,true
+151483,1930,Spain,Luis de la Fuente,5832,4-2-3-1,false,true
+101164694,100015630,Hammarby,M. Sjögren,10753,4-2-3-1,false,false
+322083,433,Internacional,Guto Ferreira,228,4-2-3-1,false,true
+135519,1675,Orlando Pirates,Jose Riveiro,1784,3-4-3,false,true
+100718009,6013,SKU Amstetten,J. Fallmann,1427,4-3-3,false,false
+161810,94,Colchester,H. Mullins,6664,4-2-3-1,false,true
+242513,359,Club Brugge,S. Parker,87,4-3-3,false,true
+151284,1843,UE Santa Coloma,Boris Codina,16484,4-3-3,false,true
+337565,1700,Olympique Béja,Kiko López,9861,,false,true
+175743,41,Coventry,,,,false,true
+292125,912,Waterford,F. Rockett,12699,,false,true
+136758,1700,Olympique Béja,N. Neghiz,2642,,false,true
+344438,1466,Den Bosch,E. van der Ven,1494,,false,true
+123775,1478,Jong AZ,M. Martens,15114,4-2-3-1,false,true
+219854,3563,Niort,,,,false,true
+134063,1650,El Bayadh,A. Belaid,21162,,false,true
+266858,562,Brann,,,,false,true
+100126546,4353,Altay,M. Avcı,1747,4-3-3,false,false
+141875,1718,El Paso Locomotive,J. Hutchinson,4514,,false,true
+307739,983,Deportivo Cali,S. Angulo,10524,4-2-3-1,false,true
+229108,282,St Pauli,,,,false,true
+94983,964,Nautico Recife,Hélio dos Anjos,3072,4-2-3-1,false,true
+372808,441,Vasco DA Gama,Gaucho Renato,27955,4-2-3-1,false,false
+312815,1644,JS Saoura,M. Djallit,2271,,false,true
+293614,4520,AOK Kerkyra,,,,false,true
+346139,1492,Riga,Adrián Gul'a,5841,,false,true
+260038,472,New York Red Bulls,C. Armas,1965,4-2-3-1,false,true
+101537013,2789,Palmeiras,Ferreira Abel,1103,4-2-3-1,false,false
+360932,209,Marseille,R. Garcia,2551,,false,true
+257985,465,DC United,,,,false,true
+181660,67,Cheltenham,G. Johnson,682,,false,true
+177971,83,Bradford,D. Hopkin,2056,,false,true
+229915,3375,Arminia Bielefeld,U. Neuhaus,1344,4-4-2,false,true
+193135,50,Peterboro,D. Ferguson,598,4-2-3-1,false,true
+161150,1922,Portugal,Fernando Santos,175,4-3-3,false,true
+366500,3383,FC Ingolstadt 04,,,,false,true
+331661,4683,Sport Rosario,R. Torres,4074,4-2-3-1,false,true
+241011,4331,Lokeren,P. Maes,2730,4-4-1-1,false,true
+100106748,6006,Floridsdorfer AC,O. Oberhammer,2975,,false,false
+132724,1624,National Bank of Egypt,Tarek Mostafa,18214,4-3-3,false,true
+270823,4413,Dinamo Makhachkala,K. Bidzhiev,10798,3-4-3,false,true
+291905,901,Derry City,D. Devine,1556,,false,true
+187648,39,Birmingham,G. Monk,110,4-4-2,false,true
+245945,4343,Genclerbirligi,Ö. Bizati,9938,4-2-3-1,false,true
+21629,261,RB Leipzig,M. Rose,1540,4-2-2-2,false,true
+147597,1831,Kifisia,K. Bratsos,14560,4-2-3-1,false,true
+27734,351,Charleroi,F. Mazzù,1509,5-3-2,false,true
+237632,1342,Belenenses,Silas,2218,4-3-1-2,false,true
+172779,15,Brentford,,,,false,true
+120931,1425,Krupa na Vrbasu,S. Mrkobrada,13396,,false,true
+325697,1669,Polokwane City,B. Molekwa,6476,,false,true
+127345,1528,Shabab Al Ahli Dubai,Paulo Sousa,33,4-4-2,false,true
+107982,1179,Anorthosis,M. Camoranesi,7806,4-3-3,false,true
+341472,1154,Aragua FC,,,,false,true
+270533,609,Sochi,V. Garanin,12197,3-4-3,false,true
+224713,267,FC Koln,,,,false,true
+130159,1583,Central Coast Mariners,M. Jackson,12634,4-4-2,false,true
+119467,1399,Hebar 1918,L. Penev,2888,4-1-4-1,false,true
+219621,238,Guingamp,,,,false,true
+104671,1118,ADT,F. Navarro,2118,4-2-3-1,false,true
+100757,1046,CA River Plate,I. Ithurralde,14830,3-4-3,false,true
+154465,1882,Alashkert,A. Grigoryan,1308,4-1-4-1,false,true
+194666,2566,Macclesfield,S. Campbell,1886,,false,true
+100046338,3426,Chemnitzer FC,D. Bergner,1410,,false,false
+326750,1293,Dynamo Kyiv,,,,false,true
+347316,1736,FC Tulsa,D. Vaudreuil,4516,,false,true
+359402,114,Barcelona,Quique Setién,2894,4-3-3,false,true
+296387,926,Al-Fayha,S. Muslin,4252,3-4-3,false,true
+250807,4363,Queen of the South,,,,false,true
+298972,1626,Ghazl El Mehalla,,,,false,true
+11941,139,Tenerife,Asier Garitano,1591,4-4-2,false,true
+378040,1587,Newcastle Jets,Mark Milligan,25301,4-2-3-1,false,false
+334128,1389,Lokomotiv Sofia,Stanislav Genchev,26074,3-4-1-2,false,true
+329331,1590,Sydney,S. Corica,1139,4-2-2-2,false,true
+305118,1180,Apollon Limassol,S. Avgousti,2074,,false,true
+210164,154,Verona,I. Tudor,2432,3-4-2-1,false,true
+326339,4660,Bidvest Wits,G. Hunt,2233,4-4-2,false,true
+350259,1972,Romania,C. Daum,5733,,false,true
+279310,727,Central Cordoba,Omar Osvaldo De Felippe,3211,5-3-2,false,true
+188115,40,QPR,M. Warburton,97,5-3-2,false,true
+344548,1473,FC OSS,K. Wels,1485,,false,true
+106720,1149,Caracas FC,N. Sanvicente,2253,,false,true
+271166,583,FK Rostov,Jonatan Alba Cabello,24584,3-1-4-2,false,true
+360008,876,HJK,,,,false,true
+273078,635,A. Lustenau,M. Mader,1434,4-3-1-2,false,true
+275400,658,Piast Gliwice,W. Fornalik,1220,4-2-3-1,false,true
+130344,1589,Western Sydney Wanderers,M. Rudan,150,4-4-1-1,false,true
+122671,1466,Den Bosch,David Nascimento,3170,4-3-3,false,true
+322410,940,Vila Nova,Hemerson Maria,223,4-2-2-2,false,true
+77526,736,Elfsborg,J. Thelin,1387,4-3-3,false,true
+204177,127,Sp Gijon,M. Đukić,3425,4-4-2,false,true
+192844,72,Morecambe,D. Adams,3568,3-5-2,false,true
+374538,972,,Gustavo Benitez,28184,,true,false
+132256,1369,Difaa EL Jadida,A. Benchikha,2644,,false,true
+118868,1391,Botev Vratsa,H. Yanev,12867,5-4-1,false,true
+96449,693,Velez Sarsfield,M. Pellegrino,1587,4-2-3-1,false,true
+365668,62,Northampton,,,,false,true
+131769,1364,FUS Rabat,J. Sellami,6606,,false,true
+100718029,6012,FC Liefering,R. Aufhauser,15037,4-3-3,false,false
+236604,333,Arouca,,,,false,true
+368650,219,Nantes,V. Halilhodžić,386,4-4-2,false,true
+170281,12,Crystal Palace,,,,false,true
+229210,3375,Arminia Bielefeld,R. Rehm,1342,4-4-2,false,true
+604113,6002,Esenler Erokspor,Osman Ozkoylu,26894,4-1-4-1,false,false
+135043,1658,WA Tlemcen,D.Benchadli,14565,,false,true
+139766,488,Austin FC,J. Wolff,14426,4-2-3-1,false,true
+117925,1337,FC Porto B,João Brandão,5392,4-2-3-1,false,true
+135856,1674,Supersport United,G. Hunt,2233,4-4-2,false,true
+246378,369,Trabzonspor,A. Avcı,1438,4-1-4-1,false,true
+241433,362,Standard,M. Preud'homme,1512,4-3-3,false,true
+237330,321,Sp Braga,Abel Ferreira,1103,4-4-2,false,true
+181021,72,Morecambe,J. Bentley,595,,false,true
+345152,4736,Ilukstes NSS,,,,false,true
+291786,890,KTP,Jonas Nyholm,22290,4-4-2,false,true
+194674,73,Crewe,D. Artell,596,,false,true
+225063,264,Wolfsburg,,,,false,true
+265800,526,Club Tijuana,E. Coudet,862,3-5-2,false,true
+124299,1469,Helmond Sport,W. Boessen,1487,4-3-3,false,true
+96587,730,Colon Santa Fe,E. Domínguez,2250,4-4-2,false,true
+156638,981,Santa Fe,H. Rivera,2154,4-2-3-1,false,true
+317746,4615,Deportes Limache,Víctor Javier Rivero Faccioli,475,4-1-4-1,false,true
+319824,1568,Aluminium Arak,M. Hosseini,5464,,false,true
+270574,590,Krylya Sovetov,I. Osinkin,1086,4-4-2,false,true
+277034,657,Zaglebie,L. Ojrzynski,1226,4-2-3-1,false,true
+132915,1625,Ismaily SC,Ayman El Gamal,19061,4-2-3-1,false,true
+254183,446,Athletico-PR,Marcelo Oliveira,3048,4-2-3-1,false,true
+141098,1732,Monterey Bay,J. Stewart,23063,,false,true
+239722,354,Genk,,,,false,true
+196430,87,Grimsby,P. Hurst,602,4-1-4-1,false,true
+135247,1668,Kaizer Chiefs,N. Nabi,13991,4-2-3-1,false,true
+291583,879,VPS,J. Nuorela,14794,3-5-2,false,true
+333984,1386,CSKA 1948,,,,false,true
+374886,766,Degerfors IF,Henok Goitom,28503,4-2-3-1,false,false
+155402,987,Independiente Medellin,D. González,17617,3-4-2-1,false,true
+287868,4491,FC Astra Giurgiu,Bogdan Andone,1203,4-4-1-1,false,true
+604927,6015,Austria Vienna (Am),Harald Suchard,25793,,false,false
+152077,309,AZ Alkmaar,P. Jansen,10421,4-2-3-1,false,true
+212620,154,Verona,A. Aglietti,2919,4-3-3,false,true
+42736,470,New England Revolution,R. Williams,1049,4-2-3-1,false,true
+227930,3376,SSV Jahn Regensburg,,,,false,true
+259100,461,Colorado Rapids,P. Mastroeni,6081,4-2-3-1,false,true
+262821,507,FC Tokyo,K. Hasegawa,541,4-4-2,false,true
+249623,398,Ross County,M. Mackay,11851,4-2-3-1,false,true
+599649,1028,Libertad Asuncion,Francisco Arce,26869,4-1-4-1,false,false
+218144,222,Metz,F. Antonetti,39,3-5-1-1,false,true
+188511,29,Bristol City,L. Johnson,104,4-3-3,false,true
+132135,1361,Moghreb Tetouan,J. Drideb,8588,,false,true
+94880,951,Operario-PR,Matheus Costa,231,4-2-2-2,false,true
+206719,159,Inter,,,,false,true
+100046311,100001330,Werder Bremen II,S. Hübscher,1397,4-1-4-1,false,false
+234294,306,Sparta Rotterdam,H. Fraser,2005,4-2-3-1,false,true
+304394,1167,NK Lokomotiva Zagreb,M. Tokic,10500,,false,true
+98639,999,Quindio,O. Quintabani,7938,4-2-3-1,false,true
+219282,243,Paris FC,Stéphane Gilli,7514,4-3-3,false,true
+112008,1234,Žilina,I. Belák,15825,4-3-3,false,true
+155495,1925,Serbia,D. Stojković,58,3-4-1-2,false,true
+254562,954,Sport Recife,Vanderlei Luxemburgo,128,4-2-3-1,false,true
+100687324,431,Corinthians,Vágner Mancini,2423,,false,false
+101092926,6520,Chernomorets,V. Garanin,12197,4-3-2-1,false,false
+208770,3456,Crotone,W. Zenga,2901,4-3-3,false,true
+206947,3476,Livorno,,,,false,true
+278559,702,Independiente,A. Holan,834,4-2-3-1,false,true
+163144,189,Cittadella,R. Venturato,1610,4-3-1-2,false,true
+378135,4685,Juan Pablo II College,Marcelo Zuleta,26851,5-3-2,false,false
+294467,1828,PAOK,R. Lucescu,1163,4-2-3-1,false,true
+297492,1514,Jeju United FC,Choi Yun-Kyum,2795,,false,true
+119111,1394,Arda Kardzhali,A. Tunchev,13360,4-1-4-1,false,true
+348882,1728,Oakland Roots,Benny Feilhaber,16990,,false,true
+111798,1241,Ružomberok,P. Struhár,14976,4-1-4-1,false,true
+371110,82,Crawley Town,Colin Kazim-Richards,28337,4-4-2,false,false
+142194,1725,Pittsburgh Riverhounds,B. Lilley,1065,,false,true
+112558,1263,Aluminij,R. Pevnik,4618,4-2-3-1,false,true
+98517,988,America de Cali,J. Osorio,138,4-2-3-1,false,true
+332461,1113,Cienciano,Carlos Alberto Desio,14979,3-4-1-2,false,true
+104764,1120,Universitario,J. Fossati,777,3-5-2,false,true
+363716,38,Swansea,Carlos Carvalhal,2219,,false,true
+247478,397,Celtic,,,,false,true
+136456,1700,Olympique Béja,Y. Zelfani,7805,,false,true
+246282,378,Hatayspor,Ö. Erdoğan,10117,4-2-3-1,false,true
+588724,869,,Filipe Coelho,26543,3-4-2-1,true,false
+100711788,100006797,Dolgoprudny,A. Tochilin,1310,4-1-4-1,false,false
+100126634,384,Gazişehir Gaziantep,M. Altıparmak,1280,,false,false
+332036,1116,Union Comercio,M. Vivas,71,4-2-3-1,false,true
+319447,1581,Saipa,A. Daei,4182,,false,true
+322067,969,Oeste,Roberto Cavalo,212,4-2-3-1,false,true
+124911,1494,Valmiera / BSS,J. Kalns,11960,,false,true
+9979,105,Las Palmas,García Pimienta,5391,4-5-1,false,true
+293511,1824,Panathinaikos,,,,false,true
+262664,4375,Vegalta Sendai,S. Watanabe,539,3-4-2-1,false,true
+126138,1512,Suwon City FC,Kim Eun-Joong,19488,4-3-3,false,true
+236628,329,Rio Ave,,,,false,true
+343994,1467,Emmen,D. Lukkien,1994,,false,true
+204515,3248,Lugo,M. Nafti,6721,4-2-3-1,false,true
+160655,2743,Sierra Leone,J. Keister,11853,4-2-3-1,false,true
+179144,62,Northampton,,,,false,true
+626414,6367,Independiente de La Chorrera,F. Narváez,17702,,false,false
+101542879,1588,Melbourne City,Aurelio Vidmar,8560,4-2-3-1,false,false
+111516,1237,FK Košice,J. Kozák,1903,5-4-1,false,true
+265246,499,Cerezo Osaka,Arthur Thomas Papastamatiou,13773,4-2-3-1,false,true
+269795,599,Ural,D. Parfenov,1321,4-2-3-1,false,true
+626394,6372,Alianza FC,,,,false,false
+101524657,100020961,Appalachian,D. Parker,19607,,false,false
+148712,172,Milan,S. Pioli,3733,4-3-3,false,true
+302034,1542,Al Fujairah SC,,,,false,true
+186539,14,Aston Villa,S. Bruce,17,4-3-3,false,true
+276886,673,Cracovia,D. Kroczek,15738,3-4-3,false,true
+286999,4492,Concordia,D. Alexa,1207,4-2-3-1,false,true
+229953,265,Heidenheim,F. Schmidt,1335,4-3-2-1,false,true
+326310,1675,Orlando Pirates,J. Zinnbauer,7244,3-4-3,false,true
+320034,955,Ceara,,,,false,true
+191109,38,Swansea,Vitor Emanuel Soares Matos,25652,4-1-4-1,false,true
+250771,401,Livingston,,,,false,true
+256950,958,Vitoria,Thiago Carpini,241,4-2-3-1,false,true
+185401,17,Chelsea,E. Maresca,12629,4-2-3-1,false,true
+306716,1010,Libertad,Juan Carlos León Zambrano,13966,4-4-2,false,true
+215802,212,Lorient,,,,false,true
+219297,214,Lens,Pierre Sage,21562,3-4-2-1,false,true
+332624,322,Famalicao,Dito,3116,,false,true
+95446,712,Gimnasia L.P.,S. Romero,19257,4-3-3,false,true
+105779,1142,UCV,D. Sasso,14789,,false,true
+193986,84,Mansfield,Nigel Howard Clough,597,4-2-3-1,false,true
+216290,217,Montpellier,,,,false,true
+231701,275,Greuther Furth,Thomas Kleine,17726,3-4-1-2,false,true
+93630,954,Sport Recife,Enderson Moreira,2415,4-2-3-1,false,true
+361522,65,Bristol Rvs,,,,false,true
+30992,404,Hearts,S. Naismith,17914,3-5-2,false,true
+52316,526,Club Tijuana,M. Herrera,1685,5-4-1,false,true
+336856,1699,ES Sahel,,,,false,true
+603896,5995,Sarıyer,Yılmaz Vural,3009,4-1-4-1,false,false
+270187,583,FK Rostov,V. Karpin,1311,4-1-4-1,false,true
+100046267,3378,FC Wurzburger Kickers,M. Schiele,1398,3-1-4-2,false,false
+375665,923,Al-Hazm,Jalel Kadri,8384,4-3-3,false,false
+156509,1924,Brazil,Tite,333,4-2-3-1,false,true
+370787,37,Rotherham,Matthew Hamshaw,26568,4-2-3-1,false,false
+365829,34,Plymouth,,,,false,true
+372485,355,,Faris Haroun,25723,3-4-2-1,true,false
+131269,1597,Mumbai City,D. Buckingham,8189,4-2-3-1,false,true
+209692,158,Fiorentina,C. Prandelli,9797,4-3-3,false,true
+276104,673,Cracovia,M. Probierz,1229,4-1-4-1,false,true
+374287,650,FC Lugano,Mattia Croci-Torti,25754,3-4-2-1,false,false
+129969,1583,Central Coast Mariners,M. Jackson,12634,4-4-2,false,true
+147379,1826,Panetolikos,G. Petrakis,2927,3-1-4-2,false,true
+293465,1822,Levadiakos,,,,false,true
+157619,2647,Curzon Ashton,A. Lakeland,5984,4-4-2,false,true
+301974,1541,Dibba Al-Fujairah,,,,false,true
+279357,712,Gimnasia L.P.,Alejandro Miguel Orfila Colmenares,262,4-2-3-1,false,true
+366204,39,Birmingham,G. Monk,110,,false,true
+261302,505,Albirex Niigata,,,,false,true
+236575,336,Porto,,,,false,true
+152231,2003,Bosnia & Herzegovina,I. Petev,4254,5-3-2,false,true
+110573,1215,Beitar Jerusalem,Y. Abukasis,4652,4-3-3,false,true
+100718109,6013,SKU Amstetten,J. Fallmann,1427,4-3-3,false,false
+379799,5899,East Bengal II,Oscar Bruzon,25296,3-4-3,false,false
+351118,1916,Belgium,Roberto Martínez,48,,false,true
+120177,1416,Sloga Doboj,V. Jagodić,8681,,false,true
+100711604,6514,KAMAZ,V. Klontsak,14868,4-2-3-1,false,false
+248822,405,Kilmarnock,S. Clarke,76,4-3-3,false,true
+304652,1167,NK Lokomotiva Zagreb,G. Tomić,2719,,false,true
+121220,1430,Club Brugge II,H. Milkon,19601,4-4-2,false,true
+269587,605,Orenburg,V. Fedotov,1312,5-4-1,false,true
+100593711,3389,Dynamo Dresden,M. Kauczinski,3091,3-4-1-2,false,false
+96535,712,Gimnasia L.P.,M. Messera,10382,4-1-3-2,false,true
+182669,26,West Brom,T. Pulis,2948,4-2-3-1,false,true
+171792,23,Leicester,,,,false,true
+606386,1865,Bate Borisov,Artem Kontsevoy,23187,3-5-2,false,false
+146493,1806,Bohemians 1905,J. Veselý,1191,3-4-2-1,false,true
+101662,1072,O'Higgins,V. Fuentes,12999,5-3-2,false,true
+259459,481,New York City,P. Vieira,28,4-3-3,false,true
+333319,1340,Leixoes,Francisco Chaló,2260,,false,true
+251912,414,Inverness C,B. Dodds,14894,,false,true
+218360,214,Lens,F. Haise,8665,3-4-1-2,false,true
+215912,230,St Etienne,,,,false,true
+181093,69,Accrington,J. Coleman,603,,false,true
+272583,631,LASK,V. Ismaël,1923,3-4-3,false,true
+102174,1067,A. Italiano,J. Ribera,504,3-4-3,false,true
+371041,91,,,0,,true,false
+148838,1868,La Fiorita,O. Lasagni,3459,4-2-3-1,false,true
+183452,9,Everton,Marco Silva,10,4-2-3-1,false,true
+367299,5394,Drouais,,,,false,true
+290632,891,Ilves,J. Wiss,1789,4-5-1,false,true
+27695,351,Charleroi,F. Mazzù,1509,4-4-1-1,false,true
+230951,3376,SSV Jahn Regensburg,M. Selimbegovic,1338,4-2-2-2,false,true
+255541,430,Sao Paulo,Fernando Diniz,136,4-4-2,false,true
+244676,373,Konyaspor,A. Kocaman,1449,4-2-3-1,false,true
+198018,107,Ath Bilbao,,,,false,true
+298626,1368,CR Khemis Zemamra,Y. Fertout,2654,,false,true
+205280,3181,Ibiza,Paco Jémez,2107,4-2-3-1,false,true
+231240,290,Nurnberg,D. Hecking,1336,4-2-3-1,false,true
+301483,4554,Al Shaab,,,,false,true
+344327,1478,Jong AZ,M. Vonk,1496,,false,true
+100881386,6517,FK Neftekhimik,K. Novikov,4831,4-3-1-2,false,false
+267271,562,Brann,L. Nilsen,1941,4-2-3-1,false,true
+202962,140,Oviedo,Fernando Hierro,3035,4-2-3-1,false,true
+100829432,100006698,Skövde AIK,T. Linderoth,5313,4-4-2,false,false
+175099,41,Coventry,,,,false,true
+138229,532,Monterrey,J. Aguirre,339,4-3-3,false,true
+172855,10,Fulham,,,,false,true
+272645,4417,Admira Wacker,,0,4-3-1-2,false,true
+290219,4509,HIFK Helsinki,,,,false,true
+339154,1446,Dinamo Batumi,A. Mujiri,11343,,false,true
+196038,2685,Oldham,J. Sheridan,668,4-2-3-1,false,true
+152602,1988,Montenegro,F. Hadžibegić,211,4-2-3-1,false,true
+214642,183,Palermo,Filippo Inzaghi,1603,3-4-2-1,false,true
+100732148,372,Ankaragucu,M. Dalcı,12685,4-2-3-1,false,false
+165146,4299,Dongen,O. Erbaş,7960,,false,true
+100490969,1514,Jeju United FC,Nam Ki-Il,2792,,false,false
+302415,1537,Sharjah FC,Abdul Azeez Mohamed,1149,,false,true
+243542,376,Galatasaray,,,,false,true
+106157,1152,Zulia FC,H. Meléndez,2845,,false,true
+324048,1101,The Strongest,Joaquín Monasterio,22644,,false,true
+101973,1071,Deportes Copiapo,I. Basay,512,3-4-1-2,false,true
+222568,234,Grenoble,P. Hinschberger,1465,4-2-3-1,false,true
+141943,1715,Charleston Battery,C. Casey,1984,,false,true
+253801,434,Coritiba,,,,false,true
+148241,1828,PAOK,P. García,13242,4-2-3-1,false,true
+59015,594,Krasnodar,V. Ivić,2514,4-1-4-1,false,true
+212933,193,Pisa,L. D'Angelo,1602,3-5-2,false,true
+247782,399,Dundee,,,,false,true
+110737,1216,Ashdod,R. Ben Shimon,78,4-3-3,false,true
+226000,261,RB Leipzig,R. Rangnick,3085,4-4-2,false,true
+181432,63,Stevenage,D. Sarll,667,,false,true
+244244,4336,Akhisar Belediye,,,,false,true
+217330,221,Rennes,J. Stéphan,31,4-2-3-1,false,true
+262293,4374,Jubilo Iwata,,,,false,true
+312423,1648,CR Belouizdad,S. Cherif El Ouazani,2267,,false,true
+115699,1321,Mladost Novi Sad,L. Ristovski,920,4-3-3,false,true
+321152,4633,BOA,,,,false,true
+116536,1348,Vilafranquense,Ricardo Chéu,1911,4-2-3-1,false,true
+213499,185,Ascoli,A. Sottil,3720,4-3-1-2,false,true
+170125,22,Southampton,,,,false,true
+604067,377,Pendikspor,Sinan Kaloglu,26913,4-2-3-1,false,false
+284654,4473,Yanbian Tigers FC,,,,false,true
+4698,48,Barnsley,N. Collins,1041,3-4-1-2,false,true
+324300,1272,Turan,,,,false,true
+289784,4505,MyPa,,,,false,true
+285671,816,Shenzhen,J. Cruijff,46,4-3-3,false,true
+181700,84,Mansfield,S. Evans,608,,false,true
+100046344,5326,Rot-weiss Erfurt,S.  Emmerling,10623,3-4-2-1,false,false
+101293611,100022018,Granada,Arturo Ruiz,22178,4-4-2,false,false
+117461,1368,CR Khemis Zemamra,A. Benhachem,13418,4-1-4-1,false,true
+162694,258,Hoffenheim,P. Matarazzo,7611,3-5-2,false,true
+215815,208,Lille,,,,false,true
+257088,958,Vitoria,Rodrigo José Queiroz das Chagas,13557,4-3-3,false,true
+339596,4714,Tskhinvali,K. Katcharava,2350,,false,true
+332847,4160,U. Madeira,Filó,2214,,false,true
+329529,1587,Newcastle Jets,Mark Milligan,25301,4-1-4-1,false,true
+347755,4753,Ottawa Fury,N. Popovic,1043,,false,true
+280356,757,Hammarby,S. Billborn,1388,4-3-3,false,true
+130553,1588,Melbourne City,P. Kisnorbo,13529,4-3-3,false,true
+95506,691,Arsenal Sarandi,C. Ruiz,19233,4-4-2,false,true
+261632,4376,Shimizu S-pulse,,,,false,true
+270320,582,CSKA Moscow,A. Berezutski,14981,3-4-2-1,false,true
+325790,1666,Cape Town City,B. McCarthy,2228,,false,true
+315029,1045,Club Nacional,,,,false,true
+284106,782,Nordsjaelland,F. Pedersen,1677,4-3-3,false,true
+224799,259,Freiburg,,,,false,true
+212574,3458,Pescara,G. Pillon,2898,4-3-3,false,true
+113787,1273,Sumqayıt,A. Abbasov,1129,,false,true
+334347,1780,CD Marathon,,,,false,true
+360102,1274,Kapaz,Ş. Diniyev,8747,4-4-1-1,false,true
+117727,1332,Backa,M. Kuljic,5399,,false,true
+86975,859,FC Voluntari,M. Dună,6454,3-5-2,false,true
+332307,1115,Cultural Santa Rosa,Walter Paolella,25218,4-4-2,false,true
+95188,694,Argentinos Jrs,P. Guede,1009,3-4-3,false,true
+205690,129,Zaragoza,Fran Escribá,1583,4-4-2,false,true
+371599,192,Como,Cesc Fabregas,21528,4-2-3-1,false,false
+295525,1800,FK Jablonec,P. Rada,1798,,false,true
+302984,1546,Al-Gharafa,,,,false,true
+221046,227,Auxerre,D. Carre,7297,,false,true
+59107,595,Rubin Kazan,R. Rakhimov,1315,3-4-3,false,true
+346066,1493,Metta / LU,Andris Riherts,2041,,false,true
+276894,663,Slask Wroclaw,M. Hetel,24066,4-2-3-1,false,true
+112831,1263,Aluminij,O. Drobne,1843,4-3-2-1,false,true
+120619,1420,Tuzla City,H. Musemić,3420,,false,true
+280002,750,Norrkoping,J. Gustafsson,1382,4-4-2,false,true
+105135,1118,ADT,F. Navarro,2118,4-2-3-1,false,true
+264977,507,FC Tokyo,Rikizo Matsuhashi,16686,3-4-2-1,false,true
+242991,356,Cercle Brugge,B. Storck,2878,3-1-4-2,false,true
+161310,3,Arsenal,Mikel Arteta,7248,4-2-3-1,false,true
+122366,1456,Sioni,U. Sosiashvili,8107,,false,true
+117754,1320,FK Partizan,A. Stanojević,52,4-2-3-1,false,true
+298758,1357,Raja Casablanca,J. Sellami,6606,,false,true
+332374,1122,Cusco,Miguel Ángel Rondelli,16077,3-2-4-1,false,true
+278439,730,Colon Santa Fe,E. Domínguez,2250,4-3-1-2,false,true
+4684,47,Wigan,S. Maloney,16417,4-2-3-1,false,true
+182397,3,Arsenal,,,,false,true
+147057,1802,Sparta Praha,P. Vrba,1804,4-2-3-1,false,true
+221794,213,Brest,J. Furlan,1463,4-2-3-1,false,true
+100247650,100007768,Atlético Acreano,Alvaro,3652,4-2-3-1,false,false
+116439,331,Estrela,Sérgio Vieira,2804,3-4-3,false,true
+285831,4474,Guangzhou Evergrande FC,Zheng Zhi,16402,4-3-1-2,false,true
+100850470,1870,Shakhter Soligorsk,M. Ćurčić,2685,4-3-3,false,false
+338867,350,Westerlo,B. Peeters,1551,,false,true
+330255,1333,RAD,Z. Milinković,4146,,false,true
+109782,1197,Ujpest,M. Kruščić,2664,4-1-4-1,false,true
+359931,4960,FK Rabotnicki,,,,false,true
+315490,1055,Defensor Sporting,E. Acevedo,3992,,false,true
+151051,1999,Norway,L. Lagerbäck,194,4-4-2,false,true
+355509,403,St Johnstone,,,,false,true
+228961,275,Greuther Furth,,,,false,true
+105996,1151,Mineros de Guyana,J. Cabello,7905,,false,true
+332854,4113,Freamunde,Ricardo Chéu,1911,,false,true
+314039,1217,Ironi Kiryat Shmona,H. Silbas,4658,,false,true
+309320,1201,Kecskeméti TE,,,,false,true
+158379,1094,Jorge Wilstermann,S. Migliaccio,15932,5-3-2,false,true
+134343,1643,MC Oran,B. Mecheri,7801,,false,true
+331973,1132,Ayacucho FC,M. Viera,2123,4-3-3,false,true
+180917,2691,Barnet,M. Allen,3803,,false,true
+197228,76,Gillingham,J. Coleman,603,3-4-1-2,false,true
+284477,780,Midtjylland,T. Thomasberg,1669,4-2-3-1,false,true
+147013,1799,Teplice,R. Kučera,1185,4-2-3-1,false,true
+137190,1698,Stade Tunisien,A. Boussaidi,12346,,false,true
+238646,333,Arouca,Armando Evangelista,3114,4-2-3-1,false,true
+145698,1783,CD Olimpia,P. Troglio,2759,,false,true
+228384,3383,FC Ingolstadt 04,,,,false,true
+102794,1065,Union Espanola,J. Pellicer,13871,4-3-3,false,true
+111044,1216,Ashdod,R. Ben Shimon,78,5-3-2,false,true
+235296,312,For Sittard,D. Buijs,1995,4-2-3-1,false,true
+257720,465,DC United,,,,false,true
+224517,259,Freiburg,,,,false,true
+142938,1753,Atlético Ottawa,Carlos González,5334,4-3-3,false,true
+353377,1388,Beroe,A. Tomash,2546,4-3-3,false,true
+105430,1120,Universitario,G. Pérez,3480,4-2-3-1,false,true
+218690,215,Clermont,P. Gastien,1468,3-4-2-1,false,true
+252950,4368,Portuguesa,,,,false,true
+181253,72,Morecambe,J. Bentley,595,,false,true
+106505,1159,Lala FC,E. Emmons,14468,,false,true
+211677,3463,Spal,L. Semplici,2429,4-4-2,false,true
+42639,487,Inter Miami,G. Martino,331,5-3-2,false,true
+176773,53,Port Vale,Bruno Ribeiro,9470,,false,true
+103878,1109,San José,O. Flores,15510,,false,true
+104163,1109,San José,J. Ferrufino,13368,,false,true
+248729,399,Dundee,J. McIntyre,2890,4-5-1,false,true
+250359,401,Livingston,,,,false,true
+343196,1157,Yaracuyanos FC,Arnaldo del Valle Aranda Rodríguez,25317,,false,true
+328,14,Aston Villa,Unai Emery,18,4-2-3-1,false,true
+355923,582,CSKA Moscow,V. Goncharenko,1320,3-1-4-2,false,true
+302943,1543,Al-Rayyan SC,,,,false,true
+280472,4449,GIF Sundsvall,J. Cedergren,1386,3-4-3,false,true
+236385,337,Boavista,,,,false,true
+151286,1849,Larne,T. Lynch,1576,4-3-3,false,true
+193553,63,Stevenage,A. Revell,12349,4-2-3-1,false,true
+255454,455,Fortaleza,Rogério Ceni,129,4-2-3-1,false,true
+177756,60,Fleetwood Town,J. Barton,604,,false,true
+292079,903,St. Patricks,S. O'Donnell,7681,,false,true
+198715,100,Vallecano,,,,false,true
+269753,605,Orenburg,V. Fedotov,1312,3-5-2,false,true
+197630,65,Bristol Rvs,Darrell James Clarke,606,4-3-3,false,true
+240354,357,Gent,,,,false,true
+240701,360,Mechelen,Y. Ferrera,2877,4-3-3,false,true
+227048,262,Stuttgart,P. Matarazzo,7611,4-3-3,false,true
+282857,782,Nordsjaelland,K. Hjulmand,2869,4-3-3,false,true
+319982,445,Goias,,,,false,true
+236893,1342,Belenenses,Quim Machado,3119,4-2-3-1,false,true
+338960,353,RWD Molenbeek,Frédéric Frans,23253,4-4-2,false,true
+298703,1361,Moghreb Tetouan,Ángel Viadero,2651,,false,true
+124146,1482,NAC Breda,E. de Graaf,15099,4-1-4-1,false,true
+330179,4679,Dinamo Vranje,D. Antić,4141,,false,true
+331070,1127,Sport Huancayo,D. Umaña,10525,,false,true
+253404,431,Corinthians,,,,false,true
+251581,411,Arbroath,D. Campbell,2053,,false,true
+253685,942,Ponte Preta,,,,false,true
+200651,119,Espanol,Abelardo,3228,4-4-2,false,true
+327459,1285,Karpaty,O. Dulub,3162,4-2-3-1,false,true
+302243,1539,Emirates Club,I. Hašek,2994,,false,true
+119427,1388,Beroe,N. Kirov,2559,3-5-2,false,true
+186073,7,Brighton,,,,false,true
+319014,4623,Siah Jamegan,A. Misaghian,11146,,false,true
+260626,487,Inter Miami,Javier Alejandro Mascherano,17396,4-2-3-1,false,true
+215945,230,St Etienne,,,,false,true
+175594,29,Bristol City,,,,false,true
+172859,21,Leeds,,,,false,true
+331183,1117,Sporting Cristal,M. Soso,896,,false,true
+258192,466,Sporting Kansas City,,,,false,true
+372190,273,FC Schalke 04,Miron Muslic,3609,4-3-3,false,false
+286116,4477,Hebei Zhongji,Kim Jong-Boo,2785,4-3-3,false,true
+11873,124,Huesca,José Ángel Ziganda,8675,4-1-4-1,false,true
+185768,14,Aston Villa,Unai Emery,18,4-2-3-1,false,true
+243726,4338,Gaziantepspor,,,,false,true
+317079,1768,Perez Zeledon,,,,false,true
+309382,1208,Budapest Honved,,,,false,true
+173123,44,Ipswich,,,,false,true
+201837,108,Real Madrid,C. Ancelotti,2407,4-3-3,false,true
+341084,1140,Metropolitanos FC,,,,false,true
+109605,1202,Fehérvár FC,B. Grzelak,10885,4-3-3,false,true
+213852,155,Frosinone,F. Grosso,2902,4-3-3,false,true
+273545,4421,Grazer AK,Ferdinand Feldhofer,1430,3-4-2-1,false,true
+372637,397,Celtic,Martin O'Neill,25688,4-3-3,false,false
+328951,1594,Perth Glory,K. Lowe,10477,4-4-2,false,true
+101673,1065,Union Espanola,M. Ponce,816,4-3-3,false,true
+320612,4635,ASA,,,,false,true
+274013,4422,FC Sion,M. Yakin,1504,4-3-1-2,false,true
+193718,46,Reading,N. Hunt,13276,4-3-3,false,true
+243492,4343,Genclerbirligi,,,,false,true
+308205,978,Once Caldas,H. Bodhert,121,4-1-4-1,false,true
+288702,870,U Craiova 1948,N. Napoli,8750,4-2-3-1,false,true
+170079,17,Chelsea,,,,false,true
+268822,4397,Fredrikstad,A. Hagen,22707,5-3-2,false,true
+366624,263,Bochum,,,,false,true
+99666,1001,LDU de Quito,P. Repetto,2245,,false,true
+250509,4361,Dumbarton,,,,false,true
+123165,1467,Emmen,F. Grim,1997,4-2-3-1,false,true
+315575,1042,Danubio,M. Méndez,781,,false,true
+206203,129,Zaragoza,Gabi,21895,5-3-2,false,true
+603857,5991,Manisa F.K.,Taner Taşkın,6459,4-2-3-1,false,false
+349561,1974,Türkiye,M. Lucescu,2467,4-2-3-1,false,true
+100722029,281,FC Kaiserslautern,M. Antwerpen,2963,4-2-3-1,false,false
+193285,50,Peterboro,D. Ferguson,598,4-2-3-1,false,true
+276320,663,Slask Wroclaw,P. Tworek,1242,3-4-3,false,true
+200329,114,Barcelona,Ernesto Valverde,1582,4-3-3,false,true
+122493,1449,Telavi,G. Mikadze,8311,,false,true
+101538361,1099,Real Tomayapo,Gabriel Nasta,28364,,false,false
+377918,1286,Obolon'-Brovar,Oleksandr Antonenko,26283,5-3-2,false,false
+289211,869,Univ. Craiova,Mirel Matei Rădoi,5852,3-4-1-2,false,true
+297848,1506,Pohang Steelers,Tae-Ha Park,3683,3-4-3,false,true
+151024,1160,NK Osijek,F. Coppitelli,428,4-3-3,false,true
+242918,347,St. Gilloise,S. Pocognoli,18414,3-4-2-1,false,true
+190215,28,Blackburn,J. Tomasson,7682,4-3-3,false,true
+156267,426,Flamengo RJ,Dorival Júnior,3059,4-3-1-2,false,true
+101515240,100018298,América SE,Carlinhos Propriá,19544,,false,false
+190565,30,Preston,P. Heckingbottom,2397,3-4-3,false,true
+326715,1281,Chornomorets,,,,false,true
+336793,1706,Club Africain,,,,false,true
+307332,984,Junior,G. Hernández,3693,4-2-3-1,false,true
+179875,75,AFC Wimbledon,,,,false,true
+350327,1985,Latvia,A. Starkovs,2048,5-3-2,false,true
+372455,1438,Zulte Waregem,Steve Colpaert,28072,3-4-1-2,false,false
+29082,376,Galatasaray,O. Buruk,1442,4-2-3-1,false,true
+131164,1602,Kerala Blasters,I. Vukomanović,2067,3-1-4-2,false,true
+311439,4584,Usm El Harrach,,,,false,true
+338374,1702,CS Sfaxien,L. Dridi,3309,,false,true
+269732,585,Dynamo Moscow,D. Khokhlov,1318,4-2-3-1,false,true
+250104,399,Dundee,Steven Pressley,635,3-4-3,false,true
+263040,492,Gamba Osaka,Levir Culpi,2248,4-4-2,false,true
+107162,1165,NK Varazdin,M. Kovačević,10720,3-4-3,false,true
+228150,276,Paderborn,,,,false,true
+368423,3611,Stade Briochin,M. D'Ornano,6281,,false,true
+207194,154,Verona,,,,false,true
+259221,465,DC United,B. Olsen,1978,4-1-4-1,false,true
+365202,2620,Hashtag United,J. Devereux,24002,,false,true
+162542,3146,Poblense,Óscar Troya,7044,,false,true
+100074825,100002232,Sao Jose,Rafael Jaques,2573,,false,false
+253625,442,Gremio,,,,false,true
+112126,1238,Dunajska Streda,B. Storck,2878,4-2-1-3,false,true
+171582,28,Blackburn,,,,false,true
+322881,943,Botafogo SP,Hemerson Maria,223,4-2-3-1,false,true
+275578,658,Piast Gliwice,W. Fornalik,1220,4-2-3-1,false,true
+373290,467,Los Angeles Galaxy,Greg Vanney,1959,4-2-3-1,false,false
+332897,1338,SC Covilha,Filipe Gouveia,3110,,false,true
+376792,1033,Sportivo Ameliano,Roberto Nanni,28455,4-1-4-1,false,false
+268354,549,Molde,E. Moe,1947,3-4-2-1,false,true
+137740,541,Pachuca,G. Almada,985,4-3-3,false,true
+368551,5681,St-Orens,G. Balagué,4388,,false,true
+144786,1781,Victoria,J. Nazar,2761,,false,true
+208319,169,Torino,S. Mihajlović,2413,4-3-3,false,true
+103074,1091,Universitario de Vinto,P. Godoy,7177,4-1-4-1,false,true
+322167,965,CSA,Marcelo Cabo,236,4-2-3-1,false,true
+323638,4647,Club Destroyers,Evandro Guimarães,805,,false,true
+152709,1914,Germany,J. Löw,113,4-2-3-1,false,true
+353518,1394,Arda Kardzhali,S. Belchev,2409,4-5-1,false,true
+14246,159,Inter,S. Inzaghi,2392,3-5-2,false,true
+264725,4374,Jubilo Iwata,A. Yokouchi,19374,4-2-3-1,false,true
+286272,818,Dalian Pro,Xie Hui,12602,4-2-3-1,false,true
+281116,742,AIK,B. Grzelak,10885,4-4-2,false,true
+313295,1028,Libertad Asuncion,A. Bobadilla,145,,false,true
+100663382,4459,Gais,S. Jacobsson,1361,3-4-3,false,false
+288907,855,FC Botosani,B. Andone,1203,4-2-3-1,false,true
+185479,5,Bournemouth,Andoni Iraola,2108,4-2-3-1,false,true
+307773,981,Santa Fe,G. Pérez,3480,,false,true
+37055,2789,Palmeiras,Abel Ferreira,1103,4-2-3-1,false,true
+348451,1723,Las Vegas Lights,E. Wynalda,1060,,false,true
+103776,1107,Atlético Palmaflor,Thiago Leitao,818,,false,true
+308477,989,Rionegro Aguilas,F. Torres,2158,4-2-3-1,false,true
+188250,27,Sheffield Weds,G. Monk,110,4-5-1,false,true
+98771,980,Deportivo Pasto,D. Corredor,2150,,false,true
+19718,236,Quevilly Rouen,O. Echouafni,1822,5-4-1,false,true
+320954,955,Ceara,,,,false,true
+210255,173,Sampdoria,M. Giampaolo,2441,4-3-1-2,false,true
+354832,588,Zenit,S. Semak,1307,3-4-1-2,false,true
+114065,1292,Oleksandria,R. Rotan,5835,4-1-4-1,false,true
+333179,4689,SC Braga B,João Filipe,9542,,false,true
+151404,1985,Latvia,P. Nicolato,5855,3-4-1-2,false,true
+321612,971,Parana,Marcelo Martelotte,10323,,false,true
+100884790,4355,Eyüpspor,İ. Üzülmez,3017,4-3-3,false,false
+263240,507,FC Tokyo,K. Hasegawa,541,4-4-2,false,true
+109212,1194,Gyori ETO FC,B. Borbely,8412,,false,true
+271081,605,Orenburg,Vladimir Slišković,22330,5-3-2,false,true
+337071,1712,CS Hammam-Lif,,,,false,true
+137413,548,Mazatlan FC,V. Vucetich,988,3-4-2-1,false,true
+143764,1773,Deportivo Saprissa,V. Quesada,3179,,false,true
+363768,86,Salford,G. Alexander,628,,false,true
+133215,1612,Smouha SC,Ahmed Samy,3356,4-2-3-1,false,true
+132798,1619,Pharco,Ahmed Khatab,21857,4-3-3,false,true
+353221,1391,Botev Vratsa,S. Dramov,2558,4-2-3-1,false,true
+148027,1819,Aris Thessalonikis,A. Terzis,1108,4-2-3-1,false,true
+257631,4372,Chivas USA,,,,false,true
+340401,4719,Deportivo Anzoategui,,,,false,true
+249498,399,Dundee,J. McPake,2060,5-4-1,false,true
+371044,87,Grimsby,David Artell,26582,4-1-4-1,false,false
+226571,3375,Arminia Bielefeld,U. Neuhaus,1344,4-4-2,false,true
+149027,359,Club Brugge,S. Parker,87,3-5-2,false,true
+133638,1612,Smouha SC,Ahmed Samy,3356,4-2-3-1,false,true
+212315,3458,Pescara,G. Pillon,2898,4-3-3,false,true
+324947,1268,Qarabag,Q. Qurbanov,1127,,false,true
+117965,1335,Mafra,Tiago Ferreira,23826,4-2-3-1,false,true
+371211,114,Barcelona,Hansi Flick,6472,4-2-3-1,false,false
+330263,1313,Cukaricki,S. Krunić,4147,,false,true
+283853,789,Vejle,C. Gâlcă,2866,4-2-3-1,false,true
+246800,378,Hatayspor,Ö. Pulat,1766,4-1-4-1,false,true
+122616,1449,Telavi,R. Gotsiridze,2363,,false,true
+179105,2690,Southend,,,,false,true
+264898,511,Shonan Bellmare,S. Yamaguchi,15598,3-1-4-2,false,true
+233523,1482,NAC Breda,S. Vreven,1546,4-3-3,false,true
+345019,4731,Daugavpils / Progress,,,,false,true
+265560,531,Club Leon,J. Torrente,534,4-2-3-1,false,true
+355827,1448,Saburtalo,G. Tchiabrishvili,1720,4-3-3,false,true
+213279,162,Salernitana,F. Castori,2897,3-5-2,false,true
+294092,1825,Asteras Tripolis,,,,false,true
+98515,989,Rionegro Aguilas,F. Stifano,2543,,false,true
+376245,1011,Aucas,Norberto Araujo,27740,5-4-1,false,false
+282407,4463,Aalborg,,,,false,true
+288997,851,FCSB,I. Charalampous,8021,4-3-3,false,true
+158507,1977,Cyprus,T. Ketsbaia,2063,3-5-2,false,true
+350665,3124,St. Lucia,F. Lastic,5714,,false,true
+96670,720,Sarmiento Junin,M. Sciacqua,840,5-3-2,false,true
+21589,270,Ein Frankfurt,D. Toppmöller,1549,4-4-2,false,true
+7471,91,Notts County,L. Williams,9465,3-4-2-1,false,true
+141975,1735,Detroit City,T. James,16845,,false,true
+291562,896,AC Oulu,R. Ojanen,951,,false,true
+340952,1156,Trujillanos FC,,,,false,true
+141401,1738,San Diego Loyal,N. Miller,6043,,false,true
+188376,38,Swansea,S. Cooper,98,4-2-3-1,false,true
+138919,487,Inter Miami,G. Martino,331,4-3-3,false,true
+281876,739,Hacken,Jens Otto Andreas Gustafsson,1382,4-2-3-1,false,true
+372040,262,VfB Stuttgart,Sebastian Hoeness,1399,4-2-3-1,false,false
+222546,233,Amiens,O. Tanchot,2508,3-4-3,false,true
+143624,1768,Perez Zeledon,H. Esquivel,3180,,false,true
+341366,1143,Deportivo Tachira FC,,,,false,true
+283325,4463,Aalborg,M. Wieghorst,2872,4-4-2,false,true
+346433,1725,Pittsburgh Riverhounds,,,,false,true
+186846,7,Brighton,C. Hughton,2526,4-4-2,false,true
+270943,582,CSKA Moscow,M. Nikolić,1928,3-4-3,false,true
+102117,1069,Nublense,J. García,485,4-3-3,false,true
+185637,5,Bournemouth,Andoni Iraola Sagarna,2108,4-2-3-1,false,true
+371318,137,,Antxon Muneta,26031,5-3-2,true,false
+276331,4431,Nieciecza,R. Látal,1805,5-4-1,false,true
+158586,1964,Scotland,S. Clarke,76,3-4-2-1,false,true
+355703,4978,Ballymena United,D. Jeffrey,1575,3-5-2,false,true
+285021,4472,liaoning hongyun FC,R. Lobello,3548,5-4-1,false,true
+125494,925,Damac,K. Režić,1663,5-4-1,false,true
+217069,217,Montpellier,M. Der Zakarian,30,3-4-1-2,false,true
+97312,977,Fortaleza FC,S. Oliveros,19332,4-2-3-1,false,true
+214586,186,Catanzaro,Alberto Aquilani,15941,5-3-2,false,true
+130908,1608,Hyderabad,S. Chembakath,24202,4-2-3-1,false,true
+319297,1572,Foolad FC,I. Stan,753,,false,true
+103410,1098,Real Santa Cruz,D. Farrar,650,,false,true
+210922,176,Venezia,E. Di Francesco,2430,3-5-2,false,true
+206533,125,Leganes,Francisco José López Fernández,1592,4-3-3,false,true
+186917,20,Wolves,P. Lambert,610,4-2-3-1,false,true
+228506,3386,VfR Aalen,,,,false,true
+217781,221,Rennes,J. Stéphan,31,4-1-4-1,false,true
+206859,4324,Robur Siena,,,,false,true
+301434,4553,Dubai,,,,false,true
+224539,287,Braunschweig,,,,false,true
+134125,1649,ES Setif,F. Dumas,2265,,false,true
+87008,865,FC Hermannstadt,M. Măldărăşanu,755,4-4-2,false,true
+343007,1150,Deportivo La Guaira,Juan Domingo Tolisano,2824,,false,true
+353286,1403,Etar Veliko Tarnovo,K. Balakov,205,4-2-3-1,false,true
+348529,1736,FC Tulsa,M. Nsien,1046,,false,true
+100884977,4348,Goztepe,E. Dağ,18554,5-3-2,false,false
+255160,439,Cruzeiro,Mano Menezes,2083,4-2-3-1,false,true
+100722322,285,SV Wehen,M. Kauczinski,3091,4-2-3-1,false,false
+366395,3387,Hallescher FC,,,,false,true
+208087,169,Torino,S. Mihajlović,2413,4-3-3,false,true
+162089,107,Ath Bilbao,Ernesto Valverde,1582,4-2-3-1,false,true
+153130,1885,Kairat Almaty,K. Keker,14862,3-4-3,false,true
+307737,980,Deportivo Pasto,F. Torres,2158,4-4-2,false,true
+357319,495,Urawa Reds,Maciej Skorża,8956,4-2-3-1,false,true
+193405,66,Shrewsbury,P. Hurst,602,3-4-1-2,false,true
+274441,647,Young Boys,G. Seoane,2017,4-4-2,false,true
+346272,1758,HFX Wanderers FC,Patrice Gheisar,19805,,false,true
+265575,528,Cruz Azul,Paco Jémez,2107,3-4-3,false,true
+219330,221,Rennes,Habib Bèye,17926,3-5-2,false,true
+339125,1451,Samtredia,Z. Zamtaradze,11365,,false,true
+349361,1921,South Korea,,,,false,true
+605375,6034,Ayutthaya FC,Arun Tulwattanangkul,25492,4-3-3,false,false
+100562043,4453,Vasby United,O. Melkemichel,3151,,false,false
+120471,1411,Posušje,,,,false,true
+348174,4754,Nashville,G. Smith,1048,,false,true
+245478,4348,Göztepe,E. Parlatan,6389,4-2-3-1,false,true
+101540011,402,Aberdeen,Peter Leven,25737,4-3-1-2,false,false
+142817,1740,Ventura County,J. Gonzalez,1070,,false,true
+131890,1366,Ittihad Tanger,D. Lamrabet,13428,,false,true
+205047,4323,Real Sociedad II,Xabi Alonso,6801,3-4-2-1,false,true
+360588,876,HJK,M. Lehkosuo,1783,4-2-3-1,false,true
+328734,1595,Adelaide United,,,,false,true
+226536,260,Leverkusen,P. Bosz,1532,4-3-3,false,true
+101207998,924,Al Taee,A. Ilić,7840,4-1-4-1,false,false
+251825,417,Ayr,L. Bullen,95,,false,true
+209400,154,Verona,I. Juric,2408,3-4-1-2,false,true
+211114,171,Bologna,V. Italiano,1611,4-2-3-1,false,true
+224363,287,Braunschweig,,,,false,true
+7309,81,Newport County,G. Coughlan,619,3-1-4-2,false,true
+200051,123,Eibar,Mendilibar,1598,4-2-3-1,false,true
+223370,238,Guingamp,S. Dumont,15042,4-4-2,false,true
+372342,1382,Santa Clara,Vasco Matos,6484,4-2-3-1,false,false
+210004,157,Genoa,D. Ballardini,3722,3-5-2,false,true
+211542,3463,Spal,L. Semplici,2429,3-5-2,false,true
+329009,1591,Wellington Phoenix,D. Buckingham,8189,4-3-3,false,true
+155667,1991,Moldova,R. Bordin,1132,4-2-3-1,false,true
+343079,1146,Carabobo FC,Daniel Alejandro Farías Acosta,2257,,false,true
+182360,5,Bournemouth,,,,false,true
+361233,851,FCSB,N. Dică,757,4-2-3-1,false,true
+110681,1217,Ironi Kiryat Shmona,S. Drapić,4657,4-3-1-2,false,true
+134332,1655,HB Chelghoum Laïd,M. Brik,16394,,false,true
+140850,1726,Phoenix Rising,J. Guerra,16844,,false,true
+304312,1162,Dinamo Zagreb,I. Petev,4254,,false,true
+371291,3189,Malaga,Juan Funes,26032,4-2-3-1,false,false
+224511,287,Braunschweig,,,,false,true
+116425,1345,Nacional,Fernando Morato,17856,4-3-3,false,true
+342018,1140,Metropolitanos FC,R. Santana,11194,,false,true
+252448,439,Cruzeiro,,,,false,true
+160319,1970,Slovakia,Š. Tarkovič,2939,,false,true
+258901,467,Los Angeles Galaxy,B. Arena,1985,4-2-3-1,false,true
+297284,4530,Jeonnam Dragons,Yoo Sang-Chul,2775,,false,true
+280748,745,Goteborg,P. Asbaghi,1384,4-2-3-1,false,true
+246938,4348,Göztepe,S. Stoilov,2944,3-4-1-2,false,true
+293004,1830,PAS Giannina,,,,false,true
+261402,507,FC Tokyo,,,,false,true
+240079,354,Genk,,,,false,true
+293971,1822,Levadiakos,,,,false,true
+131381,1596,ATK Mohun Bagan,Antonio López,4862,4-4-2,false,true
+180549,2702,Dagenham & Redbridge,,,,false,true
+110243,1221,Hapoel Hadera,A. Nimni,17766,,false,true
+118684,1392,Botev Plovdiv,D. Kerkez,2062,4-3-3,false,true
+380059,4599,,Jorge Gonzalez,26868,,true,false
+103360,1090,Always Ready,Ó. Villegas,19933,4-3-3,false,true
+122125,1452,Dila,,,,false,true
+97762,983,Deportivo Cali,J. de la Pava,2836,4-4-2,false,true
+275298,657,Zaglebie,M. Lewandowski,3147,3-5-2,false,true
+288115,4500,Arges Pitesti,M. Ianovschi,13122,4-2-3-1,false,true
+110848,1222,Hapoel Haifa,E. Levy,4659,,false,true
+250155,402,Aberdeen,Bo Jimmy Thelin,1387,3-5-2,false,true
+322558,971,Parana,Matheus Costa,231,4-2-3-1,false,true
+363723,26,West Brom,A. Pardew,5664,,false,true
+333915,325,Farense,Sérgio Vieira,2804,4-4-2,false,true
+271333,4415,SV Mattersburg,,,,false,true
+95126,724,Talleres Cordoba,W. Ribonetto,21717,4-3-3,false,true
+219116,224,Lyon,Paulo Fonseca,2431,4-2-3-1,false,true
+343703,1477,De Graafschap,H. de Jong,1480,,false,true
+242462,354,Genk,W. Vrancken,1516,4-2-3-1,false,true
+264131,493,Vissel Kobe,A. Miura,12822,4-3-1-2,false,true
+268609,564,Viking,B. Aarsheim,14595,4-4-2,false,true
+100663268,4461,Landskrona BoIS,B. Magnusson,9389,4-3-3,false,false
+169984,36,Stoke,,,,false,true
+138121,531,Club Leon,A. Holan,834,4-2-3-1,false,true
+254267,954,Sport Recife,Daniel Paulista,3068,4-2-3-1,false,true
+125920,922,Al-Ahli Jeddah,V. Milojević,2511,4-2-3-1,false,true
+288334,859,FC Voluntari,L. Ciobotariu,2560,3-5-2,false,true
+325274,1268,Qarabag,Q. Qurbanov,1127,,false,true
+203450,120,Valladolid,Sergio,1600,,false,true
+151675,1254,NK Domzale,S. Rožman,2500,4-1-4-1,false,true
+162933,3448,Avellino,M. Pazienza,3783,3-5-2,false,true
+193209,52,Charlton,D. Holden,12107,4-3-3,false,true
+323883,1094,Jorge Wilstermann,C. Díaz,821,,false,true
+271747,627,Austria Vienna,,,,false,true
+376588,1197,Ujpest,Zoltan Szelesi,26791,,false,false
+147567,1828,PAOK,R. Lucescu,1163,4-2-3-1,false,true
+301170,1614,AL Masry,Ali Maher,905,4-3-3,false,true
+256096,2790,Atletico Paranaense,Alberto Valentim,125,3-4-2-1,false,true
+236632,336,Porto,,,,false,true
+297678,1507,Jeonbuk Motors,Gustavo Augusto Poyet Domínguez,3042,4-2-3-1,false,true
+133409,1624,National Bank of Egypt,Khaled Galal,3371,4-2-3-1,false,true
+343629,1476,VVV Venlo,M. Steijn,1156,,false,true
+119029,1386,CSKA 1948,N. Panayotov,20592,4-2-3-1,false,true
+184088,6,West Ham,D. Moyes,5662,4-2-3-1,false,true

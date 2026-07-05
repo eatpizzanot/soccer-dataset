@@ -1,0 +1,286 @@
+key,name,category_key,category_name,max_events,times_seen,sources
+soccer-albania-kategoria-superiore,Kategoria Superiore,albania,Albania,0,0,probe
+soccer-algeria-ligue-1,Ligue 1,algeria,Algeria,0,0,probe
+soccer-algeria-super-cup,Super Cup,algeria,Algeria,0,0,probe
+soccer-argentina-copa-argentina,Copa Argentina,argentina,Argentina,6,2,feed
+soccer-argentina-superliga,Liga Profesional,argentina,Argentina,3,2,"feed,probe"
+soccer-argentina-primera-b,Primera B,argentina,Argentina,7,2,feed
+soccer-argentina-primera-division,Primera Division,argentina,Argentina,0,0,probe
+soccer-argentina-primera-nacional,Primera Nacional,argentina,Argentina,20,2,feed
+soccer-argentina-super-cup,Super Cup,argentina,Argentina,0,0,probe
+soccer-armenia-first-league,First League,armenia,Armenia,0,0,probe
+soccer-armenia-premier-league,Premier League,armenia,Armenia,0,0,probe
+soccer-armenia-super-cup,Super Cup,armenia,Armenia,0,0,probe
+soccer-aruba-cup,Cup,aruba,Aruba,0,0,probe
+soccer-australia-tbd94-australia-npl-queensland-youth-league-u23,Australia NPL Queensland Youth League U23,australia,Australia,2,2,feed
+soccer-australia-brisbane-premier-league,Brisbane Premier League,australia,Australia,2,2,feed
+soccer-australia-npl-capital-football,Capital NPL 1,australia,Australia,1,2,feed
+soccer-australia-npl-northern-new-south-wales,Northern NSW NPL,australia,Australia,1,2,feed
+soccer-australia-npl-queensland-women,"Queensland NPL, Women",australia,Australia,1,2,feed
+soccer-australia-t6bac-queensland-premier-league-2,Queensland Premier League 2,australia,Australia,1,2,feed
+soccer-australia-t7d56-queensland-premier-league-3,Queensland Premier League 3,australia,Australia,9,0,feed
+soccer-australia-super-cup,Super Cup,australia,Australia,0,0,probe
+soccer-austria-2-liga,2. Liga,austria,Austria,0,0,probe
+soccer-austria-bundesliga,Bundesliga,austria,Austria,0,0,probe
+soccer-azerbaijan-first-division,First Division,azerbaijan,Azerbaijan,0,0,probe
+soccer-azerbaijan-premier-league,Premier League,azerbaijan,Azerbaijan,0,0,probe
+soccer-bahrain-premier-league,Premier League,bahrain,Bahrain,0,0,probe
+soccer-bangladesh-championship,Championship,bangladesh,Bangladesh,0,0,probe
+soccer-bangladesh-premier-league,Premier League,bangladesh,Bangladesh,0,0,probe
+soccer-barbados-premier-league,Premier League,barbados,Barbados,0,0,probe
+soccer-belarus-super-cup,Super Cup,belarus,Belarus,0,0,probe
+soccer-belarus-vysshaya-liga,Vysshaya Liga,belarus,Belarus,9,2,feed
+soccer-belgium-pro-league,Pro League,belgium,Belgium,0,0,probe
+soccer-belgium-super-cup,Super Cup,belgium,Belgium,0,0,probe
+soccer-bolivia-division-profesional,Division Profesional,bolivia,Bolivia,0,0,probe
+soccer-bosnia-herzegovina-premijer-liga,Premijer Liga,bosnia-herzegovina,Bosnia & Herzegovina,0,0,probe
+soccer-botswana-premier-league,Premier League,botswana,Botswana,0,0,probe
+soccer-brazil-brasileiro-serie-a,Brasileiro Serie A,brazil,Brazil,17,2,feed
+soccer-brazil-brasileiro-serie-b,Brasileiro Serie B,brazil,Brazil,16,2,feed
+soccer-brazil-brasileiro-serie-c,Brasileiro Serie C,brazil,Brazil,3,2,feed
+soccer-brazil-carioca-serie-b1,"Carioca, Serie A2",brazil,Brazil,1,2,feed
+soccer-brazil-catarinense,Catarinense,brazil,Brazil,2,2,feed
+soccer-brazil-t7373-copa-espirito-santo,Copa Espirito Santo,brazil,Brazil,1,2,feed
+soccer-brazil-copa-do-brasil,Copa do Brasil,brazil,Brazil,8,2,feed
+soccer-brazil-mineiro-modulo-ii,"Mineiro, Modulo II",brazil,Brazil,6,2,feed
+soccer-brazil-serie-a,Serie A,brazil,Brazil,0,0,probe
+soccer-brazil-ta742-u20-brasileiro-serie-b,U20 Brasileiro Serie B,brazil,Brazil,2,2,feed
+soccer-brazil-u20-campeonato-brasileiro,U20 Campeonato Brasileiro,brazil,Brazil,13,2,feed
+soccer-brazil-t8dec-u20-carioca-serie-a,"U20 Carioca, Serie A",brazil,Brazil,10,2,feed
+soccer-brazil-t8160-u20-paraibano,U20 Paraibano,brazil,Brazil,1,2,feed
+soccer-bulgaria-first-professional-league,Parva Liga,bulgaria,Bulgaria,7,2,feed
+soccer-bulgaria-super-cup,Super Cup,bulgaria,Bulgaria,0,0,probe
+soccer-burundi-cup,Cup,burundi,Burundi,0,0,probe
+soccer-burundi-premier-league,Premier League,burundi,Burundi,0,0,probe
+soccer-burundi-super-cup,Super Cup,burundi,Burundi,0,0,probe
+soccer-cameroon-elite-one,Elite One,cameroon,Cameroon,0,0,probe
+soccer-canada-canadian-premier-league,Canadian Premier League,canada,Canada,6,2,feed
+soccer-chile-copa-chile,Copa Chile,chile,Chile,7,2,feed
+soccer-chile-primera-division,Primera Division,chile,Chile,1,2,"feed,probe"
+soccer-chile-segunda-division,Segunda Division,chile,Chile,0,0,probe
+soccer-chile-super-cup,Supercup,chile,Chile,0,0,probe
+soccer-china-tbf00-china-u20-league,China U20 League,china,China,1,2,feed
+soccer-china-chinese-super-league,Chinese Super League,china,China,8,2,feed
+soccer-china-fa-cup,FA Cup,china,China,0,0,probe
+soccer-china-super-league,Super League,china,China,0,0,probe
+soccer-colombia-primera-a,Primera A,colombia,Colombia,0,0,probe
+soccer-colombia-primera-a-clausura,"Primera A, Clausura",colombia,Colombia,1,2,feed
+soccer-costa-rica-primera-division,Primera Division,costa-rica,Costa Rica,0,0,probe
+soccer-croatia-1-hnl,HNL,croatia,Croatia,1,2,feed
+soccer-croatia-super-cup,Super Cup,croatia,Croatia,0,0,probe
+soccer-cuba-primera-division,Primera Division,cuba,Cuba,0,0,probe
+soccer-cyprus-super-cup,Super Cup,cyprus,Cyprus,0,0,probe
+soccer-czech-republic-1-liga,1. Liga,czech-republic,Czechia,0,0,probe
+soccer-czech-republic-cup,Czech Cup,czech-republic,Czechia,0,0,probe
+soccer-czech-republic-super-cup,Super Cup,czech-republic,Czechia,0,0,probe
+soccer-denmark-1st-division,1. Division,denmark,Denmark,1,2,feed
+soccer-denmark-superligaen,Superliga,denmark,Denmark,8,2,feed
+soccer-ecuador-ligapro-primera-a,LigaPro Primera A,ecuador,Ecuador,12,2,feed
+soccer-egypt-premier-league,Premier League,egypt,Egypt,0,0,probe
+soccer-el-salvador-segunda-division,Segunda Division,el-salvador,El Salvador,0,0,probe
+soccer-england-championship,Championship,england,England,14,2,"feed,probe"
+soccer-england-community-shield,Community Shield,england,England,2,2,feed
+soccer-england-fa-cup,FA Cup,england,England,0,0,probe
+soccer-england-league-one,League One,england,England,14,2,feed
+soccer-england-league-two,League Two,england,England,14,2,feed
+soccer-england-national-league,National League,england,England,0,0,probe
+soccer-england-premier-league,Premier League,england,England,33,2,"feed,probe"
+soccer-estonia-cup,Cup,estonia,Estonia,0,0,probe
+soccer-estonia-esiliiga,Esiliiga,estonia,Estonia,2,0,probe
+soccer-estonia-meistriliiga,Meistriliiga,estonia,Estonia,0,0,probe
+soccer-estonia-super-cup,Super Cup,estonia,Estonia,0,0,probe
+soccer-ethiopia-premier-league,Premier League,ethiopia,Ethiopia,0,0,probe
+soccer-finland-tbe81-finland-kakkonen-cup,Finland Kakkonen Cup,finland,Finland,4,2,feed
+soccer-finland-kakkonen-group-a,"Kakkonen, Group A",finland,Finland,2,2,feed
+soccer-finland-suomen-cup,Suomen Cup,finland,Finland,1,2,feed
+soccer-finland-veikkausliiga,Veikkausliiga,finland,Finland,5,2,feed
+soccer-finland-ykkonen,Ykkonen,finland,Finland,5,2,feed
+soccer-france-coupe-de-france,Coupe de France,france,France,0,0,probe
+soccer-france-tbf36-france-play-offs,France Play-offs,france,France,1,2,feed
+soccer-france-ligue-1,Ligue 1,france,France,0,0,probe
+soccer-france-ligue-2,Ligue 2,france,France,0,0,probe
+soccer-france-national,National,france,France,0,0,probe
+soccer-france-super-cup,Super Cup,france,France,0,0,probe
+soccer-france-trophee-des-champions,Trophée des Champions,france,France,2,2,feed
+soccer-georgia-first-league,First League,georgia,Georgia,0,0,probe
+soccer-georgia-cup,Georgia Cup,georgia,Georgia,0,0,probe
+soccer-georgia-super-cup,Super Cup,georgia,Georgia,2,2,"feed,probe"
+soccer-germany-2nd-bundesliga,2nd Bundesliga,germany,Germany,1,2,feed
+soccer-germany-3rd-liga,3. Liga,germany,Germany,1,2,feed
+soccer-germany-bundesliga,Bundesliga,germany,Germany,1,2,"feed,probe"
+soccer-germany-dfb-pokal,DFB Pokal,germany,Germany,1,2,"feed,probe"
+soccer-germany-super-cup,Super Cup,germany,Germany,2,2,"feed,probe"
+soccer-ghana-fa-cup,FA Cup,ghana,Ghana,0,0,probe
+soccer-ghana-premier-league,Premier League,ghana,Ghana,0,0,probe
+soccer-ghana-super-cup,Super Cup,ghana,Ghana,0,0,probe
+soccer-gibraltar-cup,Cup,gibraltar,Gibraltar,0,0,probe
+soccer-gibraltar-premier-division,Premier Division,gibraltar,Gibraltar,0,0,probe
+soccer-greece-super-cup,Super Cup,greece,Greece,0,0,probe
+soccer-greece-super-league,Super League,greece,Greece,0,0,probe
+soccer-greece-super-league-1,Super League 1,greece,Greece,1,2,feed
+soccer-guatemala-cup,Cup,guatemala,Guatemala,0,0,probe
+soccer-guatemala-primera-division,Primera Division,guatemala,Guatemala,0,0,probe
+soccer-hong-kong-fa-cup,FA Cup,hong-kong,Hong Kong,0,0,probe
+soccer-hong-kong-premier-league,Premier League,hong-kong,Hong Kong,0,0,probe
+soccer-hungary-super-cup,Super Cup,hungary,Hungary,0,0,probe
+soccer-iceland-2-deild,2. deild,iceland,Iceland,1,2,feed
+soccer-iceland-t9038-besta-deild,Besta deild,iceland,Iceland,6,2,feed
+soccer-iceland-cup,Cup,iceland,Iceland,0,0,probe
+soccer-iceland-super-cup,Super Cup,iceland,Iceland,0,0,probe
+soccer-india-durand-cup,Durand Cup,india,India,0,0,probe
+soccer-indonesia-liga-1,Liga 1,indonesia,Indonesia,0,0,probe
+soccer-indonesia-liga-2,Liga 2,indonesia,Indonesia,0,0,probe
+soccer-international-world-cup,FIFA World Cup,international,International,83,2,feed
+soccer-international-uefa-nations-league,UEFA Nations League,international,International,10,2,feed
+soccer-international-clubs-club-friendly-games,Club Friendly Games,international-clubs,International Clubs,27,2,feed
+soccer-international-clubs-copa-libertadores,Copa Libertadores,international-clubs,International Clubs,11,2,feed
+soccer-international-clubs-copa-sudamericana,Copa Sudamericana,international-clubs,International Clubs,8,2,feed
+soccer-international-clubs-uefa-champions-league,UEFA Champions League,international-clubs,International Clubs,2,2,feed
+soccer-international-clubs-uefa-super-cup,UEFA Super Cup,international-clubs,International Clubs,2,2,feed
+soccer-international-youth-u19-european-championship,U19 European Championship,international-youth,International Youth,4,2,feed
+soccer-iran-azadegan-league,Azadegan League,iran,Iran,0,0,probe
+soccer-iran-cup,Cup,iran,Iran,0,0,probe
+soccer-iran-pro-league,Pro League,iran,Iran,0,0,probe
+soccer-israel-national-league,National League,israel,Israel,0,0,probe
+soccer-israel-premier-league,Premier League,israel,Israel,0,0,probe
+soccer-israel-super-cup,Super Cup,israel,Israel,0,0,probe
+soccer-italy-coppa-italia,Coppa Italia,italy,Italy,0,0,probe
+soccer-italy-super-cup,Italian Super Cup,italy,Italy,0,0,probe
+soccer-italy-serie-a,Serie A,italy,Italy,13,2,"feed,probe"
+soccer-italy-serie-b,Serie B,italy,Italy,0,0,probe
+soccer-ivory-coast-ligue-1,Ligue 1,ivory-coast,Ivory Coast,0,0,probe
+soccer-ivory-coast-super-cup,Super Cup,ivory-coast,Ivory Coast,0,0,probe
+soccer-jamaica-premier-league,Premier League,jamaica,Jamaica,0,0,probe
+soccer-japan-emperor-cup,Emperor Cup,japan,Japan,0,0,probe
+soccer-japan-j-league,J.League,japan,Japan,0,0,probe
+soccer-japan-super-cup,Super Cup,japan,Japan,0,0,probe
+soccer-jordan-super-cup,Super Cup,jordan,Jordan,0,0,probe
+soccer-kazakhstan-premier-league,Premier League,kazakhstan,Kazakhstan,8,2,"feed,probe"
+soccer-kazakhstan-super-cup,Super Cup,kazakhstan,Kazakhstan,0,0,probe
+soccer-kenya-premier-league,Premier League,kenya,Kenya,0,0,probe
+soccer-kenya-super-cup,Super Cup,kenya,Kenya,0,0,probe
+soccer-kenya-super-league,Super League,kenya,Kenya,0,0,probe
+soccer-kosovo-first-league,First League,kosovo,Kosovo,0,0,probe
+soccer-kosovo-superliga,Superliga,kosovo,Kosovo,0,0,probe
+soccer-kuwait-division-1,Division 1,kuwait,Kuwait,0,0,probe
+soccer-kuwait-premier-league,Premier League,kuwait,Kuwait,0,0,probe
+soccer-kuwait-super-cup,Super Cup,kuwait,Kuwait,0,0,probe
+soccer-latvia-1-liga,1.Liga,latvia,Latvia,0,0,probe
+soccer-latvia-virsliga,Virsliga,latvia,Latvia,5,2,feed
+soccer-lebanon-premier-league,Premier League,lebanon,Lebanon,0,0,probe
+soccer-lebanon-super-cup,Super Cup,lebanon,Lebanon,0,0,probe
+soccer-lithuania-a-lyga,A Lyga,lithuania,Lithuania,1,0,probe
+soccer-lithuania-super-cup,Super Cup,lithuania,Lithuania,0,0,probe
+soccer-malawi-super-league,Super League,malawi,Malawi,0,0,probe
+soccer-malaysia-cup,Cup,malaysia,Malaysia,0,0,probe
+soccer-malaysia-fa-cup,FA Cup,malaysia,Malaysia,0,0,probe
+soccer-malaysia-premier-league,Premier League,malaysia,Malaysia,0,0,probe
+soccer-malaysia-super-league,Super League,malaysia,Malaysia,0,0,probe
+soccer-maldives-1-division,1. Division,maldives,Maldives,0,0,probe
+soccer-mali-premier-division,Premier Division,mali,Mali,0,0,probe
+soccer-malta-first-division,Challenge League,malta,Malta,0,0,probe
+soccer-malta-premier-league,Premier League,malta,Malta,0,0,probe
+soccer-malta-super-cup,Super Cup,malta,Malta,0,0,probe
+soccer-mexico-copa-mx,Copa MX,mexico,Mexico,0,0,probe
+soccer-mexico-t90c7-liga-mx-apertura,"Liga MX, Apertura",mexico,Mexico,1,2,feed
+soccer-mexico-liga-premier,Liga Premier,mexico,Mexico,0,0,probe
+soccer-mexico-primera-division,Primera Division,mexico,Mexico,0,0,probe
+soccer-moldova-divizia-nationala,Divizia Nationala,moldova,Moldova,0,0,probe
+soccer-moldova-super-cup,Super Cup,moldova,Moldova,0,0,probe
+soccer-myanmar-cup,Cup,myanmar,Myanmar,0,0,probe
+soccer-myanmar-national-league,National League,myanmar,Myanmar,0,0,probe
+soccer-netherlands-eredivisie,Eredivisie,netherlands,Netherlands,1,2,"feed,probe"
+soccer-new-zealand-premiership,National League,new-zealand,New Zealand,1,2,"feed,probe"
+soccer-nicaragua-segunda-division,Liga de Ascenso,nicaragua,Nicaragua,0,0,probe
+soccer-nicaragua-primera-division,Primera Division,nicaragua,Nicaragua,0,0,probe
+soccer-macedonia-super-cup,Super Cup,macedonia,North Macedonia,0,0,probe
+soccer-northern-ireland-championship,Championship,northern-ireland,Northern Ireland,0,0,probe
+soccer-northern-ireland-premiership,Premiership,northern-ireland,Northern Ireland,0,0,probe
+soccer-norway-1st-division,1st Division,norway,Norway,9,2,feed
+soccer-norway-eliteserien,Eliteserien,norway,Norway,9,2,"feed,probe"
+soccer-norway-super-cup,Super Cup,norway,Norway,0,0,probe
+soccer-pakistan-premier-league,Premier League,pakistan,Pakistan,0,0,probe
+soccer-palestine-cup,Cup,palestine,Palestine,0,0,probe
+soccer-panama-cup,Cup,panama,Panama,0,0,probe
+soccer-paraguay-copa-paraguay,Copa Paraguay,paraguay,Paraguay,2,2,feed
+soccer-paraguay-primera-division,Primera Division,paraguay,Paraguay,0,0,probe
+soccer-paraguay-segunda-division,Segunda Division,paraguay,Paraguay,1,0,"feed,probe"
+soccer-peru-primera-division,Primera Division,peru,Peru,10,2,"feed,probe"
+soccer-peru-segunda-division,Segunda Division,peru,Peru,0,0,probe
+soccer-poland-ekstraklasa,Ekstraklasa,poland,Poland,1,2,"feed,probe"
+soccer-poland-puchar-polski,Puchar Polski,poland,Poland,1,2,feed
+soccer-poland-super-cup,Super Cup,poland,Poland,1,2,"feed,probe"
+soccer-portugal-super-cup,Super Cup,portugal,Portugal,0,0,probe
+soccer-qatar-stars-league,Stars League,qatar,Qatar,0,0,probe
+soccer-ireland-first-division,First Division,ireland,Republic Of Ireland,6,2,"feed,probe"
+soccer-ireland-premier-division,Premier Division,ireland,Republic Of Ireland,6,2,"feed,probe"
+soccer-south-korea-fa-cup,FA Cup,south-korea,Republic Of Korea,0,0,probe
+soccer-south-korea-k-league-1,K-League 1,south-korea,Republic Of Korea,6,2,feed
+soccer-south-korea-k-league-2,K-League 2,south-korea,Republic Of Korea,9,2,feed
+soccer-south-korea-national-league,National League,south-korea,Republic Of Korea,0,0,probe
+soccer-south-korea-wk-league,WK-League,south-korea,Republic Of Korea,2,2,feed
+soccer-romania-liga-i,Liga I,romania,Romania,8,2,"feed,probe"
+soccer-romania-super-cup,Super Cup,romania,Romania,2,2,"feed,probe"
+soccer-russia-football-national-league,1. Liga,russia,Russia,1,2,feed
+soccer-russia-premier-league,Premier League,russia,Russia,1,2,"feed,probe"
+soccer-russia-super-cup,Super Cup,russia,Russia,1,2,"feed,probe"
+soccer-saudi-arabia-kings-cup,Kings Cup,saudi-arabia,Saudi Arabia,0,0,probe
+soccer-saudi-arabia-super-cup,Super Cup,saudi-arabia,Saudi Arabia,0,0,probe
+soccer-scotland-premier-league,Premier League,scotland,Scotland,0,0,probe
+soccer-scotland-premiership,Premiership,scotland,Scotland,7,2,"feed,probe"
+soccer-scotland-championship,Premiership,scotland,Scotland,0,0,probe
+soccer-senegal-premier-league,Premier League,senegal,Senegal,0,0,probe
+soccer-serbia-superliga,Superliga,serbia,Serbia,0,0,probe
+soccer-singapore-fa-cup,FA Cup,singapore,Singapore,0,0,probe
+soccer-singapore-premier-league,Premier League,singapore,Singapore,0,0,probe
+soccer-slovakia-2-liga,2. Liga,slovakia,Slovakia,0,0,probe
+soccer-slovakia-superliga,Superliga,slovakia,Slovakia,0,0,probe
+soccer-slovenia-super-cup,Super Cup,slovenia,Slovenia,0,0,probe
+soccer-south-africa-fa-cup,FA Cup,south-africa,South Africa,0,0,probe
+soccer-spain-copa-del-rey,Copa del Rey,spain,Spain,0,0,probe
+soccer-spain-laliga,La Liga,spain,Spain,1,2,feed
+soccer-spain-primera-division,Primera Division,spain,Spain,0,0,probe
+soccer-spain-segunda-division,Segunda Division,spain,Spain,0,0,probe
+soccer-spain-super-cup,Supercopa de España,spain,Spain,0,0,probe
+soccer-sudan-cup,Cup,sudan,Sudan,0,0,probe
+soccer-sudan-premier-league,Premier League,sudan,Sudan,0,0,probe
+soccer-sweden-allsvenskan,Allsvenskan,sweden,Sweden,12,2,feed
+soccer-sweden-damallsvenskan,Damallsvenskan,sweden,Sweden,1,2,feed
+soccer-sweden-div-1-norra,"Ettan, Norra",sweden,Sweden,1,2,feed
+soccer-sweden-super-cup,Super Cup,sweden,Sweden,0,0,probe
+soccer-sweden-superettan,Superettan,sweden,Sweden,9,2,feed
+soccer-switzerland-super-league,Super League,switzerland,Switzerland,6,2,"feed,probe"
+soccer-syria-cup,Cup,syria,Syria,0,0,probe
+soccer-tanzania-premier-league,Premier League,tanzania,Tanzania,0,0,probe
+soccer-thailand-fa-cup,FA Cup,thailand,Thailand,0,0,probe
+soccer-thailand-thai-league-2,Thai League 2,thailand,Thailand,0,0,probe
+soccer-tunisia-ligue-1,Ligue 1,tunisia,Tunisia,0,0,probe
+soccer-tunisia-super-cup,Super Cup,tunisia,Tunisia,0,0,probe
+soccer-turkey-super-cup,Super Cup,turkey,Turkey,0,0,probe
+soccer-turkey-super-lig,Super Lig,turkey,Turkey,0,0,probe
+soccer-usa-major-league-soccer,Major League Soccer,usa,USA,11,2,feed
+soccer-usa-national-premier-soccer-league,National Premier Soccer League,usa,USA,1,2,feed
+soccer-usa-national-womens-soccer-league,National Womens Soccer League,usa,USA,7,2,feed
+soccer-usa-tbf4a-usa-women-s-premier-soccer-league-wpsl,USA Women's Premier Soccer League (WPSL),usa,USA,1,2,feed
+soccer-usa-usl-championship,USL Championship,usa,USA,12,2,feed
+soccer-usa-usl-league-one,USL League One,usa,USA,4,2,feed
+soccer-usa-usl-league-two,USL League Two,usa,USA,20,2,feed
+soccer-uganda-cup,Cup,uganda,Uganda,0,0,probe
+soccer-uganda-first-division,First Division,uganda,Uganda,0,0,probe
+soccer-uganda-premier-league,Premier League,uganda,Uganda,0,0,probe
+soccer-uganda-super-cup,Super Cup,uganda,Uganda,0,0,probe
+soccer-ukraine-premier-league,Premier League,ukraine,Ukraine,0,0,probe
+soccer-ukraine-super-cup,Super Cup,ukraine,Ukraine,0,0,probe
+soccer-united-arab-emirates-fa-cup,FA Cup,united-arab-emirates,United Arab Emirates,0,0,probe
+soccer-united-arab-emirates-super-cup,Super Cup,united-arab-emirates,United Arab Emirates,0,0,probe
+soccer-uruguay-primera-division,Primera Division,uruguay,Uruguay,1,2,"feed,probe"
+soccer-uruguay-segunda-division,Segunda Division,uruguay,Uruguay,0,0,probe
+soccer-uruguay-super-cup,Supercopa Uruguaya,uruguay,Uruguay,0,0,probe
+soccer-uzbekistan-cup,Cup,uzbekistan,Uzbekistan,0,0,probe
+soccer-venezuela-primera-division,Primera Division,venezuela,Venezuela,0,0,probe
+soccer-venezuela-segunda-division,Segunda Division,venezuela,Venezuela,0,0,probe
+soccer-vietnam-super-cup,Super Cup,vietnam,Vietnam,0,0,probe
+soccer-wales-premier-league,Cymru Premier,wales,Wales,0,0,probe
+soccer-wales-cymru-premier,Cymru Premier,wales,Wales,0,0,probe
+soccer-zambia-cup,Cup,zambia,Zambia,0,0,probe
+soccer-zambia-super-league,Super League,zambia,Zambia,0,0,probe

@@ -1,0 +1,1062 @@
+{
+  "name": "soccer-dataset",
+  "title": "Global Football (Soccer) Data Lake",
+  "version": "1.0.0",
+  "description": "API-Football + football-data.co.uk match data: fixtures, stats (xG), odds, lineups and per-player records across 271 leagues, 2012-2026. Cleaned, deduplicated and quality-gated for BTTS/goals modelling.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "API-Football",
+      "path": "https://www.api-football.com/"
+    },
+    {
+      "title": "football-data.co.uk",
+      "path": "https://www.football-data.co.uk/"
+    }
+  ],
+  "created": "2026-07-05T01:20:49.832680+00:00",
+  "resources": [
+    {
+      "name": "fixtures",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixtures.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 673966,
+      "sample": "samples/fixtures.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Internal fixture primary key (stable across source snapshots)."
+          },
+          {
+            "name": "api_football_id",
+            "type": "integer",
+            "description": "API-Football fixture id (null for football-data-only matches)."
+          },
+          {
+            "name": "date_utc",
+            "type": "datetime",
+            "description": "Kick-off time, UTC (tz-naive)."
+          },
+          {
+            "name": "league_id",
+            "type": "integer",
+            "description": "FK -> leagues.id."
+          },
+          {
+            "name": "home_team_id",
+            "type": "integer",
+            "description": "FK -> teams.id."
+          },
+          {
+            "name": "away_team_id",
+            "type": "integer",
+            "description": "FK -> teams.id."
+          },
+          {
+            "name": "goals_home",
+            "type": "integer",
+            "description": "Full-time home goals (null if not played)."
+          },
+          {
+            "name": "goals_away",
+            "type": "integer",
+            "description": "Full-time away goals (null if not played)."
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "Raw source status code."
+          },
+          {
+            "name": "referee_name",
+            "type": "string",
+            "description": "Referee (API-Football)."
+          },
+          {
+            "name": "referee_api_id",
+            "type": "integer",
+            "description": "Referee API id."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "Source row creation time."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "Source/refresh update time."
+          },
+          {
+            "name": "in_csv",
+            "type": "boolean",
+            "description": "Present in the CSV source snapshot."
+          },
+          {
+            "name": "in_pq",
+            "type": "boolean",
+            "description": "Present in the Parquet source snapshot."
+          },
+          {
+            "name": "merged_rows",
+            "type": "integer",
+            "description": "How many duplicate source rows were merged into this fixture."
+          },
+          {
+            "name": "merged_football_data",
+            "type": "boolean",
+            "description": "True if a football-data.co.uk copy was merged in."
+          },
+          {
+            "name": "status_norm",
+            "type": "string",
+            "description": "Normalized status enum: FT/AET/PEN/AWD/WO/NS/PST/CANC/ABD/SUSP/OTHER."
+          },
+          {
+            "name": "is_played",
+            "type": "boolean",
+            "description": "True if the match has a final result."
+          },
+          {
+            "name": "calendar_year",
+            "type": "integer",
+            "description": "Year of date_utc (used for xG coverage detection)."
+          },
+          {
+            "name": "btts",
+            "type": "boolean",
+            "description": "Both-teams-to-score label (goals_home>0 AND goals_away>0); null if not played."
+          }
+        ]
+      }
+    },
+    {
+      "name": "match_stats",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/match_stats.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 283834,
+      "sample": "samples/match_stats.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fixture_id",
+            "type": "integer",
+            "description": "FK -> fixtures.id (one row per fixture)."
+          },
+          {
+            "name": "home_shots_total",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_shots_total",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_shots_on_goal",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_shots_on_goal",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_shots_inside_box",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_shots_inside_box",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_shots_outside_box",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_shots_outside_box",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_blocked_shots",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_blocked_shots",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_penalties",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_penalties",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_corners",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_corners",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_yellow_cards",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_yellow_cards",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_red_cards",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_red_cards",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_xg",
+            "type": "number",
+            "description": "Home expected goals. **Coarse provider estimate**: API-Football xG is a deterministic shots-by-zone formula (empirically xG \u2248 0.115\u00b7shots_inside_box + 0.035\u00b7shots_outside_box + 0.648\u00b7penalties, R\u00b2\u22481.0), NOT a StatsBomb/Opta per-shot model. NULL where the league-season is not xG-covered (fake zeros removed) or the value was implausible (>6)."
+          },
+          {
+            "name": "away_xg",
+            "type": "number",
+            "description": "Away expected goals (see home_xg: coarse zone-based provider estimate)."
+          },
+          {
+            "name": "home_possession",
+            "type": "integer",
+            "description": "Home possession % (0-100)."
+          },
+          {
+            "name": "away_possession",
+            "type": "integer",
+            "description": "Away possession % (0-100)."
+          },
+          {
+            "name": "home_fouls",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_fouls",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_offsides",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "away_offsides",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "home_pass_accuracy",
+            "type": "integer",
+            "description": "Home pass accuracy % (0-100)."
+          },
+          {
+            "name": "away_pass_accuracy",
+            "type": "integer",
+            "description": "Away pass accuracy % (0-100)."
+          },
+          {
+            "name": "home_goals_ht",
+            "type": "integer",
+            "description": "Home half-time goals."
+          },
+          {
+            "name": "away_goals_ht",
+            "type": "integer",
+            "description": "Away half-time goals."
+          },
+          {
+            "name": "home_xg_ht",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "away_xg_ht",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "stats_fetched_at",
+            "type": "datetime",
+            "description": "When stats were fetched from the provider."
+          },
+          {
+            "name": "in_csv",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "in_pq",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "xg_covered",
+            "type": "boolean",
+            "description": "False if this league-year was detected as lacking real xG coverage."
+          },
+          {
+            "name": "xg_nulled",
+            "type": "boolean",
+            "description": "True if the xG on this row was nulled by the fake-zero/anomaly fix."
+          },
+          {
+            "name": "known_at",
+            "type": "datetime",
+            "description": "Timestamp at which these post-match facts become known (kickoff + 105 min); use to avoid leakage in pre-match models."
+          }
+        ]
+      }
+    },
+    {
+      "name": "odds",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/odds.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 213983,
+      "sample": "samples/odds.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fixture_id",
+            "type": "integer",
+            "description": "FK -> fixtures.id."
+          },
+          {
+            "name": "home_win",
+            "type": "number",
+            "description": "Decimal odds, home win (>1)."
+          },
+          {
+            "name": "draw",
+            "type": "number",
+            "description": "Decimal odds, draw (>1)."
+          },
+          {
+            "name": "away_win",
+            "type": "number",
+            "description": "Decimal odds, away win (>1)."
+          },
+          {
+            "name": "bookmaker",
+            "type": "string",
+            "description": "Bookmaker (96%+ Pinnacle closing)."
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "Odds provenance."
+          },
+          {
+            "name": "in_csv",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "in_pq",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "known_at",
+            "type": "datetime",
+            "description": "Odds known at/around kick-off (closing line)."
+          }
+        ]
+      }
+    },
+    {
+      "name": "fixture_lineups",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixture_lineups.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 565370,
+      "sample": "samples/fixture_lineups.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fixture_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "team_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "team_name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "coach_name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "coach_api_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "formation",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "in_csv",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "in_pq",
+            "type": "boolean",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "teams",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/teams.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 11104,
+      "sample": "samples/teams.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Internal team id."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Team name."
+          },
+          {
+            "name": "api_football_id",
+            "type": "integer",
+            "description": "API-Football team id."
+          },
+          {
+            "name": "fd_name",
+            "type": "string",
+            "description": "football-data.co.uk name (cross-reference)."
+          },
+          {
+            "name": "rating_mu",
+            "type": "number",
+            "description": "Glicko-2 rating mean (default 1500)."
+          },
+          {
+            "name": "rating_sigma",
+            "type": "number",
+            "description": "Glicko-2 uncertainty."
+          },
+          {
+            "name": "in_csv",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "in_pq",
+            "type": "boolean",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "players",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/players.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 182125,
+      "sample": "samples/players.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "api_football_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "firstname",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "lastname",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "age",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "nationality",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "height",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "weight",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "photo",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "in_csv",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "in_pq",
+            "type": "boolean",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "leagues",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/leagues.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 271,
+      "sample": "samples/leagues.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Internal league id."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "League name."
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "Country."
+          },
+          {
+            "name": "fd_code",
+            "type": "string",
+            "description": "football-data.co.uk code."
+          },
+          {
+            "name": "api_football_id",
+            "type": "integer",
+            "description": "API-Football league id."
+          },
+          {
+            "name": "in_csv",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "in_pq",
+            "type": "boolean",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "fixture_players",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixture_players.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 9960535,
+      "sample": "samples/fixture_players.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "fixture_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "team_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "player_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "player_name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "is_starter",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "position",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "number",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "captain",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "minutes",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "rating",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "fixture_players_stats_flat",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixture_players_stats_flat.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 4903099,
+      "sample": "samples/fixture_players_stats_flat.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fixture_player_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "fixture_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "player_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "cards_red",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "cards_yellow",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "dribbles_attempts",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "dribbles_past",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "dribbles_success",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "duels_total",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "duels_won",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "fouls_committed",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "fouls_drawn",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "games_captain",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "games_minutes",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "games_number",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "games_position",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "games_rating",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "games_substitute",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "goals_assists",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "goals_conceded",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "goals_saves",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "goals_total",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "offsides",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "passes_accuracy",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "passes_key",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "passes_total",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "penalty_commited",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "penalty_missed",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "penalty_saved",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "penalty_scored",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "penalty_won",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "shots_on",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "shots_total",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "tackles_blocks",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "tackles_interceptions",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "tackles_total",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "league_catalogue",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/league_catalogue.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 1235,
+      "sample": "samples/league_catalogue.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "af_league_id",
+            "type": "integer",
+            "description": "API-Football league id."
+          },
+          {
+            "name": "af_name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "af_country",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "af_type",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "af_has_stats",
+            "type": "boolean",
+            "description": "API-Football provides fixture statistics."
+          },
+          {
+            "name": "min_season",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "max_season",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "in_dataset",
+            "type": "boolean",
+            "description": "League present in this dataset."
+          },
+          {
+            "name": "dataset_league_id",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "in_cloudbet",
+            "type": "boolean",
+            "description": "Offered by Cloudbet."
+          },
+          {
+            "name": "cloudbet_key",
+            "type": "string",
+            "description": "Cloudbet competition key."
+          },
+          {
+            "name": "cloudbet_name",
+            "type": "string",
+            "description": "Cloudbet competition name."
+          },
+          {
+            "name": "present_years",
+            "type": "number",
+            "description": "Distinct calendar years present in the dataset for this league."
+          },
+          {
+            "name": "avail_years",
+            "type": "integer",
+            "description": "Season span API-Football offers (max_season - min_season + 1)."
+          },
+          {
+            "name": "history_status",
+            "type": "string",
+            "description": "Dataset history vs API-Football: full / recent_only / partial / not_in_dataset."
+          }
+        ]
+      }
+    },
+    {
+      "name": "xg_training",
+      "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/xg_training.parquet",
+      "format": "parquet",
+      "mediatype": "application/parquet",
+      "rows": 257492,
+      "sample": "samples/xg_training.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "fixture_id",
+            "type": "integer",
+            "description": "FK -> fixtures.id."
+          },
+          {
+            "name": "league_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "date_utc",
+            "type": "datetime",
+            "description": ""
+          },
+          {
+            "name": "calendar_year",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "side",
+            "type": "string",
+            "description": "'home' or 'away' (one row per team per match)."
+          },
+          {
+            "name": "is_home",
+            "type": "boolean",
+            "description": "True for the home team."
+          },
+          {
+            "name": "shots_total",
+            "type": "integer",
+            "description": "Total shots (feature)."
+          },
+          {
+            "name": "shots_on_goal",
+            "type": "integer",
+            "description": "Shots on target (feature)."
+          },
+          {
+            "name": "shots_inside_box",
+            "type": "integer",
+            "description": "Shots from inside the box."
+          },
+          {
+            "name": "shots_outside_box",
+            "type": "integer",
+            "description": "Shots from outside the box."
+          },
+          {
+            "name": "blocked_shots",
+            "type": "integer",
+            "description": "Blocked shots."
+          },
+          {
+            "name": "corners",
+            "type": "integer",
+            "description": "Corner kicks."
+          },
+          {
+            "name": "possession",
+            "type": "integer",
+            "description": "Possession % (context)."
+          },
+          {
+            "name": "pass_accuracy",
+            "type": "integer",
+            "description": "Pass accuracy % (context)."
+          },
+          {
+            "name": "xg",
+            "type": "number",
+            "description": "TARGET: real provider xG (covered leagues only)."
+          }
+        ]
+      }
+    }
+  ]
+}

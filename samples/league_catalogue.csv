@@ -1,0 +1,1001 @@
+af_league_id,af_name,af_country,af_type,af_has_stats,min_season,max_season,in_dataset,dataset_league_id,in_cloudbet,cloudbet_key,cloudbet_name,present_years,avail_years,history_status
+44,FA WSL,England,League,true,2016,2025,false,,false,,,,10,not_in_dataset
+1040,UEFA Nations League - Women,World,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+649,Supreme Division Women,Russia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+283,Liga I,Romania,League,true,2016,2026,true,32.0,true,soccer-romania-liga-i,Liga I,16.0,11,full
+969,Primeira Divisão,Macao,League,false,2023,2026,false,,false,,,,4,not_in_dataset
+16,CONCACAF Champions League,World,Cup,true,2016,2026,false,,false,,,,11,not_in_dataset
+187,Ligue 2,Algeria,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+949,CONMEBOL Libertadores Femenina,World,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+341,Cup,Vietnam,Cup,false,2019,2026,false,,false,,,,8,not_in_dataset
+608,Maranhense,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+796,2. Liga Interregional - Group 1,Switzerland,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+1214,OFC Pro League,World,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+1189,Asean Championship Women,World,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+934,Arab Championship - U20,World,Cup,false,2022,2022,false,,false,,,,1,not_in_dataset
+242,Liga Pro,Ecuador,League,true,2012,2026,true,45.0,false,,,15.0,15,full
+264,Copa MX,Mexico,Cup,false,2019,2019,false,,true,soccer-mexico-copa-mx,Copa MX,,1,not_in_dataset
+979,Provincial - Play-offs VV,Belgium,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+1018,Federation Cup,Lebanon,Cup,false,2023,2023,false,,false,,,,1,not_in_dataset
+194,South Australia NPL,Australia,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+511,Cup,Tunisia,Cup,false,2016,2025,false,,false,,,,10,not_in_dataset
+23,EAFF E-1 Football Championship,World,Cup,false,2015,2025,false,,false,,,,11,not_in_dataset
+262,Liga MX,Mexico,League,true,2016,2026,true,22.0,true,soccer-mexico-t90c7-liga-mx-apertura,"Liga MX, Apertura",15.0,11,full
+1158,Copa Gaúcha,Brazil,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+121,DBU Pokalen,Denmark,Cup,false,2012,2025,false,,false,,,,14,not_in_dataset
+531,UEFA Super Cup,World,Cup,true,2016,2025,true,100000531.0,true,soccer-international-clubs-uefa-super-cup,UEFA Super Cup,10.0,10,full
+989,Oberliga - Relegation Round,Germany,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+894,Asian Cup Women - Qualification,World,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+812,Super Cup,Belarus,Cup,false,2021,2026,true,100000812.0,true,soccer-belarus-super-cup,Super Cup,6.0,6,full
+539,Super Cup,Egypt,Cup,false,2012,2026,false,,false,,,,15,not_in_dataset
+206,Türkiye Kupası,Turkey,Cup,true,2011,2025,false,,false,,,,15,not_in_dataset
+312,1a Divisió,Andorra,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+1023,NB III - Southeast,Hungary,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+956,National League - Northern,New-Zealand,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+292,K League 1,South-Korea,League,true,2016,2026,true,38.0,true,soccer-south-korea-k-league-1,K-League 1,15.0,11,full
+310,Superliga,Albania,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+464,National 3 - Group D,France,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1012,AFC U17 Asian Cup,World,Cup,false,2023,2026,false,,false,,,,4,not_in_dataset
+771,COSAFA U20 Championship,World,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+756,Cup,Macedonia,Cup,false,2020,2025,true,100000756.0,true,soccer-macedonia-super-cup,Super Cup,7.0,6,full
+958,Copa Costa Rica,Costa-Rica,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+467,National 3 - Group H,France,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+265,Primera División,Chile,League,true,2018,2026,true,53.0,true,soccer-chile-primera-division,Primera Division,13.0,9,full
+1024,UEFA - CONMEBOL - Club Challenge,World,Cup,false,2023,2023,false,,false,,,,1,not_in_dataset
+871,Premier League Cup,England,Cup,false,2021,2025,false,,false,,,,5,not_in_dataset
+75,Serie C,Brazil,League,true,2012,2026,true,100000075.0,true,soccer-brazil-brasileiro-serie-c,Brasileiro Serie C,15.0,15,full
+227,Landesliga - Oberosterreich,Austria,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+172,First League,Bulgaria,League,true,2018,2026,true,66.0,false,,,10.0,9,full
+1112,Cearense U20,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+96,Taça de Portugal,Portugal,Cup,true,2016,2025,true,101.0,false,,,11.0,10,full
+525,UEFA Champions League Women,World,Cup,true,2019,2026,false,,false,,,,8,not_in_dataset
+452,Tercera División RFEF - Group 14,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+924,Piala Presiden,Indonesia,Cup,true,2022,2025,false,,false,,,,4,not_in_dataset
+466,National 3 - Group F,France,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1116,WPSL,USA,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+69,National 2 - Group C,France,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+774,3. Division - Girone 1,Norway,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+447,Tercera División RFEF - Group 9,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+684,Campeonato de Portugal Prio - Group H,Portugal,League,false,2020,2020,false,,false,,,,1,not_in_dataset
+616,Potiguar,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+685,3. liga - CFL B,Czech-Republic,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+18,AFC Champions League Two,World,Cup,true,2017,2026,false,,false,,,,10,not_in_dataset
+670,Community Shield Women,England,Cup,false,2020,2020,false,,false,,,,1,not_in_dataset
+904,SheBelieves Cup,World,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+72,Serie B,Brazil,League,true,2012,2026,true,57.0,true,soccer-brazil-brasileiro-serie-b,Brasileiro Serie B,15.0,15,full
+48,League Cup,England,Cup,true,2011,2026,true,96.0,false,,,16.0,16,full
+1155,Carioca B2,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+296,Thai League 1,Thailand,League,true,2012,2025,true,110.0,false,,,15.0,14,full
+226,Landesliga - Niederosterreich,Austria,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+542,Iraqi League,Iraq,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+45,FA Cup,England,Cup,true,2011,2025,true,95.0,true,soccer-england-fa-cup,FA Cup,16.0,15,full
+906,Reserve League,Argentina,League,false,2022,2026,false,,false,,,,5,not_in_dataset
+905,Super Cup,Iran,Cup,false,2021,2025,false,,false,,,,5,not_in_dataset
+1178,Super Copa International,Argentina,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+1203,Piauiense - 2,Brazil,League,false,2025,2025,false,,false,,,,1,not_in_dataset
+279,Premier League,Malaysia,League,false,2016,2022,false,,true,soccer-malaysia-premier-league,Premier League,,7,not_in_dataset
+393,Premier League,Malta,League,false,2016,2026,true,100000393.0,true,soccer-malta-premier-league,Premier League,11.0,11,full
+838,Super Cup,Jordan,Cup,false,2020,2025,true,100000838.0,true,soccer-jordan-super-cup,Super Cup,4.0,6,partial
+1007,3. Lig - Play-offs,Turkey,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+1028,CONCACAF Central American Cup,World,Cup,false,2023,2026,false,,false,,,,4,not_in_dataset
+911,Southeast Asian Games,World,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+809,Super Cup,Andorra,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+910,Youth Viareggio Cup,World,Cup,false,2021,2026,false,,false,,,,6,not_in_dataset
+368,Premier League,Singapore,League,false,2016,2025,true,100000368.0,true,soccer-singapore-premier-league,Premier League,11.0,10,full
+1109,Super Cup,Bahrain,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+1057,CONCACAF Gold Cup - Women,World,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+818,Super Cup,Kazakhstan,Cup,false,2021,2026,true,100000818.0,true,soccer-kazakhstan-super-cup,Super Cup,6.0,6,full
+83,Regionalliga - Bayern,Germany,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+177,Third League - Southeast,Bulgaria,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+423,Ligue 1,Burkina-Faso,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+148,Second Amateur Division - ACFF,Belgium,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+431,Serie D - Girone F,Italy,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1114,Carioca U20,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+1070,AFC U20 Asian Cup - Women,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+680,Cup,Slovakia,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+623,Sul-Matogrossense,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+54,Non League Div One - Northern West,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+736,Elitettan,Sweden,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+1161,AFC U17 Asian Cup - Qualification,World,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+551,Super Cup,Turkey,Cup,true,2012,2025,true,100000551.0,true,soccer-turkey-super-cup,Super Cup,12.0,14,full
+981,Third Amateur Division - Play-offs,Belgium,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+93,Derde Divisie - Sunday,Netherlands,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+819,Super Cup,Kosovo,Cup,false,2020,2024,false,,false,,,,5,not_in_dataset
+1022,Premier League - Summer Series,England,League,false,2023,2024,false,,false,,,,2,not_in_dataset
+352,4. liga - Divizie C,Czech-Republic,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+13,CONMEBOL Libertadores,World,Cup,true,2019,2026,true,92.0,true,soccer-international-clubs-copa-libertadores,Copa Libertadores,8.0,8,full
+631,Tocantinense,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+228,Landesliga - Salzburg,Austria,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+891,Coppa Italia Serie C,Italy,Cup,false,2021,2025,false,,false,,,,5,not_in_dataset
+1135,Sergipano - 2,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+896,Super Cup,United-Arab-Emirates,Cup,false,2021,2025,true,100000896.0,true,soccer-united-arab-emirates-super-cup,Super Cup,4.0,5,full
+448,Tercera División RFEF - Group 10,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+932,Non League Div One - Northern East,England,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+443,Tercera División RFEF - Group 5,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+843,Copa Verde,Brazil,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+837,Rock Cup,Gibraltar,Cup,false,2020,2026,true,100000837.0,true,soccer-gibraltar-cup,Cup,6.0,7,full
+425,Premier League,Syria,League,false,2017,2025,false,,false,,,,9,not_in_dataset
+984,National League - North - Play-offs,England,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+655,Copa Constitució,Andorra,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+1184,Copa Grão Pará,Brazil,Cup,false,2025,2026,false,,false,,,,2,not_in_dataset
+1174,Hun Sen Cup,Cambodia,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+247,Kakkonen - Lohko A,Finland,League,false,2012,2026,true,100000247.0,true,soccer-finland-kakkonen-group-a,"Kakkonen, Group A",15.0,15,full
+317,1st League - RS,Bosnia,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+1125,Pernambucano - 2,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+1026,Second League A - Division A Silver,Russia,League,false,2023,2026,false,,false,,,,4,not_in_dataset
+547,Super Cup,Italy,Cup,true,2014,2025,true,100000547.0,true,soccer-italy-super-cup,Italian Super Cup,9.0,12,full
+873,Thai Champions Cup,Thailand,Cup,false,2021,2023,false,,false,,,,3,not_in_dataset
+1014,Second League - Play-offs,Egypt,League,false,2022,2023,false,,false,,,,2,not_in_dataset
+50,National League - North,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+167,Cup,Iceland,Cup,false,2019,2026,true,100000167.0,true,soccer-iceland-cup,Cup,8.0,8,full
+691,Provincial - Brabant ACFF,Belgium,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+772,Leagues Cup,World,Cup,true,2019,2026,false,,false,,,,8,not_in_dataset
+1182,Northern Super League,Canada,League,false,2025,2026,false,,false,,,,2,not_in_dataset
+1157,Paraense U20,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+1170,MFL Cup,Malaysia,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+1081,CONMEBOL - U17 Femenino,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+1166,Super Cup,Cameroon,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+395,Liga 1,Moldova,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+957,National League - Southern,New-Zealand,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+1177,Super Cup,Faroe-Islands,Cup,false,2025,2026,false,,false,,,,2,not_in_dataset
+1136,CONCACAF W Champions Cup,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+1091,Tasmania Northern Championship,Australia,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+217,Third NL - Zapad,Croatia,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+59,Non League Premier - Northern,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+692,Primera División RFEF - Group 5,Spain,League,false,2020,2020,false,,false,,,,1,not_in_dataset
+590,A Division,Nepal,League,false,2019,2023,false,,false,,,,5,not_in_dataset
+202,Ligue 1,Tunisia,League,false,2011,2025,true,69.0,true,soccer-tunisia-ligue-1,Ligue 1,16.0,15,full
+1006,Primera División RFEF - Play Offs,Spain,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+1059,Recopa Catarinense,Brazil,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+1080,Premier Division,Grenada,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+102,Emperor Cup,Japan,Cup,false,2012,2025,true,100000102.0,true,soccer-japan-emperor-cup,Emperor Cup,14.0,14,full
+833,Queensland Premier League,Australia,League,false,2021,2026,true,100000833.0,true,soccer-australia-t6bac-queensland-premier-league-2,Queensland Premier League 2,6.0,6,full
+298,FA Cup,Thailand,Cup,false,2013,2025,true,100000298.0,true,soccer-thailand-fa-cup,FA Cup,14.0,13,full
+267,Copa Chile,Chile,Cup,false,2019,2026,true,100000267.0,true,soccer-chile-copa-chile,Copa Chile,8.0,8,full
+618,São Paulo Youth Cup,Brazil,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+416,Premier League,Belize,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+465,National 3 - Group E,France,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+273,Magyar Kupa,Hungary,Cup,false,2011,2025,false,,false,,,,15,not_in_dataset
+697,WSL Cup,England,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+681,Campeonato de Portugal Prio - Group E,Portugal,League,false,2020,2021,false,,false,,,,2,not_in_dataset
+61,Ligue 1,France,League,true,2010,2026,true,9.0,true,soccer-france-ligue-1,Ligue 1,18.0,17,full
+610,Brasiliense,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+972,Super Cup,China,Cup,false,2023,2026,false,,false,,,,4,not_in_dataset
+129,Primera Nacional,Argentina,League,false,2011,2026,true,125.0,true,soccer-argentina-primera-division,Primera Division,16.0,16,full
+868,Premier League,Pakistan,League,false,2021,2021,false,,true,soccer-pakistan-premier-league,Premier League,,1,not_in_dataset
+550,Super Cup,Portugal,Cup,false,2016,2025,true,100000550.0,true,soccer-portugal-super-cup,Super Cup,10.0,10,full
+290,Persian Gulf Pro League,Iran,League,false,2016,2025,true,56.0,true,soccer-iran-pro-league,Pro League,15.0,10,full
+615,Rondoniense,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+266,Primera B,Chile,League,false,2018,2026,true,126.0,false,,,9.0,9,full
+738,League Cup,Wales,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+1223,Copa Norte,Brazil,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+1142,Mineiro - 3,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+859,COSAFA Cup,World,Cup,false,2021,2025,false,,false,,,,5,not_in_dataset
+612,Copa do Nordeste,Brazil,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+66,Coupe de France,France,Cup,true,2011,2025,true,100.0,true,soccer-france-coupe-de-france,Coupe de France,16.0,15,full
+256,USL League Two,USA,League,true,2018,2026,true,100000256.0,true,soccer-usa-usl-league-two,USL League Two,9.0,9,full
+988,Oberliga - Promotion Round,Germany,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+865,Liga 3,Portugal,League,false,2021,2025,false,,false,,,,5,not_in_dataset
+899,League Cup,Finland,Cup,false,2022,2026,true,100000899.0,true,soccer-finland-tbe81-finland-kakkonen-cup,Finland Kakkonen Cup,5.0,5,full
+245,Ykkönen,Finland,League,false,2012,2026,true,100000245.0,true,soccer-finland-ykkonen,Ykkonen,15.0,15,full
+400,Super League,Zambia,League,false,2012,2025,true,100000400.0,true,soccer-zambia-super-league,Super League,15.0,14,full
+761,Cup,Liechtenstein,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+751,Oberliga - Niederrhein,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+625,Carioca - 2,Brazil,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+575,Srpska Liga - West,Serbia,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+89,Eerste Divisie,Netherlands,League,true,2016,2026,true,73.0,false,,,12.0,11,full
+391,Super League,Malawi,League,true,2018,2026,true,100000391.0,true,soccer-malawi-super-league,Super League,10.0,9,full
+1021,Super Cup,Croatia,Cup,false,2023,2023,false,,true,soccer-croatia-super-cup,Super Cup,,1,not_in_dataset
+861,U20 League,Mexico,League,false,2021,2022,false,,false,,,,2,not_in_dataset
+696,U18 Premier League - South,England,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+186,Ligue 1,Algeria,League,false,2011,2025,true,48.0,true,soccer-algeria-ligue-1,Ligue 1,16.0,15,full
+707,Cup,Albania,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+1047,Olympics Women - Qualification CAF,World,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+191,Brisbane Premier League,Australia,League,false,2011,2025,true,100000191.0,true,soccer-australia-brisbane-premier-league,Brisbane Premier League,15.0,15,full
+948,1a Divisão - Women,Portugal,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+32,World Cup - Qualification Europe,World,Cup,true,2018,2024,true,84.0,false,,,6.0,7,full
+849,Baltic Cup,World,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+638,Kvindeliga,Denmark,League,true,2019,2025,false,,false,,,,7,not_in_dataset
+512,2nd Division - Group A,Albania,League,false,2011,2024,false,,false,,,,14,not_in_dataset
+1046,CONCACAF Gold Cup - Qualification - Women,World,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+451,Tercera División RFEF - Group 13,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1029,National 3 - Group G,France,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+783,III Liga - Group 4,Poland,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+116,Premier League,Belarus,League,true,2012,2026,true,111.0,false,,,15.0,15,full
+1015,CAF U23 Cup of Nations,World,Cup,false,2023,2023,false,,false,,,,1,not_in_dataset
+876,Segunda División RFEF - Group 2,Spain,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+387,League,Jordan,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+926,Copa America Femenina,World,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+1206,CONMEBOL Nations League Women,World,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+657,Cup,Estonia,Cup,false,2020,2026,true,100000657.0,true,soccer-estonia-cup,Cup,7.0,7,full
+1192,Super Cup,Angola,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+55,Non League Div One - Northern Midlands,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+323,Indian Super League,India,League,true,2018,2025,true,77.0,false,,,9.0,8,full
+565,Liga Primera U20,Nicaragua,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+566,Ligue A,Burundi,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1084,Championnat National,Togo,League,false,2023,2024,false,,false,,,,2,not_in_dataset
+810,Super Copa,Argentina,Cup,false,2020,2025,true,100000810.0,true,soccer-argentina-super-cup,Super Cup,4.0,6,partial
+719,Super Cup,Kuwait,Cup,false,2020,2025,true,100000719.0,true,soccer-kuwait-super-cup,Super Cup,5.0,6,full
+91,Eredivisie Women,Netherlands,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+545,AIFF Super Cup,India,Cup,false,2018,2026,false,,false,,,,9,not_in_dataset
+482,Queensland NPL,Australia,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+97,Taça da Liga,Portugal,Cup,true,2019,2025,false,,false,,,,7,not_in_dataset
+521,Amapaense,Brazil,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+913,CONMEBOL - UEFA Finalissima,World,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+802,Cup,Uzbekistan,Cup,false,2020,2026,true,100000802.0,true,soccer-uzbekistan-cup,Cup,7.0,7,full
+847,Premier League,Eswatini,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+579,Gamma Ethniki - Group 4,Greece,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+954,National League - Central,New-Zealand,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+635,NB III - Northwest,Hungary,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+155,Provincial - Hainaut,Belgium,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+239,Primera A,Colombia,League,true,2016,2026,true,46.0,true,soccer-colombia-primera-a,Primera A,15.0,11,full
+997,Serie D - Promotion - Play-offs,Italy,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+396,Primera Division,Nicaragua,League,false,2016,2025,true,100000396.0,true,soccer-nicaragua-primera-division,Primera Division,11.0,10,full
+1000,Segunda División RFEF - Play-offs,Spain,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+394,Super Liga,Moldova,League,false,2016,2026,true,100000394.0,true,soccer-moldova-super-cup,Super Cup,11.0,11,full
+940,COTIF Tournament,World,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+1056,National League - Championship - Final,New-Zealand,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+1168,FIFA Intercontinental Cup,World,Cup,true,2024,2025,false,,false,,,,2,not_in_dataset
+146,Super League Women,Belgium,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+582,Gamma Ethniki - Group 7,Greece,League,false,2019,2021,false,,false,,,,3,not_in_dataset
+250,Division Profesional - Apertura,Paraguay,League,true,2016,2026,true,49.0,false,,,11.0,11,full
+362,A Lyga,Lithuania,League,false,2012,2026,true,134.0,true,soccer-lithuania-a-lyga,A Lyga,15.0,15,full
+153,Provincial - Antwerpen,Belgium,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+1211,Tipsport Liga,Czech-Republic,League,false,2026,2026,false,,false,,,,1,not_in_dataset
+785,Liga III - Serie 2,Romania,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+662,Copa por México,Mexico,Cup,false,2020,2022,false,,false,,,,3,not_in_dataset
+726,Sultan Cup,Oman,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+961,Supercopa,Paraguay,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+762,Premier League,Mauritania,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+422,Premier League,Barbados,League,false,2012,2026,true,100000422.0,true,soccer-barbados-premier-league,Premier League,13.0,15,full
+1085,CONMEBOL U20 Femenino,World,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+806,OFC Nations Cup,World,Cup,false,2016,2024,false,,false,,,,9,not_in_dataset
+835,New South Wales NPL 2,Australia,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+759,Liga Mayor,Dominican-Republic,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+526,Trophée des Champions,France,Cup,true,2012,2026,true,100000526.0,true,soccer-france-trophee-des-champions,Trophée des Champions,13.0,15,full
+367,Meistaradeildin,Faroe-Islands,League,false,2012,2026,false,,false,,,,15,not_in_dataset
+648,Tasmania NPL,Australia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+246,Suomen Cup,Finland,Cup,false,2012,2026,true,100000246.0,true,soccer-finland-suomen-cup,Suomen Cup,15.0,15,full
+597,Division 2 - Södra Götaland,Sweden,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+776,3. Division - Girone 3,Norway,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+428,Serie D - Girone C,Italy,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1191,UEFA Europa Cup - Women,World,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+1035,Copa Rio,Brazil,Cup,false,2023,2026,false,,false,,,,4,not_in_dataset
+765,PFL,Philippines,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+694,Gamma Ethniki - Group 10,Greece,League,false,2020,2020,false,,false,,,,1,not_in_dataset
+986,Non League Div One - Play-offs,England,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+159,Provincial - Namur,Belgium,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+450,Tercera División RFEF - Group 12,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+779,3. Division - Girone 6,Norway,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+1195,Liga E Pare,Kosovo,League,false,2025,2025,false,,false,,,,1,not_in_dataset
+1097,Copa Espírito Santo,Brazil,Cup,false,2024,2026,true,100001097.0,true,soccer-brazil-t7373-copa-espirito-santo,Copa Espirito Santo,3.0,3,full
+710,Nacional B,Bolivia,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+36,Africa Cup of Nations - Qualification,World,Cup,true,2021,2027,false,,false,,,,7,not_in_dataset
+708,Super Cup,Albania,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+359,FAI Cup,Ireland,Cup,false,2019,2026,false,,false,,,,8,not_in_dataset
+855,Dhivehi Premier League,Maldives,League,false,2021,2023,false,,false,,,,3,not_in_dataset
+1175,Women's President's Cup,Ireland,Cup,false,2025,2026,false,,false,,,,2,not_in_dataset
+488,U19 Bundesliga,Germany,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+58,Non League Premier - Isthmian,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+411,Elite One,Cameroon,League,false,2016,2026,true,100000411.0,true,soccer-cameroon-elite-one,Elite One,11.0,11,full
+572,Srpska Liga - Belgrade,Serbia,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+686,4. liga - Divizie F,Czech-Republic,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+1068,FA Youth Cup,England,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+141,Segunda División,Spain,League,true,2016,2026,true,6.0,true,soccer-spain-segunda-division,Segunda Division,12.0,11,full
+609,Cearense - 1,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+832,Coupe de la Ligue,Algeria,Cup,false,2020,2020,false,,false,,,,1,not_in_dataset
+107,I Liga,Poland,League,false,2018,2026,true,113.0,false,,,10.0,9,full
+5,UEFA Nations League,World,Cup,true,2018,2026,true,80.0,true,soccer-international-uefa-nations-league,UEFA Nations League,9.0,9,full
+1181,Supercopa,Venezuela,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+495,Hazfi Cup,Iran,Cup,false,2016,2025,true,100000495.0,true,soccer-iran-cup,Cup,11.0,10,full
+90,KNVB Beker,Netherlands,Cup,true,2016,2025,true,102.0,false,,,11.0,10,full
+204,1. Lig,Turkey,League,true,2011,2025,true,107.0,false,,,16.0,15,full
+340,V.League 1,Vietnam,League,false,2012,2026,false,,false,,,,15,not_in_dataset
+907,Primera Division,Cuba,League,false,2022,2025,true,100000907.0,true,soccer-cuba-primera-division,Primera Division,4.0,4,full
+715,DFB Junioren Pokal,Germany,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+63,National 1,France,League,false,2011,2026,true,119.0,true,soccer-france-national,National,17.0,16,full
+950,World Cup - U17 - Women,World,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+20,CAF Confederation Cup,World,Cup,true,2017,2025,false,,false,,,,9,not_in_dataset
+1050,Super Cup,Malta,Cup,false,2023,2025,true,100001050.0,true,soccer-malta-super-cup,Super Cup,3.0,3,full
+53,Non League Div One - Isthmian South Central,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1130,USL Super League,USA,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+1197,FA Cup,Oman,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+109,II Liga - East,Poland,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+850,UEFA U21 Championship - Qualification,World,Cup,false,2023,2027,false,,false,,,,5,not_in_dataset
+731,Football League - Lowland League,Scotland,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+158,Provincial - Luxembourg,Belgium,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+163,Liga de Ascenso,Costa-Rica,League,false,2018,2025,true,128.0,false,,,9.0,8,full
+43,National League,England,League,false,2011,2025,true,103.0,true,soccer-england-national-league,National League,16.0,15,full
+234,Liga Nacional,Honduras,League,false,2011,2025,true,67.0,false,,,16.0,15,full
+135,Serie A,Italy,League,true,2010,2026,true,7.0,true,soccer-italy-serie-a,Serie A,18.0,17,full
+79,2. Bundesliga,Germany,League,true,2011,2026,true,12.0,false,,,17.0,16,full
+538,Africa Cup of Nations U20,World,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+1146,Alagoano - 2,Brazil,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+208,Challenge League,Switzerland,League,false,2016,2026,true,112.0,false,,,11.0,11,full
+689,Third Amateur Division - ACFF A,Belgium,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+1041,Júniores U19,Portugal,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+621,Piauiense,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+650,Second League - Group 3,Russia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+301,Pro League,United-Arab-Emirates,League,true,2011,2025,true,41.0,false,,,16.0,15,full
+373,1. SNL,Slovenia,League,true,2018,2026,true,55.0,false,,,10.0,9,full
+549,Damallsvenskan,Sweden,League,true,2020,2026,true,100000549.0,true,soccer-sweden-damallsvenskan,Damallsvenskan,7.0,7,full
+1176,Super Cup,Latvia,Cup,false,2025,2026,false,,false,,,,2,not_in_dataset
+199,Cup,Greece,Cup,true,2011,2025,false,,false,,,,15,not_in_dataset
+259,Canadian Championship,Canada,Cup,false,2016,2026,false,,false,,,,11,not_in_dataset
+1076,Catarinense U20,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+291,Azadegan League,Iran,League,false,2016,2025,true,100000291.0,true,soccer-iran-azadegan-league,Azadegan League,11.0,10,full
+815,Fotbolti.net Cup A,Iceland,Cup,false,2021,2025,false,,false,,,,5,not_in_dataset
+294,FA Cup,South-Korea,Cup,false,2019,2026,true,100000294.0,true,soccer-south-korea-fa-cup,FA Cup,8.0,8,full
+1160,Sapling Cup,Hong-Kong,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+1235,J2/J3 League,Japan,League,false,2026,2026,false,,false,,,,1,not_in_dataset
+1215,Obos Supercup,Norway,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+114,Superettan,Sweden,League,true,2016,2026,true,100000114.0,true,soccer-sweden-superettan,Superettan,11.0,11,full
+104,1. Division,Norway,League,false,2016,2026,true,100000104.0,true,soccer-norway-1st-division,1st Division,11.0,11,full
+455,Tercera División RFEF - Group 17,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+249,Kakkonen - Lohko C,Finland,League,false,2012,2026,false,,false,,,,15,not_in_dataset
+420,Cup,Azerbaijan,Cup,false,2013,2025,false,,false,,,,13,not_in_dataset
+1071,Paranaense U20,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+1110,Alagoano U20,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+799,2. Liga Interregional - Group 4,Switzerland,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+919,Mediterranean Games,World,Cup,false,2022,2022,false,,false,,,,1,not_in_dataset
+40,Championship,England,League,true,2011,2026,true,2.0,true,soccer-england-championship,Championship,17.0,16,full
+747,Oberliga - Westfalen,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+1220,Copa De La Liga,Chile,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+284,Liga II,Romania,League,false,2016,2025,true,115.0,false,,,11.0,10,full
+647,Lao League,Laos,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+1173,Challenge Cup,Malta,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+316,1st League - FBiH,Bosnia,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+562,Reserve League,Belarus,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+576,Gamma Ethniki - Group 1,Greece,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+634,NB III - Southwest,Hungary,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+176,Third League - Northwest,Bulgaria,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+329,Meistriliiga,Estonia,League,false,2011,2026,true,131.0,true,soccer-estonia-meistriliiga,Meistriliiga,16.0,16,full
+477,Gaúcho - 1,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+1,World Cup,World,Cup,true,2010,2026,true,78.0,false,,,5.0,17,partial
+364,1. Liga,Latvia,League,false,2012,2026,true,100000364.0,true,soccer-latvia-1-liga,1.Liga,15.0,15,full
+687,Regionalliga - Tirol,Austria,League,false,2020,2022,false,,false,,,,3,not_in_dataset
+1002,Regionalliga - Promotion Play-offs,Germany,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+1229,Liga Women,Peru,League,false,2026,2026,false,,false,,,,1,not_in_dataset
+28,SAFF Championship,World,Cup,false,2013,2023,false,,false,,,,11,not_in_dataset
+314,Cup,Bosnia,Cup,false,2016,2025,false,,false,,,,10,not_in_dataset
+1217,FIFA Women Champions Cup,World,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+1086,Paulista - U20,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+1009,Liga III - Play-offs,Romania,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+169,Super League,China,League,true,2016,2026,true,31.0,true,soccer-china-chinese-super-league,Chinese Super League,13.0,11,full
+453,Tercera División RFEF - Group 15,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+14,UEFA Youth League,World,League,false,2017,2025,false,,false,,,,9,not_in_dataset
+95,Segunda Liga,Portugal,League,true,2016,2026,true,65.0,false,,,12.0,11,full
+1233,Super Cup Women,Russia,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+676,Central Youth League,Poland,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+975,Serie C - Relegation - Play-offs,Italy,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+879,Segunda División RFEF - Group 5,Spain,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+1117,USL W League,USA,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+860,Arab Cup,World,Cup,false,2021,2025,false,,false,,,,5,not_in_dataset
+529,Super Cup,Germany,Cup,true,2011,2025,true,100000529.0,true,soccer-germany-super-cup,Super Cup,15.0,15,full
+1073,Baiano U20,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+1122,OFC U19 Championship,World,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+1187,Copa Nicaragua,Nicaragua,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+64,Feminine Division 1,France,League,true,2013,2025,false,,false,,,,13,not_in_dataset
+81,DFB Pokal,Germany,Cup,true,2011,2026,true,98.0,true,soccer-germany-dfb-pokal,DFB Pokal,16.0,16,full
+1222,FIFA Series,World,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+517,Trofeo de Campeones de la Superliga,Argentina,Cup,false,2019,2026,false,,false,,,,8,not_in_dataset
+30,World Cup - Qualification Asia,World,Cup,true,2018,2026,false,,false,,,,9,not_in_dataset
+581,Gamma Ethniki - Group 6,Greece,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+369,Super League,Uzbekistan,League,false,2012,2026,false,,false,,,,15,not_in_dataset
+472,National 3 - Group M,France,League,false,2019,2022,false,,false,,,,4,not_in_dataset
+402,Sudani Premier League,Sudan,League,false,2016,2026,true,100000402.0,true,soccer-sudan-premier-league,Premier League,10.0,11,full
+640,Kansallinen Liiga,Finland,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+1008,CAFA Nations Cup,World,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+381,HKFA 1st Division,Hong-Kong,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+237,Cup,Russia,Cup,true,2019,2026,false,,false,,,,8,not_in_dataset
+1001,CONCACAF Women U20,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+1051,HKPL Cup,Hong-Kong,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+503,Copa Perú,Peru,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+654,Super Cup,Armenia,Cup,false,2020,2025,true,100000654.0,true,soccer-armenia-super-cup,Super Cup,5.0,6,full
+1078,SWF Scottish Cup,Scotland,Cup,false,2023,2023,false,,false,,,,1,not_in_dataset
+827,Crown Prince Cup,Saudi-Arabia,Cup,false,2017,2017,false,,false,,,,1,not_in_dataset
+1089,UAE-Qatar - Super Shield,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+600,1. Liga Classic - Group 2,Switzerland,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+336,Druha Liga,Ukraine,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+22,CONCACAF Gold Cup,World,Cup,true,2015,2025,false,,false,,,,11,not_in_dataset
+407,Championship,Northern-Ireland,League,false,2017,2026,true,100000407.0,true,soccer-northern-ireland-championship,Championship,11.0,10,full
+27,OFC Champions League,World,Cup,false,2015,2026,false,,false,,,,12,not_in_dataset
+8,World Cup - Women,World,Cup,true,2011,2023,false,,false,,,,13,not_in_dataset
+890,U20 Elite League,World,Cup,false,2021,2025,false,,false,,,,5,not_in_dataset
+797,2. Liga Interregional - Group 2,Switzerland,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+405,National Soccer League,Rwanda,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+599,1. Liga Classic - Group 1,Switzerland,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+829,Youth League,Turkmenistan,League,false,2020,2020,false,,false,,,,1,not_in_dataset
+438,Primera División RFEF - Group 4,Spain,League,false,2019,2020,false,,false,,,,2,not_in_dataset
+557,Super Cup,Norway,Cup,false,2018,2019,false,,true,soccer-norway-super-cup,Super Cup,,2,not_in_dataset
+639,Super Cup,Iceland,Cup,false,2020,2026,true,100000639.0,true,soccer-iceland-super-cup,Super Cup,7.0,7,full
+1061,Second League A - Spring Season Gold,Russia,League,false,2023,2024,false,,false,,,,2,not_in_dataset
+965,AFC U20 Asian Cup,World,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+743,UEFA Championship - Women,World,Cup,true,2021,2025,false,,false,,,,5,not_in_dataset
+995,Non League Premier - Southern South - Play-offs,England,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+927,World Cup - Women - Qualification Concacaf,World,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+1156,National League Cup,England,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+543,Super Cup,Netherlands,Cup,true,2016,2024,false,,false,,,,9,not_in_dataset
+1010,3. liga - Promotion Play-off,Czech-Republic,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+342,Premier League,Armenia,League,false,2012,2025,true,144.0,true,soccer-armenia-premier-league,Premier League,15.0,14,full
+149,Second Amateur Division - VFV A,Belgium,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+702,Premier League 2 Division One,England,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+41,League One,England,League,true,2011,2026,true,3.0,true,soccer-england-league-one,League One,17.0,16,full
+803,Asian Games,World,Cup,false,2010,2022,false,,false,,,,13,not_in_dataset
+658,Cup,Latvia,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+917,Copa Ecuador,Ecuador,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+791,Liga III - Serie 8,Romania,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+309,Division 2,Saudi-Arabia,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+462,National 3 - Group B,France,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+287,Prva Liga,Serbia,League,false,2016,2026,true,116.0,false,,,12.0,11,full
+156,Provincial - Liege,Belgium,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+909,MLS Next Pro,USA,League,false,2022,2026,false,,false,,,,5,not_in_dataset
+854,WE League,Japan,League,true,2021,2026,false,,false,,,,6,not_in_dataset
+122,2. Division,Denmark,League,false,2015,2026,false,,false,,,,12,not_in_dataset
+1201,IFA Shield,India,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+787,Liga III - Serie 4,Romania,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+183,League One,Scotland,League,false,2015,2026,true,104.0,false,,,13.0,12,full
+1139,Potiguar - U20,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+98,J1 League,Japan,League,true,2012,2027,true,21.0,false,,,16.0,16,full
+567,Ligi kuu Bara,Tanzania,League,true,2015,2025,false,,false,,,,11,not_in_dataset
+527,Super Cup,Chile,Cup,false,2015,2026,true,100000527.0,true,soccer-chile-super-cup,Supercup,11.0,12,full
+605,Paulista - A3,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+1088,Pernambucano - U20,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+1205,Kings Cup,Brazil,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+1132,AFC Challenge League,World,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+166,2. Deild,Iceland,League,false,2016,2026,true,100000166.0,true,soccer-iceland-2-deild,2. deild,11.0,11,full
+433,Serie D - Girone H,Italy,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+85,Regionalliga - Nordost,Germany,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+695,U18 Premier League - North,England,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+637,V.League 2,Vietnam,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+252,Division Profesional - Clausura,Paraguay,League,true,2016,2026,false,,false,,,,11,not_in_dataset
+1016,CAC Games,World,Cup,false,2022,2022,false,,false,,,,1,not_in_dataset
+921,UEFA U17 Championship,World,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+444,Tercera División RFEF - Group 6,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1128,Brasileiro U17,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+993,Non League Premier - Isthmian - Play-offs,England,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+248,Kakkonen - Lohko B,Finland,League,false,2012,2026,false,,false,,,,15,not_in_dataset
+147,Cup,Belgium,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+627,Paraense,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+980,Provincial - Play-offs ACFF,Belgium,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+826,Super Cup,Saudi-Arabia,Cup,false,2021,2026,true,100000826.0,true,soccer-saudi-arabia-super-cup,Super Cup,5.0,6,full
+998,Serie D - Relegation - Play-offs,Italy,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+1162,AGCFF Gulf Champions League,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+811,Federation Cup,Bangladesh,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+494,Super League 2,Greece,League,false,2019,2025,true,124.0,false,,,8.0,7,full
+925,Super Cup,Czech-Republic,Cup,false,2015,2015,false,,true,soccer-czech-republic-super-cup,Super Cup,,1,not_in_dataset
+241,Copa Colombia,Colombia,Cup,false,2019,2026,false,,false,,,,8,not_in_dataset
+436,Primera División RFEF - Group 2,Spain,League,true,2019,2026,false,,false,,,,8,not_in_dataset
+80,3. Liga,Germany,League,true,2011,2025,true,106.0,true,soccer-germany-3rd-liga,3. Liga,16.0,15,full
+753,Oberliga - Baden-Württemberg,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+1013,All-Island Cup - Women,World,Cup,false,2023,2026,false,,false,,,,4,not_in_dataset
+354,4. liga - Divizie E,Czech-Republic,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+878,Segunda División RFEF - Group 4,Spain,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+663,Super Cup,Russia,Cup,false,2020,2025,true,100000663.0,true,soccer-russia-super-cup,Super Cup,6.0,6,full
+108,Cup,Poland,Cup,true,2019,2026,false,,false,,,,8,not_in_dataset
+1145,Paraense B1,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+750,Oberliga - Hessen,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+435,Primera División RFEF - Group 1,Spain,League,true,2019,2026,false,,false,,,,8,not_in_dataset
+1216,Serie Rio De La Plata,World,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+480,Olympics Men,World,Cup,true,2012,2024,false,,false,,,,13,not_in_dataset
+792,Liga III - Serie 9,Romania,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+780,III Liga - Group 1,Poland,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+324,I-League,India,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+798,2. Liga Interregional - Group 3,Switzerland,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+1230,Npl Nsw U20,Australia,League,false,2026,2026,false,,false,,,,1,not_in_dataset
+60,Non League Premier - Southern South,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+723,Cup,Montenegro,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+758,Premier Division,Gibraltar,League,false,2020,2025,true,100000758.0,true,soccer-gibraltar-premier-division,Premier Division,7.0,6,full
+768,Arab Club Champions Cup,World,Cup,true,2019,2023,false,,false,,,,5,not_in_dataset
+1103,Premiership Women,Northern-Ireland,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+966,Cup,Ghana,Cup,false,2022,2025,true,100000966.0,true,soccer-ghana-fa-cup,FA Cup,5.0,4,full
+216,Third NL - Sredite,Croatia,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1032,Copa de la Liga Profesional,Argentina,League,true,2023,2024,false,,false,,,,2,not_in_dataset
+111,FAW Championship,Wales,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+1067,Torneo Promocional Amateur,Argentina,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+711,Segunda División,Chile,League,false,2020,2026,true,100000711.0,true,soccer-chile-segunda-division,Segunda Division,7.0,7,full
+103,Eliteserien,Norway,League,true,2016,2026,true,23.0,true,soccer-norway-eliteserien,Eliteserien,15.0,11,full
+1082,Copa Rio U20,Brazil,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+959,Cup,Singapore,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+332,Super Liga,Slovakia,League,true,2018,2026,true,54.0,true,soccer-slovakia-superliga,Superliga,10.0,9,full
+594,Division 2 - Norrland,Sweden,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+630,Matogrossense,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+942,Serie C - Girone B,Italy,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+830,Super Cup,Uzbekistan,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+508,League Cup,South-Africa,Cup,false,2017,2025,false,,false,,,,9,not_in_dataset
+429,Serie D - Girone D,Italy,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+10,Friendlies,World,Cup,true,2017,2026,true,88.0,false,,,10.0,10,full
+963,CONCACAF U17,World,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+1138,Paranaense - 3,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+1063,Copa Alagoas,Brazil,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+35,Asian Cup - Qualification,World,Cup,false,2019,2024,false,,false,,,,6,not_in_dataset
+383,Ligat Ha'al,Israel,League,true,2016,2026,true,50.0,false,,,12.0,11,full
+224,Landesliga - Burgenland,Austria,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+823,Nasjonal U19 Champions League,Norway,Cup,false,2021,2026,false,,false,,,,6,not_in_dataset
+880,World Cup - Women - Qualification Europe,World,Cup,false,2023,2027,false,,false,,,,5,not_in_dataset
+513,2nd Division - Group B,Albania,League,false,2011,2024,false,,false,,,,14,not_in_dataset
+651,Second League - Group 1,Russia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+938,Oberliga - Bayern Nord,Germany,League,false,2022,2026,false,,false,,,,5,not_in_dataset
+532,AFC U23 Asian Cup,World,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+733,I Liga - Women,Slovakia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+943,Serie C - Girone C,Italy,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+481,Northern NSW NPL,Australia,League,false,2012,2026,true,100000481.0,true,soccer-australia-npl-northern-new-south-wales,Northern NSW NPL,15.0,15,full
+1213,Kings World Cup Nations,World,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+351,4. liga - Divizie B,Czech-Republic,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+661,Cup,Lithuania,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+278,Super League,Malaysia,League,false,2016,2025,true,139.0,true,soccer-malaysia-super-league,Super League,11.0,10,full
+280,Premiership,New-Zealand,League,false,2016,2020,false,,false,,,,5,not_in_dataset
+852,Super Cup,Cyprus,Cup,false,2021,2025,true,100000852.0,true,soccer-cyprus-super-cup,Super Cup,5.0,5,full
+268,Primera División - Apertura,Uruguay,League,true,2012,2026,true,51.0,true,soccer-uruguay-primera-division,Primera Division,15.0,15,full
+991,Campeonato de Portugal Prio - Promotion Round,Portugal,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+499,Malaysia Cup,Malaysia,Cup,false,2018,2025,true,100000499.0,true,soccer-malaysia-cup,Cup,9.0,8,full
+633,NB III - Northeast,Hungary,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+705,Campionato Primavera - 1,Italy,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+1179,Copa do Brasil U17,Brazil,Cup,false,2025,2026,false,,false,,,,2,not_in_dataset
+410,C-League,Cambodia,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+770,Pacific Games,World,Cup,false,2019,2023,false,,false,,,,5,not_in_dataset
+714,Cup,Egypt,Cup,true,2019,2025,false,,false,,,,7,not_in_dataset
+197,Super League 1,Greece,League,true,2011,2025,true,35.0,true,soccer-greece-super-league,Super League,16.0,15,full
+693,Gamma Ethniki - Group 9,Greece,League,false,2020,2020,false,,false,,,,1,not_in_dataset
+138,Serie C - Girone A,Italy,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+468,National 3 - Group I,France,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+652,Second League - Group 2,Russia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+371,First League,Macedonia,League,true,2016,2026,false,,false,,,,11,not_in_dataset
+862,3. Division,Denmark,League,false,2021,2025,false,,false,,,,5,not_in_dataset
+533,CAF Super Cup,World,Cup,true,2019,2025,false,,false,,,,7,not_in_dataset
+1159,CECAFA U20 Championship,World,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+460,Campeonato de Portugal Prio - Group D,Portugal,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+922,Africa Cup of Nations - Women,World,Cup,false,2022,2024,false,,false,,,,3,not_in_dataset
+585,Premier League,Uganda,League,false,2012,2025,true,100000585.0,true,soccer-uganda-premier-league,Premier League,15.0,14,full
+683,Campeonato de Portugal Prio - Group G,Portugal,League,false,2020,2020,false,,false,,,,1,not_in_dataset
+916,Kirin Cup,World,Cup,false,2022,2022,false,,false,,,,1,not_in_dataset
+918,UEFA U19 Championship - Women,World,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+236,First League,Russia,League,true,2016,2026,true,109.0,false,,,12.0,11,full
+165,1. Deild,Iceland,League,false,2016,2026,true,100000165.0,true,soccer-iceland-t9038-besta-deild,Besta deild,11.0,11,full
+632,Supercopa do Brasil,Brazil,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+333,Premier League,Ukraine,League,true,2011,2026,true,61.0,true,soccer-ukraine-premier-league,Premier League,17.0,16,full
+601,1. Liga Classic - Group 3,Switzerland,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+629,Mineiro - 1,Brazil,League,false,2020,2026,true,100000629.0,true,soccer-brazil-mineiro-modulo-ii,"Mineiro, Modulo II",7.0,7,full
+490,World Cup - U20,World,Cup,true,2017,2025,false,,false,,,,9,not_in_dataset
+288,Premier Soccer League,South-Africa,League,true,2016,2025,true,60.0,false,,,11.0,10,full
+196,Western Australia NPL,Australia,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+497,Japan Football League,Japan,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+1212,Copa De La Liga Auf,Uruguay,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+502,Copa Bicentenario,Peru,Cup,false,2019,2020,false,,false,,,,2,not_in_dataset
+205,2. Lig,Turkey,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+887,Second League,Egypt,League,false,2021,2025,false,,false,,,,5,not_in_dataset
+370,Primera Division,El-Salvador,League,false,2011,2025,true,135.0,true,soccer-el-salvador-segunda-division,Segunda Division,16.0,15,full
+463,National 3 - Group C,France,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+76,Serie D,Brazil,League,false,2012,2026,false,,false,,,,15,not_in_dataset
+112,Welsh Cup,Wales,Cup,false,2011,2025,false,,false,,,,15,not_in_dataset
+749,Oberliga - Bremen,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+1027,3. Lig - Group 4,Turkey,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+520,Acreano,Brazil,League,false,2014,2026,false,,false,,,,13,not_in_dataset
+522,Amazonense,Brazil,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+593,Division 2 - Norra Svealand,Sweden,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+564,Ettan - Södra,Sweden,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+1188,EAFF E-1 Football Championship - Women,World,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+1221,Super Cup,Bosnia,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+1143,Estadual Junior U20,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+888,Second League - Group B,Egypt,League,false,2021,2022,false,,false,,,,2,not_in_dataset
+1198,Serie A Cup Women,Italy,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+1144,Super Cup,Ghana,Cup,false,2024,2025,true,100001144.0,true,soccer-ghana-super-cup,Super Cup,2.0,2,full
+900,Tipsport Malta Cup,World,Cup,false,2022,2024,false,,false,,,,3,not_in_dataset
+430,Serie D - Girone E,Italy,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1004,Derde Divisie - Relegation Round,Netherlands,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+174,Cup,Bulgaria,Cup,false,2017,2025,false,,false,,,,9,not_in_dataset
+690,Third Amateur Division - ACFF B,Belgium,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+193,Northern Territory Premier League,Australia,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+251,Division Intermedia,Paraguay,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+47,FA Trophy,England,Cup,false,2011,2025,false,,false,,,,15,not_in_dataset
+553,3. Lig - Group 2,Turkey,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+706,Campionato Primavera - 2,Italy,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+62,Ligue 2,France,League,true,2010,2026,true,10.0,true,soccer-france-ligue-2,Ligue 2,18.0,17,full
+388,1. Division,Kazakhstan,League,false,2011,2026,false,,false,,,,16,not_in_dataset
+244,Veikkausliiga,Finland,League,true,2012,2026,true,33.0,true,soccer-finland-veikkausliiga,Veikkausliiga,15.0,15,full
+46,EFL Trophy,England,Cup,true,2011,2025,false,,false,,,,15,not_in_dataset
+935,Diski Shield,South-Africa,Cup,false,2022,2022,false,,false,,,,1,not_in_dataset
+501,Copa Paraguay,Paraguay,Cup,false,2019,2025,true,100000501.0,true,soccer-paraguay-copa-paraguay,Copa Paraguay,6.0,7,full
+667,Friendlies Clubs,World,Cup,true,2020,2026,false,,false,,,,7,not_in_dataset
+1121,Second League A - Promotion Play-offs,Russia,League,false,2023,2024,false,,false,,,,2,not_in_dataset
+889,Second League - Group C,Egypt,League,false,2021,2022,false,,false,,,,2,not_in_dataset
+491,Løgmanssteypid,Faroe-Islands,Cup,false,2018,2026,false,,false,,,,9,not_in_dataset
+604,Catarinense - 1,Brazil,League,false,2020,2026,true,100000604.0,true,soccer-brazil-catarinense,Catarinense,7.0,7,full
+375,Cup,Slovenia,Cup,false,2019,2025,true,100000375.0,true,soccer-slovenia-super-cup,Super Cup,8.0,7,full
+374,2. SNL,Slovenia,League,false,2018,2026,false,,false,,,,9,not_in_dataset
+144,Jupiler Pro League,Belgium,League,true,2010,2026,true,15.0,true,soccer-belgium-pro-league,Pro League,18.0,17,full
+347,Cup,Czech-Republic,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+120,1. Division,Denmark,League,false,2011,2026,true,120.0,true,soccer-denmark-1st-division,1. Division,17.0,16,full
+413,Super League,Bhutan,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+555,Supercupa,Romania,Cup,false,2016,2025,true,100000555.0,true,soccer-romania-super-cup,Super Cup,9.0,10,full
+794,3. SNL - East,Slovenia,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+1066,CONCACAF U20 - Qualification,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+817,Super Cup Primavera,Italy,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+507,Cup,South-Africa,Cup,false,2017,2025,true,100000507.0,true,soccer-south-africa-fa-cup,FA Cup,10.0,9,full
+864,Supercopa,Costa-Rica,Cup,false,2021,2024,false,,false,,,,4,not_in_dataset
+327,Erovnuli Liga,Georgia,League,true,2014,2026,true,71.0,false,,,13.0,13,full
+1152,U19 Divisie 1,Netherlands,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+119,Superliga,Denmark,League,true,2011,2026,true,30.0,true,soccer-denmark-superligaen,Superliga,17.0,16,full
+397,Girabola,Angola,League,false,2012,2025,false,,false,,,,14,not_in_dataset
+232,Landesliga - Wien,Austria,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+2,UEFA Champions League,World,Cup,true,2011,2026,true,89.0,true,soccer-international-clubs-uefa-champions-league,UEFA Champions League,16.0,16,full
+1090,NNSW League 1,Australia,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+504,King's Cup,Saudi-Arabia,Cup,true,2017,2027,true,100000504.0,true,soccer-saudi-arabia-kings-cup,Kings Cup,10.0,11,full
+856,CONCACAF Caribbean Club Championship,World,Cup,false,2021,2026,false,,false,,,,6,not_in_dataset
+201,Botola 2,Morocco,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+349,3. liga - MSFL,Czech-Republic,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+898,League Cup,Thailand,Cup,false,2021,2025,false,,false,,,,5,not_in_dataset
+380,Premier League,Hong-Kong,League,false,2011,2025,true,100000380.0,true,soccer-hong-kong-premier-league,Premier League,16.0,15,full
+315,Premijer Liga,Bosnia,League,false,2016,2025,true,68.0,true,soccer-bosnia-herzegovina-premijer-liga,Premijer Liga,11.0,10,full
+1151,Pernambucano - 3,Brazil,League,false,2024,2024,false,,false,,,,1,not_in_dataset
+930,Copa Uruguay,Uruguay,Cup,false,2022,2025,true,100000930.0,true,soccer-uruguay-super-cup,Supercopa Uruguaya,4.0,4,full
+1065,U19 League,Ukraine,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+671,Úrvalsdeild Women,Iceland,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+293,K League 2,South-Korea,League,true,2016,2026,true,117.0,true,soccer-south-korea-k-league-2,K-League 2,11.0,11,full
+21,Confederations Cup,World,Cup,true,2009,2017,false,,false,,,,9,not_in_dataset
+222,Regionalliga - Mitte,Austria,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+445,Tercera División RFEF - Group 7,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+793,Liga III - Serie 10,Romania,League,false,2020,2024,false,,false,,,,5,not_in_dataset
+133,Primera D,Argentina,League,false,2011,2023,false,,false,,,,13,not_in_dataset
+1048,Premier Division,Antigua-And-Barbuda,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+700,Kakkosen Cup,Finland,Cup,false,2020,2021,false,,false,,,,2,not_in_dataset
+305,Stars League,Qatar,League,true,2011,2025,true,42.0,true,soccer-qatar-stars-league,Stars League,16.0,15,full
+277,Super League,Kenya,League,false,2018,2025,true,100000277.0,true,soccer-kenya-super-league,Super League,7.0,8,full
+94,Primeira Liga,Portugal,League,true,2010,2026,true,14.0,false,,,18.0,17,full
+875,Segunda División RFEF - Group 1,Spain,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+987,U18 Premier League - Championship,England,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+834,South Australia State League 1,Australia,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+113,Allsvenskan,Sweden,League,true,2016,2026,true,29.0,true,soccer-sweden-allsvenskan,Allsvenskan,15.0,11,full
+17,AFC Champions League Elite,World,Cup,true,2016,2026,false,,false,,,,11,not_in_dataset
+722,Liga Premier Serie A,Mexico,League,false,2020,2025,true,100000722.0,true,soccer-mexico-liga-premier,Liga Premier,7.0,6,full
+742,Copa Paulista,Brazil,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+179,Premiership,Scotland,League,true,2010,2026,true,17.0,true,soccer-scotland-premiership,Premiership,18.0,17,full
+203,Süper Lig,Turkey,League,true,2011,2025,true,16.0,true,soccer-turkey-super-lig,Super Lig,16.0,15,full
+713,Superliga,Colombia,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+848,UEFA Europa Conference League,World,Cup,true,2021,2026,true,91.0,false,,,6.0,6,full
+223,Regionalliga - West,Austria,League,false,2011,2026,false,,false,,,,16,not_in_dataset
+773,Sudamericano U20,World,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+885,Campeones Cup,World,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+540,CONMEBOL Libertadores U20,World,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+492,Tweede Divisie,Netherlands,League,true,2017,2025,false,,false,,,,9,not_in_dataset
+308,Division 1,Saudi-Arabia,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+739,AXA Women’s Super League,Switzerland,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+386,Ligue 1,Ivory-Coast,League,false,2016,2025,true,100000386.0,true,soccer-ivory-coast-ligue-1,Ligue 1,11.0,10,full
+1147,Capixaba B,Brazil,League,false,2025,2027,false,,false,,,,3,not_in_dataset
+573,Srpska Liga - Vojvodina,Serbia,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+456,Tercera División RFEF - Group 18,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+427,Serie D - Girone B,Italy,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+285,Cupa României,Romania,Cup,false,2018,2025,false,,false,,,,8,not_in_dataset
+263,Liga de Expansión MX,Mexico,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+578,Gamma Ethniki - Group 3,Greece,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+154,Provincial - Brabant VFV,Belgium,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+331,Division 1,Kuwait,League,false,2017,2025,true,100000331.0,true,soccer-kuwait-division-1,Division 1,10.0,9,full
+139,Serie A Women,Italy,League,true,2016,2025,false,,false,,,,10,not_in_dataset
+106,Ekstraklasa,Poland,League,true,2018,2026,true,27.0,true,soccer-poland-ekstraklasa,Ekstraklasa,16.0,9,full
+261,National Division,Luxembourg,League,true,2011,2025,false,,false,,,,15,not_in_dataset
+614,Paranaense - 2,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+678,Super Cup,Ukraine,Cup,false,2020,2021,false,,true,soccer-ukraine-super-cup,Super Cup,,2,not_in_dataset
+745,Oberliga - Hamburg,Germany,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+235,Premier League,Russia,League,true,2016,2026,true,24.0,true,soccer-russia-premier-league,Premier League,16.0,11,full
+182,Challenge Cup,Scotland,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+238,Youth Championship,Russia,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+130,Copa Argentina,Argentina,Cup,false,2016,2026,true,100000130.0,true,soccer-argentina-copa-argentina,Copa Argentina,11.0,11,full
+353,4. liga - Divizie D,Czech-Republic,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1044,Erste Liga Cup,Switzerland,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+487,First Amateur Division,Belgium,League,true,2019,2025,false,,false,,,,7,not_in_dataset
+563,Ettan - Norra,Sweden,League,false,2016,2026,true,100000563.0,true,soccer-sweden-div-1-norra,"Ettan, Norra",11.0,11,full
+1137,Supercup der Frauen,Germany,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+645,3. liga - East,Slovakia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+721,Cup,Luxembourg,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+677,QSL Cup,Qatar,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+642,Curaçao Sekshon Pagá,Curacao,League,false,2019,2023,false,,false,,,,5,not_in_dataset
+804,Caribbean Cup,World,Cup,false,2010,2016,false,,false,,,,7,not_in_dataset
+1153,AFC U20 Asian Cup - Qualification,World,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+326,Erovnuli Liga 2,Georgia,League,false,2011,2026,false,,false,,,,16,not_in_dataset
+6,Africa Cup of Nations,World,Cup,true,2015,2025,true,82.0,false,,,8.0,11,full
+82,Frauen Bundesliga,Germany,League,true,2016,2025,false,,false,,,,10,not_in_dataset
+1075,Pro League A,Uzbekistan,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+101,J-League Cup,Japan,Cup,false,2012,2026,true,100000101.0,true,soccer-japan-j-league,J.League,15.0,15,full
+225,Landesliga - Karnten,Austria,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+952,AFC U23 Asian Cup - Qualification,World,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+25,Gulf Cup of Nations,World,Cup,false,2016,2024,false,,false,,,,9,not_in_dataset
+1092,Capital Territory NPL 2,Australia,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+409,Premier League,Namibia,League,false,2018,2018,false,,false,,,,1,not_in_dataset
+1111,NB III - Promotion Play-offs,Hungary,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+1095,USL League One Cup,USA,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+483,Copa de la Superliga,Argentina,Cup,false,2020,2020,false,,false,,,,1,not_in_dataset
+449,Tercera División RFEF - Group 11,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+398,Premier League,Bangladesh,League,false,2016,2026,true,100000398.0,true,soccer-bangladesh-premier-league,Premier League,11.0,11,full
+415,Championnat National,Benin,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+71,Serie A,Brazil,League,true,2010,2026,true,19.0,true,soccer-brazil-brasileiro-serie-a,Brasileiro Serie A,17.0,17,full
+215,Third NL - Sjever,Croatia,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+15,FIFA Club World Cup,World,Cup,true,2011,2025,true,94.0,true,soccer-international-world-cup,FIFA World Cup,11.0,15,full
+7,Asian Cup,World,Cup,true,2011,2027,true,83.0,false,,,5.0,17,partial
+839,Super Cup,Lithuania,Cup,false,2021,2026,true,100000839.0,true,soccer-lithuania-super-cup,Super Cup,6.0,6,full
+160,Provincial - Oost-Vlaanderen,Belgium,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+286,Super Liga,Serbia,League,true,2016,2026,true,63.0,true,soccer-serbia-superliga,Superliga,12.0,11,full
+1196,Division One League,Ghana,League,false,2025,2025,false,,false,,,,1,not_in_dataset
+270,Primera División - Clausura,Uruguay,League,true,2012,2025,false,,false,,,,14,not_in_dataset
+644,3. liga - West,Slovakia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+330,Premier League,Kuwait,League,false,2011,2025,true,100000330.0,true,soccer-kuwait-premier-league,Premier League,16.0,15,full
+231,Landesliga - Vorarlbergliga,Austria,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+68,National 2 - Group B,France,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+781,III Liga - Group 2,Poland,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+836,Victoria NPL 2,Australia,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+1133,Goiano - 3,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+344,Primera División,Bolivia,League,true,2018,2026,true,58.0,false,,,15.0,9,full
+1098,Paulista Série B,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+769,Premier League Asia Trophy,World,Cup,false,2019,2019,false,,false,,,,1,not_in_dataset
+788,Liga III - Serie 5,Romania,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+124,Denmark Series - Group 1,Denmark,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+1232,Copa De La Liga,Peru,Cup,true,2026,2026,false,,false,,,,1,not_in_dataset
+1025,Second League A - Division A Gold,Russia,League,false,2023,2026,false,,false,,,,4,not_in_dataset
+602,Baiano - 1,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+33,World Cup - Qualification Oceania,World,Cup,false,2018,2026,false,,false,,,,9,not_in_dataset
+824,Emir Cup,Qatar,Cup,false,2021,2026,false,,false,,,,6,not_in_dataset
+588,National League,Myanmar,League,true,2011,2025,true,100000588.0,true,soccer-myanmar-national-league,National League,15.0,15,full
+523,NISA,USA,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+746,Oberliga - Mittelrhein,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+77,Alagoano,Brazil,Cup,false,2017,2026,false,,false,,,,10,not_in_dataset
+720,Emir Cup,Kuwait,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+1131,Super Cup,Mongolia,League,false,2024,2024,false,,false,,,,1,not_in_dataset
+1083,UEFA Championship - Women - Qualification,World,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+646,3. liga - Center,Slovakia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+1042,Super Cup,Gibraltar,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+548,Super Cup,Japan,Cup,false,2020,2025,true,100000548.0,true,soccer-japan-super-cup,Super Cup,6.0,6,full
+741,Brasileiro de Aspirantes,Brazil,Cup,false,2020,2024,false,,false,,,,5,not_in_dataset
+1154,Catarinense - 3,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+536,CONCACAF Nations League,World,Cup,true,2020,2024,false,,false,,,,5,not_in_dataset
+3,UEFA Europa League,World,Cup,true,2014,2026,true,90.0,false,,,13.0,13,full
+143,Copa del Rey,Spain,Cup,true,2018,2025,true,97.0,true,soccer-spain-copa-del-rey,Copa del Rey,9.0,8,full
+613,Baiano - 2,Brazil,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+754,Oberliga - Nordost-Nord,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+516,Super Cup,Algeria,Cup,false,2018,2025,true,100000516.0,true,soccer-algeria-super-cup,Super Cup,5.0,8,partial
+372,Second League,Macedonia,League,false,2017,2026,false,,false,,,,10,not_in_dataset
+335,Cup,Ukraine,Cup,false,2011,2025,false,,false,,,,15,not_in_dataset
+730,Football League - Highland League,Scotland,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+867,Copa Paulino Alcantara,Philippines,League,false,2021,2023,false,,false,,,,3,not_in_dataset
+737,Svenska Cupen - Women,Sweden,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+29,World Cup - Qualification Africa,World,Cup,true,2018,2023,false,,false,,,,6,not_in_dataset
+1034,2. Frauen Bundesliga,Germany,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+276,FKF Premier League,Kenya,League,false,2012,2025,true,143.0,true,soccer-kenya-premier-league,Premier League,15.0,14,full
+607,Roraimense,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+1163,African Nations Championship - Qualification,World,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+440,Tercera División RFEF - Group 2,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+382,Liga Leumit,Israel,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+1031,Premier League,Bhutan,League,false,2023,2026,false,,false,,,,4,not_in_dataset
+660,WK-League,South-Korea,League,false,2020,2026,true,100000660.0,true,soccer-south-korea-wk-league,WK-League,7.0,7,full
+978,2nd Division - Play-offs,Albania,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+281,Primera División,Peru,League,true,2016,2026,true,64.0,true,soccer-peru-primera-division,Primera Division,11.0,11,full
+198,Football League,Greece,League,false,2011,2020,false,,false,,,,10,not_in_dataset
+255,USL Championship,USA,League,true,2015,2026,true,76.0,true,soccer-usa-usl-championship,USL Championship,15.0,12,full
+778,3. Division - Girone 5,Norway,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+960,Euro Championship - Qualification,World,Cup,true,2023,2023,true,87.0,false,,,2.0,1,full
+530,Super Cup,Georgia,Cup,false,2018,2026,true,100000530.0,true,soccer-georgia-cup,Georgia Cup,9.0,9,full
+805,Copa Centroamericana,World,Cup,false,2016,2016,false,,false,,,,1,not_in_dataset
+474,2. Division - Group 2,Norway,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+828,Ligue 2,Tunisia,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+210,HNL,Croatia,League,true,2016,2026,true,43.0,true,soccer-croatia-1-hnl,HNL,12.0,11,full
+334,Persha Liga,Ukraine,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+306,Second Division,Qatar,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+74,Brasileiro Women,Brazil,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+192,New South Wales NPL,Australia,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+970,CONMEBOL - U17,World,Cup,false,2023,2026,false,,false,,,,4,not_in_dataset
+1200,Liga MX U21,Mexico,League,false,2025,2025,false,,false,,,,1,not_in_dataset
+157,Provincial - Limburg,Belgium,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+1043,African Football League,World,Cup,false,2023,2023,false,,false,,,,1,not_in_dataset
+78,Bundesliga,Germany,League,true,2010,2026,true,11.0,true,soccer-germany-2nd-bundesliga,2nd Bundesliga,18.0,17,full
+766,China Cup,World,Cup,false,2017,2019,false,,false,,,,3,not_in_dataset
+49,National League - Play-offs,England,League,false,2018,2018,false,,false,,,,1,not_in_dataset
+656,Super Cup,Bulgaria,Cup,false,2020,2026,true,100000656.0,true,soccer-bulgaria-super-cup,Super Cup,6.0,7,full
+669,1. Liga Women,Czech-Republic,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+1119,NWSL - Liga MXF Summer Cup,USA,League,false,2024,2024,false,,false,,,,1,not_in_dataset
+931,Non League Premier - Southern Central,England,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+1037,Paraibano 2,Brazil,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+1045,Pan American Games,World,Cup,false,2023,2023,false,,false,,,,1,not_in_dataset
+1017,U23 League,Mexico,League,false,2023,2024,false,,false,,,,2,not_in_dataset
+1167,Recopa,Costa-Rica,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+486,Coppa,Belarus,Cup,false,2019,2026,false,,false,,,,8,not_in_dataset
+1039,Premier League International Cup,World,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+37,World Cup - Qualification Intercontinental Play-offs,World,Cup,true,2014,2026,false,,false,,,,13,not_in_dataset
+173,Second League,Bulgaria,League,false,2016,2026,true,123.0,false,,,12.0,11,full
+458,Campeonato de Portugal Prio - Group B,Portugal,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+209,Schweizer Cup,Switzerland,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+1038,King's Cup,World,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+1180,Copa LDF,Dominican-Republic,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+709,Cup,Armenia,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+1185,3. liga - Play-offs,Slovakia,League,false,2025,2025,false,,false,,,,1,not_in_dataset
+1096,Matogrossense 2,Brazil,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+1055,Ettan - Relegation Round,Sweden,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+784,Liga III - Serie 1,Romania,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+653,Second League - Group 4,Russia,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+357,Premier Division,Ireland,League,true,2019,2026,true,34.0,true,soccer-ireland-premier-division,Premier Division,15.0,8,full
+1030,Goiano - 2,Brazil,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+1207,CONCACAF Series,World,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+673,Liga MX Femenil,Mexico,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+1108,Sergipano U20,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+126,Denmark Series - Group 3,Denmark,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+168,League Cup,Iceland,Cup,false,2019,2026,false,,false,,,,8,not_in_dataset
+212,Cup,Croatia,Cup,true,2018,2025,false,,false,,,,8,not_in_dataset
+73,Copa Do Brasil,Brazil,Cup,true,2016,2026,true,100000073.0,true,soccer-brazil-copa-do-brasil,Copa do Brasil,11.0,11,full
+343,First League,Armenia,League,false,2012,2025,true,100000343.0,true,soccer-armenia-first-league,First League,15.0,14,full
+51,National League - South,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+902,Algarve Cup,World,Cup,false,2021,2021,false,,false,,,,1,not_in_dataset
+361,1 Lyga,Lithuania,League,false,2012,2026,false,,false,,,,15,not_in_dataset
+123,2nd Division - Group 2,Denmark,League,false,2015,2020,false,,false,,,,6,not_in_dataset
+951,South American Youth Games,World,Cup,false,2022,2022,false,,false,,,,1,not_in_dataset
+56,Non League Div One - Southern South,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+928,ASEAN Championship U19,World,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+189,Capital Territory NPL,Australia,League,false,2016,2026,true,100000189.0,true,soccer-australia-npl-capital-football,Capital NPL 1,11.0,11,full
+901,Ykköscup,Finland,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+734,Diski Challenge,South-Africa,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+479,Canadian Premier League,Canada,League,true,2020,2026,true,75.0,true,soccer-canada-canadian-premier-league,Canadian Premier League,13.0,7,full
+295,K3 League,South-Korea,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+617,Copa do Brasil U20,Brazil,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+554,3. Lig - Group 3,Turkey,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+851,Carioca A2,Brazil,League,false,2021,2026,true,100000851.0,true,soccer-brazil-carioca-serie-b1,"Carioca, Serie A2",6.0,6,full
+408,Premiership,Northern-Ireland,League,false,2017,2026,true,130.0,true,soccer-northern-ireland-premiership,Premiership,11.0,10,full
+299,Primera División,Venezuela,League,false,2011,2026,true,72.0,true,soccer-venezuela-primera-division,Primera Division,16.0,16,full
+688,Regionalliga - Salzburg,Austria,League,false,2020,2022,false,,false,,,,3,not_in_dataset
+421,Division di Honor,Aruba,League,true,2013,2025,false,,false,,,,13,not_in_dataset
+643,3. liga - Bratislava,Slovakia,League,false,2020,2021,false,,false,,,,2,not_in_dataset
+519,Super Cup,Belgium,Cup,false,2015,2024,true,100000519.0,true,soccer-belgium-super-cup,Super Cup,10.0,10,full
+945,International Champions Cup - Women,World,Cup,false,2022,2022,false,,false,,,,1,not_in_dataset
+515,U21 League 1,Algeria,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+184,League Two,Scotland,League,false,2015,2026,true,105.0,false,,,13.0,12,full
+220,Cup,Austria,Cup,false,2011,2026,false,,false,,,,16,not_in_dataset
+318,1. Division,Cyprus,League,true,2018,2025,true,44.0,false,,,9.0,8,full
+1064,Second League A - Spring Season Silver,Russia,League,false,2023,2024,false,,false,,,,2,not_in_dataset
+485,Federation Cup,Bahrain,Cup,false,2019,2023,false,,false,,,,5,not_in_dataset
+1093,Tasmania Southern Championship,Australia,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+744,Oberliga - Schleswig-Holstein,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+908,ASEAN Championship U23,World,Cup,false,2022,2025,false,,false,,,,4,not_in_dataset
+275,Liga 2,Indonesia,League,false,2019,2025,true,100000275.0,true,soccer-indonesia-liga-2,Liga 2,8.0,7,full
+418,Birinci Dasta,Azerbaijan,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+140,La Liga,Spain,League,true,2010,2026,true,5.0,true,soccer-spain-laliga,La Liga,18.0,17,full
+535,CECAFA Senior Challenge Cup,World,Cup,false,2012,2021,false,,false,,,,10,not_in_dataset
+399,NPFL,Nigeria,League,false,2016,2026,true,142.0,false,,,11.0,11,full
+603,Paraibano,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+816,Shield Cup,Jordan,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+842,Super Copa,Uruguay,Cup,false,2021,2026,false,,false,,,,6,not_in_dataset
+432,Serie D - Girone G,Italy,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+725,Toppserien,Norway,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+137,Coppa Italia,Italy,Cup,true,2016,2026,true,99.0,true,soccer-italy-coppa-italia,Coppa Italia,11.0,11,full
+1164,CAF Women's Champions League,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+1036,Copa Santa Catarina,Brazil,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+12,CAF Champions League,World,Cup,true,2019,2025,false,,false,,,,7,not_in_dataset
+500,FA Cup,Malaysia,Cup,true,2020,2025,true,100000500.0,true,soccer-malaysia-fa-cup,FA Cup,5.0,6,full
+682,Campeonato de Portugal Prio - Group F,Portugal,League,false,2020,2021,false,,false,,,,2,not_in_dataset
+274,Liga 1,Indonesia,League,false,2017,2025,true,133.0,true,soccer-indonesia-liga-1,Liga 1,11.0,9,full
+243,Liga Pro Serie B,Ecuador,League,false,2012,2026,true,100000243.0,true,soccer-ecuador-ligapro-primera-a,LigaPro Primera A,15.0,15,full
+348,3. liga - CFL A,Czech-Republic,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+903,The Atlantic Cup,World,Cup,false,2021,2026,false,,false,,,,6,not_in_dataset
+496,Liga Alef,Israel,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+1052,Kakkonen - Play-offs,Finland,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+732,Cup,Serbia,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+703,Professional Development League,England,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+365,Virsliga,Latvia,League,false,2012,2026,true,74.0,true,soccer-latvia-virsliga,Virsliga,15.0,15,full
+701,Liga Revelação U23,Portugal,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+1126,Esiliiga B,Estonia,League,false,2024,2026,false,,false,,,,3,not_in_dataset
+376,National Football League,Fiji,League,false,2013,2025,false,,false,,,,13,not_in_dataset
+659,Super Cup,Israel,Cup,false,2020,2026,true,100000659.0,true,soccer-israel-super-cup,Super Cup,7.0,7,full
+947,DFB Pokal - Women,Germany,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+1190,Super Cup Women,Netherlands,Cup,false,2024,2024,false,,false,,,,1,not_in_dataset
+807,AFC Challenge Cup,World,Cup,false,2014,2014,false,,false,,,,1,not_in_dataset
+302,League Cup,United-Arab-Emirates,Cup,true,2011,2025,true,100000302.0,true,soccer-united-arab-emirates-fa-cup,FA Cup,16.0,15,full
+271,NB I,Hungary,League,true,2011,2026,true,47.0,false,,,17.0,16,full
+475,Paulista - A1,Brazil,League,true,2020,2026,false,,false,,,,7,not_in_dataset
+920,World Cup - U20 - Women,World,Cup,false,2022,2024,false,,false,,,,3,not_in_dataset
+1169,EAFF E-1 Football Championship - Qualification,World,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+297,Thai League 2,Thailand,League,false,2012,2025,true,100000297.0,true,soccer-thailand-thai-league-2,Thai League 2,15.0,14,full
+923,League 1 Ontario,Canada,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+1199,League Cup,Hong-Kong,Cup,false,2025,2025,false,,false,,,,1,not_in_dataset
+895,League Cup,Egypt,Cup,false,2021,2025,false,,false,,,,5,not_in_dataset
+992,Football League - Championship,Scotland,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+1005,1. Liga Classic - Play-offs,Switzerland,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+881,Olympics Men - Qualification Concacaf,World,Cup,false,2020,2020,false,,false,,,,1,not_in_dataset
+87,Regionalliga - West,Germany,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+1077,WAFF Championship U23,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+282,Segunda División,Peru,League,false,2016,2026,true,100000282.0,true,soccer-peru-segunda-division,Segunda Division,11.0,11,full
+303,Division 1,United-Arab-Emirates,League,false,2011,2025,false,,false,,,,15,not_in_dataset
+1129,ASEAN Club Championship,World,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+1234,K4 League,South-Korea,League,false,2026,2026,false,,false,,,,1,not_in_dataset
+161,Provincial - West-Vlaanderen,Belgium,League,false,2019,2024,false,,false,,,,6,not_in_dataset
+985,National League - South - Play-offs,England,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+1209,Guangdong - Hong Kong Cup,Hong-Kong,Cup,false,2026,2026,false,,false,,,,1,not_in_dataset
+178,Third League - Southwest,Bulgaria,League,false,2018,2025,false,,false,,,,8,not_in_dataset
+814,Reykjavik Cup,Iceland,Cup,false,2021,2026,false,,false,,,,6,not_in_dataset
+52,Non League Div One - Isthmian North,England,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+571,Vysshaya Liga,Tajikistan,League,false,2011,2026,false,,false,,,,16,not_in_dataset
+1101,AFC U17 Asian Cup - Women,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+1113,Copa Venezuela,Venezuela,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+971,Shield Cup,Kenya,Cup,false,2022,2026,false,,false,,,,5,not_in_dataset
+790,Liga III - Serie 7,Romania,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+866,MLS All-Star,USA,Cup,false,2021,2026,false,,false,,,,6,not_in_dataset
+999,Serie D - Championship Round,Italy,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+1003,Regionalliga - Relegation Round,Germany,League,false,2022,2024,false,,false,,,,3,not_in_dataset
+611,Capixaba,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+893,UEFA U19 Championship - Qualification,World,Cup,false,2022,2027,false,,false,,,,6,not_in_dataset
+229,Landesliga - Steiermark,Austria,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+628,Goiano - 1,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+752,Oberliga - Rheinland-Pfalz / Saar,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+544,FA Cup,Hong-Kong,Cup,false,2018,2026,true,100000544.0,true,soccer-hong-kong-fa-cup,FA Cup,9.0,9,full
+968,Championnat D1,Gabon,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+1140,AFC Women's Champions League,World,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+1227,Premier League Women,Saudi-Arabia,League,false,2026,2026,false,,false,,,,1,not_in_dataset
+151,Third Amateur Division - VFV A,Belgium,League,false,2018,2024,false,,false,,,,7,not_in_dataset
+591,Pro League,Trinidad-And-Tobago,League,false,2011,2026,false,,false,,,,16,not_in_dataset
+498,Cup,Kazakhstan,Cup,false,2017,2026,false,,false,,,,10,not_in_dataset
+505,League Cup,Singapore,Cup,false,2013,2017,false,,true,soccer-singapore-fa-cup,FA Cup,,5,not_in_dataset
+974,Serie C - Supercoppa Lega Finals,Italy,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+933,Non League Div One - Southern Central,England,League,false,2022,2025,false,,false,,,,4,not_in_dataset
+441,Tercera División RFEF - Group 3,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+439,Tercera División RFEF - Group 1,Spain,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+34,World Cup - Qualification South America,World,Cup,true,2018,2026,true,85.0,false,,,9.0,9,full
+128,Liga Profesional Argentina,Argentina,League,true,2015,2026,true,28.0,true,soccer-argentina-superliga,Liga Profesional,15.0,12,full
+679,U21 League,Ukraine,League,false,2020,2020,false,,false,,,,1,not_in_dataset
+100,J3 League,Japan,League,false,2012,2026,false,,false,,,,15,not_in_dataset
+70,National 2 - Group D,France,League,false,2011,2023,false,,false,,,,13,not_in_dataset
+117,1. Division,Belarus,League,false,2012,2026,false,,false,,,,15,not_in_dataset
+606,Paranaense - 1,Brazil,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+636,Ýokary Liga,Turkmenistan,League,false,2020,2026,false,,false,,,,7,not_in_dataset
+718,Piala Indonesia,Indonesia,Cup,false,2018,2018,false,,false,,,,1,not_in_dataset
+534,CONCACAF Caribbean Club Shield,World,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+355,First League,Montenegro,League,false,2018,2026,false,,false,,,,9,not_in_dataset
+748,Oberliga - Niedersachsen,Germany,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+727,Super Cup,Poland,Cup,false,2020,2025,true,100000727.0,true,soccer-poland-super-cup,Super Cup,5.0,6,full
+86,Regionalliga - SudWest,Germany,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+132,Primera C,Argentina,League,false,2011,2026,false,,false,,,,16,not_in_dataset
+509,8 Cup,South-Africa,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+181,FA Cup,Scotland,Cup,true,2019,2025,false,,false,,,,7,not_in_dataset
+1134,Amazonense - 2,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+936,Catarinense - 2,Brazil,League,false,2022,2026,false,,false,,,,5,not_in_dataset
+1123,UAE-Qatar - Super Cup,World,Cup,false,2024,2026,false,,false,,,,3,not_in_dataset
+378,Ligue 1,Guinea,League,false,2014,2025,false,,false,,,,12,not_in_dataset
+1141,Brasiliense B,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+338,Primera Division,Guatemala,League,false,2011,2024,true,100000338.0,true,soccer-guatemala-primera-division,Primera Division,15.0,14,full
+622,Pernambucano - 1,Brazil,League,true,2020,2026,false,,false,,,,7,not_in_dataset
+195,Victoria NPL,Australia,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+31,World Cup - Qualification CONCACAF,World,Cup,true,2018,2026,true,86.0,false,,,7.0,9,full
+484,Frauenliga,Austria,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+345,Czech Liga,Czech-Republic,League,true,2018,2026,true,36.0,true,soccer-czech-republic-cup,Czech Cup,10.0,9,full
+569,Premier League,Kyrgyzstan,League,false,2016,2026,false,,false,,,,11,not_in_dataset
+127,Denmark Series - Group 4,Denmark,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+1150,Gaúcho - 3,Brazil,League,false,2024,2025,false,,false,,,,2,not_in_dataset
+510,1. Liga Promotion,Switzerland,League,false,2017,2026,false,,false,,,,10,not_in_dataset
+666,Friendlies Women,World,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+672,David Kipiani Cup,Georgia,Cup,false,2020,2026,false,,false,,,,7,not_in_dataset
+360,League Cup,Ireland,Cup,false,2019,2020,false,,false,,,,2,not_in_dataset
+390,Premier League,Lebanon,League,false,2011,2025,true,100000390.0,true,soccer-lebanon-premier-league,Premier League,16.0,15,full
+577,Gamma Ethniki - Group 2,Greece,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+853,Supercopa de Ecuador,Ecuador,Cup,false,2021,2026,false,,false,,,,6,not_in_dataset
+820,Crown Prince Cup,Kuwait,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+589,Taiwan Football Premier League,Chinese-Taipei,League,false,2017,2025,false,,false,,,,9,not_in_dataset
+313,2a Divisió,Andorra,League,false,2011,2024,false,,false,,,,14,not_in_dataset
+350,4. liga - Divizie A,Czech-Republic,League,false,2019,2026,false,,false,,,,8,not_in_dataset
+665,Cup,Kosovo,Cup,false,2019,2025,false,,false,,,,7,not_in_dataset
+258,Canadian Soccer League,Canada,League,false,2017,2025,false,,false,,,,9,not_in_dataset
+92,Derde Divisie - Saturday,Netherlands,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+953,Africa U23 Cup of Nations - Qualification,World,Cup,false,2022,2022,false,,false,,,,1,not_in_dataset
+559,League Cup,Northern-Ireland,Cup,false,2017,2025,false,,false,,,,9,not_in_dataset
+99,J2 League,Japan,League,false,2012,2025,true,118.0,false,,,15.0,14,full
+461,National 3 - Group A,France,League,false,2019,2025,false,,false,,,,7,not_in_dataset
+190,A-League Women,Australia,League,false,2016,2025,false,,false,,,,10,not_in_dataset
+152,Third Amateur Division - VFV B,Belgium,League,false,2018,2024,false,,false,,,,7,not_in_dataset
+1049,King's Cup,Bahrain,Cup,false,2023,2025,false,,false,,,,3,not_in_dataset
+1053,Division 2 - Play-offs,Sweden,League,false,2023,2025,false,,false,,,,3,not_in_dataset
+406,Professional League,Oman,League,true,2011,2025,false,,false,,,,15,not_in_dataset
+570,Premier League,Ghana,League,false,2011,2025,true,141.0,true,soccer-ghana-premier-league,Premier League,17.0,15,full
+872,Liga Premier Serie B,Mexico,League,false,2021,2025,false,,false,,,,5,not_in_dataset
+1171,Coppa Italia Women,Italy,Cup,false,2024,2025,false,,false,,,,2,not_in_dataset
+537,CONCACAF U20,World,Cup,false,2018,2026,false,,false,,,,9,not_in_dataset
+478,Gaúcho - 2,Brazil,League,false,2020,2025,false,,false,,,,6,not_in_dataset
+88,Eredivisie,Netherlands,League,true,2010,2026,true,13.0,true,soccer-netherlands-eredivisie,Eredivisie,18.0,17,full
+269,Segunda División,Uruguay,League,false,2011,2026,true,100000269.0,true,soccer-uruguay-segunda-division,Segunda Division,16.0,16,full
+877,Segunda División RFEF - Group 3,Spain,League,false,2021,2026,false,,false,,,,6,not_in_dataset
+200,Botola Pro,Morocco,League,true,2016,2025,true,39.0,false,,,15.0,10,full
+821,FA Trophy,Malta,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+674,Cupa,Moldova,Cup,false,2020,2025,false,,false,,,,6,not_in_dataset
+1072,All Africa Games,World,Cup,false,2023,2023,false,,true,soccer-international-clubs-club-friendly-games,Club Friendly Games,,1,not_in_dataset
+26,International Champions Cup,World,Cup,false,2016,2019,false,,false,,,,4,not_in_dataset
+437,Primera División RFEF - Group 3,Spain,League,false,2019,2020,false,,false,,,,2,not_in_dataset

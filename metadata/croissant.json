@@ -1,0 +1,236 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "sc": "https://schema.org/",
+    "dataType": "cr:dataType"
+  },
+  "@type": "sc:Dataset",
+  "name": "soccer-dataset",
+  "version": "1.0.0",
+  "description": "Cleaned, quality-gated global football match data (fixtures, xG stats, odds, lineups, players) for BTTS/goals modelling.",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "url": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "fixtures.parquet",
+      "name": "fixtures.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixtures.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "match_stats.parquet",
+      "name": "match_stats.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/match_stats.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "odds.parquet",
+      "name": "odds.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/odds.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "fixture_lineups.parquet",
+      "name": "fixture_lineups.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixture_lineups.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "teams.parquet",
+      "name": "teams.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/teams.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "players.parquet",
+      "name": "players.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/players.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "leagues.parquet",
+      "name": "leagues.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/leagues.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "fixture_players.parquet",
+      "name": "fixture_players.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixture_players.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "fixture_players_stats_flat.parquet",
+      "name": "fixture_players_stats_flat.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixture_players_stats_flat.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "league_catalogue.parquet",
+      "name": "league_catalogue.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/league_catalogue.parquet",
+      "encodingFormat": "application/x-parquet"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "xg_training.parquet",
+      "name": "xg_training.parquet",
+      "contentUrl": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/xg_training.parquet",
+      "encodingFormat": "application/x-parquet"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "fixtures",
+      "name": "fixtures",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/id",
+          "name": "id",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/date_utc",
+          "name": "date_utc",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/league_id",
+          "name": "league_id",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/home_team_id",
+          "name": "home_team_id",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/away_team_id",
+          "name": "away_team_id",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/goals_home",
+          "name": "goals_home",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/goals_away",
+          "name": "goals_away",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/status_norm",
+          "name": "status_norm",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/is_played",
+          "name": "is_played",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fixtures/btts",
+          "name": "btts",
+          "dataType": "sc:Text"
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "match_stats",
+      "name": "match_stats",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "match_stats/fixture_id",
+          "name": "fixture_id",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "match_stats/home_xg",
+          "name": "home_xg",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "match_stats/away_xg",
+          "name": "away_xg",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "match_stats/home_shots_total",
+          "name": "home_shots_total",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "match_stats/xg_covered",
+          "name": "xg_covered",
+          "dataType": "sc:Text"
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "odds",
+      "name": "odds",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "odds/fixture_id",
+          "name": "fixture_id",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "odds/home_win",
+          "name": "home_win",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "odds/draw",
+          "name": "draw",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "odds/away_win",
+          "name": "away_win",
+          "dataType": "sc:Text"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "odds/bookmaker",
+          "name": "bookmaker",
+          "dataType": "sc:Text"
+        }
+      ]
+    }
+  ]
+}

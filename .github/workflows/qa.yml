@@ -1,0 +1,22 @@
+name: Data QA
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install QA deps
+        run: pip install --quiet pandas pandera pyarrow frictionless
+      - name: Validate samples + metadata (pandera contracts, datapackage, croissant)
+        run: python scripts/ci_check.py
+      - name: Validate Frictionless datapackage metadata
+        run: |
+          python -c "from frictionless import Package; p=Package('metadata/datapackage.json'); assert len(p.resources)>=10; print('datapackage OK:', len(p.resources), 'resources')"

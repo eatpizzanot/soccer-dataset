@@ -1,0 +1,2567 @@
+[
+  {
+    "key": "soccer-albania-kategoria-superiore",
+    "name": "Kategoria Superiore",
+    "category_key": "albania",
+    "category_name": "Albania",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-algeria-ligue-1",
+    "name": "Ligue 1",
+    "category_key": "algeria",
+    "category_name": "Algeria",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-algeria-super-cup",
+    "name": "Super Cup",
+    "category_key": "algeria",
+    "category_name": "Algeria",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-argentina-copa-argentina",
+    "name": "Copa Argentina",
+    "category_key": "argentina",
+    "category_name": "Argentina",
+    "max_events": 6,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-argentina-superliga",
+    "name": "Liga Profesional",
+    "category_key": "argentina",
+    "category_name": "Argentina",
+    "max_events": 3,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-argentina-primera-b",
+    "name": "Primera B",
+    "category_key": "argentina",
+    "category_name": "Argentina",
+    "max_events": 7,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-argentina-primera-division",
+    "name": "Primera Division",
+    "category_key": "argentina",
+    "category_name": "Argentina",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-argentina-primera-nacional",
+    "name": "Primera Nacional",
+    "category_key": "argentina",
+    "category_name": "Argentina",
+    "max_events": 20,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-argentina-super-cup",
+    "name": "Super Cup",
+    "category_key": "argentina",
+    "category_name": "Argentina",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-armenia-first-league",
+    "name": "First League",
+    "category_key": "armenia",
+    "category_name": "Armenia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-armenia-premier-league",
+    "name": "Premier League",
+    "category_key": "armenia",
+    "category_name": "Armenia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-armenia-super-cup",
+    "name": "Super Cup",
+    "category_key": "armenia",
+    "category_name": "Armenia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-aruba-cup",
+    "name": "Cup",
+    "category_key": "aruba",
+    "category_name": "Aruba",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-australia-tbd94-australia-npl-queensland-youth-league-u23",
+    "name": "Australia NPL Queensland Youth League U23",
+    "category_key": "australia",
+    "category_name": "Australia",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-australia-brisbane-premier-league",
+    "name": "Brisbane Premier League",
+    "category_key": "australia",
+    "category_name": "Australia",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-australia-npl-capital-football",
+    "name": "Capital NPL 1",
+    "category_key": "australia",
+    "category_name": "Australia",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-australia-npl-northern-new-south-wales",
+    "name": "Northern NSW NPL",
+    "category_key": "australia",
+    "category_name": "Australia",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-australia-npl-queensland-women",
+    "name": "Queensland NPL, Women",
+    "category_key": "australia",
+    "category_name": "Australia",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-australia-t6bac-queensland-premier-league-2",
+    "name": "Queensland Premier League 2",
+    "category_key": "australia",
+    "category_name": "Australia",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-australia-t7d56-queensland-premier-league-3",
+    "name": "Queensland Premier League 3",
+    "category_key": "australia",
+    "category_name": "Australia",
+    "max_events": 9,
+    "times_seen": 0,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-australia-super-cup",
+    "name": "Super Cup",
+    "category_key": "australia",
+    "category_name": "Australia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-austria-2-liga",
+    "name": "2. Liga",
+    "category_key": "austria",
+    "category_name": "Austria",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-austria-bundesliga",
+    "name": "Bundesliga",
+    "category_key": "austria",
+    "category_name": "Austria",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-azerbaijan-first-division",
+    "name": "First Division",
+    "category_key": "azerbaijan",
+    "category_name": "Azerbaijan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-azerbaijan-premier-league",
+    "name": "Premier League",
+    "category_key": "azerbaijan",
+    "category_name": "Azerbaijan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-bahrain-premier-league",
+    "name": "Premier League",
+    "category_key": "bahrain",
+    "category_name": "Bahrain",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-bangladesh-championship",
+    "name": "Championship",
+    "category_key": "bangladesh",
+    "category_name": "Bangladesh",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-bangladesh-premier-league",
+    "name": "Premier League",
+    "category_key": "bangladesh",
+    "category_name": "Bangladesh",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-barbados-premier-league",
+    "name": "Premier League",
+    "category_key": "barbados",
+    "category_name": "Barbados",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-belarus-super-cup",
+    "name": "Super Cup",
+    "category_key": "belarus",
+    "category_name": "Belarus",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-belarus-vysshaya-liga",
+    "name": "Vysshaya Liga",
+    "category_key": "belarus",
+    "category_name": "Belarus",
+    "max_events": 9,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-belgium-pro-league",
+    "name": "Pro League",
+    "category_key": "belgium",
+    "category_name": "Belgium",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-belgium-super-cup",
+    "name": "Super Cup",
+    "category_key": "belgium",
+    "category_name": "Belgium",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-bolivia-division-profesional",
+    "name": "Division Profesional",
+    "category_key": "bolivia",
+    "category_name": "Bolivia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-bosnia-herzegovina-premijer-liga",
+    "name": "Premijer Liga",
+    "category_key": "bosnia-herzegovina",
+    "category_name": "Bosnia & Herzegovina",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-botswana-premier-league",
+    "name": "Premier League",
+    "category_key": "botswana",
+    "category_name": "Botswana",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-brazil-brasileiro-serie-a",
+    "name": "Brasileiro Serie A",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 17,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-brasileiro-serie-b",
+    "name": "Brasileiro Serie B",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 16,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-brasileiro-serie-c",
+    "name": "Brasileiro Serie C",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 3,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-carioca-serie-b1",
+    "name": "Carioca, Serie A2",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-catarinense",
+    "name": "Catarinense",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-t7373-copa-espirito-santo",
+    "name": "Copa Espirito Santo",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-copa-do-brasil",
+    "name": "Copa do Brasil",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 8,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-mineiro-modulo-ii",
+    "name": "Mineiro, Modulo II",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 6,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-serie-a",
+    "name": "Serie A",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-brazil-ta742-u20-brasileiro-serie-b",
+    "name": "U20 Brasileiro Serie B",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-u20-campeonato-brasileiro",
+    "name": "U20 Campeonato Brasileiro",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 13,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-t8dec-u20-carioca-serie-a",
+    "name": "U20 Carioca, Serie A",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 10,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-brazil-t8160-u20-paraibano",
+    "name": "U20 Paraibano",
+    "category_key": "brazil",
+    "category_name": "Brazil",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-bulgaria-first-professional-league",
+    "name": "Parva Liga",
+    "category_key": "bulgaria",
+    "category_name": "Bulgaria",
+    "max_events": 7,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-bulgaria-super-cup",
+    "name": "Super Cup",
+    "category_key": "bulgaria",
+    "category_name": "Bulgaria",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-burundi-cup",
+    "name": "Cup",
+    "category_key": "burundi",
+    "category_name": "Burundi",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-burundi-premier-league",
+    "name": "Premier League",
+    "category_key": "burundi",
+    "category_name": "Burundi",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-burundi-super-cup",
+    "name": "Super Cup",
+    "category_key": "burundi",
+    "category_name": "Burundi",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-cameroon-elite-one",
+    "name": "Elite One",
+    "category_key": "cameroon",
+    "category_name": "Cameroon",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-canada-canadian-premier-league",
+    "name": "Canadian Premier League",
+    "category_key": "canada",
+    "category_name": "Canada",
+    "max_events": 6,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-chile-copa-chile",
+    "name": "Copa Chile",
+    "category_key": "chile",
+    "category_name": "Chile",
+    "max_events": 7,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-chile-primera-division",
+    "name": "Primera Division",
+    "category_key": "chile",
+    "category_name": "Chile",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-chile-segunda-division",
+    "name": "Segunda Division",
+    "category_key": "chile",
+    "category_name": "Chile",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-chile-super-cup",
+    "name": "Supercup",
+    "category_key": "chile",
+    "category_name": "Chile",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-china-tbf00-china-u20-league",
+    "name": "China U20 League",
+    "category_key": "china",
+    "category_name": "China",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-china-chinese-super-league",
+    "name": "Chinese Super League",
+    "category_key": "china",
+    "category_name": "China",
+    "max_events": 8,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-china-fa-cup",
+    "name": "FA Cup",
+    "category_key": "china",
+    "category_name": "China",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-china-super-league",
+    "name": "Super League",
+    "category_key": "china",
+    "category_name": "China",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-colombia-primera-a",
+    "name": "Primera A",
+    "category_key": "colombia",
+    "category_name": "Colombia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-colombia-primera-a-clausura",
+    "name": "Primera A, Clausura",
+    "category_key": "colombia",
+    "category_name": "Colombia",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-costa-rica-primera-division",
+    "name": "Primera Division",
+    "category_key": "costa-rica",
+    "category_name": "Costa Rica",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-croatia-1-hnl",
+    "name": "HNL",
+    "category_key": "croatia",
+    "category_name": "Croatia",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-croatia-super-cup",
+    "name": "Super Cup",
+    "category_key": "croatia",
+    "category_name": "Croatia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-cuba-primera-division",
+    "name": "Primera Division",
+    "category_key": "cuba",
+    "category_name": "Cuba",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-cyprus-super-cup",
+    "name": "Super Cup",
+    "category_key": "cyprus",
+    "category_name": "Cyprus",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-czech-republic-1-liga",
+    "name": "1. Liga",
+    "category_key": "czech-republic",
+    "category_name": "Czechia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-czech-republic-cup",
+    "name": "Czech Cup",
+    "category_key": "czech-republic",
+    "category_name": "Czechia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-czech-republic-super-cup",
+    "name": "Super Cup",
+    "category_key": "czech-republic",
+    "category_name": "Czechia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-denmark-1st-division",
+    "name": "1. Division",
+    "category_key": "denmark",
+    "category_name": "Denmark",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-denmark-superligaen",
+    "name": "Superliga",
+    "category_key": "denmark",
+    "category_name": "Denmark",
+    "max_events": 8,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-ecuador-ligapro-primera-a",
+    "name": "LigaPro Primera A",
+    "category_key": "ecuador",
+    "category_name": "Ecuador",
+    "max_events": 12,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-egypt-premier-league",
+    "name": "Premier League",
+    "category_key": "egypt",
+    "category_name": "Egypt",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-el-salvador-segunda-division",
+    "name": "Segunda Division",
+    "category_key": "el-salvador",
+    "category_name": "El Salvador",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-england-championship",
+    "name": "Championship",
+    "category_key": "england",
+    "category_name": "England",
+    "max_events": 14,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-england-community-shield",
+    "name": "Community Shield",
+    "category_key": "england",
+    "category_name": "England",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-england-fa-cup",
+    "name": "FA Cup",
+    "category_key": "england",
+    "category_name": "England",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-england-league-one",
+    "name": "League One",
+    "category_key": "england",
+    "category_name": "England",
+    "max_events": 14,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-england-league-two",
+    "name": "League Two",
+    "category_key": "england",
+    "category_name": "England",
+    "max_events": 14,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-england-national-league",
+    "name": "National League",
+    "category_key": "england",
+    "category_name": "England",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-england-premier-league",
+    "name": "Premier League",
+    "category_key": "england",
+    "category_name": "England",
+    "max_events": 33,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-estonia-cup",
+    "name": "Cup",
+    "category_key": "estonia",
+    "category_name": "Estonia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-estonia-esiliiga",
+    "name": "Esiliiga",
+    "category_key": "estonia",
+    "category_name": "Estonia",
+    "max_events": 2,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-estonia-meistriliiga",
+    "name": "Meistriliiga",
+    "category_key": "estonia",
+    "category_name": "Estonia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-estonia-super-cup",
+    "name": "Super Cup",
+    "category_key": "estonia",
+    "category_name": "Estonia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-ethiopia-premier-league",
+    "name": "Premier League",
+    "category_key": "ethiopia",
+    "category_name": "Ethiopia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-finland-tbe81-finland-kakkonen-cup",
+    "name": "Finland Kakkonen Cup",
+    "category_key": "finland",
+    "category_name": "Finland",
+    "max_events": 4,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-finland-kakkonen-group-a",
+    "name": "Kakkonen, Group A",
+    "category_key": "finland",
+    "category_name": "Finland",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-finland-suomen-cup",
+    "name": "Suomen Cup",
+    "category_key": "finland",
+    "category_name": "Finland",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-finland-veikkausliiga",
+    "name": "Veikkausliiga",
+    "category_key": "finland",
+    "category_name": "Finland",
+    "max_events": 5,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-finland-ykkonen",
+    "name": "Ykkonen",
+    "category_key": "finland",
+    "category_name": "Finland",
+    "max_events": 5,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-france-coupe-de-france",
+    "name": "Coupe de France",
+    "category_key": "france",
+    "category_name": "France",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-france-tbf36-france-play-offs",
+    "name": "France Play-offs",
+    "category_key": "france",
+    "category_name": "France",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-france-ligue-1",
+    "name": "Ligue 1",
+    "category_key": "france",
+    "category_name": "France",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-france-ligue-2",
+    "name": "Ligue 2",
+    "category_key": "france",
+    "category_name": "France",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-france-national",
+    "name": "National",
+    "category_key": "france",
+    "category_name": "France",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-france-super-cup",
+    "name": "Super Cup",
+    "category_key": "france",
+    "category_name": "France",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-france-trophee-des-champions",
+    "name": "Troph\u00e9e des Champions",
+    "category_key": "france",
+    "category_name": "France",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-georgia-first-league",
+    "name": "First League",
+    "category_key": "georgia",
+    "category_name": "Georgia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-georgia-cup",
+    "name": "Georgia Cup",
+    "category_key": "georgia",
+    "category_name": "Georgia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-georgia-super-cup",
+    "name": "Super Cup",
+    "category_key": "georgia",
+    "category_name": "Georgia",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-germany-2nd-bundesliga",
+    "name": "2nd Bundesliga",
+    "category_key": "germany",
+    "category_name": "Germany",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-germany-3rd-liga",
+    "name": "3. Liga",
+    "category_key": "germany",
+    "category_name": "Germany",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-germany-bundesliga",
+    "name": "Bundesliga",
+    "category_key": "germany",
+    "category_name": "Germany",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-germany-dfb-pokal",
+    "name": "DFB Pokal",
+    "category_key": "germany",
+    "category_name": "Germany",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-germany-super-cup",
+    "name": "Super Cup",
+    "category_key": "germany",
+    "category_name": "Germany",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-ghana-fa-cup",
+    "name": "FA Cup",
+    "category_key": "ghana",
+    "category_name": "Ghana",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-ghana-premier-league",
+    "name": "Premier League",
+    "category_key": "ghana",
+    "category_name": "Ghana",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-ghana-super-cup",
+    "name": "Super Cup",
+    "category_key": "ghana",
+    "category_name": "Ghana",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-gibraltar-cup",
+    "name": "Cup",
+    "category_key": "gibraltar",
+    "category_name": "Gibraltar",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-gibraltar-premier-division",
+    "name": "Premier Division",
+    "category_key": "gibraltar",
+    "category_name": "Gibraltar",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-greece-super-cup",
+    "name": "Super Cup",
+    "category_key": "greece",
+    "category_name": "Greece",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-greece-super-league",
+    "name": "Super League",
+    "category_key": "greece",
+    "category_name": "Greece",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-greece-super-league-1",
+    "name": "Super League 1",
+    "category_key": "greece",
+    "category_name": "Greece",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-guatemala-cup",
+    "name": "Cup",
+    "category_key": "guatemala",
+    "category_name": "Guatemala",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-guatemala-primera-division",
+    "name": "Primera Division",
+    "category_key": "guatemala",
+    "category_name": "Guatemala",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-hong-kong-fa-cup",
+    "name": "FA Cup",
+    "category_key": "hong-kong",
+    "category_name": "Hong Kong",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-hong-kong-premier-league",
+    "name": "Premier League",
+    "category_key": "hong-kong",
+    "category_name": "Hong Kong",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-hungary-super-cup",
+    "name": "Super Cup",
+    "category_key": "hungary",
+    "category_name": "Hungary",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-iceland-2-deild",
+    "name": "2. deild",
+    "category_key": "iceland",
+    "category_name": "Iceland",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-iceland-t9038-besta-deild",
+    "name": "Besta deild",
+    "category_key": "iceland",
+    "category_name": "Iceland",
+    "max_events": 6,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-iceland-cup",
+    "name": "Cup",
+    "category_key": "iceland",
+    "category_name": "Iceland",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-iceland-super-cup",
+    "name": "Super Cup",
+    "category_key": "iceland",
+    "category_name": "Iceland",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-india-durand-cup",
+    "name": "Durand Cup",
+    "category_key": "india",
+    "category_name": "India",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-indonesia-liga-1",
+    "name": "Liga 1",
+    "category_key": "indonesia",
+    "category_name": "Indonesia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-indonesia-liga-2",
+    "name": "Liga 2",
+    "category_key": "indonesia",
+    "category_name": "Indonesia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-international-world-cup",
+    "name": "FIFA World Cup",
+    "category_key": "international",
+    "category_name": "International",
+    "max_events": 83,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-international-uefa-nations-league",
+    "name": "UEFA Nations League",
+    "category_key": "international",
+    "category_name": "International",
+    "max_events": 10,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-international-clubs-club-friendly-games",
+    "name": "Club Friendly Games",
+    "category_key": "international-clubs",
+    "category_name": "International Clubs",
+    "max_events": 27,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-international-clubs-copa-libertadores",
+    "name": "Copa Libertadores",
+    "category_key": "international-clubs",
+    "category_name": "International Clubs",
+    "max_events": 11,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-international-clubs-copa-sudamericana",
+    "name": "Copa Sudamericana",
+    "category_key": "international-clubs",
+    "category_name": "International Clubs",
+    "max_events": 8,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-international-clubs-uefa-champions-league",
+    "name": "UEFA Champions League",
+    "category_key": "international-clubs",
+    "category_name": "International Clubs",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-international-clubs-uefa-super-cup",
+    "name": "UEFA Super Cup",
+    "category_key": "international-clubs",
+    "category_name": "International Clubs",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-international-youth-u19-european-championship",
+    "name": "U19 European Championship",
+    "category_key": "international-youth",
+    "category_name": "International Youth",
+    "max_events": 4,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-iran-azadegan-league",
+    "name": "Azadegan League",
+    "category_key": "iran",
+    "category_name": "Iran",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-iran-cup",
+    "name": "Cup",
+    "category_key": "iran",
+    "category_name": "Iran",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-iran-pro-league",
+    "name": "Pro League",
+    "category_key": "iran",
+    "category_name": "Iran",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-israel-national-league",
+    "name": "National League",
+    "category_key": "israel",
+    "category_name": "Israel",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-israel-premier-league",
+    "name": "Premier League",
+    "category_key": "israel",
+    "category_name": "Israel",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-israel-super-cup",
+    "name": "Super Cup",
+    "category_key": "israel",
+    "category_name": "Israel",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-italy-coppa-italia",
+    "name": "Coppa Italia",
+    "category_key": "italy",
+    "category_name": "Italy",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-italy-super-cup",
+    "name": "Italian Super Cup",
+    "category_key": "italy",
+    "category_name": "Italy",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-italy-serie-a",
+    "name": "Serie A",
+    "category_key": "italy",
+    "category_name": "Italy",
+    "max_events": 13,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-italy-serie-b",
+    "name": "Serie B",
+    "category_key": "italy",
+    "category_name": "Italy",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-ivory-coast-ligue-1",
+    "name": "Ligue 1",
+    "category_key": "ivory-coast",
+    "category_name": "Ivory Coast",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-ivory-coast-super-cup",
+    "name": "Super Cup",
+    "category_key": "ivory-coast",
+    "category_name": "Ivory Coast",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-jamaica-premier-league",
+    "name": "Premier League",
+    "category_key": "jamaica",
+    "category_name": "Jamaica",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-japan-emperor-cup",
+    "name": "Emperor Cup",
+    "category_key": "japan",
+    "category_name": "Japan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-japan-j-league",
+    "name": "J.League",
+    "category_key": "japan",
+    "category_name": "Japan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-japan-super-cup",
+    "name": "Super Cup",
+    "category_key": "japan",
+    "category_name": "Japan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-jordan-super-cup",
+    "name": "Super Cup",
+    "category_key": "jordan",
+    "category_name": "Jordan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-kazakhstan-premier-league",
+    "name": "Premier League",
+    "category_key": "kazakhstan",
+    "category_name": "Kazakhstan",
+    "max_events": 8,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-kazakhstan-super-cup",
+    "name": "Super Cup",
+    "category_key": "kazakhstan",
+    "category_name": "Kazakhstan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-kenya-premier-league",
+    "name": "Premier League",
+    "category_key": "kenya",
+    "category_name": "Kenya",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-kenya-super-cup",
+    "name": "Super Cup",
+    "category_key": "kenya",
+    "category_name": "Kenya",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-kenya-super-league",
+    "name": "Super League",
+    "category_key": "kenya",
+    "category_name": "Kenya",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-kosovo-first-league",
+    "name": "First League",
+    "category_key": "kosovo",
+    "category_name": "Kosovo",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-kosovo-superliga",
+    "name": "Superliga",
+    "category_key": "kosovo",
+    "category_name": "Kosovo",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-kuwait-division-1",
+    "name": "Division 1",
+    "category_key": "kuwait",
+    "category_name": "Kuwait",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-kuwait-premier-league",
+    "name": "Premier League",
+    "category_key": "kuwait",
+    "category_name": "Kuwait",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-kuwait-super-cup",
+    "name": "Super Cup",
+    "category_key": "kuwait",
+    "category_name": "Kuwait",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-latvia-1-liga",
+    "name": "1.Liga",
+    "category_key": "latvia",
+    "category_name": "Latvia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-latvia-virsliga",
+    "name": "Virsliga",
+    "category_key": "latvia",
+    "category_name": "Latvia",
+    "max_events": 5,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-lebanon-premier-league",
+    "name": "Premier League",
+    "category_key": "lebanon",
+    "category_name": "Lebanon",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-lebanon-super-cup",
+    "name": "Super Cup",
+    "category_key": "lebanon",
+    "category_name": "Lebanon",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-lithuania-a-lyga",
+    "name": "A Lyga",
+    "category_key": "lithuania",
+    "category_name": "Lithuania",
+    "max_events": 1,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-lithuania-super-cup",
+    "name": "Super Cup",
+    "category_key": "lithuania",
+    "category_name": "Lithuania",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-malawi-super-league",
+    "name": "Super League",
+    "category_key": "malawi",
+    "category_name": "Malawi",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-malaysia-cup",
+    "name": "Cup",
+    "category_key": "malaysia",
+    "category_name": "Malaysia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-malaysia-fa-cup",
+    "name": "FA Cup",
+    "category_key": "malaysia",
+    "category_name": "Malaysia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-malaysia-premier-league",
+    "name": "Premier League",
+    "category_key": "malaysia",
+    "category_name": "Malaysia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-malaysia-super-league",
+    "name": "Super League",
+    "category_key": "malaysia",
+    "category_name": "Malaysia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-maldives-1-division",
+    "name": "1. Division",
+    "category_key": "maldives",
+    "category_name": "Maldives",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-mali-premier-division",
+    "name": "Premier Division",
+    "category_key": "mali",
+    "category_name": "Mali",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-malta-first-division",
+    "name": "Challenge League",
+    "category_key": "malta",
+    "category_name": "Malta",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-malta-premier-league",
+    "name": "Premier League",
+    "category_key": "malta",
+    "category_name": "Malta",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-malta-super-cup",
+    "name": "Super Cup",
+    "category_key": "malta",
+    "category_name": "Malta",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-mexico-copa-mx",
+    "name": "Copa MX",
+    "category_key": "mexico",
+    "category_name": "Mexico",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-mexico-t90c7-liga-mx-apertura",
+    "name": "Liga MX, Apertura",
+    "category_key": "mexico",
+    "category_name": "Mexico",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-mexico-liga-premier",
+    "name": "Liga Premier",
+    "category_key": "mexico",
+    "category_name": "Mexico",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-mexico-primera-division",
+    "name": "Primera Division",
+    "category_key": "mexico",
+    "category_name": "Mexico",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-moldova-divizia-nationala",
+    "name": "Divizia Nationala",
+    "category_key": "moldova",
+    "category_name": "Moldova",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-moldova-super-cup",
+    "name": "Super Cup",
+    "category_key": "moldova",
+    "category_name": "Moldova",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-myanmar-cup",
+    "name": "Cup",
+    "category_key": "myanmar",
+    "category_name": "Myanmar",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-myanmar-national-league",
+    "name": "National League",
+    "category_key": "myanmar",
+    "category_name": "Myanmar",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-netherlands-eredivisie",
+    "name": "Eredivisie",
+    "category_key": "netherlands",
+    "category_name": "Netherlands",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-new-zealand-premiership",
+    "name": "National League",
+    "category_key": "new-zealand",
+    "category_name": "New Zealand",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-nicaragua-segunda-division",
+    "name": "Liga de Ascenso",
+    "category_key": "nicaragua",
+    "category_name": "Nicaragua",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-nicaragua-primera-division",
+    "name": "Primera Division",
+    "category_key": "nicaragua",
+    "category_name": "Nicaragua",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-macedonia-super-cup",
+    "name": "Super Cup",
+    "category_key": "macedonia",
+    "category_name": "North Macedonia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-northern-ireland-championship",
+    "name": "Championship",
+    "category_key": "northern-ireland",
+    "category_name": "Northern Ireland",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-northern-ireland-premiership",
+    "name": "Premiership",
+    "category_key": "northern-ireland",
+    "category_name": "Northern Ireland",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-norway-1st-division",
+    "name": "1st Division",
+    "category_key": "norway",
+    "category_name": "Norway",
+    "max_events": 9,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-norway-eliteserien",
+    "name": "Eliteserien",
+    "category_key": "norway",
+    "category_name": "Norway",
+    "max_events": 9,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-norway-super-cup",
+    "name": "Super Cup",
+    "category_key": "norway",
+    "category_name": "Norway",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-pakistan-premier-league",
+    "name": "Premier League",
+    "category_key": "pakistan",
+    "category_name": "Pakistan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-palestine-cup",
+    "name": "Cup",
+    "category_key": "palestine",
+    "category_name": "Palestine",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-panama-cup",
+    "name": "Cup",
+    "category_key": "panama",
+    "category_name": "Panama",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-paraguay-copa-paraguay",
+    "name": "Copa Paraguay",
+    "category_key": "paraguay",
+    "category_name": "Paraguay",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-paraguay-primera-division",
+    "name": "Primera Division",
+    "category_key": "paraguay",
+    "category_name": "Paraguay",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-paraguay-segunda-division",
+    "name": "Segunda Division",
+    "category_key": "paraguay",
+    "category_name": "Paraguay",
+    "max_events": 1,
+    "times_seen": 0,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-peru-primera-division",
+    "name": "Primera Division",
+    "category_key": "peru",
+    "category_name": "Peru",
+    "max_events": 10,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-peru-segunda-division",
+    "name": "Segunda Division",
+    "category_key": "peru",
+    "category_name": "Peru",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-poland-ekstraklasa",
+    "name": "Ekstraklasa",
+    "category_key": "poland",
+    "category_name": "Poland",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-poland-puchar-polski",
+    "name": "Puchar Polski",
+    "category_key": "poland",
+    "category_name": "Poland",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-poland-super-cup",
+    "name": "Super Cup",
+    "category_key": "poland",
+    "category_name": "Poland",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-portugal-super-cup",
+    "name": "Super Cup",
+    "category_key": "portugal",
+    "category_name": "Portugal",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-qatar-stars-league",
+    "name": "Stars League",
+    "category_key": "qatar",
+    "category_name": "Qatar",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-ireland-first-division",
+    "name": "First Division",
+    "category_key": "ireland",
+    "category_name": "Republic Of Ireland",
+    "max_events": 6,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-ireland-premier-division",
+    "name": "Premier Division",
+    "category_key": "ireland",
+    "category_name": "Republic Of Ireland",
+    "max_events": 6,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-south-korea-fa-cup",
+    "name": "FA Cup",
+    "category_key": "south-korea",
+    "category_name": "Republic Of Korea",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-south-korea-k-league-1",
+    "name": "K-League 1",
+    "category_key": "south-korea",
+    "category_name": "Republic Of Korea",
+    "max_events": 6,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-south-korea-k-league-2",
+    "name": "K-League 2",
+    "category_key": "south-korea",
+    "category_name": "Republic Of Korea",
+    "max_events": 9,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-south-korea-national-league",
+    "name": "National League",
+    "category_key": "south-korea",
+    "category_name": "Republic Of Korea",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-south-korea-wk-league",
+    "name": "WK-League",
+    "category_key": "south-korea",
+    "category_name": "Republic Of Korea",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-romania-liga-i",
+    "name": "Liga I",
+    "category_key": "romania",
+    "category_name": "Romania",
+    "max_events": 8,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-romania-super-cup",
+    "name": "Super Cup",
+    "category_key": "romania",
+    "category_name": "Romania",
+    "max_events": 2,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-russia-football-national-league",
+    "name": "1. Liga",
+    "category_key": "russia",
+    "category_name": "Russia",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-russia-premier-league",
+    "name": "Premier League",
+    "category_key": "russia",
+    "category_name": "Russia",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-russia-super-cup",
+    "name": "Super Cup",
+    "category_key": "russia",
+    "category_name": "Russia",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-saudi-arabia-kings-cup",
+    "name": "Kings Cup",
+    "category_key": "saudi-arabia",
+    "category_name": "Saudi Arabia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-saudi-arabia-super-cup",
+    "name": "Super Cup",
+    "category_key": "saudi-arabia",
+    "category_name": "Saudi Arabia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-scotland-premier-league",
+    "name": "Premier League",
+    "category_key": "scotland",
+    "category_name": "Scotland",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-scotland-premiership",
+    "name": "Premiership",
+    "category_key": "scotland",
+    "category_name": "Scotland",
+    "max_events": 7,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-scotland-championship",
+    "name": "Premiership",
+    "category_key": "scotland",
+    "category_name": "Scotland",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-senegal-premier-league",
+    "name": "Premier League",
+    "category_key": "senegal",
+    "category_name": "Senegal",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-serbia-superliga",
+    "name": "Superliga",
+    "category_key": "serbia",
+    "category_name": "Serbia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-singapore-fa-cup",
+    "name": "FA Cup",
+    "category_key": "singapore",
+    "category_name": "Singapore",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-singapore-premier-league",
+    "name": "Premier League",
+    "category_key": "singapore",
+    "category_name": "Singapore",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-slovakia-2-liga",
+    "name": "2. Liga",
+    "category_key": "slovakia",
+    "category_name": "Slovakia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-slovakia-superliga",
+    "name": "Superliga",
+    "category_key": "slovakia",
+    "category_name": "Slovakia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-slovenia-super-cup",
+    "name": "Super Cup",
+    "category_key": "slovenia",
+    "category_name": "Slovenia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-south-africa-fa-cup",
+    "name": "FA Cup",
+    "category_key": "south-africa",
+    "category_name": "South Africa",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-spain-copa-del-rey",
+    "name": "Copa del Rey",
+    "category_key": "spain",
+    "category_name": "Spain",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-spain-laliga",
+    "name": "La Liga",
+    "category_key": "spain",
+    "category_name": "Spain",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-spain-primera-division",
+    "name": "Primera Division",
+    "category_key": "spain",
+    "category_name": "Spain",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-spain-segunda-division",
+    "name": "Segunda Division",
+    "category_key": "spain",
+    "category_name": "Spain",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-spain-super-cup",
+    "name": "Supercopa de Espa\u00f1a",
+    "category_key": "spain",
+    "category_name": "Spain",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-sudan-cup",
+    "name": "Cup",
+    "category_key": "sudan",
+    "category_name": "Sudan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-sudan-premier-league",
+    "name": "Premier League",
+    "category_key": "sudan",
+    "category_name": "Sudan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-sweden-allsvenskan",
+    "name": "Allsvenskan",
+    "category_key": "sweden",
+    "category_name": "Sweden",
+    "max_events": 12,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-sweden-damallsvenskan",
+    "name": "Damallsvenskan",
+    "category_key": "sweden",
+    "category_name": "Sweden",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-sweden-div-1-norra",
+    "name": "Ettan, Norra",
+    "category_key": "sweden",
+    "category_name": "Sweden",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-sweden-super-cup",
+    "name": "Super Cup",
+    "category_key": "sweden",
+    "category_name": "Sweden",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-sweden-superettan",
+    "name": "Superettan",
+    "category_key": "sweden",
+    "category_name": "Sweden",
+    "max_events": 9,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-switzerland-super-league",
+    "name": "Super League",
+    "category_key": "switzerland",
+    "category_name": "Switzerland",
+    "max_events": 6,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-syria-cup",
+    "name": "Cup",
+    "category_key": "syria",
+    "category_name": "Syria",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-tanzania-premier-league",
+    "name": "Premier League",
+    "category_key": "tanzania",
+    "category_name": "Tanzania",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-thailand-fa-cup",
+    "name": "FA Cup",
+    "category_key": "thailand",
+    "category_name": "Thailand",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-thailand-thai-league-2",
+    "name": "Thai League 2",
+    "category_key": "thailand",
+    "category_name": "Thailand",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-tunisia-ligue-1",
+    "name": "Ligue 1",
+    "category_key": "tunisia",
+    "category_name": "Tunisia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-tunisia-super-cup",
+    "name": "Super Cup",
+    "category_key": "tunisia",
+    "category_name": "Tunisia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-turkey-super-cup",
+    "name": "Super Cup",
+    "category_key": "turkey",
+    "category_name": "Turkey",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-turkey-super-lig",
+    "name": "Super Lig",
+    "category_key": "turkey",
+    "category_name": "Turkey",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-usa-major-league-soccer",
+    "name": "Major League Soccer",
+    "category_key": "usa",
+    "category_name": "USA",
+    "max_events": 11,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-usa-national-premier-soccer-league",
+    "name": "National Premier Soccer League",
+    "category_key": "usa",
+    "category_name": "USA",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-usa-national-womens-soccer-league",
+    "name": "National Womens Soccer League",
+    "category_key": "usa",
+    "category_name": "USA",
+    "max_events": 7,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-usa-tbf4a-usa-women-s-premier-soccer-league-wpsl",
+    "name": "USA Women's Premier Soccer League (WPSL)",
+    "category_key": "usa",
+    "category_name": "USA",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-usa-usl-championship",
+    "name": "USL Championship",
+    "category_key": "usa",
+    "category_name": "USA",
+    "max_events": 12,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-usa-usl-league-one",
+    "name": "USL League One",
+    "category_key": "usa",
+    "category_name": "USA",
+    "max_events": 4,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-usa-usl-league-two",
+    "name": "USL League Two",
+    "category_key": "usa",
+    "category_name": "USA",
+    "max_events": 20,
+    "times_seen": 2,
+    "sources": "feed"
+  },
+  {
+    "key": "soccer-uganda-cup",
+    "name": "Cup",
+    "category_key": "uganda",
+    "category_name": "Uganda",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-uganda-first-division",
+    "name": "First Division",
+    "category_key": "uganda",
+    "category_name": "Uganda",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-uganda-premier-league",
+    "name": "Premier League",
+    "category_key": "uganda",
+    "category_name": "Uganda",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-uganda-super-cup",
+    "name": "Super Cup",
+    "category_key": "uganda",
+    "category_name": "Uganda",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-ukraine-premier-league",
+    "name": "Premier League",
+    "category_key": "ukraine",
+    "category_name": "Ukraine",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-ukraine-super-cup",
+    "name": "Super Cup",
+    "category_key": "ukraine",
+    "category_name": "Ukraine",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-united-arab-emirates-fa-cup",
+    "name": "FA Cup",
+    "category_key": "united-arab-emirates",
+    "category_name": "United Arab Emirates",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-united-arab-emirates-super-cup",
+    "name": "Super Cup",
+    "category_key": "united-arab-emirates",
+    "category_name": "United Arab Emirates",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-uruguay-primera-division",
+    "name": "Primera Division",
+    "category_key": "uruguay",
+    "category_name": "Uruguay",
+    "max_events": 1,
+    "times_seen": 2,
+    "sources": "feed,probe"
+  },
+  {
+    "key": "soccer-uruguay-segunda-division",
+    "name": "Segunda Division",
+    "category_key": "uruguay",
+    "category_name": "Uruguay",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-uruguay-super-cup",
+    "name": "Supercopa Uruguaya",
+    "category_key": "uruguay",
+    "category_name": "Uruguay",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-uzbekistan-cup",
+    "name": "Cup",
+    "category_key": "uzbekistan",
+    "category_name": "Uzbekistan",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-venezuela-primera-division",
+    "name": "Primera Division",
+    "category_key": "venezuela",
+    "category_name": "Venezuela",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-venezuela-segunda-division",
+    "name": "Segunda Division",
+    "category_key": "venezuela",
+    "category_name": "Venezuela",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-vietnam-super-cup",
+    "name": "Super Cup",
+    "category_key": "vietnam",
+    "category_name": "Vietnam",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-wales-premier-league",
+    "name": "Cymru Premier",
+    "category_key": "wales",
+    "category_name": "Wales",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-wales-cymru-premier",
+    "name": "Cymru Premier",
+    "category_key": "wales",
+    "category_name": "Wales",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-zambia-cup",
+    "name": "Cup",
+    "category_key": "zambia",
+    "category_name": "Zambia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  },
+  {
+    "key": "soccer-zambia-super-league",
+    "name": "Super League",
+    "category_key": "zambia",
+    "category_name": "Zambia",
+    "max_events": 0,
+    "times_seen": 0,
+    "sources": "probe"
+  }
+]
