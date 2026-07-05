@@ -13,13 +13,13 @@ Both-Teams-To-Score (BTTS) and goals modelling.** Sourced from
 
 | Metric | Value |
 |---|---|
-| Fixtures | **563,441** (538,386 played) |
+| Fixtures | **673,991** (644,926 played) |
 | Leagues | **271** |
-| Teams | **10,785** |
+| Teams | **11,104** |
 | Players | **182,125** |
-| Date range | 2011-01-15 - 2027-06-06 |
-| BTTS base rate | **0.5100** |
-| Fixtures with xG | 128,745 |
+| Date range | 2008-06-07 - 2027-06-06 |
+| BTTS base rate | **0.5063** |
+| Fixtures with xG | 128,746 |
 | Fixtures with odds | 186,813 |
 
 ## Coverage & caveats

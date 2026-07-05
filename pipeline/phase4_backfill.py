@@ -21,13 +21,29 @@ from pipeline.phase4_ingest import ingest  # noqa: E402
 OFF = 100_000_000
 
 
-def new_league_af_ids() -> list[int]:
+def dataset_league_af_ids() -> list[int]:
+    """All in-dataset leagues' API-Football ids (original + newly-added) — backfill every one's
+    full available history so shallow originals get deepened too."""
     con = staging.connect(read_only=True)
     have = {r[0] for r in con.execute("SHOW TABLES").fetchall()}
     src = "cln_leagues" if "cln_leagues" in have else "stg_leagues"
-    ids = [int(r[0]) - OFF for r in con.execute(f"SELECT id FROM {src} WHERE id >= {OFF}").fetchall()]
+    ids = [int(r[0]) for r in con.execute(
+        f"SELECT DISTINCT api_football_id FROM {src} WHERE api_football_id IS NOT NULL").fetchall()]
     con.close()
     return ids
+
+
+def present_coverage() -> set[tuple[int, int]]:
+    """Set of (af_league_id, calendar_year) already present in the dataset."""
+    con = staging.connect(read_only=True)
+    rows = con.execute("""
+        SELECT l.api_football_id, f.calendar_year
+        FROM cln_fixtures f JOIN cln_leagues l ON l.id = f.league_id
+        WHERE l.api_football_id IS NOT NULL AND f.calendar_year IS NOT NULL
+        GROUP BY 1, 2
+    """).fetchall()
+    con.close()
+    return {(int(a), int(y)) for a, y in rows}
 
 
 def seasons_by_league() -> dict[int, list[int]]:
@@ -36,12 +52,15 @@ def seasons_by_league() -> dict[int, list[int]]:
 
 
 def main() -> None:
-    new_ids = new_league_af_ids()
+    ids = dataset_league_af_ids()
     sbl = seasons_by_league()
-    pairs = [(lid, s) for lid in new_ids for s in sbl.get(lid, [])]
-    print(f"new (recent-only) leagues: {len(new_ids)}")
-    print(f"full-history league-season pairs: {len(pairs)}")
-    rep = ingest(pairs, label="backfill-hist")
+    present = present_coverage()
+    # missing = available seasons we have no fixtures for (by calendar year)
+    pairs = [(lid, s) for lid in ids for s in sbl.get(lid, []) if (lid, s) not in present]
+    gap_leagues = len({lid for lid, _ in pairs})
+    print(f"in-dataset leagues: {len(ids)}")
+    print(f"missing league-season pairs to backfill: {len(pairs)} across {gap_leagues} leagues")
+    rep = ingest(pairs, label="backfill-gaps")
     print(json.dumps(rep, indent=2))
 
 

@@ -52,9 +52,14 @@ def ingest(pairs: list[tuple[int, int]], label: str = "") -> dict:
     con.execute(DDL_TEAM)
     af = ApiFootball()
     now = time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())
-    n_fix = 0
+    n_fix = errors = 0
     for i, (lid, season) in enumerate(pairs, 1):
-        resp = af.get("fixtures", {"league": lid, "season": season})
+        try:
+            resp = af.get("fixtures", {"league": lid, "season": season})
+        except Exception as e:  # a bad league-season must not abort the whole backfill
+            errors += 1
+            print(f"  [{label}] league {lid} season {season} error: {str(e)[:70]}", flush=True)
+            continue
         frows, trows = [], {}
         for it in resp:
             fx, lg, tm, gl = it["fixture"], it["league"], it["teams"], it["goals"]
@@ -76,10 +81,10 @@ def ingest(pairs: list[tuple[int, int]], label: str = "") -> dict:
             con.executemany("INSERT OR REPLACE INTO raw_ingest_teams VALUES (?,?,?,?)", list(trows.values()))
             n_fix += len(frows)
         if i % 20 == 0 or i == len(pairs):
-            print(f"  [{label}] {i}/{len(pairs)} league-seasons, {n_fix} fixtures, {af.request_count} api calls", flush=True)
+            print(f"  [{label}] {i}/{len(pairs)} league-seasons, {n_fix} fixtures, {errors} errors, {af.request_count} api calls", flush=True)
     total = con.execute("SELECT count(*) FROM raw_ingest_fixtures").fetchone()[0]
     con.close()
-    return {"pairs": len(pairs), "fixtures_ingested_this_run": n_fix,
+    return {"pairs": len(pairs), "fixtures_ingested_this_run": n_fix, "errors": errors,
             "raw_ingest_fixtures_total": total, "api_calls": af.request_count}
 
 

@@ -2,23 +2,23 @@
 
 _Regenerated from the curated data. One section per table._
 
-## `fixtures` (563,441 rows)
+## `fixtures` (673,991 rows)
 
 | Column | Type | Null % | Description |
 |---|---|---|---|
 | `id` | integer | 0.0% | Internal fixture primary key (stable across source snapshots). |
-| `api_football_id` | integer | 12.9% | API-Football fixture id (null for football-data-only matches). |
+| `api_football_id` | integer | 10.8% | API-Football fixture id (null for football-data-only matches). |
 | `date_utc` | datetime | 0.0% | Kick-off time, UTC (tz-naive). |
 | `league_id` | integer | 0.0% | FK -> leagues.id. |
 | `home_team_id` | integer | 0.0% | FK -> teams.id. |
 | `away_team_id` | integer | 0.0% | FK -> teams.id. |
-| `goals_home` | integer | 4.4% | Full-time home goals (null if not played). |
-| `goals_away` | integer | 4.4% | Full-time away goals (null if not played). |
+| `goals_home` | integer | 4.3% | Full-time home goals (null if not played). |
+| `goals_away` | integer | 4.3% | Full-time away goals (null if not played). |
 | `status` | string | 0.0% | Raw source status code. |
-| `referee_name` | string | 68.3% | Referee (API-Football). |
+| `referee_name` | string | 67.7% | Referee (API-Football). |
 | `referee_api_id` | integer | 100.0% | Referee API id. |
-| `created_at` | datetime | 14.1% | Source row creation time. |
-| `updated_at` | datetime | 14.1% | Source/refresh update time. |
+| `created_at` | datetime | 11.8% | Source row creation time. |
+| `updated_at` | datetime | 10.5% | Source/refresh update time. |
 | `in_csv` | boolean | 0.0% | Present in the CSV source snapshot. |
 | `in_pq` | boolean | 0.0% | Present in the Parquet source snapshot. |
 | `merged_rows` | integer | 0.0% | How many duplicate source rows were merged into this fixture. |
@@ -26,9 +26,9 @@ _Regenerated from the curated data. One section per table._
 | `status_norm` | string | 0.0% | Normalized status enum: FT/AET/PEN/AWD/WO/NS/PST/CANC/ABD/SUSP/OTHER. |
 | `is_played` | boolean | 0.0% | True if the match has a final result. |
 | `calendar_year` | integer | 0.0% | Year of date_utc (used for xG coverage detection). |
-| `btts` | boolean | 4.4% | Both-teams-to-score label (goals_home>0 AND goals_away>0); null if not played. |
+| `btts` | boolean | 4.3% | Both-teams-to-score label (goals_home>0 AND goals_away>0); null if not played. |
 
-## `match_stats` (277,659 rows)
+## `match_stats` (283,835 rows)
 
 | Column | Type | Null % | Description |
 |---|---|---|---|
@@ -37,39 +37,39 @@ _Regenerated from the curated data. One section per table._
 | `away_shots_total` | integer | 23.1% |  |
 | `home_shots_on_goal` | integer | 23.1% |  |
 | `away_shots_on_goal` | integer | 23.1% |  |
-| `home_shots_inside_box` | integer | 26.7% |  |
-| `away_shots_inside_box` | integer | 26.7% |  |
-| `home_shots_outside_box` | integer | 26.7% |  |
-| `away_shots_outside_box` | integer | 26.7% |  |
-| `home_blocked_shots` | integer | 26.5% |  |
-| `away_blocked_shots` | integer | 26.5% |  |
-| `home_penalties` | integer | 28.8% |  |
-| `away_penalties` | integer | 28.8% |  |
-| `home_corners` | integer | 23.1% |  |
-| `away_corners` | integer | 23.1% |  |
-| `home_yellow_cards` | integer | 21.2% |  |
-| `away_yellow_cards` | integer | 21.2% |  |
-| `home_red_cards` | integer | 22.7% |  |
-| `away_red_cards` | integer | 22.7% |  |
-| `home_xg` | number | 53.6% | Home expected goals. **Coarse provider estimate**: API-Football xG is a deterministic shots-by-zone formula (empirically xG ≈ 0.115·shots_inside_box + 0.035·shots_outside_box + 0.648·penalties, R²≈1.0), NOT a StatsBomb/Opta per-shot model. NULL where the league-season is not xG-covered (fake zeros removed) or the value was implausible (>6). |
-| `away_xg` | number | 53.6% | Away expected goals (see home_xg: coarse zone-based provider estimate). |
-| `home_possession` | integer | 62.5% | Home possession % (0-100). |
-| `away_possession` | integer | 62.5% | Away possession % (0-100). |
-| `home_fouls` | integer | 47.9% |  |
-| `away_fouls` | integer | 47.9% |  |
-| `home_offsides` | integer | 51.8% |  |
-| `away_offsides` | integer | 51.8% |  |
-| `home_pass_accuracy` | integer | 64.7% | Home pass accuracy % (0-100). |
-| `away_pass_accuracy` | integer | 64.7% | Away pass accuracy % (0-100). |
-| `home_goals_ht` | integer | 5.8% | Home half-time goals. |
-| `away_goals_ht` | integer | 5.8% | Away half-time goals. |
+| `home_shots_inside_box` | integer | 27.7% |  |
+| `away_shots_inside_box` | integer | 27.7% |  |
+| `home_shots_outside_box` | integer | 27.7% |  |
+| `away_shots_outside_box` | integer | 27.7% |  |
+| `home_blocked_shots` | integer | 27.5% |  |
+| `away_blocked_shots` | integer | 27.5% |  |
+| `home_penalties` | integer | 30.3% |  |
+| `away_penalties` | integer | 30.3% |  |
+| `home_corners` | integer | 22.7% |  |
+| `away_corners` | integer | 22.7% |  |
+| `home_yellow_cards` | integer | 20.9% |  |
+| `away_yellow_cards` | integer | 20.9% |  |
+| `home_red_cards` | integer | 22.8% |  |
+| `away_red_cards` | integer | 22.8% |  |
+| `home_xg` | number | 54.6% | Home expected goals. **Coarse provider estimate**: API-Football xG is a deterministic shots-by-zone formula (empirically xG ≈ 0.115·shots_inside_box + 0.035·shots_outside_box + 0.648·penalties, R²≈1.0), NOT a StatsBomb/Opta per-shot model. NULL where the league-season is not xG-covered (fake zeros removed) or the value was implausible (>6). |
+| `away_xg` | number | 54.6% | Away expected goals (see home_xg: coarse zone-based provider estimate). |
+| `home_possession` | integer | 61.6% | Home possession % (0-100). |
+| `away_possession` | integer | 61.6% | Away possession % (0-100). |
+| `home_fouls` | integer | 47.3% |  |
+| `away_fouls` | integer | 47.3% |  |
+| `home_offsides` | integer | 51.2% |  |
+| `away_offsides` | integer | 51.2% |  |
+| `home_pass_accuracy` | integer | 64.9% | Home pass accuracy % (0-100). |
+| `away_pass_accuracy` | integer | 64.9% | Away pass accuracy % (0-100). |
+| `home_goals_ht` | integer | 5.7% | Home half-time goals. |
+| `away_goals_ht` | integer | 5.7% | Away half-time goals. |
 | `home_xg_ht` | number | 100.0% |  |
 | `away_xg_ht` | number | 100.0% |  |
-| `stats_fetched_at` | datetime | 75.7% | When stats were fetched from the provider. |
+| `stats_fetched_at` | datetime | 74.0% | When stats were fetched from the provider. |
 | `in_csv` | boolean | 0.0% |  |
 | `in_pq` | boolean | 0.0% |  |
 | `xg_covered` | boolean | 0.0% | False if this league-year was detected as lacking real xG coverage. |
-| `xg_nulled` | boolean | 28.3% | True if the xG on this row was nulled by the fake-zero/anomaly fix. |
+| `xg_nulled` | boolean | 29.8% | True if the xG on this row was nulled by the fake-zero/anomaly fix. |
 | `known_at` | datetime | 0.0% | Timestamp at which these post-match facts become known (kickoff + 105 min); use to avoid leakage in pre-match models. |
 
 ## `odds` (213,983 rows)
@@ -86,29 +86,29 @@ _Regenerated from the curated data. One section per table._
 | `in_pq` | boolean | 0.0% |  |
 | `known_at` | datetime | 0.0% | Odds known at/around kick-off (closing line). |
 
-## `fixture_lineups` (548,932 rows)
+## `fixture_lineups` (565,380 rows)
 
 | Column | Type | Null % | Description |
 |---|---|---|---|
 | `fixture_id` | integer | 0.0% |  |
 | `team_id` | integer | 0.0% |  |
 | `team_name` | string | 0.4% |  |
-| `coach_name` | string | 18.0% |  |
-| `coach_api_id` | integer | 17.8% |  |
-| `formation` | string | 38.5% |  |
+| `coach_name` | string | 17.6% |  |
+| `coach_api_id` | integer | 17.4% |  |
+| `formation` | string | 38.0% |  |
 | `in_csv` | boolean | 0.0% |  |
 | `in_pq` | boolean | 0.0% |  |
 
-## `teams` (10,785 rows)
+## `teams` (11,104 rows)
 
 | Column | Type | Null % | Description |
 |---|---|---|---|
 | `id` | integer | 0.0% | Internal team id. |
 | `name` | string | 0.0% | Team name. |
-| `api_football_id` | integer | 1.9% | API-Football team id. |
-| `fd_name` | string | 91.1% | football-data.co.uk name (cross-reference). |
+| `api_football_id` | integer | 1.8% | API-Football team id. |
+| `fd_name` | string | 91.4% | football-data.co.uk name (cross-reference). |
 | `rating_mu` | number | 0.0% | Glicko-2 rating mean (default 1500). |
-| `rating_sigma` | number | 40.8% | Glicko-2 uncertainty. |
+| `rating_sigma` | number | 42.5% | Glicko-2 uncertainty. |
 | `in_csv` | boolean | 0.0% |  |
 | `in_pq` | boolean | 0.0% |  |
 
@@ -218,7 +218,7 @@ _Regenerated from the curated data. One section per table._
 | `avail_years` | integer | 0.0% | Season span API-Football offers (max_season - min_season + 1). |
 | `history_status` | string | 0.0% | Dataset history vs API-Football: full / recent_only / partial / not_in_dataset. |
 
-## `xg_training` (257,490 rows)
+## `xg_training` (257,492 rows)
 
 | Column | Type | Null % | Description |
 |---|---|---|---|

@@ -2,10 +2,10 @@
 
 All notable changes to this dataset are documented here. Versioning follows [SemVer](https://semver.org/).
 
-## [1.0.0] - 2026-07-04
+## [1.0.0] - 2026-07-05
 
 ### Added
-- Reconciled CSV + Parquet source snapshots into a single canonical set (563,441 fixtures).
+- Reconciled CSV + Parquet source snapshots into a single canonical set (673,991 fixtures).
 - Ingested 127 additional leagues via API-Football and refreshed results to the present.
 - `league_catalogue` reconciling the dataset x API-Football (1,235) x Cloudbet (285) league universe.
 - `known_at` leakage-guard timestamps; per-row provenance flags; `QUALITY_REPORT.md`.

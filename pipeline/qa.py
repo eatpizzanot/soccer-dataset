@@ -139,7 +139,7 @@ def dim8_temporal(con):
     ft_future = n(con, "SELECT count(*) FROM fixtures WHERE is_played AND date_utc > now()")
     add("8-temporal", "no played fixture with future date", ft_future == 0, "blocking", f"{ft_future} future-dated played")
     add("8-temporal", "scheduled fixtures have no goals", n(con, "SELECT count(*) FROM fixtures WHERE status_norm='NS' AND (goals_home IS NOT NULL)") == 0, "warning")
-    add("8-temporal", "dates within [2010, now+2y]", n(con, "SELECT count(*) FROM fixtures WHERE date_utc < TIMESTAMP '2010-01-01' OR date_utc > now() + INTERVAL 2 YEAR") == 0, "blocking")
+    add("8-temporal", "dates within [2007, now+2y]", n(con, "SELECT count(*) FROM fixtures WHERE date_utc < TIMESTAMP '2007-01-01' OR date_utc > now() + INTERVAL 2 YEAR") == 0, "blocking")
 
 
 def dim9_leakage(con):
