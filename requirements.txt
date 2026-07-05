@@ -13,3 +13,5 @@ psycopg[binary]>=3.2
 tenacity>=8.2
 tqdm>=4.66
 python-dateutil>=2.9
+pytz>=2024.1
+huggingface_hub>=0.24
