@@ -45,7 +45,7 @@ Cleaned, deduplicated, quality-gated football match data for BTTS / goals modell
 Sources: API-Football + football-data.co.uk. Pipeline & docs:
 https://github.com/eatpizzanot/soccer-dataset
 
-- **673,991** fixtures (644,926 played), **271** leagues,
+- **673,966** fixtures (644,901 played), **271** leagues,
   **11,104** teams, 2008-06-07 - 2027-06-06.
 - BTTS base rate **0.5063**. xG fake-zeros removed; `known_at` leakage guard;
   12-dimension QA gate (`QUALITY_REPORT.md`).

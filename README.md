@@ -13,7 +13,7 @@ Both-Teams-To-Score (BTTS) and goals modelling.** Sourced from
 
 | Metric | Value |
 |---|---|
-| Fixtures | **673,991** (644,926 played) |
+| Fixtures | **673,966** (644,901 played) |
 | Leagues | **271** |
 | Teams | **11,104** |
 | Players | **182,125** |

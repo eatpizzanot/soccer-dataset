@@ -1,272 +1,272 @@
 id,name,country,fd_code,api_football_id,in_csv,in_pq
-100000598,Première Division,Mali,,598,false,false
-100000400,Super League,Zambia,,400,false,false
+134,A Lyga,Lithuania,LTU,362,true,false
+100000555,Supercupa,Romania,,555,false,false
+126,Primera B,Chile,CHL2,266,true,false
+144,Premier League,Armenia,ARM,342,true,false
+105,League Two,Scotland,SC3,184,true,false
 100000516,Super Cup,Algeria,,516,false,false
-114,First NL,Croatia,HRV2,211,true,false
-100000930,Copa Uruguay,Uruguay,,930,false,false
-113,I Liga,Poland,POL2,107,true,false
-100000392,Challenge League,Malta,,392,false,false
-100000269,Segunda División,Uruguay,,269,false,false
-110,Thai League 1,Thailand,THA,296,true,false
-100000588,National League,Myanmar,,588,false,false
-137,Liga Nacional,Guatemala,GTM,339,true,false
-100000394,Super Liga,Moldova,,394,false,false
-106,3. Liga,Germany,DEU3,80,true,false
-65,Liga Portugal 2,Portugal,PRT2,95,true,true
-40,Premier League,Egypt,EGY,233,true,true
-139,Super League,Malaysia,MYS,278,true,false
+100000967,Cup,Lebanon,,967,false,false
+100000243,Liga Pro Serie B,Ecuador,,243,false,false
 127,Primera B,Colombia,COL2,240,true,false
-100000363,Premier League,Ethiopia,,363,false,false
-100000364,1. Liga,Latvia,,364,false,false
-10,Ligue 2,France,F2,62,true,true
-100000297,Thai League 2,Thailand,,297,false,false
-100000851,Carioca A2,Brazil,,851,false,false
-100000110,Premier League,Wales,,110,false,false
-27,Ekstraklasa,Poland,POL,106,true,true
-100000101,J-League Cup,Japan,,101,false,false
-100000386,Ligue 1,Ivory-Coast,,386,false,false
-100000328,Esiliiga A,Estonia,,328,false,false
+61,Premier League,Ukraine,UKR,333,true,true
+84,World Cup - Qualification Europe,World,INT-WCQ-EU,32,true,true
+18,Championship,Scotland,SC1,180,true,true
+100000896,Super Cup,United-Arab-Emirates,,896,false,false
+100000668,1. Liga U19,Czech-Republic,,668,false,false
+100000394,Super Liga,Moldova,,394,false,false
+100000142,Primera División Femenina,Spain,,142,false,false
+100000417,Premier League,Bahrain,,417,false,false
+14,Primeira Liga,Portugal,P1,94,true,true
+100000563,Ettan - Norra,Sweden,,563,false,false
+100000294,FA Cup,South-Korea,,294,false,false
+100000966,Cup,Ghana,,966,false,false
+62,A-League,Australia,AUS,188,true,true
+100000711,Segunda División,Chile,,711,false,false
+114,First NL,Croatia,HRV2,211,true,false
+117,K League 2,South Korea,KOR2,293,true,false
+100000269,Segunda División,Uruguay,,269,false,false
+53,Primera Division,Chile,CHL,265,true,true
+100000654,Super Cup,Armenia,,654,false,false
+47,NB I,Hungary,HUN,271,true,true
+55,Prva Liga,Slovenia,SVN,373,true,true
+100000526,Trophée des Champions,France,,526,false,false
+85,World Cup - Qualification South America,World,INT-WCQ-SA,34,true,true
+76,USL Championship,USA,USA2,255,true,true
+23,Eliteserien,Norway,NOR,103,true,true
+101,Taca de Portugal,Portugal,CUP-POR,96,true,true
+142,NPFL,Nigeria,NGA,399,true,false
+100000407,Championship,Northern-Ireland,,407,false,false
+100001058,Supercopa Femenina,Spain,,1058,false,false
+100001193,Super Cup,Kenya,,1193,false,false
+72,Primera Division,Venezuela,VEN,299,true,true
+100000396,Primera Division,Nicaragua,,396,false,false
+40,Premier League,Egypt,EGY,233,true,true
+100000826,Super Cup,Saudi-Arabia,,826,false,false
+100000338,Primera Division,Guatemala,,338,false,false
+100000499,Malaysia Cup,Malaysia,,499,false,false
+100000802,Cup,Uzbekistan,,802,false,false
+36,1. Liga,Czech Republic,CZE,345,true,true
+13,Eredivisie,Netherlands,N1,88,true,true
 100000529,Super Cup,Germany,,529,false,false
+9,Ligue 1,France,F1,61,true,true
+100000604,Catarinense - 1,Brazil,,604,false,false
+100000104,1. Division,Norway,,104,false,false
+100000722,Liga Premier Serie A,Mexico,,722,false,false
+88,International Friendlies,World,INT-FR,10,true,true
+58,Primera Division,Bolivia,BOL,344,true,true
+100000275,Liga 2,Indonesia,,275,false,false
+25,Bundesliga,Austria,AUT,218,true,true
+100000549,Damallsvenskan,Sweden,,549,false,false
+112,Challenge League,Switzerland,CHE2,208,true,false
+100000191,Brisbane Premier League,Australia,,191,false,false
+32,SuperLiga,Romania,ROU,283,true,true
+82,Africa Cup of Nations,World,INT-AFCON,6,true,true
+100000756,Cup,Macedonia,,756,false,false
+100000547,Super Cup,Italy,,547,false,false
+41,Pro League,UAE,UAE,301,true,true
+52,Primera Division,Costa Rica,CRI,162,true,true
+73,Eerste Divisie,Netherlands,NLD2,89,true,true
+100000300,Segunda División,Venezuela,,300,false,false
+100000246,Suomen Cup,Finland,,246,false,false
+100000167,Cup,Iceland,,167,false,false
+104,League One,Scotland,SC2,183,true,false
+100000165,1. Deild,Iceland,,165,false,false
+100000530,Super Cup,Georgia,,530,false,false
+37,Saudi Pro League,Saudi Arabia,SAU,307,true,true
+86,World Cup - Qualification CONCACAF,World,INT-WCQ-NA,31,true,true
+100000390,Premier League,Lebanon,,390,false,false
+100000267,Copa Chile,Chile,,267,false,false
+100000930,Copa Uruguay,Uruguay,,930,false,false
+110,Thai League 1,Thailand,THA,296,true,false
+20,MLS,USA,USA,253,true,true
+100000291,Azadegan League,Iran,,291,false,false
+100000907,Primera Division,Cuba,,907,false,false
+100000659,Super Cup,Israel,,659,false,false
+100000073,Copa Do Brasil,Brazil,,73,false,false
+29,Allsvenskan,Sweden,SWE,113,true,true
+67,Liga Nacional,Honduras,HND,234,true,true
+100000375,Cup,Slovenia,,375,false,false
+64,Primera Division,Peru,PER,281,true,true
+100000411,Elite One,Cameroon,,411,false,false
 75,Premier League,Canada,CAN,479,true,true
+136,Liga Panamena,Panama,PAN,304,true,false
+33,Veikkausliiga,Finland,FIN,244,true,true
+100000839,Super Cup,Lithuania,,839,false,false
+54,Nike Liga,Slovakia,SVK,332,true,true
+6,Segunda Division,Spain,SP2,141,true,true
+125,Primera Nacional,Argentina,ARG2,129,true,false
+16,Süper Lig,Turkey,T1,203,true,true
+100000130,Copa Argentina,Argentina,,130,false,false
+100000598,Première Division,Mali,,598,false,false
+43,HNL,Croatia,HRV,210,true,true
+100000245,Ykkönen,Finland,,245,false,false
+17,Premiership,Scotland,SC0,179,true,true
+140,Premier League,Jamaica,JAM,322,true,false
+100000504,King's Cup,Saudi-Arabia,,504,false,false
+63,Super Liga,Serbia,SRB,286,true,true
+100000075,Serie C,Brazil,,75,false,false
+56,Persian Gulf Pro League,Iran,IRN,290,true,true
+12,2. Bundesliga,Germany,D2,79,true,true
+100000506,2. liga,Slovakia,,506,false,false
+28,Liga Profesional,Argentina,ARG,128,true,true
+100000657,Cup,Estonia,,657,false,false
+100000551,Super Cup,Turkey,,551,false,false
+122,FNL,Czech Republic,CZE2,346,true,false
+10,Ligue 2,France,F2,62,true,true
+4,League Two,England,E3,42,true,true
+113,I Liga,Poland,POL2,107,true,false
+45,Liga Pro Serie A,Ecuador,ECU,242,true,true
+100000402,Sudani Premier League,Sudan,,402,false,false
+131,Meistriliiga,Estonia,EST,329,true,false
+26,Super League,Switzerland,SWZ,207,true,true
+139,Super League,Malaysia,MYS,278,true,false
+100000330,Premier League,Kuwait,,330,false,false
+100000955,National League - National,New-Zealand,,955,false,false
+128,Liga de Ascenso,Costa Rica,CRI2,163,true,false
+79,UEFA Euro,World,INT-EURO,4,true,true
+133,Liga 1,Indonesia,IDN,274,true,false
+100000831,Super Cup,Vietnam,,831,false,false
+100001050,Super Cup,Malta,,1050,false,false
+15,Jupiler Pro League,Belgium,B1,144,true,true
+70,Challenger Pro League,Belgium,BEL2,145,true,true
+100000343,First League,Armenia,,343,false,false
+100000837,Rock Cup,Gibraltar,,837,false,false
+78,FIFA World Cup,World,INT-WC,1,true,true
+100000656,Super Cup,Bulgaria,,656,false,false
+46,Primera A,Colombia,COL,239,true,true
+100000851,Carioca A2,Brazil,,851,false,false
+80,UEFA Nations League,World,INT-UNL,5,true,true
+100000171,FA Cup,China,,171,false,false
+98,DFB Pokal,Germany,CUP-GER,81,true,true
+97,Copa del Rey,Spain,CUP-ESP,143,true,true
+129,First Division,Ireland,IRL2,358,true,false
+100001144,Super Cup,Ghana,,1144,false,false
+100000727,Super Cup,Poland,,727,false,false
+91,UEFA Conference League,World,CUP-UECL,848,true,true
+11,Bundesliga,Germany,D1,78,true,true
+120,1. Division,Denmark,DNK2,120,true,false
+109,First League,Russia,RUS2,236,true,false
+137,Liga Nacional,Guatemala,GTM,339,true,false
+103,National League,England,EC,43,true,false
+100000328,Esiliiga A,Estonia,,328,false,false
+100000400,Super League,Zambia,,400,false,false
+27,Ekstraklasa,Poland,POL,106,true,true
+57,Serie B,Brazil,BRA2,72,true,true
+108,2. Liga,Austria,AUT2,219,true,false
+2,Championship,England,E1,40,true,true
+35,Super League 1,Greece,GRE,197,true,true
+42,Stars League,Qatar,QAT,305,true,true
+22,Liga MX,Mexico,MEX,262,true,true
+24,Premier League,Russia,RUS,235,true,true
+106,3. Liga,Germany,DEU3,80,true,false
 77,Super League,India,IND,323,true,true
+100000489,USL League One,USA,,489,false,false
+100001194,Super Cup,Tunisia,,1194,false,false
+65,Liga Portugal 2,Portugal,PRT2,95,true,true
+39,Botola Pro,Morocco,MOR,200,true,true
+100000391,Super League,Malawi,,391,false,false
+100000277,Super League,Kenya,,277,false,false
+93,Copa Sudamericana,World,CUP-SUD,11,true,true
+100000481,Northern NSW NPL,Australia,,481,false,false
+100000392,Challenge League,Malta,,392,false,false
+100000368,Premier League,Singapore,,368,false,false
+141,Premier League,Ghana,GHA,570,true,false
+100000398,Premier League,Bangladesh,,398,false,false
+100000282,Segunda División,Peru,,282,false,false
+100000380,Premier League,Hong-Kong,,380,false,false
+100000500,FA Cup,Malaysia,,500,false,false
+100000528,Community Shield,England,,528,false,false
+100001097,Copa Espírito Santo,Brazil,,1097,false,false
+100000501,Copa Paraguay,Paraguay,,501,false,false
+100000363,Premier League,Ethiopia,,363,false,false
+100000629,Mineiro - 1,Brazil,,629,false,false
+100000899,League Cup,Finland,,899,false,false
+100000758,Premier Division,Gibraltar,,758,false,false
+100000548,Super Cup,Japan,,548,false,false
+107,1. Lig,Turkey,TUR2,204,true,false
+100000386,Ligue 1,Ivory-Coast,,386,false,false
 102,KNVB Beker,Netherlands,CUP-NED,90,true,true
 100000550,Super Cup,Portugal,,550,false,false
-100000810,Super Copa,Argentina,,810,false,false
-55,Prva Liga,Slovenia,SVN,373,true,true
-86,World Cup - Qualification CONCACAF,World,INT-WCQ-NA,31,true,true
-38,K League 1,South Korea,KOR,292,true,true
-100000899,League Cup,Finland,,899,false,false
-100000654,Super Cup,Armenia,,654,false,false
-35,Super League 1,Greece,GRE,197,true,true
-100000489,USL League One,USA,,489,false,false
-100000967,Cup,Lebanon,,967,false,false
-100000189,Capital Territory NPL,Australia,,189,false,false
-17,Premiership,Scotland,SC0,179,true,true
-100000171,FA Cup,China,,171,false,false
-100000838,Super Cup,Jordan,,838,false,false
-100001194,Super Cup,Tunisia,,1194,false,false
-73,Eerste Divisie,Netherlands,NLD2,89,true,true
-100000396,Primera Division,Nicaragua,,396,false,false
-100000131,Primera B Metropolitana,Argentina,,131,false,false
-111,Premier League,Belarus,BLR,116,true,false
-100000722,Liga Premier Serie A,Mexico,,722,false,false
-100000402,Sudani Premier League,Sudan,,402,false,false
-48,Ligue 1,Algeria,DZA,186,true,true
-14,Primeira Liga,Portugal,P1,94,true,true
-100000585,Premier League,Uganda,,585,false,false
-100000519,Super Cup,Belgium,,519,false,false
-12,2. Bundesliga,Germany,D2,79,true,true
-50,Ligat HaAl,Israel,ISR,383,true,true
-100000247,Kakkonen - Lohko A,Finland,,247,false,false
-70,Challenger Pro League,Belgium,BEL2,145,true,true
-117,K League 2,South Korea,KOR2,293,true,false
-100000073,Copa Do Brasil,Brazil,,73,false,false
-100000291,Azadegan League,Iran,,291,false,false
-53,Primera Division,Chile,CHL,265,true,true
-100000506,2. liga,Slovakia,,506,false,false
-100000551,Super Cup,Turkey,,551,false,false
-100000549,Damallsvenskan,Sweden,,549,false,false
-100000245,Ykkönen,Finland,,245,false,false
-76,USL Championship,USA,USA2,255,true,true
-5,La Liga,Spain,SP1,140,true,true
-15,Jupiler Pro League,Belgium,B1,144,true,true
-33,Veikkausliiga,Finland,FIN,244,true,true
-54,Nike Liga,Slovakia,SVK,332,true,true
-122,FNL,Czech Republic,CZE2,346,true,false
-100000104,1. Division,Norway,,104,false,false
-100000727,Super Cup,Poland,,727,false,false
-59,Premier League,Azerbaijan,AZE,419,true,true
-16,Süper Lig,Turkey,T1,203,true,true
-30,Superliga,Denmark,DNK,119,true,true
-89,UEFA Champions League,World,CUP-UCL,2,true,true
-100000167,Cup,Iceland,,167,false,false
-100000501,Copa Paraguay,Paraguay,,501,false,false
-100000656,Super Cup,Bulgaria,,656,false,false
-57,Serie B,Brazil,BRA2,72,true,true
-100000300,Segunda División,Venezuela,,300,false,false
-100000495,Hazfi Cup,Iran,,495,false,false
-100000407,Championship,Northern-Ireland,,407,false,false
-100000907,Primera Division,Cuba,,907,false,false
-100000267,Copa Chile,Chile,,267,false,false
-100000375,Cup,Slovenia,,375,false,false
-49,Division Profesional,Paraguay,PRY,250,true,true
-4,League Two,England,E3,42,true,true
-51,Primera Division,Uruguay,URY,268,true,true
-144,Premier League,Armenia,ARM,342,true,false
-100001097,Copa Espírito Santo,Brazil,,1097,false,false
-100000896,Super Cup,United-Arab-Emirates,,896,false,false
-100000563,Ettan - Norra,Sweden,,563,false,false
-121,NB II,Hungary,HUN2,272,true,false
-115,Liga II,Romania,ROU2,284,true,false
-112,Challenge League,Switzerland,CHE2,208,true,false
-100000411,Elite One,Cameroon,,411,false,false
-143,FKF Premier League,Kenya,KEN,276,true,false
-69,Ligue 1,Tunisia,TUN,202,true,true
-7,Serie A,Italy,I1,135,true,true
-100000659,Super Cup,Israel,,659,false,false
-100000812,Super Cup,Belarus,,812,false,false
-74,Virsliga,Latvia,LVA,365,true,true
-116,Prva Liga,Serbia,SRB2,287,true,false
-63,Super Liga,Serbia,SRB,286,true,true
-90,UEFA Europa League,World,CUP-UEL,3,true,true
-100000719,Super Cup,Kuwait,,719,false,false
-108,2. Liga,Austria,AUT2,219,true,false
-28,Liga Profesional,Argentina,ARG,128,true,true
-64,Primera Division,Peru,PER,281,true,true
-125,Primera Nacional,Argentina,ARG2,129,true,false
-66,First Professional League,Bulgaria,BGR,172,true,true
-100000256,USL League Two,USA,,256,false,false
-25,Bundesliga,Austria,AUT,218,true,true
-87,Euro Championship - Qualification,World,INT-EUROQ,960,true,true
-72,Primera Division,Venezuela,VEN,299,true,true
-31,CSL,China,CHN,169,true,true
-41,Pro League,UAE,UAE,301,true,true
-120,1. Division,Denmark,DNK2,120,true,false
-100000831,Super Cup,Vietnam,,831,false,false
-100000343,First League,Armenia,,343,false,false
-94,FIFA Club World Cup,World,CUP-CWC,15,true,true
-100000499,Malaysia Cup,Malaysia,,499,false,false
-100000955,National League - National,New-Zealand,,955,false,false
-100000481,Northern NSW NPL,Australia,,481,false,false
-85,World Cup - Qualification South America,World,INT-WCQ-SA,34,true,true
-141,Premier League,Ghana,GHA,570,true,false
-24,Premier League,Russia,RUS,235,true,true
-100000393,Premier League,Malta,,393,false,false
-83,Asian Cup,World,INT-ASIA,7,true,true
-80,UEFA Nations League,World,INT-UNL,5,true,true
-68,Premier League,Bosnia,BIH,315,true,true
-123,Second League,Bulgaria,BGR2,173,true,false
-100000833,Queensland Premier League,Australia,,833,false,false
-100000548,Super Cup,Japan,,548,false,false
-100000422,Premier League,Barbados,,422,false,false
-21,J1 League,Japan,JPN,98,true,true
-100000102,Emperor Cup,Japan,,102,false,false
-100000277,Super League,Kenya,,277,false,false
-100000711,Segunda División,Chile,,711,false,false
-107,1. Lig,Turkey,TUR2,204,true,false
-100000629,Mineiro - 1,Brazil,,629,false,false
-58,Primera Division,Bolivia,BOL,344,true,true
-100,Coupe de France,France,CUP-FRA,66,true,true
-13,Eredivisie,Netherlands,N1,88,true,true
-100000282,Segunda División,Peru,,282,false,false
-118,J2 League,Japan,JPN2,99,true,false
-100000380,Premier League,Hong-Kong,,380,false,false
-100000555,Supercupa,Romania,,555,false,false
-100000330,Premier League,Kuwait,,330,false,false
-100000398,Premier League,Bangladesh,,398,false,false
-88,International Friendlies,World,INT-FR,10,true,true
-100000390,Premier League,Lebanon,,390,false,false
-109,First League,Russia,RUS2,236,true,false
-100000839,Super Cup,Lithuania,,839,false,false
-129,First Division,Ireland,IRL2,358,true,false
-19,Serie A,Brazil,BRA,71,true,true
-100000368,Premier League,Singapore,,368,false,false
-100000531,UEFA Super Cup,World,,531,false,false
-93,Copa Sudamericana,World,CUP-SUD,11,true,true
-100000391,Super League,Malawi,,391,false,false
-105,League Two,Scotland,SC3,184,true,false
-100000142,Primera División Femenina,Spain,,142,false,false
-61,Premier League,Ukraine,UKR,333,true,true
-47,NB I,Hungary,HUN,271,true,true
-100000802,Cup,Uzbekistan,,802,false,false
-100000756,Cup,Macedonia,,756,false,false
-100000639,Super Cup,Iceland,,639,false,false
-81,Copa America,World,INT-COPA,9,true,true
-135,Primera Division,El Salvador,SLV,370,true,false
-100000294,FA Cup,South-Korea,,294,false,false
-8,Serie B,Italy,I2,136,true,true
-39,Botola Pro,Morocco,MOR,200,true,true
-92,Copa Libertadores,World,CUP-LIB,13,true,true
-52,Primera Division,Costa Rica,CRI,162,true,true
-100000530,Super Cup,Georgia,,530,false,false
-100000852,Super Cup,Cyprus,,852,false,false
-29,Allsvenskan,Sweden,SWE,113,true,true
-133,Liga 1,Indonesia,IDN,274,true,false
-104,League One,Scotland,SC2,183,true,false
-100000166,2. Deild,Iceland,,166,false,false
-3,League One,England,E2,41,true,true
-132,Premier League,Kazakhstan,KAZ,389,true,false
-100001144,Super Cup,Ghana,,1144,false,false
-100000298,FA Cup,Thailand,,298,false,false
-60,PSL,South Africa,ZAF,288,true,true
-124,Super League 2,Greece,GRE2,494,true,false
-6,Segunda Division,Spain,SP2,141,true,true
-138,Superliga,Kosovo,XKX,664,true,false
-97,Copa del Rey,Spain,CUP-ESP,143,true,true
-100000500,FA Cup,Malaysia,,500,false,false
-62,A-League,Australia,AUS,188,true,true
-100000663,Super Cup,Russia,,663,false,false
-100000544,FA Cup,Hong-Kong,,544,false,false
-100000130,Copa Argentina,Argentina,,130,false,false
-100001050,Super Cup,Malta,,1050,false,false
-134,A Lyga,Lithuania,LTU,362,true,false
-37,Saudi Pro League,Saudi Arabia,SAU,307,true,true
-128,Liga de Ascenso,Costa Rica,CRI2,163,true,false
-100000527,Super Cup,Chile,,527,false,false
-100000758,Premier Division,Gibraltar,,758,false,false
-100000331,Division 1,Kuwait,,331,false,false
 71,Erovnuli Liga,Georgia,GEO,327,true,true
-67,Liga Nacional,Honduras,HND,234,true,true
-22,Liga MX,Mexico,MEX,262,true,true
-43,HNL,Croatia,HRV,210,true,true
-36,1. Liga,Czech Republic,CZE,345,true,true
-100000826,Super Cup,Saudi-Arabia,,826,false,false
-100000275,Liga 2,Indonesia,,275,false,false
-131,Meistriliiga,Estonia,EST,329,true,false
-91,UEFA Conference League,World,CUP-UECL,848,true,true
-100001193,Super Cup,Kenya,,1193,false,false
-26,Super League,Switzerland,SWZ,207,true,true
-100000966,Cup,Ghana,,966,false,false
-96,Carabao Cup,England,CUP-ENG-LC,48,true,true
-100000246,Suomen Cup,Finland,,246,false,false
-100000657,Cup,Estonia,,657,false,false
-100000075,Serie C,Brazil,,75,false,false
-100000243,Liga Pro Serie B,Ecuador,,243,false,false
-1,Premier League,England,E0,39,true,true
-42,Stars League,Qatar,QAT,305,true,true
-23,Eliteserien,Norway,NOR,103,true,true
-46,Primera A,Colombia,COL,239,true,true
-18,Championship,Scotland,SC1,180,true,true
-100001058,Supercopa Femenina,Spain,,1058,false,false
-95,FA Cup,England,CUP-ENG-FA,45,true,true
-100000507,Cup,South-Africa,,507,false,false
-100000417,Premier League,Bahrain,,417,false,false
-100000412,Premier League,Botswana,,412,false,false
-45,Liga Pro Serie A,Ecuador,ECU,242,true,true
-100000818,Super Cup,Kazakhstan,,818,false,false
-98,DFB Pokal,Germany,CUP-GER,81,true,true
-56,Persian Gulf Pro League,Iran,IRN,290,true,true
-79,UEFA Euro,World,INT-EURO,4,true,true
-99,Coppa Italia,Italy,CUP-ITA,137,true,true
-126,Primera B,Chile,CHL2,266,true,false
-100000165,1. Deild,Iceland,,165,false,false
-34,Premier Division,Ireland,IRL,357,true,true
-136,Liga Panamena,Panama,PAN,304,true,false
-100000660,WK-League,South-Korea,,660,false,false
-100000604,Catarinense - 1,Brazil,,604,false,false
-140,Premier League,Jamaica,JAM,322,true,false
-78,FIFA World Cup,World,INT-WC,1,true,true
-100000114,Superettan,Sweden,,114,false,false
-100000338,Primera Division,Guatemala,,338,false,false
-84,World Cup - Qualification Europe,World,INT-WCQ-EU,32,true,true
-103,National League,England,EC,43,true,false
-2,Championship,England,E1,40,true,true
-100000547,Super Cup,Italy,,547,false,false
-100000526,Trophée des Champions,France,,526,false,false
-100000504,King's Cup,Saudi-Arabia,,504,false,false
-100000668,1. Liga U19,Czech-Republic,,668,false,false
-82,Africa Cup of Nations,World,INT-AFCON,6,true,true
-44,1. Division,Cyprus,CYP,318,true,true
-100000837,Rock Cup,Gibraltar,,837,false,false
+100000256,USL League Two,USA,,256,false,false
+100000364,1. Liga,Latvia,,364,false,false
+100000102,Emperor Cup,Japan,,102,false,false
+124,Super League 2,Greece,GRE2,494,true,false
+51,Primera Division,Uruguay,URY,268,true,true
+66,First Professional League,Bulgaria,BGR,172,true,true
+100,Coupe de France,France,CUP-FRA,66,true,true
+100000393,Premier League,Malta,,393,false,false
+100000588,National League,Myanmar,,588,false,false
+135,Primera Division,El Salvador,SLV,370,true,false
+100000331,Division 1,Kuwait,,331,false,false
+118,J2 League,Japan,JPN2,99,true,false
+7,Serie A,Italy,I1,135,true,true
+87,Euro Championship - Qualification,World,INT-EUROQ,960,true,true
+100000247,Kakkonen - Lohko A,Finland,,247,false,false
 119,National 1,France,FRA3,63,true,false
-100000528,Community Shield,England,,528,false,false
-101,Taca de Portugal,Portugal,CUP-POR,96,true,true
-32,SuperLiga,Romania,ROU,283,true,true
-100000191,Brisbane Premier League,Australia,,191,false,false
-20,MLS,USA,USA,253,true,true
-142,NPFL,Nigeria,NGA,399,true,false
+100000585,Premier League,Uganda,,585,false,false
+3,League One,England,E2,41,true,true
+100000838,Super Cup,Jordan,,838,false,false
+100000298,FA Cup,Thailand,,298,false,false
+100000422,Premier League,Barbados,,422,false,false
+100000101,J-League Cup,Japan,,101,false,false
+100000818,Super Cup,Kazakhstan,,818,false,false
+100000114,Superettan,Sweden,,114,false,false
+34,Premier Division,Ireland,IRL,357,true,true
+50,Ligat HaAl,Israel,ISR,383,true,true
+48,Ligue 1,Algeria,DZA,186,true,true
+100000495,Hazfi Cup,Iran,,495,false,false
+69,Ligue 1,Tunisia,TUN,202,true,true
+8,Serie B,Italy,I2,136,true,true
+74,Virsliga,Latvia,LVA,365,true,true
+81,Copa America,World,INT-COPA,9,true,true
+100000527,Super Cup,Chile,,527,false,false
+95,FA Cup,England,CUP-ENG-FA,45,true,true
+100000639,Super Cup,Iceland,,639,false,false
+100000810,Super Copa,Argentina,,810,false,false
+100000660,WK-League,South-Korea,,660,false,false
+111,Premier League,Belarus,BLR,116,true,false
+30,Superliga,Denmark,DNK,119,true,true
 100000302,League Cup,United-Arab-Emirates,,302,false,false
-100000964,Copa de la División Profesional,Bolivia,,964,false,false
-11,Bundesliga,Germany,D1,78,true,true
+99,Coppa Italia,Italy,CUP-ITA,137,true,true
+121,NB II,Hungary,HUN2,272,true,false
+100000297,Thai League 2,Thailand,,297,false,false
+100000110,Premier League,Wales,,110,false,false
+138,Superliga,Kosovo,XKX,664,true,false
+132,Premier League,Kazakhstan,KAZ,389,true,false
+100000812,Super Cup,Belarus,,812,false,false
+100000166,2. Deild,Iceland,,166,false,false
+21,J1 League,Japan,JPN,98,true,true
+100000663,Super Cup,Russia,,663,false,false
+100000189,Capital Territory NPL,Australia,,189,false,false
+100000544,FA Cup,Hong-Kong,,544,false,false
+38,K League 1,South Korea,KOR,292,true,true
+49,Division Profesional,Paraguay,PRY,250,true,true
+83,Asian Cup,World,INT-ASIA,7,true,true
+115,Liga II,Romania,ROU2,284,true,false
+31,CSL,China,CHN,169,true,true
 130,Premiership,Northern Ireland,NIR,408,true,false
-9,Ligue 1,France,F1,61,true,true
+100000519,Super Cup,Belgium,,519,false,false
+92,Copa Libertadores,World,CUP-LIB,13,true,true
+60,PSL,South Africa,ZAF,288,true,true
+100000833,Queensland Premier League,Australia,,833,false,false
+100000531,UEFA Super Cup,World,,531,false,false
+123,Second League,Bulgaria,BGR2,173,true,false
+1,Premier League,England,E0,39,true,true
+100000131,Primera B Metropolitana,Argentina,,131,false,false
+59,Premier League,Azerbaijan,AZE,419,true,true
+100000852,Super Cup,Cyprus,,852,false,false
+100000507,Cup,South-Africa,,507,false,false
+116,Prva Liga,Serbia,SRB2,287,true,false
+89,UEFA Champions League,World,CUP-UCL,2,true,true
+100000719,Super Cup,Kuwait,,719,false,false
+90,UEFA Europa League,World,CUP-UEL,3,true,true
+94,FIFA Club World Cup,World,CUP-CWC,15,true,true
+96,Carabao Cup,England,CUP-ENG-LC,48,true,true
+44,1. Division,Cyprus,CYP,318,true,true
+19,Serie A,Brazil,BRA,71,true,true
+100000412,Premier League,Botswana,,412,false,false
+5,La Liga,Spain,SP1,140,true,true
+68,Premier League,Bosnia,BIH,315,true,true
+100000964,Copa de la División Profesional,Bolivia,,964,false,false
+143,FKF Premier League,Kenya,KEN,276,true,false

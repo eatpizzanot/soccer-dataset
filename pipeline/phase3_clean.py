@@ -231,6 +231,23 @@ def step_anomalies(con) -> None:
     con.execute("DELETE FROM cln_odds WHERE NOT (home_win > 1 AND draw > 1 AND away_win > 1)")
 
 
+# ------------------------------------------------------------------ 3f self-match drop
+def step_selfmatch(con) -> None:
+    _log("3f self-match: dropping fixtures where home_team_id = away_team_id (API merged-club artifact)...")
+    con.execute("DROP TABLE IF EXISTS audit_selfmatch")
+    con.execute("""
+    CREATE TABLE audit_selfmatch AS
+    SELECT id, api_football_id, date_utc, league_id, home_team_id AS team_id,
+           goals_home, goals_away, 'home_team_id=away_team_id (upstream entity over-merge)' AS reason
+    FROM cln_fixtures WHERE home_team_id = away_team_id
+    """)
+    n = con.execute("SELECT count(*) FROM audit_selfmatch").fetchone()[0]
+    for child in ["cln_match_stats", "cln_odds", "cln_fixture_lineups"]:
+        con.execute(f"DELETE FROM {child} WHERE fixture_id IN (SELECT id FROM audit_selfmatch)")
+    con.execute("DELETE FROM cln_fixtures WHERE id IN (SELECT id FROM audit_selfmatch)")
+    _log(f"  dropped {n} self-match fixtures + their child stat/odds/lineup rows")
+
+
 # ------------------------------------------------------------------ 3b entity dedup
 _NORM = "lower(trim(strip_accents(replace(replace({col},'.',''),'-',' '))))"
 
@@ -342,6 +359,7 @@ def main() -> None:
     step_temporal(con)
     step_xgfix(con)
     step_anomalies(con)
+    step_selfmatch(con)
     rep = verify_dedup(con)
     (c.QA_OUT_DIR / "phase3_dedup_report.json").write_text(json.dumps(rep, indent=2), encoding="utf-8")
     print("\n===== PHASE 3a DEDUP REPORT =====")

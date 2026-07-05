@@ -113,6 +113,8 @@ def dim4_integrity(con):
     for name, sql in checks.items():
         cnt = n(con, sql)
         add("4-integrity", f"no orphans {name}", cnt == 0, "blocking", f"{cnt} orphans")
+    selfmatch = n(con, "SELECT count(*) FROM fixtures WHERE home_team_id = away_team_id")
+    add("4-integrity", "no team plays itself (home<>away)", selfmatch == 0, "blocking", f"{selfmatch} self-matches")
 
 
 def dim5_uniqueness(con):

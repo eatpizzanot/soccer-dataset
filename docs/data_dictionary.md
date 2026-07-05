@@ -2,7 +2,7 @@
 
 _Regenerated from the curated data. One section per table._
 
-## `fixtures` (673,991 rows)
+## `fixtures` (673,966 rows)
 
 | Column | Type | Null % | Description |
 |---|---|---|---|
@@ -28,7 +28,7 @@ _Regenerated from the curated data. One section per table._
 | `calendar_year` | integer | 0.0% | Year of date_utc (used for xG coverage detection). |
 | `btts` | boolean | 4.3% | Both-teams-to-score label (goals_home>0 AND goals_away>0); null if not played. |
 
-## `match_stats` (283,835 rows)
+## `match_stats` (283,834 rows)
 
 | Column | Type | Null % | Description |
 |---|---|---|---|
@@ -49,8 +49,8 @@ _Regenerated from the curated data. One section per table._
 | `away_corners` | integer | 22.7% |  |
 | `home_yellow_cards` | integer | 20.9% |  |
 | `away_yellow_cards` | integer | 20.9% |  |
-| `home_red_cards` | integer | 22.8% |  |
-| `away_red_cards` | integer | 22.8% |  |
+| `home_red_cards` | integer | 22.7% |  |
+| `away_red_cards` | integer | 22.7% |  |
 | `home_xg` | number | 54.6% | Home expected goals. **Coarse provider estimate**: API-Football xG is a deterministic shots-by-zone formula (empirically xG ≈ 0.115·shots_inside_box + 0.035·shots_outside_box + 0.648·penalties, R²≈1.0), NOT a StatsBomb/Opta per-shot model. NULL where the league-season is not xG-covered (fake zeros removed) or the value was implausible (>6). |
 | `away_xg` | number | 54.6% | Away expected goals (see home_xg: coarse zone-based provider estimate). |
 | `home_possession` | integer | 61.6% | Home possession % (0-100). |
@@ -86,7 +86,7 @@ _Regenerated from the curated data. One section per table._
 | `in_pq` | boolean | 0.0% |  |
 | `known_at` | datetime | 0.0% | Odds known at/around kick-off (closing line). |
 
-## `fixture_lineups` (565,380 rows)
+## `fixture_lineups` (565,370 rows)
 
 | Column | Type | Null % | Description |
 |---|---|---|---|
@@ -141,7 +141,7 @@ _Regenerated from the curated data. One section per table._
 | `in_csv` | boolean | 0.0% |  |
 | `in_pq` | boolean | 0.0% |  |
 
-## `fixture_players` (9,960,895 rows)
+## `fixture_players` (9,960,535 rows)
 
 | Column | Type | Null % | Description |
 |---|---|---|---|

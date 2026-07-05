@@ -1,12 +1,12 @@
 # Data Quality Report
 
-_Generated 2026-07-05 00:55 UTC_
+_Generated 2026-07-05 01:20 UTC_
 
-**Gate: PASS** — 53/53 checks passed, 0 blocking failures, 0 warnings.
+**Gate: PASS** — 54/54 checks passed, 0 blocking failures, 0 warnings.
 
 ## Headline
 
-- Fixtures: **673,991** (644,926 played)
+- Fixtures: **673,966** (644,901 played)
 - Leagues: **271**, Teams: **11,104**
 - BTTS base rate: **0.5063**
 - Date range: 2008-06-07 16:00:00 .. 2027-06-06 15:00:00
@@ -60,6 +60,7 @@ How complete each in-dataset league's history is vs what API-Football offers (se
 | 4-integrity | no orphans fixture_players->fixtures | ✅ pass | blocking | 0 orphans |
 | 4-integrity | no orphans fixture_players->players | ✅ pass | blocking | 0 orphans |
 | 4-integrity | no orphans stats_flat->fixture_players | ✅ pass | blocking | 0 orphans |
+| 4-integrity | no team plays itself (home<>away) | ✅ pass | blocking | 0 self-matches |
 | 5-uniqueness | canonical fixture key unique (<=50 flagged ambiguous) | ✅ pass | blocking | 41 residual dup rows (multi-api ambiguous, flagged) |
 | 5-uniqueness | match_stats one row per fixture | ✅ pass | blocking |  |
 | 6-entity-dedup | no duplicate api_football_id in teams | ✅ pass | blocking | 0 dup groups |

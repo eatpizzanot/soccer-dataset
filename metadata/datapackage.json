@@ -19,14 +19,14 @@
       "path": "https://www.football-data.co.uk/"
     }
   ],
-  "created": "2026-07-05T00:55:21.660046+00:00",
+  "created": "2026-07-05T01:20:49.832680+00:00",
   "resources": [
     {
       "name": "fixtures",
       "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixtures.parquet",
       "format": "parquet",
       "mediatype": "application/parquet",
-      "rows": 673991,
+      "rows": 673966,
       "sample": "samples/fixtures.csv",
       "schema": {
         "fields": [
@@ -143,7 +143,7 @@
       "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/match_stats.parquet",
       "format": "parquet",
       "mediatype": "application/parquet",
-      "rows": 283835,
+      "rows": 283834,
       "sample": "samples/match_stats.csv",
       "schema": {
         "fields": [
@@ -407,7 +407,7 @@
       "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixture_lineups.parquet",
       "format": "parquet",
       "mediatype": "application/parquet",
-      "rows": 565380,
+      "rows": 565370,
       "sample": "samples/fixture_lineups.csv",
       "schema": {
         "fields": [
@@ -630,7 +630,7 @@
       "path": "https://huggingface.co/datasets/eatpizzanot/soccer-dataset/resolve/main/fixture_players.parquet",
       "format": "parquet",
       "mediatype": "application/parquet",
-      "rows": 9960895,
+      "rows": 9960535,
       "sample": "samples/fixture_players.csv",
       "schema": {
         "fields": [

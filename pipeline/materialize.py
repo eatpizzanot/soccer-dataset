@@ -40,17 +40,21 @@ def main() -> None:
         con.execute(f"COPY ({sql}) TO '{out}' (FORMAT PARQUET)")
         n = con.execute(f"SELECT count(*) FROM ({sql})").fetchone()[0]
         print(f"  wrote {name:<18} {n:>10,} rows")
-    # fixture_players: clean implausible minutes/rating anomalies at export
+    # fixture_players: clean implausible minutes/rating anomalies + drop self-match fixtures at export
     src_fp = (c.PARQUET_DIR / "fixture_players.parquet").as_posix()
     out_fp = (c.CURATED_DIR / "fixture_players.parquet").as_posix()
     con.execute(f"""
       COPY (SELECT * REPLACE(
         CASE WHEN minutes BETWEEN 0 AND 130 THEN minutes ELSE NULL END AS minutes,
         CASE WHEN rating BETWEEN 0 AND 10 THEN rating ELSE NULL END AS rating)
-      FROM read_parquet('{src_fp}')) TO '{out_fp}' (FORMAT PARQUET)""")
-    print("  wrote fixture_players    (minutes/rating anomalies cleaned)")
-    shutil.copy(c.PARQUET_DIR / "fixture_players_stats_flat.parquet", c.CURATED_DIR / "fixture_players_stats_flat.parquet")
-    print("  copied fixture_players_stats_flat (unchanged from source)")
+      FROM read_parquet('{src_fp}')
+      WHERE fixture_id NOT IN (SELECT id FROM audit_selfmatch)) TO '{out_fp}' (FORMAT PARQUET)""")
+    print("  wrote fixture_players    (minutes/rating cleaned; self-match fixtures excluded)")
+    src_fps = (c.PARQUET_DIR / "fixture_players_stats_flat.parquet").as_posix()
+    out_fps = (c.CURATED_DIR / "fixture_players_stats_flat.parquet").as_posix()
+    con.execute(f"""COPY (SELECT * FROM read_parquet('{src_fps}')
+      WHERE fixture_id NOT IN (SELECT id FROM audit_selfmatch)) TO '{out_fps}' (FORMAT PARQUET)""")
+    print("  wrote fixture_players_stats_flat (self-match fixtures excluded)")
     con.close()
     print(f"curated -> {c.CURATED_DIR}")
 
