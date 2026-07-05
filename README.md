@@ -40,15 +40,18 @@ Both-Teams-To-Score (BTTS) and goals modelling.** Sourced from
 - **Deduplicated** cross-source duplicate matches on a canonical key (league, UTC day, home, away).
 - **xG fake-zero fix**: xG stored as `0` for leagues API-Football does not cover for xG has been
   set to `NULL` (detected per league-season). Never treat missing xG as `0`.
+- **Entity integrity**: cross-source duplicate matches merged; 25 upstream "team-plays-itself"
+  fixtures (from a provider club-merger over-merge) dropped with an audit trail.
 - **Leakage guard**: post-match facts carry a `known_at` timestamp.
-- **12-dimension QA gate** (`QUALITY_REPORT.md`) must pass before publishing.
+- **12-dimension QA gate** (`QUALITY_REPORT.md`, 50+ blocking checks) must pass before publishing.
 
 ## Tables
 
 See [`docs/data_dictionary.md`](docs/data_dictionary.md) for every column. Core tables:
 `fixtures`, `match_stats`, `odds`, `fixture_lineups`, `teams`, `players`, `leagues`,
-`fixture_players`, `fixture_players_stats_flat`, plus a `league_catalogue`
-(dataset x API-Football x Cloudbet coverage).
+`fixture_players`, `fixture_players_stats_flat`, a `league_catalogue`
+(dataset x API-Football x Cloudbet coverage, incl. per-league `history_status`), and
+`xg_training` (team-match shot-aggregate → real-xG subset for lite-xG modelling).
 
 ## Quick start
 
